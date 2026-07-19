@@ -1,13 +1,13 @@
 {
   "rank": 312,
-  "chinese": "儿子",
-  "characters": "儿子",
-  "pinyin": "érzi",
-  "english": "son",
-  "pronunciation": "ar-dzuh (2nd tone, neutral)",
-  "partOfSpeech": "noun",
-  "exampleZh": "他们的儿子五岁了。",
-  "exampleEn": "Their son is five years old.",
+  "chinese": "强",
+  "characters": "强",
+  "pinyin": "qiáng",
+  "english": "powerful",
+  "pronunciation": "qiang",
+  "partOfSpeech": "adjective",
+  "exampleZh": "这个地方非常强大。",
+  "exampleEn": "This place is very powerful.",
   "group": "everyday-250",
-  "topic": "family"
+  "topic": "descriptions"
 }

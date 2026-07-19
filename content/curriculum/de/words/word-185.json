@@ -1,13 +1,11 @@
 {
   "rank": 185,
-  "german": "Land",
-  "english": "country, land",
-  "pronunciation": "LAHNT",
-  "partOfSpeech": "noun",
-  "gender": "neuter",
-  "article": "das",
-  "exampleDe": "Deutschland ist ein schönes Land.",
-  "exampleEn": "Germany is a beautiful country.",
+  "german": "keiner",
+  "english": "none",
+  "pronunciation": "k a ɪ n ɐ",
+  "partOfSpeech": "adjective",
+  "exampleDe": "Das ist sehr keiner.",
+  "exampleEn": "That is very none.",
   "group": "everyday-250",
-  "topic": "places"
+  "topic": "descriptions"
 }

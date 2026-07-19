@@ -1,11 +1,11 @@
 {
   "rank": 602,
-  "german": "trotzdem",
-  "english": "nevertheless, despite that",
-  "pronunciation": "TROTS-daym",
-  "partOfSpeech": "adverb",
-  "exampleDe": "Es regnet, trotzdem gehen wir spazieren.",
-  "exampleEn": "It is raining, nevertheless we go for a walk.",
+  "german": "name",
+  "english": "name",
+  "pronunciation": "n a m ə",
+  "partOfSpeech": "adjective",
+  "exampleDe": "Das ist sehr name.",
+  "exampleEn": "That is very name.",
   "group": "confident-350",
-  "topic": "basics"
+  "topic": "descriptions"
 }

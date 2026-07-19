@@ -1,0 +1,90 @@
+{
+  "slug": "numbers-and-time",
+  "title": "Numbers & Time",
+  "titleNative": "Números e horas",
+  "shortSummary": "Count, tell the time, and handle dates and prices, the numbers you need every day.",
+  "level": "beginner",
+  "order": 3,
+  "icon": "🔢",
+  "color": "#0f7a6f",
+  "culturalNote": "Brazil uses the 24-hour clock for timetables and official schedules, but in everyday speech people say the 12-hour version with da manhã (in the morning), da tarde (in the afternoon), or da noite (at night). To tell the time you say são plus the hour, except one o'clock, which uses é uma hora. Prices use a comma for decimals, so R$ 3,50 is read três reais e cinquenta. The currency is the real (plural reais), and dates are written day-first, so 5/11 is the fifth of November.",
+  "keyPhrases": [
+    { "native": "um, dois, três", "english": "one, two, three", "pronunciation": "oon, doysh, tres", "context": "Counting basics" },
+    { "native": "dez, vinte, cem", "english": "ten, twenty, one hundred", "pronunciation": "dehs, VEEN-tee, sayn", "context": "Round numbers" },
+    { "native": "Que horas são?", "english": "What time is it?", "pronunciation": "kee OH-rahs sown", "context": "Asking the time" },
+    { "native": "São três horas", "english": "It's three o'clock", "pronunciation": "sown tres OH-rahs", "context": "Telling the time" },
+    { "native": "É uma hora", "english": "It's one o'clock", "pronunciation": "eh OO-mah OH-rah", "context": "Singular hour uses é" },
+    { "native": "três e meia", "english": "half past three", "pronunciation": "tres ee MAY-ah", "context": "Half hours" },
+    { "native": "A que horas?", "english": "At what time?", "pronunciation": "ah kee OH-rahs", "context": "Asking when" },
+    { "native": "Quanto custa?", "english": "How much is it?", "pronunciation": "KWAN-too KOOS-tah", "context": "Asking a price" },
+    { "native": "São oito da manhã", "english": "It's eight in the morning", "pronunciation": "sown OY-too dah mah-NYAN", "context": "Adding part of day" },
+    { "native": "meio-dia", "english": "midday", "pronunciation": "MAY-oo JEE-ah", "context": "Noon" }
+  ],
+  "grammar": [
+    {
+      "rule": "São vs é for the hour",
+      "explanation": "Telling the time uses são plus the hour for most times, because the hours are plural. One o'clock is singular, so it takes é: é uma hora. Midday and midnight also use é: é meio-dia.",
+      "examples": [
+        { "native": "São sete horas.", "en": "It's seven o'clock." },
+        { "native": "É uma e quinze.", "en": "It's a quarter past one." }
+      ],
+      "commonMistake": "Saying são uma hora for one o'clock. The singular hour needs é."
+    },
+    {
+      "rule": "Minutes with e and para",
+      "explanation": "Add minutes with e (and): três e dez (ten past three). For times near the next hour, use para (to): dez para as quatro (ten to four).",
+      "examples": [
+        { "native": "São nove e vinte.", "en": "It's twenty past nine." },
+        { "native": "São cinco para as dez.", "en": "It's five to ten." }
+      ],
+      "commonMistake": "Forgetting para for 'to' the hour and only saying the minutes the long way."
+    }
+  ],
+  "dialogue": {
+    "setup": "Pedro asks at the bus station about the next bus.",
+    "lines": [
+      { "speaker": "Pedro", "native": "Com licença, que horas são?", "english": "Excuse me, what time is it?" },
+      { "speaker": "Atendente", "native": "São dez e meia.", "english": "It's half past ten." },
+      { "speaker": "Pedro", "native": "A que horas sai o próximo ônibus?", "english": "What time does the next bus leave?" },
+      { "speaker": "Atendente", "native": "Às onze e quinze.", "english": "At a quarter past eleven." },
+      { "speaker": "Pedro", "native": "Quanto custa a passagem?", "english": "How much is the ticket?" },
+      { "speaker": "Atendente", "native": "Doze reais e cinquenta.", "english": "Twelve reais fifty." },
+      { "speaker": "Pedro", "native": "Perfeito, muito obrigado!", "english": "Perfect, thank you very much!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you ask 'What time is it?' in Portuguese?",
+      "correctAnswer": "Que horas são?",
+      "explanation": "Que horas são? is the standard way to ask the time."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which is correct for one o'clock?",
+      "options": ["São uma hora", "É uma hora", "São umas horas", "É uma horas"],
+      "correctAnswer": "É uma hora",
+      "explanation": "The singular hour uses é, not são."
+    },
+    {
+      "type": "fill-blank",
+      "question": "_____ três horas. (it is, plural)",
+      "correctAnswer": "São",
+      "explanation": "Plural hours take são."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does meio-dia mean?",
+      "options": ["midnight", "midday", "morning", "evening"],
+      "correctAnswer": "midday",
+      "explanation": "Meio-dia is noon; meia-noite is midnight."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: custa / quanto",
+      "correctAnswer": "Quanto custa",
+      "explanation": "Quanto custa? means 'How much is it?'"
+    }
+  ],
+  "status": "complete"
+}

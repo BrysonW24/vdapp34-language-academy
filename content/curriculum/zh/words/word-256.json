@@ -1,12 +1,13 @@
 {
   "rank": 256,
-  "chinese": "快",
-  "characters": "快",
-  "pinyin": "kuài",
-  "english": "fast/quick",
+  "chinese": "稳定",
+  "characters": "稳定",
+  "pinyin": "wěn dìng",
+  "english": "Stablize",
+  "pronunciation": "wen-ding",
   "partOfSpeech": "adjective",
-  "exampleZh": "他走路很快。",
-  "exampleEn": "He walks very fast.",
+  "exampleZh": "这个地方非常稳定。",
+  "exampleEn": "This place is very Stablize.",
   "group": "everyday-250",
   "topic": "descriptions"
 }

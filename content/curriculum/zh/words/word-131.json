@@ -1,13 +1,13 @@
 {
   "rank": 131,
-  "chinese": "真",
-  "characters": "真",
-  "pinyin": "zhēn",
-  "english": "really; truly",
-  "pronunciation": "jun (1st tone, high flat)",
-  "partOfSpeech": "adverb",
-  "exampleZh": "今天真热。",
-  "exampleEn": "It is really hot today.",
+  "chinese": "名字",
+  "characters": "名字",
+  "pinyin": "míng zì",
+  "english": "name",
+  "pronunciation": "ming-zi",
+  "partOfSpeech": "noun",
+  "exampleZh": "这个名字很重要。",
+  "exampleEn": "This name is important.",
   "group": "core-100",
-  "topic": "descriptions"
+  "topic": "basics"
 }

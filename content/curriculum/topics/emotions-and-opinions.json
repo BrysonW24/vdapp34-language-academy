@@ -1,0 +1,103 @@
+{
+  "slug": "emotions-and-opinions",
+  "title": "Emotions & Opinions",
+  "titleEs": "Emociones y Opiniones",
+  "shortSummary": "Express how you feel, give your opinion, agree and disagree. Move beyond basic conversation to meaningful expression.",
+  "level": "pre-intermediate",
+  "order": 15,
+  "icon": "💬",
+  "color": "#be185d",
+  "culturalNote": "Spanish speakers tend to be more expressive with emotions than English speakers — both verbally and physically. Gestures, facial expressions, and tone play a huge role. Disagreement is often expressed directly but without malice — heated discussion ('debate') is seen as healthy engagement, not conflict. The phrase 'no pasa nada' (it's nothing / don't worry about it) reflects a cultural tendency toward emotional generosity.",
+  "keyPhrases": [
+    { "spanish": "Estoy contento/contenta", "english": "I'm happy", "pronunciation": "ehs-TOY kohn-TEHN-toh/kohn-TEHN-tah", "context": "Estar for temporary emotional states" },
+    { "spanish": "Me siento triste", "english": "I feel sad", "pronunciation": "meh see-EHN-toh TREES-teh", "context": "Sentirse = reflexive verb for feelings" },
+    { "spanish": "Creo que es una buena idea", "english": "I think it's a good idea", "pronunciation": "KREH-oh keh ehs OO-nah BWEH-nah ee-DEH-ah", "context": "Expressing an opinion with 'creer que'" },
+    { "spanish": "Estoy de acuerdo", "english": "I agree", "pronunciation": "ehs-TOY deh ah-KWEHR-doh", "context": "The standard way to express agreement" },
+    { "spanish": "No estoy de acuerdo", "english": "I disagree", "pronunciation": "noh ehs-TOY deh ah-KWEHR-doh", "context": "Polite disagreement" },
+    { "spanish": "Me parece interesante", "english": "It seems interesting to me", "pronunciation": "meh pah-REH-seh een-teh-reh-SAHN-teh", "context": "Parecer — another gustar-type verb for opinions" },
+    { "spanish": "Estoy preocupado/preocupada por...", "english": "I'm worried about...", "pronunciation": "ehs-TOY preh-oh-koo-PAH-doh/dah pohr", "context": "Expressing concern" },
+    { "spanish": "¡Qué emocionante!", "english": "How exciting!", "pronunciation": "keh eh-moh-see-oh-NAHN-teh", "context": "Exclamations with ¡Qué + adjective!" },
+    { "spanish": "En mi opinión, es mejor...", "english": "In my opinion, it's better to...", "pronunciation": "ehn mee oh-pee-nee-OHN ehs meh-HOHR", "context": "Prefacing a personal viewpoint" },
+    { "spanish": "No me importa", "english": "I don't mind / I don't care", "pronunciation": "noh meh eem-POHR-tah", "context": "Expressing indifference — gustar-type construction" }
+  ],
+  "grammar": [
+    {
+      "rule": "Estar for emotions (temporary states)",
+      "explanation": "Use 'estar' (not 'ser') for emotions because they are temporary states: estoy feliz, estoy triste, estoy nervioso. 'Ser' + emotion would imply a permanent personality trait, not a current feeling.",
+      "examples": [
+        { "es": "Estoy nervioso por el examen", "en": "I'm nervous about the exam" },
+        { "es": "Está enfadada conmigo", "en": "She's angry with me" },
+        { "es": "Estamos muy emocionados", "en": "We're very excited" }
+      ],
+      "commonMistake": "Using 'soy triste' (I am a sad person) when you mean 'estoy triste' (I feel sad right now)."
+    },
+    {
+      "rule": "Creer que / Pensar que + indicative for opinions",
+      "explanation": "Use 'creo que' (I believe that) or 'pienso que' (I think that) + indicative to state opinions. In the negative ('no creo que'), the subjunctive is technically required, but at this level the indicative is acceptable.",
+      "examples": [
+        { "es": "Creo que tiene razón", "en": "I think he's right" },
+        { "es": "Pienso que es importante", "en": "I think it's important" },
+        { "es": "No creo que sea buena idea", "en": "I don't think it's a good idea" }
+      ],
+      "commonMistake": "Forgetting 'que': saying 'creo es bueno' instead of 'creo que es bueno'."
+    },
+    {
+      "rule": "Exclamations with ¡Qué...!",
+      "explanation": "Use '¡Qué + adjective!' for exclamations: ¡Qué bonito! (How beautiful!), ¡Qué triste! (How sad!). For nouns, use '¡Qué + noun + tan/más + adjective!': ¡Qué día tan largo! (What a long day!).",
+      "examples": [
+        { "es": "¡Qué divertido!", "en": "How fun!" },
+        { "es": "¡Qué película tan buena!", "en": "What a great film!" },
+        { "es": "¡Qué sorpresa!", "en": "What a surprise!" }
+      ],
+      "commonMistake": "Translating 'what a...' literally: '¡Qué un día!' is incorrect — drop the article: '¡Qué día!'"
+    }
+  ],
+  "dialogue": {
+    "setup": "Friends Laura and Diego discuss a film they just watched at the cinema.",
+    "lines": [
+      { "speaker": "Laura", "spanish": "¿Qué te ha parecido la película?", "english": "What did you think of the film?" },
+      { "speaker": "Diego", "spanish": "Me ha encantado. ¡Qué historia tan emocionante!", "english": "I loved it. What an exciting story!" },
+      { "speaker": "Laura", "spanish": "Pues yo no estoy de acuerdo. Me ha parecido aburrida.", "english": "Well, I disagree. I found it boring." },
+      { "speaker": "Diego", "spanish": "¿En serio? Creo que los actores son muy buenos.", "english": "Really? I think the actors are very good." },
+      { "speaker": "Laura", "spanish": "Sí, los actores sí, pero la historia es predecible.", "english": "Yes, the actors are, but the story is predictable." },
+      { "speaker": "Diego", "spanish": "Bueno, en mi opinión, es la mejor película del año.", "english": "Well, in my opinion, it's the best film of the year." },
+      { "speaker": "Laura", "spanish": "No sé. Me siento un poco decepcionada, la verdad.", "english": "I don't know. I feel a bit disappointed, to be honest." },
+      { "speaker": "Diego", "spanish": "No pasa nada. ¡La próxima vez eliges tú!", "english": "No worries. Next time you choose!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'I'm happy' (right now) in Spanish?",
+      "correctAnswer": "Estoy contento",
+      "explanation": "Use 'estar' for current emotional states. 'Contento/contenta' changes with gender."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "How do you say 'I agree'?",
+      "options": ["Soy de acuerdo", "Estoy de acuerdo", "Tengo de acuerdo", "Hago de acuerdo"],
+      "correctAnswer": "Estoy de acuerdo",
+      "explanation": "'Estar de acuerdo' is the fixed expression for agreeing."
+    },
+    {
+      "type": "fill-blank",
+      "question": "_____ que es una buena idea. (I think it's a good idea)",
+      "correctAnswer": "Creo",
+      "explanation": "'Creer que' (to believe that) is used for expressing opinions."
+    },
+    {
+      "type": "translate",
+      "question": "How do you say 'How exciting!' in Spanish?",
+      "correctAnswer": "¡Qué emocionante!",
+      "explanation": "Exclamations use ¡Qué + adjective! — no article needed."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "'Soy triste' vs 'Estoy triste' — which is correct for 'I feel sad right now'?",
+      "options": ["Soy triste", "Estoy triste", "Tengo triste", "Hago triste"],
+      "correctAnswer": "Estoy triste",
+      "explanation": "'Estar' for temporary emotions. 'Soy triste' would mean 'I am a sad person' as a character trait."
+    }
+  ],
+  "status": "complete"
+}

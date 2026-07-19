@@ -1,0 +1,90 @@
+{
+  "slug": "daily-routines",
+  "title": "Daily Routines",
+  "titleNative": "A rotina diária",
+  "shortSummary": "Describe your day from morning to night using common reflexive and daily verbs.",
+  "level": "beginner",
+  "order": 7,
+  "icon": "⏰",
+  "color": "#0f5f8a",
+  "culturalNote": "The Brazilian day starts with a light café da manhã (breakfast), often bread, fruit, and coffee. Lunch (o almoço) is traditionally the main meal, while dinner (o jantar) can be lighter. Many daily-routine actions use reflexive verbs in Portuguese: you 'wake yourself' and 'get yourself up'. Brazilians value sociability, so coffee breaks (o cafezinho) and a chat are part of the working rhythm. The verb costumar (to usually do) is handy for describing habits: eu costumo acordar cedo (I usually wake up early).",
+  "keyPhrases": [
+    { "native": "Eu acordo às sete", "english": "I wake up at seven", "pronunciation": "EH-oo ah-KOR-doo ahs SEH-tee", "context": "Start of the day" },
+    { "native": "Eu me levanto", "english": "I get up", "pronunciation": "EH-oo mee leh-VAN-too", "context": "Getting out of bed" },
+    { "native": "Tomo café da manhã", "english": "I have breakfast", "pronunciation": "TOH-moo kah-FEH dah mah-NYAN", "context": "Morning meal" },
+    { "native": "Vou para o trabalho", "english": "I go to work", "pronunciation": "voh PAH-rah oo trah-BAH-lyoo", "context": "Commuting" },
+    { "native": "Almoço ao meio-dia", "english": "I have lunch at noon", "pronunciation": "ow-MOH-soo ow MAY-oo JEE-ah", "context": "Midday" },
+    { "native": "Volto para casa", "english": "I come home", "pronunciation": "VOL-too PAH-rah KAH-zah", "context": "End of work" },
+    { "native": "Janto às oito", "english": "I have dinner at eight", "pronunciation": "ZHAN-too ahs OY-too", "context": "Evening meal" },
+    { "native": "Assisto televisão", "english": "I watch TV", "pronunciation": "ah-SEES-too teh-leh-vee-ZOWN", "context": "Relaxing" },
+    { "native": "Escovo os dentes", "english": "I brush my teeth", "pronunciation": "es-KOH-voo oos DEN-tees", "context": "Before bed" },
+    { "native": "Vou dormir", "english": "I go to sleep", "pronunciation": "voh dor-MEER", "context": "End of day" }
+  ],
+  "grammar": [
+    {
+      "rule": "Reflexive verbs for daily actions",
+      "explanation": "Some routine verbs are reflexive in Portuguese and take a pronoun: levantar-se (to get up), sentir-se (to feel). In Brazil the pronoun comes before the verb: eu me levanto, ele se levanta.",
+      "examples": [
+        { "native": "Eu me levanto cedo.", "en": "I get up early." },
+        { "native": "Ela se sente bem.", "en": "She feels well." }
+      ],
+      "commonMistake": "Forgetting the pronoun, or placing it after the verb in Brazilian usage."
+    },
+    {
+      "rule": "Telling when with a + time",
+      "explanation": "To say at what time something happens, use à or às plus the hour: às sete (at seven), ao meio-dia (at midday). Às is for plural hours, à for one o'clock.",
+      "examples": [
+        { "native": "Trabalho às nove.", "en": "I work at nine." },
+        { "native": "Almoço à uma.", "en": "I have lunch at one." }
+      ],
+      "commonMistake": "Forgetting the crase accent on às when stating a time."
+    }
+  ],
+  "dialogue": {
+    "setup": "Bruno tells his friend Marina about his weekday.",
+    "lines": [
+      { "speaker": "Marina", "native": "A que horas você acorda?", "english": "What time do you wake up?" },
+      { "speaker": "Bruno", "native": "Eu acordo às seis e meia.", "english": "I wake up at half past six." },
+      { "speaker": "Marina", "native": "Cedo! E depois?", "english": "Early! And then?" },
+      { "speaker": "Bruno", "native": "Tomo café e vou para o trabalho.", "english": "I have breakfast and go to work." },
+      { "speaker": "Marina", "native": "A que horas você volta?", "english": "What time do you come home?" },
+      { "speaker": "Bruno", "native": "Por volta das seis, e janto às oito.", "english": "Around six, and I have dinner at eight." },
+      { "speaker": "Marina", "native": "Que dia cheio!", "english": "What a full day!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'I wake up at seven' in Portuguese?",
+      "correctAnswer": "Eu acordo às sete",
+      "explanation": "Acordar means to wake up; às sete is 'at seven'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Why does 'eu me levanto' include 'me'?",
+      "options": ["It's a typo", "Levantar-se is reflexive", "It means 'my'", "It's plural"],
+      "correctAnswer": "Levantar-se is reflexive",
+      "explanation": "Reflexive verbs need a matching pronoun like me."
+    },
+    {
+      "type": "fill-blank",
+      "question": "Trabalho _____ nove. (at, plural hours)",
+      "correctAnswer": "às",
+      "explanation": "Às is used before plural hours."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does tomo café da manhã mean?",
+      "options": ["I go to work", "I have breakfast", "I go to sleep", "I cook dinner"],
+      "correctAnswer": "I have breakfast",
+      "explanation": "Tomar café da manhã means to have breakfast."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: dormir / vou",
+      "correctAnswer": "Vou dormir",
+      "explanation": "Vou dormir means 'I go to sleep'."
+    }
+  ],
+  "status": "complete"
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "past-tense",
+  "name": "Past Tense (았/었)",
+  "nameNative": "과거 시제 (았어요/었어요)",
+  "summary": "Talk about finished actions by inserting 았/었 before the polite ending.",
+  "level": "elementary",
+  "order": 7,
+  "explanation": "To put a verb in the past, take the same stem you use for the present tense and insert 았 or 었 before 어요. The vowel rule mirrors the present: bright vowels (아/오) take 았어요, and all others take 었어요. So 가다 becomes 갔어요 (gasseoyo, went) and 먹다 becomes 먹었어요 (meogeosseoyo, ate).\n\nThe same contractions apply. 가 + 았어요 contracts to 갔어요, and 오다 becomes 왔어요 (wasseoyo, came). Verbs ending in 하다 become 했어요: 공부하다 becomes 공부했어요 (gongbuhaesseoyo, studied).\n\nThe past tense block 았/었 sits inside the verb, before the politeness ending, which means you can keep the polite 요 you already know. To make a past 이다 sentence, use 이었어요/였어요: 학생이었어요 (was a student), 의사였어요 (was a doctor).",
+  "pattern": "stem + 았어요 (bright vowel) / 었어요 (other) / 했어요 (하다 verbs)",
+  "conjugation": {
+    "가다 (to go)": "갔어요",
+    "먹다 (to eat)": "먹었어요",
+    "마시다 (to drink)": "마셨어요",
+    "오다 (to come)": "왔어요",
+    "공부하다 (to study)": "공부했어요",
+    "보다 (to see)": "봤어요"
+  },
+  "examples": [
+    { "native": "어제 학교에 갔어요. (eoje hakgyoe gasseoyo.)", "en": "I went to school yesterday." },
+    { "native": "아침을 먹었어요. (achimeul meogeosseoyo.)", "en": "I ate breakfast." },
+    { "native": "친구를 만났어요. (chingureul mannasseoyo.)", "en": "I met a friend." },
+    { "native": "영화를 봤어요. (yeonghwareul bwasseoyo.)", "en": "I watched a movie." },
+    { "native": "한국어를 공부했어요. (hangugeoreul gongbuhaesseoyo.)", "en": "I studied Korean." },
+    { "native": "그분은 선생님이었어요. (geubuneun seonsaengnimieosseoyo.)", "en": "That person was a teacher." }
+  ],
+  "commonMistakes": [
+    "Using 었어요 after a bright-vowel stem. 가다 becomes 갔어요, not 가었어요.",
+    "Forgetting to contract. 가 + 았어요 is 갔어요 and 보 + 았어요 is 봤어요, never 가았어요.",
+    "Adding 했어요 to non-하다 verbs. Only 하다 verbs take 했어요; 먹다 takes 먹었어요.",
+    "Marking the past on the wrong word. In a multi-clause sentence, the tense goes on the final verb.",
+    "Using 이었어요 after a vowel-ending noun. After a vowel use 였어요: 의사였어요, not 의사이었어요."
+  ],
+  "tip": "Past tense is just present tense with 았/었 slotted in. Learn 갔어요, 먹었어요, 했어요 and the pattern clicks."
+}

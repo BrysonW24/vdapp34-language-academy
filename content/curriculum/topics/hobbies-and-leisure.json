@@ -1,0 +1,103 @@
+{
+  "slug": "hobbies-and-leisure",
+  "title": "Hobbies & Leisure",
+  "titleEs": "Pasatiempos y Ocio",
+  "shortSummary": "Talk about what you enjoy doing in your free time — sports, entertainment, music, and social activities.",
+  "level": "elementary",
+  "order": 13,
+  "icon": "🎨",
+  "color": "#059669",
+  "culturalNote": "Football (fútbol) is by far the most popular sport in all Spanish-speaking countries — it's not just a sport but a cultural identity. Going to the cinema is affordable and popular, with many films shown in their original language with Spanish subtitles (versión original subtitulada, V.O.S.). Socialising centres around food and drink — the 'tertulia' (informal intellectual gathering at a cafe) has a long tradition in Spanish culture.",
+  "keyPhrases": [
+    { "spanish": "Me gusta jugar al fútbol", "english": "I like playing football", "pronunciation": "meh GOOS-tah hoo-GAHR ahl FOOT-bohl", "context": "'Gustar' + infinitive for activities you enjoy" },
+    { "spanish": "En mi tiempo libre leo libros", "english": "In my free time I read books", "pronunciation": "ehn mee tee-EHM-poh LEE-breh LEH-oh LEE-brohs", "context": "Describing free-time activities" },
+    { "spanish": "¿Quieres ir al cine esta noche?", "english": "Do you want to go to the cinema tonight?", "pronunciation": "kee-EH-rehs eer ahl SEE-neh EHS-tah NOH-cheh", "context": "Making plans with friends" },
+    { "spanish": "Toco la guitarra desde niño", "english": "I've played guitar since I was a child", "pronunciation": "TOH-koh lah gee-TAH-rrah DEHS-deh NEE-nyoh", "context": "Tocar = to play an instrument" },
+    { "spanish": "No me gusta nada el fútbol", "english": "I don't like football at all", "pronunciation": "noh meh GOOS-tah NAH-dah ehl FOOT-bohl", "context": "Emphatic dislike — 'nada' reinforces the negative" },
+    { "spanish": "Los fines de semana salgo con amigos", "english": "On weekends I go out with friends", "pronunciation": "lohs FEE-nehs deh seh-MAH-nah SAHL-goh kohn ah-MEE-gohs", "context": "Salir = to go out (irregular: yo salgo)" },
+    { "spanish": "Me encanta cocinar", "english": "I love cooking", "pronunciation": "meh ehn-KAHN-tah koh-see-NAHR", "context": "'Encantar' = stronger than 'gustar' — to love/adore" },
+    { "spanish": "Prefiero quedarme en casa", "english": "I prefer to stay at home", "pronunciation": "preh-fee-EH-roh keh-DAR-meh ehn KAH-sah", "context": "Preferir = stem-changing verb (e→ie)" },
+    { "spanish": "Vamos a dar un paseo", "english": "Let's go for a walk", "pronunciation": "BAH-mohs ah dahr oon pah-SEH-oh", "context": "'Dar un paseo' = to go for a walk/stroll" },
+    { "spanish": "¿Qué tipo de música te gusta?", "english": "What type of music do you like?", "pronunciation": "keh TEE-poh deh MOO-see-kah teh GOOS-tah", "context": "Asking about musical tastes" }
+  ],
+  "grammar": [
+    {
+      "rule": "Gustar construction: me/te/le + gusta/gustan",
+      "explanation": "'Gustar' works backwards from English: the thing you like is the subject. Use 'gusta' + singular noun or infinitive, 'gustan' + plural noun. The person who likes uses an indirect object pronoun: me, te, le, nos, os, les.",
+      "examples": [
+        { "es": "Me gusta el cine", "en": "I like cinema (cinema pleases me)" },
+        { "es": "Me gustan los deportes", "en": "I like sports (sports please me)" },
+        { "es": "¿Te gusta bailar?", "en": "Do you like dancing?" }
+      ],
+      "commonMistake": "Saying 'yo gusto el cine' instead of 'me gusta el cine' — gustar doesn't work like English 'like'."
+    },
+    {
+      "rule": "Jugar a vs Tocar: playing sports vs instruments",
+      "explanation": "'Jugar a' is for sports and games: jugar al fútbol, jugar al tenis. 'Tocar' is for musical instruments: tocar la guitarra, tocar el piano. Never mix them up.",
+      "examples": [
+        { "es": "Juego al baloncesto los martes", "en": "I play basketball on Tuesdays" },
+        { "es": "Toca el piano muy bien", "en": "She plays the piano very well" },
+        { "es": "Jugamos a las cartas", "en": "We play cards" }
+      ],
+      "commonMistake": "Saying 'juego la guitarra' — instruments use 'tocar', not 'jugar'."
+    },
+    {
+      "rule": "Encantar, interesar, molestar — gustar-type verbs",
+      "explanation": "Several common verbs follow the same backwards structure as gustar: encantar (to love), interesar (to interest), molestar (to bother), importar (to matter), parecer (to seem). They all use me/te/le + verb.",
+      "examples": [
+        { "es": "Me encanta viajar", "en": "I love travelling" },
+        { "es": "¿Te interesa el arte?", "en": "Are you interested in art?" },
+        { "es": "No me importa", "en": "I don't care / It doesn't matter to me" }
+      ],
+      "commonMistake": "Treating these like normal verbs: 'yo encanto viajar' should be 'me encanta viajar'."
+    }
+  ],
+  "dialogue": {
+    "setup": "Two new friends, Sofía and James, discover they share some hobbies.",
+    "lines": [
+      { "speaker": "Sofía", "spanish": "¿Qué haces en tu tiempo libre?", "english": "What do you do in your free time?" },
+      { "speaker": "James", "spanish": "Me gusta mucho el deporte. Juego al fútbol y hago surf.", "english": "I really like sport. I play football and surf." },
+      { "speaker": "Sofía", "spanish": "¡A mí también me encanta el surf! ¿Dónde surfeas?", "english": "I love surfing too! Where do you surf?" },
+      { "speaker": "James", "spanish": "En la playa de Bondi, normalmente. ¿Y tú, qué hobbies tienes?", "english": "At Bondi Beach, usually. And you, what hobbies do you have?" },
+      { "speaker": "Sofía", "spanish": "Me gusta leer y toco la guitarra. También me encanta cocinar.", "english": "I like reading and I play the guitar. I also love cooking." },
+      { "speaker": "James", "spanish": "¿Quieres ir al cine este fin de semana?", "english": "Do you want to go to the cinema this weekend?" },
+      { "speaker": "Sofía", "spanish": "¡Sí! ¿Qué tipo de películas te gustan?", "english": "Yes! What type of films do you like?" },
+      { "speaker": "James", "spanish": "Me gustan las de acción, pero no me gustan nada las de terror.", "english": "I like action films, but I don't like horror films at all." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'I like sports' in Spanish?",
+      "correctAnswer": "Me gustan los deportes",
+      "explanation": "'Deportes' is plural, so use 'gustan' (not 'gusta')."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "How do you say 'I play the guitar'?",
+      "options": ["Juego la guitarra", "Toco la guitarra", "Hago la guitarra", "Practico la guitarra"],
+      "correctAnswer": "Toco la guitarra",
+      "explanation": "'Tocar' = to play an instrument. 'Jugar' = to play a sport/game."
+    },
+    {
+      "type": "fill-blank",
+      "question": "Me _____ cocinar. (I love cooking)",
+      "correctAnswer": "encanta",
+      "explanation": "'Encantar' works like 'gustar' — 'me encanta' + infinitive."
+    },
+    {
+      "type": "translate",
+      "question": "How do you say 'Do you want to go to the cinema?'",
+      "correctAnswer": "¿Quieres ir al cine?",
+      "explanation": "Querer + infinitive: 'quieres ir' = you want to go."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which is correct: 'Me gusta los libros' or 'Me gustan los libros'?",
+      "options": ["Me gusta los libros", "Me gustan los libros", "Yo gusto los libros", "Me gusto los libros"],
+      "correctAnswer": "Me gustan los libros",
+      "explanation": "'Libros' is plural, so the verb must be 'gustan' (plural)."
+    }
+  ],
+  "status": "complete"
+}

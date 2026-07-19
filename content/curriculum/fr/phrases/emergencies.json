@@ -1,0 +1,84 @@
+{
+  "slug": "emergencies",
+  "title": "Emergencies",
+  "description": "Get help fast: phrases for medical, safety, and urgent situations in French.",
+  "situation": "Urgent help: calling for assistance, describing problems, pharmacies, and the doctor.",
+  "order": 7,
+  "phrases": [
+    {
+      "native": "Au secours !",
+      "english": "Help!",
+      "pronunciation": "oh suh-KOOR",
+      "formality": "neutral"
+    },
+    {
+      "native": "Appelez une ambulance !",
+      "english": "Call an ambulance!",
+      "pronunciation": "ah-play ewn on-bew-LONSS",
+      "formality": "formal",
+      "tip": "The European emergency number is 112."
+    },
+    {
+      "native": "J'ai besoin d'un médecin",
+      "english": "I need a doctor",
+      "pronunciation": "zhay buh-ZWAN dun mayd-SAN",
+      "formality": "neutral"
+    },
+    {
+      "native": "C'est une urgence",
+      "english": "It's an emergency",
+      "pronunciation": "say tewn ewr-ZHONSS",
+      "formality": "neutral"
+    },
+    {
+      "native": "Je ne me sens pas bien",
+      "english": "I don't feel well",
+      "pronunciation": "zhuh nuh muh son pah bee-AN",
+      "formality": "neutral"
+    },
+    {
+      "native": "J'ai mal ici",
+      "english": "It hurts here",
+      "pronunciation": "zhay mal ee-SEE",
+      "formality": "neutral",
+      "tip": "Point to where it hurts as you say it."
+    },
+    {
+      "native": "Je suis allergique à...",
+      "english": "I'm allergic to...",
+      "pronunciation": "zhuh swee zah-lehr-ZHEEK ah",
+      "formality": "neutral"
+    },
+    {
+      "native": "Où est la pharmacie ?",
+      "english": "Where is the pharmacy?",
+      "pronunciation": "oo eh lah far-mah-SEE",
+      "formality": "neutral"
+    },
+    {
+      "native": "J'ai perdu mon passeport",
+      "english": "I've lost my passport",
+      "pronunciation": "zhay pehr-DEW mon pass-POR",
+      "formality": "neutral"
+    },
+    {
+      "native": "Appelez la police !",
+      "english": "Call the police!",
+      "pronunciation": "ah-play lah poh-LEESS",
+      "formality": "formal",
+      "tip": "Police direct number is 17."
+    },
+    {
+      "native": "Pouvez-vous m'aider ?",
+      "english": "Can you help me?",
+      "pronunciation": "poo-vay VOO meh-DAY",
+      "formality": "formal"
+    },
+    {
+      "native": "Parlez plus lentement, s'il vous plaît",
+      "english": "Please speak more slowly",
+      "pronunciation": "par-lay plew lont-MON",
+      "formality": "formal"
+    }
+  ]
+}

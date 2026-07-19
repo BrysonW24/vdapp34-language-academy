@@ -1,13 +1,13 @@
 {
   "rank": 308,
-  "chinese": "弟弟",
-  "characters": "弟弟",
-  "pinyin": "dìdi",
-  "english": "younger brother",
-  "pronunciation": "dee-dee (4th tone, neutral)",
-  "partOfSpeech": "noun",
-  "exampleZh": "弟弟在上小学。",
-  "exampleEn": "My younger brother is in primary school.",
+  "chinese": "宣传",
+  "characters": "宣传",
+  "pinyin": "xuān chuán",
+  "english": "to publicity",
+  "pronunciation": "xuan-chuan",
+  "partOfSpeech": "verb",
+  "exampleZh": "我要宣传。",
+  "exampleEn": "I want to publicity.",
   "group": "everyday-250",
-  "topic": "family"
+  "topic": "actions"
 }

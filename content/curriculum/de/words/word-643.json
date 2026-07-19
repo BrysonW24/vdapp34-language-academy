@@ -1,13 +1,11 @@
 {
   "rank": 643,
-  "german": "Unterschied",
-  "english": "difference",
-  "pronunciation": "OON-ter-sheed",
-  "partOfSpeech": "noun",
-  "gender": "masculine",
-  "article": "der",
-  "exampleDe": "Es gibt einen großen Unterschied.",
-  "exampleEn": "There is a big difference.",
+  "german": "wobei",
+  "english": "where",
+  "pronunciation": "v o b a ɪ",
+  "partOfSpeech": "adjective",
+  "exampleDe": "Das ist sehr wobei.",
+  "exampleEn": "That is very where.",
   "group": "confident-350",
-  "topic": "descriptions"
+  "topic": "questions"
 }

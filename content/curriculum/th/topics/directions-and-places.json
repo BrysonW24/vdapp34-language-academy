@@ -1,0 +1,90 @@
+{
+  "slug": "directions-and-places",
+  "title": "Directions & Places",
+  "titleTh": "ทิศทางและสถานที่",
+  "shortSummary": "Ask for and understand directions, and name the places around a Thai town.",
+  "level": "elementary",
+  "order": 6,
+  "icon": "🗺️",
+  "color": "#2f4f79",
+  "culturalNote": "In Bangkok the BTS skytrain (รถไฟฟ้า) and MRT subway are the fastest ways to get around the traffic. For short hops, motorbike taxis and tuk-tuks are everywhere, and ride-hailing through apps like Grab is easy and clear. Showing a destination on your phone map helps a lot, and a polite ขอโทษ (excuse me) opens any request for directions warmly.",
+  "keyPhrases": [
+    { "thai": "ขอโทษ ... อยู่ที่ไหน", "pronunciation": "kho-thot ... yuu thii-nai", "english": "Excuse me, where is...?", "context": "Polite opening" },
+    { "thai": "ไป...ยังไง", "pronunciation": "pai ... yang-ngai", "english": "How do I get to...?", "context": "Asking the way" },
+    { "thai": "ตรงไป", "pronunciation": "trong pai", "english": "Go straight", "context": "Direction" },
+    { "thai": "เลี้ยวซ้าย", "pronunciation": "liao saai", "english": "Turn left", "context": "เลี้ยวขวา = turn right" },
+    { "thai": "อยู่ตรงนั้น", "pronunciation": "yuu trong-nan", "english": "It's over there", "context": "Pointing it out" },
+    { "thai": "ไกลไหม", "pronunciation": "klai mai", "english": "Is it far?", "context": "Checking distance" },
+    { "thai": "อยู่ใกล้ๆ", "pronunciation": "yuu klai-klai", "english": "It's nearby", "context": "Close by" },
+    { "thai": "สถานีรถไฟฟ้า", "pronunciation": "sa-thaa-nii rot-fai-faa", "english": "skytrain station", "context": "Public transport" },
+    { "thai": "ตรงข้าม", "pronunciation": "trong-khaam", "english": "opposite", "context": "Describing a location" },
+    { "thai": "ผมหลงทาง", "pronunciation": "phom long-thaang", "english": "I'm lost", "context": "When you need help" }
+  ],
+  "grammar": [
+    {
+      "rule": "อยู่ที่ไหน to ask 'where is it?'",
+      "explanation": "อยู่ (yuu) means 'to be located', and ที่ไหน (thii-nai) means 'where'. Put them together at the end: ห้องน้ำอยู่ที่ไหน (where is the toilet?).",
+      "examples": [
+        { "th": "ธนาคารอยู่ที่ไหน", "en": "Where is the bank?" },
+        { "th": "ร้านอยู่ตรงข้าม", "en": "The shop is opposite." }
+      ],
+      "commonMistake": "Dropping อยู่ when stating or asking location. Use อยู่ที่ไหน or อยู่ตรงนั้น."
+    },
+    {
+      "rule": "ยังไง for 'how'",
+      "explanation": "ยังไง (yang-ngai) means 'how' and usually comes at the end: ไปยังไง (how do I get there?), ทำยังไง (how do I do it?).",
+      "examples": [
+        { "th": "ไปสนามบินยังไง", "en": "How do I get to the airport?" },
+        { "th": "ใช้ยังไง", "en": "How do you use it?" }
+      ],
+      "commonMistake": "Putting ยังไง at the start. It usually goes at the end of the question."
+    }
+  ],
+  "dialogue": {
+    "setup": "A tourist asks a passer-by how to reach the skytrain station.",
+    "lines": [
+      { "speaker": "นักท่องเที่ยว", "thai": "ขอโทษครับ สถานีรถไฟฟ้าอยู่ที่ไหนครับ", "pronunciation": "kho-thot khrap, sa-thaa-nii rot-fai-faa yuu thii-nai khrap", "english": "Excuse me, where is the skytrain station?" },
+      { "speaker": "คนเดินถนน", "thai": "ตรงไปแล้วเลี้ยวซ้ายค่ะ", "pronunciation": "trong pai laeo liao saai kha", "english": "Go straight then turn left." },
+      { "speaker": "นักท่องเที่ยว", "thai": "ไกลไหมครับ", "pronunciation": "klai mai khrap", "english": "Is it far?" },
+      { "speaker": "คนเดินถนน", "thai": "ไม่ไกลค่ะ อยู่ตรงข้ามห้าง", "pronunciation": "mai klai kha, yuu trong-khaam haang", "english": "Not far, it's opposite the mall." },
+      { "speaker": "นักท่องเที่ยว", "thai": "เดินกี่นาทีครับ", "pronunciation": "doen kii naa-thii khrap", "english": "How many minutes' walk?" },
+      { "speaker": "คนเดินถนน", "thai": "ประมาณห้านาทีค่ะ", "pronunciation": "pra-maan haa naa-thii kha", "english": "About five minutes." },
+      { "speaker": "นักท่องเที่ยว", "thai": "ขอบคุณมากครับ", "pronunciation": "khop-khun maak khrap", "english": "Thank you very much." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'Go straight'?",
+      "correctAnswer": "ตรงไป",
+      "explanation": "ตรง (straight) + ไป (go)."
+    },
+    {
+      "type": "fill-blank",
+      "question": "ห้องน้ำอยู่_____ (where is the toilet?)",
+      "correctAnswer": "ที่ไหน",
+      "explanation": "อยู่ที่ไหน asks where something is located."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does ตรงข้าม mean?",
+      "options": ["nearby", "opposite", "straight ahead", "lost"],
+      "correctAnswer": "opposite",
+      "explanation": "ตรงข้าม means 'opposite / across from'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which means 'turn left'?",
+      "options": ["เลี้ยวขวา", "เลี้ยวซ้าย", "ตรงไป", "อยู่ตรงนั้น"],
+      "correctAnswer": "เลี้ยวซ้าย",
+      "explanation": "เลี้ยวซ้าย is turn left; เลี้ยวขวา is turn right."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: ยังไง / สนามบิน / ไป",
+      "correctAnswer": "ไปสนามบินยังไง",
+      "explanation": "ไป (go) + สนามบิน (airport) + ยังไง (how)."
+    }
+  ],
+  "status": "complete"
+}

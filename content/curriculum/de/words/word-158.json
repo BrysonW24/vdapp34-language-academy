@@ -1,11 +1,13 @@
 {
   "rank": 158,
-  "german": "stehen",
-  "english": "to stand",
-  "pronunciation": "SHTAY-en",
-  "partOfSpeech": "verb",
-  "exampleDe": "Er steht an der Tür.",
-  "exampleEn": "He is standing at the door.",
+  "german": "deutschland",
+  "english": "Germany",
+  "pronunciation": "d ɔ ɪ t ʃ l a n t",
+  "partOfSpeech": "noun",
+  "exampleDe": "Deutschland liegt in Europa.",
+  "exampleEn": "Germany is in Europe.",
   "group": "everyday-250",
-  "topic": "movement"
+  "topic": "travel",
+  "article": "das",
+  "gender": "neuter"
 }

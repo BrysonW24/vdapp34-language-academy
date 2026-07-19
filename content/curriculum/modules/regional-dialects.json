@@ -1,0 +1,25 @@
+{
+  "slug": "regional-dialects",
+  "title": "Regional Dialects",
+  "shortSummary": "Understand how Spanish varies across the world — from Castilian to Rioplatense, Mexican to Caribbean. Learn to recognise and adapt to different accents, vocabulary, and grammar variations.",
+  "level": "advanced",
+  "category": "advanced",
+  "whyItMatters": "Spanish is not one language — it is dozens of varieties spoken across 20+ countries. Understanding regional differences helps you communicate with any Spanish speaker and shows cultural sensitivity.",
+  "coreConcepts": [
+    "Castilian Spanish (Spain) features and pronunciation",
+    "Mexican Spanish: vocabulary and accent differences",
+    "Rioplatense Spanish (Argentina/Uruguay): voseo, pronunciation",
+    "Caribbean Spanish: dropped consonants, speed",
+    "Andean Spanish: Quechua influence",
+    "Central American variations",
+    "Peninsular vs Latin American vocabulary differences",
+    "How to adapt your Spanish to different audiences"
+  ],
+  "lessons": [],
+  "frameworks": ["cultural-competence"],
+  "visualType": "dialect-map",
+  "relatedModules": ["spanish-culture", "idioms-slang", "fluency-mastery"],
+  "status": "coming-soon",
+  "order": 18,
+  "levelNumber": 4
+}

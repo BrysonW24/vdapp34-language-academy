@@ -1,0 +1,82 @@
+{
+  "slug": "directions",
+  "title": "Asking for Directions",
+  "description": "Find your way around a French city: ask where things are and understand the answer.",
+  "situation": "Getting around: asking for places, understanding left and right, and using transport.",
+  "order": 5,
+  "phrases": [
+    {
+      "native": "Excusez-moi, où est... ?",
+      "english": "Excuse me, where is...?",
+      "pronunciation": "ehks-kew-zay MWAH, oo EH",
+      "formality": "formal"
+    },
+    {
+      "native": "Comment aller à la gare ?",
+      "english": "How do I get to the station?",
+      "pronunciation": "koh-mon tah-lay ah lah GAR",
+      "formality": "neutral"
+    },
+    {
+      "native": "C'est loin ?",
+      "english": "Is it far?",
+      "pronunciation": "say LWAN",
+      "formality": "neutral"
+    },
+    {
+      "native": "Tout droit",
+      "english": "Straight ahead",
+      "pronunciation": "too DRWAH",
+      "formality": "neutral"
+    },
+    {
+      "native": "À gauche / À droite",
+      "english": "Left / Right",
+      "pronunciation": "ah GOHSH / ah DRWAHT",
+      "formality": "neutral"
+    },
+    {
+      "native": "Au coin",
+      "english": "At the corner",
+      "pronunciation": "oh KWAN",
+      "formality": "neutral"
+    },
+    {
+      "native": "En face",
+      "english": "Opposite / Across",
+      "pronunciation": "on FASS",
+      "formality": "neutral"
+    },
+    {
+      "native": "Près d'ici",
+      "english": "Near here",
+      "pronunciation": "preh dee-SEE",
+      "formality": "neutral"
+    },
+    {
+      "native": "La station de métro",
+      "english": "The metro station",
+      "pronunciation": "lah stah-see-ON duh may-TROH",
+      "formality": "neutral"
+    },
+    {
+      "native": "Je suis perdu",
+      "english": "I'm lost",
+      "pronunciation": "zhuh swee pehr-DEW",
+      "formality": "neutral",
+      "tip": "Women say 'perdue'; it sounds the same."
+    },
+    {
+      "native": "Pouvez-vous me montrer sur la carte ?",
+      "english": "Can you show me on the map?",
+      "pronunciation": "poo-vay VOO muh mon-TRAY sewr lah KART",
+      "formality": "formal"
+    },
+    {
+      "native": "Merci de votre aide",
+      "english": "Thanks for your help",
+      "pronunciation": "mehr-SEE duh VOH-truh ED",
+      "formality": "formal"
+    }
+  ]
+}

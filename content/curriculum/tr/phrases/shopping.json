@@ -1,0 +1,21 @@
+{
+  "slug": "shopping",
+  "title": "Shopping",
+  "description": "Ask for sizes, prices, and payment options while shopping in Turkish.",
+  "situation": "Shops and bazaars: finding items, asking prices, trying things on, and paying.",
+  "order": 4,
+  "phrases": [
+    { "native": "...arıyorum", "english": "I'm looking for...", "pronunciation": "ah-ruh-yor-oom", "formality": "neutral", "tip": "Put the item before arıyorum." },
+    { "native": "Ne kadar?", "english": "How much is it?", "pronunciation": "neh kah-DAR", "formality": "neutral" },
+    { "native": "Başka beden var mı?", "english": "Do you have another size?", "pronunciation": "bash-KAH beh-DEN var muh", "formality": "neutral" },
+    { "native": "Deneyebilir miyim?", "english": "Can I try it on?", "pronunciation": "deh-neh-yeh-bee-LEER mee-yeem", "formality": "neutral" },
+    { "native": "Çok pahalı", "english": "It's too expensive", "pronunciation": "chok pah-hah-LUH", "formality": "neutral" },
+    { "native": "Daha ucuz bir şey var mı?", "english": "Do you have something cheaper?", "pronunciation": "dah-HAH oo-JOOZ beer shay var muh", "formality": "neutral" },
+    { "native": "İndirim var mı?", "english": "Is there a discount?", "pronunciation": "een-dee-REEM var muh", "formality": "neutral", "tip": "Bargaining is common in bazaars." },
+    { "native": "Alıyorum", "english": "I'll take it", "pronunciation": "ah-luh-yor-oom", "formality": "neutral" },
+    { "native": "Sadece bakıyorum", "english": "I'm just looking", "pronunciation": "sah-deh-JEH bah-kuh-yor-oom", "formality": "neutral" },
+    { "native": "Nakit ödeyeceğim", "english": "I'll pay cash", "pronunciation": "nah-KEET er-deh-yeh-jeh-eem", "formality": "neutral" },
+    { "native": "Bir poşet, lütfen", "english": "A bag, please", "pronunciation": "beer poh-SHET", "formality": "neutral" },
+    { "native": "Fiş alabilir miyim?", "english": "Can I have the receipt?", "pronunciation": "feesh ah-lah-bee-LEER mee-yeem", "formality": "neutral" }
+  ]
+}

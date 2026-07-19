@@ -1,13 +1,11 @@
 {
   "rank": 567,
-  "german": "Preis",
-  "english": "price",
-  "pronunciation": "PRYSE",
-  "partOfSpeech": "noun",
-  "gender": "masculine",
-  "article": "der",
-  "exampleDe": "Der Preis ist zu hoch.",
-  "exampleEn": "The price is too high.",
+  "german": "deinen",
+  "english": "yours",
+  "pronunciation": "d a ɪ n",
+  "partOfSpeech": "pronoun",
+  "exampleDe": "Deinen ist hier.",
+  "exampleEn": "Yours is here.",
   "group": "confident-350",
-  "topic": "shopping"
+  "topic": "basics"
 }

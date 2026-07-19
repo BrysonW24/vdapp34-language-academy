@@ -1,0 +1,32 @@
+{
+  "slug": "present-tense",
+  "name": "Present Tense (-ar verbs)",
+  "nameNative": "O presente (verbos em -ar)",
+  "summary": "Conjugate regular -ar verbs, the largest and most useful verb group in Portuguese.",
+  "level": "beginner",
+  "order": 2,
+  "explanation": "Most Portuguese verbs end in -ar (falar, to speak; morar, to live). To conjugate them, drop the -ar to get the stem (fal-) and add the present-tense endings.\n\nThe endings are: -o (eu), -a (você/ele/ela), -amos (nós), -am (vocês/eles/elas). Brazilian Portuguese mainly uses these four forms, since você has replaced the old tu in most regions.\n\nThe present covers both 'I speak' and 'I am speaking', so eu falo means both. Subject pronouns are often kept for clarity, unlike Spanish or Italian.",
+  "pattern": "stem + o / a / amos / am",
+  "conjugation": {
+    "eu": "falo",
+    "você/ele/ela": "fala",
+    "nós": "falamos",
+    "vocês/eles/elas": "falam"
+  },
+  "examples": [
+    { "native": "Eu falo português.", "en": "I speak Portuguese." },
+    { "native": "Você mora no Rio.", "en": "You live in Rio." },
+    { "native": "Ela trabalha muito.", "en": "She works a lot." },
+    { "native": "Nós estudamos juntos.", "en": "We study together." },
+    { "native": "Eles escutam música.", "en": "They listen to music." },
+    { "native": "A gente fala depois.", "en": "We'll talk later." }
+  ],
+  "commonMistakes": [
+    "Adding an English continuous form. Eu falo already covers 'I am speaking' (or use estou falando).",
+    "Using tu endings in Brazil, where você plus the ele/ela form is standard.",
+    "Forgetting that a gente (we, informal) takes the singular fala, not falamos.",
+    "Mixing up the você form -a with the eu form -o.",
+    "Dropping the accent or stress; falamos stresses the middle syllable."
+  ],
+  "tip": "In spoken Brazilian Portuguese, a gente (literally 'the people') is a very common way to say 'we', and it takes the singular verb form."
+}

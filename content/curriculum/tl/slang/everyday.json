@@ -1,0 +1,25 @@
+{
+  "slug": "everyday",
+  "title": "Everyday Slang",
+  "description": "The casual, current expressions young Filipinos actually use with friends, online, and out in the barkada every day.",
+  "situation": "Sounding natural and relaxed - greetings, reactions, hype, and filler you would hear hanging out with friends.",
+  "order": 1,
+  "phrases": [
+    { "native": "Musta", "english": "How's it going?", "pronunciation": "moos-TA", "formality": "informal", "tip": "The chopped, super-casual version of kumusta. Texting and barkada default; drop the po for friends." },
+    { "native": "Astig", "english": "Cool / awesome / badass", "pronunciation": "as-TIG", "formality": "informal", "tip": "Classic slang for cool. It's the word tigas (tough/hard) flipped around. Ang astig! = how cool!" },
+    { "native": "Angas", "english": "Cool / fierce / next-level", "pronunciation": "ANG-as", "formality": "informal", "tip": "Praise for something or someone impressive and confident. Ang angas mo! = you're so cool." },
+    { "native": "Lodi", "english": "Idol / legend", "pronunciation": "LO-dee", "formality": "informal", "tip": "Idol spelled backwards. Playful praise for someone you admire, like calling them a legend." },
+    { "native": "Petmalu", "english": "Insanely good / amazing", "pronunciation": "pet-ma-LOO", "formality": "informal", "tip": "Syllable-swapped malupit (savage/intense). Part of the same wordplay craze as lodi and werpa." },
+    { "native": "Werpa", "english": "Power / respect / you got this", "pronunciation": "WER-pa", "formality": "informal", "tip": "The word power flipped into syllables. A shout of support and good vibes, like sending strength." },
+    { "native": "Chika", "english": "Gossip / chat / the latest news", "pronunciation": "CHEE-ka", "formality": "informal", "tip": "May chika ako! = I've got tea! Magchika tayo = let's catch up. Light and friendly, never heavy." },
+    { "native": "G", "english": "I'm in / let's do it", "pronunciation": "jee", "formality": "informal", "tip": "Just the letter G (from game). The all-purpose yes when someone proposes a plan. G na G = totally down." },
+    { "native": "Sana all", "english": "Lucky them, I wish I had that", "pronunciation": "SA-na all", "formality": "informal", "tip": "Half-playful, half-envious reaction to someone's blessing, like a couple posting. Sana = I hope; all = everyone." },
+    { "native": "Charot", "english": "Just kidding!", "pronunciation": "cha-ROT", "formality": "informal", "tip": "Tagged onto the end of a joke or a tease so no one takes it seriously. Also said as charR or char." },
+    { "native": "Lit", "english": "It's lit / so much fun", "pronunciation": "lit", "formality": "informal", "tip": "Borrowed from English but everywhere among young Filipinos for a party or event that's great. Ang lit!" },
+    { "native": "Pak ganern", "english": "Yes! nailed it / there it is", "pronunciation": "pak ga-NERN", "formality": "informal", "tip": "A hyped exclamation of approval when something lands perfectly. Pak is the sound of a hit; ganern = like that." },
+    { "native": "Chillax lang", "english": "Just chill / relax", "pronunciation": "chee-LAKS lang", "formality": "informal", "tip": "Chill and relax mashed together, with lang (just) tacked on. Telling someone to take it easy." },
+    { "native": "Haggard", "english": "Wiped out / exhausted", "pronunciation": "HA-gard", "formality": "informal", "tip": "From the English word, but Filipinos use it for being totally drained. Haggard ako sa work = work wrecked me." },
+    { "native": "Tara", "english": "Let's go / come on", "pronunciation": "ta-RA", "formality": "informal", "tip": "The everyday call to head out or get moving. Tara na! = let's go already! Tara, kain = come on, let's eat." },
+    { "native": "Sayang", "english": "What a waste / aw, too bad", "pronunciation": "SA-yang", "formality": "neutral", "tip": "A light exclamation of regret when something good is missed or lost. Widely used by everyone, all ages." }
+  ]
+}

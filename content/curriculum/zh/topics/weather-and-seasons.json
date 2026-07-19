@@ -1,0 +1,90 @@
+{
+  "slug": "weather-and-seasons",
+  "title": "Weather & Seasons",
+  "titleZh": "天气与季节",
+  "shortSummary": "Talk about the weather and the four seasons, a friendly small-talk topic.",
+  "level": "elementary",
+  "order": 9,
+  "icon": "🌦️",
+  "color": "#2f4f79",
+  "culturalNote": "China is huge, so weather varies enormously: the north has cold, dry winters while the south stays warm and humid. Seasons shape festivals and food, and people pay close attention to the lunar calendar's solar terms (节气) that mark subtle seasonal changes. Talking about whether it is hot or cold is easy, friendly small talk anywhere in the country.",
+  "keyPhrases": [
+    { "chinese": "今天天气怎么样？", "pinyin": "jīntiān tiānqì zěnmeyàng?", "english": "How's the weather today?", "context": "The core question" },
+    { "chinese": "今天很热", "pinyin": "jīntiān hěn rè", "english": "It's hot today", "context": "热 hot, 冷 cold" },
+    { "chinese": "下雨了", "pinyin": "xià yǔ le", "english": "It's raining", "context": "下雪 for snowing" },
+    { "chinese": "天气很好", "pinyin": "tiānqì hěn hǎo", "english": "The weather is nice", "context": "Good weather" },
+    { "chinese": "春天", "pinyin": "chūntiān", "english": "spring", "context": "Season" },
+    { "chinese": "夏天", "pinyin": "xiàtiān", "english": "summer", "context": "Season" },
+    { "chinese": "秋天", "pinyin": "qiūtiān", "english": "autumn", "context": "Season" },
+    { "chinese": "冬天", "pinyin": "dōngtiān", "english": "winter", "context": "Season" },
+    { "chinese": "多少度？", "pinyin": "duōshao dù?", "english": "How many degrees?", "context": "Asking temperature" },
+    { "chinese": "带伞", "pinyin": "dài sǎn", "english": "bring an umbrella", "context": "Practical advice" }
+  ],
+  "grammar": [
+    {
+      "rule": "下 + weather for falling weather",
+      "explanation": "Weather that falls uses 下 (xià, to fall): 下雨 (rain falls, it rains), 下雪 (it snows). Add 了 for a change: 下雨了 (it has started to rain).",
+      "examples": [
+        { "zh": "外面下雨了。", "en": "It's raining outside." },
+        { "zh": "冬天常常下雪。", "en": "It often snows in winter." }
+      ],
+      "commonMistake": "Adding 是 before weather verbs. It is 下雨, not 是下雨."
+    },
+    {
+      "rule": "怎么样 to ask 'how is it'",
+      "explanation": "怎么样 (zěnmeyàng) asks 'how is it / what about it' and goes at the end: 天气怎么样？(how's the weather?). It is a flexible, common opinion question.",
+      "examples": [
+        { "zh": "这个菜怎么样？", "en": "How is this dish?" },
+        { "zh": "明天天气怎么样？", "en": "What's the weather like tomorrow?" }
+      ],
+      "commonMistake": "Confusing 怎么 (how, before a verb) with 怎么样 (how is it, at the end)."
+    }
+  ],
+  "dialogue": {
+    "setup": "Yang and Zhou plan a weekend outing and check the weather.",
+    "lines": [
+      { "speaker": "杨", "chinese": "周末天气怎么样？", "pinyin": "Zhōumò tiānqì zěnmeyàng?", "english": "How's the weather at the weekend?" },
+      { "speaker": "周", "chinese": "星期六很好，很暖和。", "pinyin": "Xīngqīliù hěn hǎo, hěn nuǎnhuo.", "english": "Saturday is nice, very warm." },
+      { "speaker": "杨", "chinese": "星期天呢？", "pinyin": "Xīngqītiān ne?", "english": "What about Sunday?" },
+      { "speaker": "周", "chinese": "星期天会下雨。", "pinyin": "Xīngqītiān huì xià yǔ.", "english": "It'll rain on Sunday." },
+      { "speaker": "杨", "chinese": "那我们星期六去公园吧。", "pinyin": "Nà wǒmen xīngqīliù qù gōngyuán ba.", "english": "Then let's go to the park on Saturday." },
+      { "speaker": "周", "chinese": "好主意！多少度？", "pinyin": "Hǎo zhǔyi! Duōshao dù?", "english": "Good idea! How many degrees?" },
+      { "speaker": "杨", "chinese": "二十五度，很舒服。", "pinyin": "Èrshíwǔ dù, hěn shūfu.", "english": "Twenty-five degrees, very comfortable." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'It's raining'?",
+      "correctAnswer": "下雨了",
+      "explanation": "下雨 (rain falls) + 了 (change of state)."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which season is 秋天?",
+      "options": ["spring", "summer", "autumn", "winter"],
+      "correctAnswer": "autumn",
+      "explanation": "秋天 means autumn."
+    },
+    {
+      "type": "fill-blank",
+      "question": "今天天气_____？ (how is it)",
+      "correctAnswer": "怎么样",
+      "explanation": "怎么样 asks 'how is it', placed at the end."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which means 'it's hot today'?",
+      "options": ["今天很冷", "今天很热", "今天下雨", "今天很好"],
+      "correctAnswer": "今天很热",
+      "explanation": "热 means hot; 冷 means cold."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: 怎么样 / 天气 / 今天",
+      "correctAnswer": "今天天气怎么样",
+      "explanation": "今天 (today) + 天气 (weather) + 怎么样 (how is it)."
+    }
+  ],
+  "status": "complete"
+}

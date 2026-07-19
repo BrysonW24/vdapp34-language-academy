@@ -1,13 +1,13 @@
 {
   "rank": 550,
-  "german": "Schnee",
-  "english": "snow",
-  "pronunciation": "SHNAY",
+  "german": "März",
+  "english": "March",
+  "pronunciation": "m ɛ ɐ t s",
   "partOfSpeech": "noun",
-  "gender": "masculine",
-  "article": "der",
-  "exampleDe": "Es liegt viel Schnee.",
-  "exampleEn": "There is a lot of snow.",
+  "exampleDe": "Ich mag den März.",
+  "exampleEn": "I like March.",
   "group": "confident-350",
-  "topic": "travel"
+  "topic": "basics",
+  "article": "der",
+  "gender": "masculine"
 }

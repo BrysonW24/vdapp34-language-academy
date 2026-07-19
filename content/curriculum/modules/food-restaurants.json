@@ -1,0 +1,25 @@
+{
+  "slug": "food-restaurants",
+  "title": "Food & Restaurants",
+  "shortSummary": "Navigate menus, order food and drinks, ask for the bill, and talk about your food preferences in Spanish. From tapas bars in Madrid to street food in Mexico City — eat your way through the Spanish-speaking world.",
+  "level": "beginner",
+  "category": "channel",
+  "whyItMatters": "Food is the fastest way into any culture. Ordering in a restaurant is one of the most common real-world situations where you will use Spanish, and it builds massive confidence. Plus, you get to eat great food.",
+  "coreConcepts": [
+    "Restaurant vocabulary: menú, cuenta, propina, camarero",
+    "Ordering food: Quisiera / Me gustaría / Para mí...",
+    "Dietary requirements: vegetariano, sin gluten, alergia a",
+    "Describing food: delicioso, picante, dulce, salado, amargo",
+    "Common Spanish dishes by region",
+    "Drinks: agua, cerveza, vino, café, zumo",
+    "Asking for the bill: La cuenta, por favor",
+    "Tipping culture across Spanish-speaking countries"
+  ],
+  "lessons": ["food-and-restaurant-spanish"],
+  "frameworks": ["conversation-scaffolding", "immersion-framework"],
+  "visualType": "menu",
+  "relatedModules": ["everyday-vocabulary", "shopping-money", "spanish-culture"],
+  "status": "complete",
+  "order": 7,
+  "levelNumber": 2
+}

@@ -1,0 +1,90 @@
+{
+  "slug": "personal-info",
+  "title": "Personal Information",
+  "titleDe": "Persönliche Informationen",
+  "shortSummary": "Talk about who you are: your name, age, nationality, job, and where you live.",
+  "level": "beginner",
+  "order": 3,
+  "icon": "🪪",
+  "color": "#386a58",
+  "culturalNote": "Germans tend to keep a clear line between private and public life, so deep personal questions come later in a friendship than they might elsewhere. Job and city are normal small talk; salary and relationship status are not. When stating your profession, Germans drop the article: 'Ich bin Lehrer' (I am a teacher), with no 'ein'.",
+  "keyPhrases": [
+    { "german": "Ich heiße...", "english": "My name is...", "pronunciation": "ikh HIGH-suh", "context": "Literally 'I am called'" },
+    { "german": "Mein Name ist...", "english": "My name is... (more formal)", "pronunciation": "mine NAH-muh ist", "context": "Used in formal settings" },
+    { "german": "Ich komme aus...", "english": "I come from...", "pronunciation": "ikh KOM-muh ows", "context": "Stating your country or city" },
+    { "german": "Ich wohne in...", "english": "I live in...", "pronunciation": "ikh VOH-nuh in", "context": "Stating where you live now" },
+    { "german": "Ich bin... Jahre alt", "english": "I am... years old", "pronunciation": "ikh bin... YAH-ruh alt", "context": "Giving your age" },
+    { "german": "Ich bin Lehrer", "english": "I am a teacher", "pronunciation": "ikh bin LAY-rer", "context": "Note: no article before the profession" },
+    { "german": "Ich spreche ein bisschen Deutsch", "english": "I speak a little German", "pronunciation": "ikh SHPREKH-uh ine BISS-khen doytch", "context": "Useful early on" },
+    { "german": "Wie ist Ihr Name?", "english": "What is your name? (formal)", "pronunciation": "vee ist eer NAH-muh", "context": "Polite question" },
+    { "german": "Was sind Sie von Beruf?", "english": "What is your profession?", "pronunciation": "vahs zint zee fon buh-ROOF", "context": "Asking about work" },
+    { "german": "Ich bin verheiratet", "english": "I am married", "pronunciation": "ikh bin fer-HY-rah-tet", "context": "Single is 'ledig'" }
+  ],
+  "grammar": [
+    {
+      "rule": "No article with professions",
+      "explanation": "When you say what you do, German omits the indefinite article. 'Ich bin Arzt' (I am a doctor), not 'Ich bin ein Arzt'. The same applies to nationalities and religions.",
+      "examples": [
+        { "de": "Sie ist Ingenieurin.", "en": "She is an engineer." },
+        { "de": "Er ist Student.", "en": "He is a student." }
+      ],
+      "commonMistake": "Adding ein: it is 'Ich bin Lehrer', not 'Ich bin ein Lehrer'."
+    },
+    {
+      "rule": "aus vs in for origin and residence",
+      "explanation": "Use 'aus' to say where you are originally from, and 'in' to say where you live now. 'Ich komme aus Spanien, aber ich wohne in Berlin.'",
+      "examples": [
+        { "de": "Ich komme aus Italien.", "en": "I come from Italy." },
+        { "de": "Ich wohne in Hamburg.", "en": "I live in Hamburg." }
+      ],
+      "commonMistake": "Mixing them up: 'Ich komme in Berlin' is wrong; origin uses aus."
+    }
+  ],
+  "dialogue": {
+    "setup": "At a language exchange evening, Tom introduces himself to Sofia.",
+    "lines": [
+      { "speaker": "Tom", "german": "Hallo, ich heiße Tom. Wie heißt du?", "english": "Hi, I'm Tom. What's your name?" },
+      { "speaker": "Sofia", "german": "Ich heiße Sofia. Freut mich!", "english": "I'm Sofia. Nice to meet you!" },
+      { "speaker": "Tom", "german": "Woher kommst du, Sofia?", "english": "Where are you from, Sofia?" },
+      { "speaker": "Sofia", "german": "Ich komme aus Spanien, aber ich wohne jetzt in Köln.", "english": "I'm from Spain, but I live in Cologne now." },
+      { "speaker": "Tom", "german": "Schön! Und was machst du beruflich?", "english": "Nice! And what do you do for work?" },
+      { "speaker": "Sofia", "german": "Ich bin Designerin. Und du?", "english": "I'm a designer. And you?" },
+      { "speaker": "Tom", "german": "Ich bin Student. Ich studiere Informatik.", "english": "I'm a student. I study computer science." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'I come from Australia'?",
+      "correctAnswer": "Ich komme aus Australien",
+      "explanation": "Origin uses 'aus' plus the country name."
+    },
+    {
+      "type": "fill-blank",
+      "question": "Ich _____ in Berlin. (I live in Berlin)",
+      "correctAnswer": "wohne",
+      "explanation": "wohnen means to live/reside; ich wohne is the ich form."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which sentence is correct?",
+      "options": ["Ich bin ein Lehrer", "Ich bin Lehrer", "Ich bin der Lehrer", "Ich Lehrer bin"],
+      "correctAnswer": "Ich bin Lehrer",
+      "explanation": "German drops the article before professions."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which word means 'married'?",
+      "options": ["ledig", "verheiratet", "geboren", "jung"],
+      "correctAnswer": "verheiratet",
+      "explanation": "verheiratet means married; ledig means single."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: heiße / ich / Sofia",
+      "correctAnswer": "Ich heiße Sofia",
+      "explanation": "Subject ich, then verb heiße, then the name."
+    }
+  ],
+  "status": "complete"
+}

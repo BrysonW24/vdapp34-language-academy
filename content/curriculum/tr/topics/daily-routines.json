@@ -1,0 +1,90 @@
+{
+  "slug": "daily-routines",
+  "title": "Daily Routines",
+  "titleNative": "Günlük rutinler",
+  "shortSummary": "Describe your day, from waking up to going to bed, using everyday Turkish verbs.",
+  "level": "beginner",
+  "order": 7,
+  "icon": "🌅",
+  "color": "#1098ad",
+  "culturalNote": "A Turkish day often begins with a generous breakfast (kahvaltı), which on weekends becomes a long, social spread of cheese, olives, tomatoes, eggs, jam, and endless tea shared with family. The word kahvaltı literally means 'before coffee', a nod to how central drinks are to the rhythm of the day. Many people drink tea morning, afternoon, and evening, and a mid-afternoon çay break is a cherished ritual at home and at work. Lunch (öğle yemeği) is commonly the main hot meal for office workers, while dinner (akşam yemeği) gathers the household together. Reflexive routines like washing up and getting dressed use special verb forms, and Turks describe their schedule naturally with time expressions such as sabah (morning), öğlen (noon), and akşam (evening) placed before the verb.",
+  "keyPhrases": [
+    { "native": "Sabah erken kalkıyorum", "english": "I get up early in the morning", "pronunciation": "sah-BAH ehr-KEHN kahl-kuh-YOH-room", "context": "Starting the day" },
+    { "native": "Kahvaltı yapıyorum", "english": "I have breakfast", "pronunciation": "kah-vahl-TUH yah-puh-YOH-room", "context": "Morning meal" },
+    { "native": "İşe gidiyorum", "english": "I go to work", "pronunciation": "ee-SHEH gee-dee-YOH-room", "context": "Heading out" },
+    { "native": "Öğlen yemek yiyorum", "english": "I eat lunch at noon", "pronunciation": "ur-LEHN yeh-MEHK yee-YOH-room", "context": "Midday meal" },
+    { "native": "Eve dönüyorum", "english": "I return home", "pronunciation": "eh-VEH dur-new-YOH-room", "context": "End of the workday" },
+    { "native": "Akşam yemeği yapıyorum", "english": "I make dinner in the evening", "pronunciation": "ahk-SHAHM yeh-meh-EE yah-puh-YOH-room", "context": "Evening cooking" },
+    { "native": "Duş alıyorum", "english": "I take a shower", "pronunciation": "doosh ah-luh-YOH-room", "context": "Washing up" },
+    { "native": "Televizyon izliyorum", "english": "I watch television", "pronunciation": "teh-leh-veez-YOHN eez-lee-YOH-room", "context": "Relaxing" },
+    { "native": "Erken yatıyorum", "english": "I go to bed early", "pronunciation": "ehr-KEHN yah-tuh-YOH-room", "context": "End of the day" },
+    { "native": "Her gün", "english": "Every day", "pronunciation": "hehr gewn", "context": "Talking about habits" }
+  ],
+  "grammar": [
+    {
+      "rule": "Time words before the verb",
+      "explanation": "Turkish word order is subject-object-verb, and time expressions usually sit near the front, before the verb. Sabah (in the morning), öğlen (at noon), akşam (in the evening), and her gün (every day) describe when, and need no preposition; they simply precede the action.",
+      "examples": [
+        { "native": "Akşam kitap okuyorum.", "en": "In the evening I read a book." },
+        { "native": "Her gün spor yapıyorum.", "en": "Every day I do exercise." }
+      ],
+      "commonMistake": "Putting the time word after the verb. Turkish prefers sabah kalkıyorum, not kalkıyorum sabah."
+    },
+    {
+      "rule": "The dative -e/-a for 'to' a place",
+      "explanation": "To show motion toward a place, add the dative ending -e or -a (with vowel harmony) to the destination: işe (to work), eve (to home), okula (to school). It answers the question 'to where?' (nereye?) and pairs with verbs of movement like git- (go) and dön- (return).",
+      "examples": [
+        { "native": "İşe gidiyorum.", "en": "I'm going to work." },
+        { "native": "Eve dönüyorum.", "en": "I'm returning home." }
+      ],
+      "commonMistake": "Leaving off the dative ending. It is eve gidiyorum (going to home), not ev gidiyorum."
+    }
+  ],
+  "dialogue": {
+    "setup": "Two friends, Mert and Zeynep, compare their morning routines over the phone.",
+    "lines": [
+      { "speaker": "Mert", "native": "Günaydın Zeynep! Erken mi kalktın?", "english": "Good morning Zeynep! Did you get up early?" },
+      { "speaker": "Zeynep", "native": "Evet, her gün altıda kalkıyorum.", "english": "Yes, I get up at six every day." },
+      { "speaker": "Mert", "native": "Çok erken! Kahvaltı yapıyor musun?", "english": "Very early! Do you have breakfast?" },
+      { "speaker": "Zeynep", "native": "Tabii, çay içiyorum ve sonra işe gidiyorum.", "english": "Of course, I drink tea and then go to work." },
+      { "speaker": "Mert", "native": "Ben öğlen yemek yiyorum ama kahvaltı yapmıyorum.", "english": "I eat lunch at noon but I don't have breakfast." },
+      { "speaker": "Zeynep", "native": "Bu iyi değil! Akşam ne yapıyorsun?", "english": "That's not good! What do you do in the evening?" },
+      { "speaker": "Mert", "native": "Televizyon izliyorum ve erken yatıyorum.", "english": "I watch television and go to bed early." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'I go to work' in Turkish?",
+      "correctAnswer": "İşe gidiyorum",
+      "explanation": "İşe uses the dative 'to', and gidiyorum is 'I am going'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which phrase means 'every day'?",
+      "options": ["Her gün", "Sabah", "Akşam", "Öğlen"],
+      "correctAnswer": "Her gün",
+      "explanation": "Her means 'every' and gün means 'day'."
+    },
+    {
+      "type": "fill-blank",
+      "question": "Ev_____ dönüyorum. (I'm returning home)",
+      "correctAnswer": "e",
+      "explanation": "The dative -e on ev gives eve, 'to home'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does 'kahvaltı yapıyorum' mean?",
+      "options": ["I take a shower", "I have breakfast", "I go to bed", "I watch TV"],
+      "correctAnswer": "I have breakfast",
+      "explanation": "Kahvaltı yapmak means 'to have breakfast'."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: kalkıyorum / sabah / erken",
+      "correctAnswer": "Sabah erken kalkıyorum",
+      "explanation": "Time words first: 'In the morning early I get up'."
+    }
+  ],
+  "status": "complete"
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "ser-vs-estar",
+  "name": "Ser vs Estar",
+  "nameEs": "Ser vs Estar",
+  "summary": "Spanish has two verbs for 'to be'. Ser is for identity, origin, and permanent traits. Estar is for location, emotions, and temporary states.",
+  "level": "beginner",
+  "order": 3,
+  "explanation": "This is often called the hardest concept for English speakers because English only has one 'to be'. The key distinction is: SER for what something IS (identity, nature, origin, time, material) and ESTAR for how/where something IS (location, condition, emotion, result of an action).\n\nA helpful mnemonic: SER = DOCTOR (Description, Occupation, Characteristic, Time, Origin, Relationship). ESTAR = PLACE (Position/Location, Look/Appear, Action in progress, Condition, Emotion).\n\nSome adjectives change meaning depending on which verb you use: 'ser aburrido' (to be a boring person) vs 'estar aburrido' (to be bored right now). 'Ser listo' (to be clever) vs 'estar listo' (to be ready). This dual meaning is a feature of the language, not a bug — it lets you express nuance that English can't.",
+  "pattern": "SER: identity, origin, time, permanent traits | ESTAR: location, emotions, temporary states, progressive tense",
+  "conjugation": {
+    "yo": "soy / estoy",
+    "tu": "eres / estás",
+    "el": "es / está",
+    "nosotros": "somos / estamos",
+    "vosotros": "sois / estáis",
+    "ellos": "son / están"
+  },
+  "examples": [
+    { "es": "Soy australiano (identity)", "en": "I'm Australian" },
+    { "es": "Estoy en Madrid (location)", "en": "I'm in Madrid" },
+    { "es": "Es las tres (time)", "en": "It's three o'clock" },
+    { "es": "Estoy cansado (temporary state)", "en": "I'm tired" },
+    { "es": "La fiesta es en mi casa (event location)", "en": "The party is at my house" },
+    { "es": "Estoy estudiando (progressive)", "en": "I'm studying" }
+  ],
+  "commonMistakes": [
+    "Using estar for nationality: 'Estoy australiano' should be 'Soy australiano'",
+    "Using ser for location: '¿Dónde es el banco?' should be '¿Dónde está el banco?'",
+    "Confusing 'ser aburrido' (being a boring person) with 'estar aburrido' (being bored)",
+    "Using ser for emotions: 'Soy feliz' implies you're a happy person by nature, while 'Estoy feliz' means you're happy right now",
+    "Events use SER even though they have a location: 'La conferencia es en el hotel' (the conference is at the hotel)"
+  ],
+  "tip": "If it can change (mood, health, location, weather), use ESTAR. If it defines what something fundamentally is (identity, origin, material, time), use SER. Events always use SER regardless of location."
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "emergencies",
+  "title": "Emergencies",
+  "description": "Get help fast: phrases for medical, safety, and urgent situations in Thai.",
+  "situation": "Urgent help: calling for assistance, describing problems, the pharmacy, and the doctor.",
+  "order": 7,
+  "phrases": [
+    { "thai": "ช่วยด้วย", "pronunciation": "chuay-duay", "english": "Help!", "formality": "neutral" },
+    { "thai": "เรียกรถพยาบาล", "pronunciation": "riak rot pha-yaa-baan", "english": "Call an ambulance", "formality": "neutral", "tip": "The medical emergency number in Thailand is 1669." },
+    { "thai": "ผมต้องการหมอ", "pronunciation": "phom tong-kaan mor", "english": "I need a doctor", "formality": "neutral" },
+    { "thai": "ฉุกเฉิน", "pronunciation": "chuk-chern", "english": "Emergency", "formality": "neutral" },
+    { "thai": "ผมไม่สบาย", "pronunciation": "phom mai sabai", "english": "I don't feel well", "formality": "neutral" },
+    { "thai": "เจ็บตรงนี้", "pronunciation": "jep trong-nii", "english": "It hurts here", "formality": "neutral", "tip": "Point to where it hurts as you say it." },
+    { "thai": "ผมแพ้...", "pronunciation": "phom phae...", "english": "I'm allergic to...", "formality": "neutral" },
+    { "thai": "ร้านขายยาอยู่ที่ไหน", "pronunciation": "raan khaai yaa yuu thii-nai", "english": "Where is the pharmacy?", "formality": "neutral" },
+    { "thai": "ผมทำพาสปอร์ตหาย", "pronunciation": "phom tham passport haai", "english": "I've lost my passport", "formality": "neutral" },
+    { "thai": "เรียกตำรวจ", "pronunciation": "riak tam-ruat", "english": "Call the police", "formality": "neutral", "tip": "The tourist police number is 1155." },
+    { "thai": "ผมเป็นไข้", "pronunciation": "phom pen khai", "english": "I have a fever", "formality": "neutral" },
+    { "thai": "ช่วยพูดช้าๆ", "pronunciation": "chuay phuut chaa-chaa", "english": "Please speak slowly", "formality": "neutral" }
+  ]
+}

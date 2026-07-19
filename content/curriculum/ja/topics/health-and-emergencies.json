@@ -1,0 +1,90 @@
+{
+  "slug": "health-and-emergencies",
+  "title": "Health & Emergencies",
+  "titleNative": "けんこうとひじょうじ",
+  "shortSummary": "Explain symptoms, ask for help, and handle medical and emergency situations in Japan.",
+  "level": "beginner",
+  "order": 13,
+  "icon": "🏥",
+  "color": "#e03131",
+  "culturalNote": "In an emergency in Japan, dial 119 for an ambulance or fire, and 110 for the police. Pharmacies (yakkyoku) are common and staff can advise on minor ailments, while clinics handle most non-urgent care. Wearing a face mask when you have a cold is a long-standing courtesy to avoid spreading germs to others, not a sign of severe illness. The phrase odaiji ni ('take care of yourself') is the standard, warm thing to say to someone who is unwell. People tend to describe symptoms indirectly and politely, often using -ga itai desu ('my [body part] hurts'). Keep your health insurance card handy, as it is required at clinics, and note that staff at major hospitals in cities can often assist in basic English. When you say you do not feel well, expect genuine concern and helpfulness in return.",
+  "keyPhrases": [
+    { "native": "助けてください", "transliteration": "tasukete kudasai", "english": "Please help me", "pronunciation": "ta-SOO-keh-teh koo-da-sai", "context": "Urgent help" },
+    { "native": "気分が悪いです", "transliteration": "kibun ga warui desu", "english": "I feel unwell", "pronunciation": "KEE-boon ga wa-roo-ee dess", "context": "Feeling sick" },
+    { "native": "頭が痛いです", "transliteration": "atama ga itai desu", "english": "I have a headache", "pronunciation": "a-TA-ma ga ee-tai dess", "context": "Describing pain" },
+    { "native": "お腹が痛いです", "transliteration": "onaka ga itai desu", "english": "My stomach hurts", "pronunciation": "oh-NA-ka ga ee-tai dess", "context": "Describing pain" },
+    { "native": "病院はどこですか", "transliteration": "byouin wa doko desu ka", "english": "Where is the hospital?", "pronunciation": "BYOH-in wah DO-ko dess kah", "context": "Finding care" },
+    { "native": "救急車を呼んでください", "transliteration": "kyuukyuusha o yonde kudasai", "english": "Please call an ambulance", "pronunciation": "kyoo-KYOO-sha oh yon-deh koo-da-sai", "context": "Emergency" },
+    { "native": "薬がほしいです", "transliteration": "kusuri ga hoshii desu", "english": "I want some medicine", "pronunciation": "koo-SOO-ree ga ho-shee dess", "context": "At the pharmacy" },
+    { "native": "熱があります", "transliteration": "netsu ga arimasu", "english": "I have a fever", "pronunciation": "NEH-tsoo ga a-ree-mas", "context": "Symptom" },
+    { "native": "アレルギーがあります", "transliteration": "arerugii ga arimasu", "english": "I have an allergy", "pronunciation": "a-re-ROO-gee ga a-ree-mas", "context": "Important warning" },
+    { "native": "お大事に", "transliteration": "odaiji ni", "english": "Take care (get well)", "pronunciation": "oh-DAI-jee nee", "context": "Wishing recovery" }
+  ],
+  "grammar": [
+    {
+      "rule": "Expressing pain with ga itai desu",
+      "explanation": "To say a body part hurts, name the part, mark it with ga, and add itai desu ('is painful'). Atama ga itai desu means 'my head hurts'. Itai is an i-adjective, so it takes desu directly in polite speech.",
+      "examples": [
+        { "native": "歯が痛いです。(ha ga itai desu)", "en": "My tooth hurts." },
+        { "native": "喉が痛いです。(nodo ga itai desu)", "en": "My throat hurts." }
+      ],
+      "commonMistake": "Marking the painful part with wa instead of ga, which weakens the natural emphasis."
+    },
+    {
+      "rule": "Wanting something with hoshii desu",
+      "explanation": "Hoshii means 'want' for things (not actions). The desired item is marked with ga: kusuri ga hoshii desu means 'I want medicine'. For wanting to do an action, you instead use the verb stem plus -tai.",
+      "examples": [
+        { "native": "水がほしいです。(mizu ga hoshii desu)", "en": "I want water." },
+        { "native": "休みたいです。(yasumitai desu)", "en": "I want to rest." }
+      ],
+      "commonMistake": "Using hoshii for actions; hoshii is for objects, while -tai attaches to verbs for wanting to act."
+    }
+  ],
+  "dialogue": {
+    "setup": "A traveller feels unwell and speaks to a pharmacist.",
+    "lines": [
+      { "speaker": "旅行者", "native": "すみません、気分が悪いです。", "transliteration": "sumimasen, kibun ga warui desu", "english": "Excuse me, I feel unwell." },
+      { "speaker": "薬剤師", "native": "どうしましたか。", "transliteration": "dou shimashita ka", "english": "What's wrong?" },
+      { "speaker": "旅行者", "native": "頭が痛いです。それに熱があります。", "transliteration": "atama ga itai desu. soreni netsu ga arimasu", "english": "I have a headache. Also, I have a fever." },
+      { "speaker": "薬剤師", "native": "アレルギーはありますか。", "transliteration": "arerugii wa arimasu ka", "english": "Do you have any allergies?" },
+      { "speaker": "旅行者", "native": "いいえ、ありません。薬がほしいです。", "transliteration": "iie, arimasen. kusuri ga hoshii desu", "english": "No, I don't. I'd like some medicine." },
+      { "speaker": "薬剤師", "native": "こちらの薬をどうぞ。お大事に。", "transliteration": "kochira no kusuri o douzo. odaiji ni", "english": "Please take this medicine. Take care." },
+      { "speaker": "旅行者", "native": "ありがとうございます。", "transliteration": "arigatou gozaimasu", "english": "Thank you very much." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'I have a headache' in Japanese?",
+      "correctAnswer": "頭が痛いです (atama ga itai desu)",
+      "explanation": "Atama (head) is marked with ga, and itai desu means 'is painful'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which number do you dial for an ambulance in Japan?",
+      "options": ["110", "119", "000", "911"],
+      "correctAnswer": "119",
+      "explanation": "119 is for ambulance and fire; 110 is for the police."
+    },
+    {
+      "type": "fill-blank",
+      "question": "薬 _____ ほしいです。(I want medicine)",
+      "correctAnswer": "が (ga)",
+      "explanation": "The desired item with hoshii is marked by ga: kusuri ga hoshii desu."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which phrase do you say to wish someone a good recovery?",
+      "options": ["お大事に (odaiji ni)", "助けてください (tasukete kudasai)", "頑張ります (ganbarimasu)", "いただきます (itadakimasu)"],
+      "correctAnswer": "お大事に (odaiji ni)",
+      "explanation": "Odaiji ni is the warm set phrase meaning 'take care / get well'."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: ください / 助けて (please help me)",
+      "correctAnswer": "助けてください (tasukete kudasai)",
+      "explanation": "The -te form of tasukeru plus kudasai makes an urgent polite request for help."
+    }
+  ],
+  "status": "complete"
+}

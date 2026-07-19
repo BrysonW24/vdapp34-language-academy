@@ -1,0 +1,21 @@
+{
+  "slug": "hotel",
+  "title": "At the Hotel",
+  "description": "Check in, ask about your room, and handle hotel basics in German.",
+  "situation": "Accommodation: checking in and out, room questions, breakfast times, and requests.",
+  "order": 6,
+  "phrases": [
+    { "german": "Ich habe eine Reservierung", "english": "I have a reservation", "pronunciation": "ikh HAH-buh EYE-nuh reh-zer-VEE-roong", "formality": "neutral" },
+    { "german": "Haben Sie ein Zimmer frei?", "english": "Do you have a room available?", "pronunciation": "HAH-ben zee ine TSIM-mer fry", "formality": "formal" },
+    { "german": "Ein Einzelzimmer / Doppelzimmer", "english": "A single room / double room", "pronunciation": "ine EYE-ntsel-tsim-mer / DOP-pel-tsim-mer", "formality": "neutral" },
+    { "german": "Für wie viele Nächte?", "english": "For how many nights?", "pronunciation": "foor vee FEE-luh NEKH-tuh", "formality": "neutral" },
+    { "german": "Ist das Frühstück inklusive?", "english": "Is breakfast included?", "pronunciation": "ist dahs FROO-shtook in-kloo-ZEE-vuh", "formality": "neutral" },
+    { "german": "Um wie viel Uhr ist das Frühstück?", "english": "What time is breakfast?", "pronunciation": "oom vee feel oor ist dahs FROO-shtook", "formality": "neutral" },
+    { "german": "Gibt es WLAN?", "english": "Is there Wi-Fi?", "pronunciation": "gipt es VAY-lahn", "formality": "neutral", "tip": "Germans pronounce WLAN as 'VAY-lahn'." },
+    { "german": "Die Klimaanlage funktioniert nicht", "english": "The air conditioning isn't working", "pronunciation": "dee KLEE-mah-ahn-lah-guh foonk-tsyo-NEERT nikht", "formality": "neutral" },
+    { "german": "Könnte ich noch ein Handtuch haben?", "english": "Could I have another towel?", "pronunciation": "KUR-tuh ikh nokh ine HAHNT-tookh HAH-ben", "formality": "formal" },
+    { "german": "Wann muss ich auschecken?", "english": "When do I have to check out?", "pronunciation": "vahn mooss ikh OWS-chek-en", "formality": "neutral" },
+    { "german": "Kann ich mein Gepäck hier lassen?", "english": "Can I leave my luggage here?", "pronunciation": "kahn ikh mine guh-PEK heer LAH-sen", "formality": "neutral" },
+    { "german": "Die Rechnung, bitte", "english": "The bill, please", "pronunciation": "dee REKH-noong BIT-tuh", "formality": "neutral" }
+  ]
+}

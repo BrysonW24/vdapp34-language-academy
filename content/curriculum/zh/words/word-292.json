@@ -1,13 +1,13 @@
 {
   "rank": 292,
-  "chinese": "鸡蛋",
-  "characters": "鸡蛋",
-  "pinyin": "jīdàn",
-  "english": "egg",
-  "pronunciation": "jee-dahn (1st tone, 4th tone)",
-  "partOfSpeech": "noun",
-  "exampleZh": "早饭吃了两个鸡蛋。",
-  "exampleEn": "I ate two eggs for breakfast.",
+  "chinese": "强调",
+  "characters": "强调",
+  "pinyin": "qiáng diào",
+  "english": "to emphasize",
+  "pronunciation": "qiang-diao",
+  "partOfSpeech": "verb",
+  "exampleZh": "我想强调一下。",
+  "exampleEn": "I want to emphasize.",
   "group": "everyday-250",
-  "topic": "food-and-drink"
+  "topic": "actions"
 }

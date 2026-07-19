@@ -1,0 +1,34 @@
+{
+  "slug": "present-tense-irregular",
+  "name": "Present Tense — Key Irregular Verbs",
+  "nameEs": "El Presente — Verbos Irregulares Clave",
+  "summary": "Master the most important irregular verbs: ir, tener, hacer, poder, and querer — you'll use them in every conversation.",
+  "level": "beginner",
+  "order": 4,
+  "explanation": "The most frequently used verbs in Spanish are irregular — they don't follow the standard -ar/-er/-ir patterns. The good news is there are only about 20 truly irregular verbs you need at the beginner level, and many follow predictable patterns.\n\nStem-changing verbs are the most common type of irregularity. The stem vowel changes in all forms except nosotros and vosotros: querer (e→ie), poder (o→ue), jugar (u→ue). These are sometimes called 'boot verbs' because if you draw a line around the forms that change, it looks like a boot.\n\nSome verbs are only irregular in the 'yo' form: hacer→hago, poner→pongo, salir→salgo, conocer→conozco. These are called 'yo-go' verbs. A few verbs like ir (to go) and ser (to be) are completely irregular and must be memorised individually.",
+  "pattern": "Stem-changing (e→ie, o→ue, e→i) in all forms except nosotros/vosotros | 'Yo-go' verbs: irregular only in yo form",
+  "conjugation": {
+    "yo": "voy / tengo / hago / puedo / quiero",
+    "tu": "vas / tienes / haces / puedes / quieres",
+    "el": "va / tiene / hace / puede / quiere",
+    "nosotros": "vamos / tenemos / hacemos / podemos / queremos",
+    "vosotros": "vais / tenéis / hacéis / podéis / queréis",
+    "ellos": "van / tienen / hacen / pueden / quieren"
+  },
+  "examples": [
+    { "es": "Voy al trabajo en metro", "en": "I go to work by metro (ir)" },
+    { "es": "Tengo dos hermanos", "en": "I have two siblings (tener)" },
+    { "es": "¿Qué haces esta noche?", "en": "What are you doing tonight? (hacer)" },
+    { "es": "No puedo ir mañana", "en": "I can't go tomorrow (poder)" },
+    { "es": "¿Quieres un café?", "en": "Do you want a coffee? (querer)" },
+    { "es": "Hago ejercicio todos los días", "en": "I exercise every day (hacer)" }
+  ],
+  "commonMistakes": [
+    "Regularising ir: 'yo io' should be 'yo voy'",
+    "Forgetting the stem change: 'yo quero' should be 'yo quiero' (e→ie)",
+    "Applying the stem change to nosotros: 'nosotros podemos' is correct (no change), not 'puodemos'",
+    "Mixing up tener and haber: 'tengo 25 años' (I'm 25) is correct — age uses tener",
+    "Forgetting the -go in yo forms: 'yo haco' should be 'yo hago'"
+  ],
+  "tip": "Focus on the five verbs in this lesson — ir, tener, hacer, poder, querer. They appear in almost every conversation and cover going places, having things, doing activities, ability, and desire."
+}

@@ -1,0 +1,90 @@
+{
+  "slug": "food-and-restaurants",
+  "title": "Food & Restaurants",
+  "titleNative": "Cibo e ristoranti",
+  "shortSummary": "Order a meal, ask about dishes, and pay the bill, central to Italian daily life.",
+  "level": "beginner",
+  "order": 4,
+  "icon": "🍝",
+  "color": "#c0392b",
+  "culturalNote": "Eating is a cornerstone of Italian culture and the meal has a structure: antipasto, primo (often pasta), secondo with a contorno (side), then dolce and coffee. Order un caffè and you get an espresso; a cappuccino is a morning-only drink and rarely taken after a meal. Many restaurants add a small coperto (cover charge) per person, and tipping is modest because service is usually included. You ask for the bill yourself with il conto, per favore, as the waiter will not bring it unprompted.",
+  "keyPhrases": [
+    { "native": "Un tavolo per due", "english": "A table for two", "pronunciation": "oon TAH-voh-loh per DOO-eh", "context": "Getting seated" },
+    { "native": "Il menù, per favore", "english": "The menu, please", "pronunciation": "eel meh-NOO", "context": "Starting to order" },
+    { "native": "Vorrei la pasta", "english": "I would like the pasta", "pronunciation": "vor-RAY lah PAS-tah", "context": "Polite ordering" },
+    { "native": "Cosa mi consiglia?", "english": "What do you recommend?", "pronunciation": "KOH-zah mee kon-SEE-lyah", "context": "Asking for advice" },
+    { "native": "Sono vegetariano", "english": "I'm vegetarian", "pronunciation": "SOH-noh veh-jeh-tah-ree-AH-noh", "context": "Dietary need" },
+    { "native": "Un bicchiere di vino rosso", "english": "A glass of red wine", "pronunciation": "oon bee-kee-EH-reh dee VEE-noh ROS-soh", "context": "Ordering a drink" },
+    { "native": "Acqua naturale o frizzante?", "english": "Still or sparkling water?", "pronunciation": "AH-kwah nah-too-RAH-leh oh free-TSAN-teh", "context": "Common question" },
+    { "native": "È buonissimo", "english": "It's delicious", "pronunciation": "eh bwoh-NEES-see-moh", "context": "Praising the food" },
+    { "native": "Il conto, per favore", "english": "The bill, please", "pronunciation": "eel KON-toh", "context": "Asking to pay" },
+    { "native": "Posso pagare con la carta?", "english": "Can I pay by card?", "pronunciation": "POS-soh pah-GAH-reh kon lah KAR-tah", "context": "Paying" }
+  ],
+  "grammar": [
+    {
+      "rule": "Vorrei for polite requests",
+      "explanation": "Vorrei (I would like) is the conditional of volere and is the polite way to order. It is softer than voglio (I want), which can sound abrupt in a restaurant.",
+      "examples": [
+        { "native": "Vorrei un caffè.", "en": "I would like a coffee." },
+        { "native": "Vorrei vedere il menù.", "en": "I would like to see the menu." }
+      ],
+      "commonMistake": "Using voglio with the waiter, which sounds demanding. Prefer vorrei."
+    },
+    {
+      "rule": "The partitive del for 'some'",
+      "explanation": "To say 'some' of something, Italian uses di plus the article, contracted: del pane (some bread), della frutta (some fruit), dei biscotti (some biscuits).",
+      "examples": [
+        { "native": "Vorrei del pane.", "en": "I'd like some bread." },
+        { "native": "Prendo dell'acqua.", "en": "I'll have some water." }
+      ],
+      "commonMistake": "Translating 'some' as a separate word. Italian folds it into del, della, dei."
+    }
+  ],
+  "dialogue": {
+    "setup": "Elena and a waiter at a trattoria in Bologna.",
+    "lines": [
+      { "speaker": "Cameriere", "native": "Buonasera, un tavolo per quante persone?", "english": "Good evening, a table for how many people?" },
+      { "speaker": "Elena", "native": "Per due, grazie. Il menù, per favore.", "english": "For two, thank you. The menu, please." },
+      { "speaker": "Cameriere", "native": "Certo. Cosa desidera?", "english": "Of course. What would you like?" },
+      { "speaker": "Elena", "native": "Cosa mi consiglia?", "english": "What do you recommend?" },
+      { "speaker": "Cameriere", "native": "Le tagliatelle al ragù sono ottime.", "english": "The tagliatelle with ragù are excellent." },
+      { "speaker": "Elena", "native": "Perfetto, vorrei le tagliatelle.", "english": "Perfect, I'd like the tagliatelle." },
+      { "speaker": "Cameriere", "native": "Ottima scelta. E da bere?", "english": "Excellent choice. And to drink?" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'The bill, please' in Italian?",
+      "correctAnswer": "Il conto, per favore",
+      "explanation": "Il conto is the bill; you must ask for it."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which is the polite way to order?",
+      "options": ["Voglio la pasta", "Vorrei la pasta", "Dammi la pasta", "Pasta!"],
+      "correctAnswer": "Vorrei la pasta",
+      "explanation": "Vorrei is softer and more polite than voglio."
+    },
+    {
+      "type": "fill-blank",
+      "question": "Vorrei _____ pane. (some)",
+      "correctAnswer": "del",
+      "explanation": "Del means 'some' with a masculine singular noun."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does frizzante mean?",
+      "options": ["still", "sparkling", "cold", "hot"],
+      "correctAnswer": "sparkling",
+      "explanation": "Acqua frizzante is sparkling water; naturale is still."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: due / un / per / tavolo",
+      "correctAnswer": "Un tavolo per due",
+      "explanation": "Un tavolo per due means 'a table for two'."
+    }
+  ],
+  "status": "complete"
+}

@@ -1,11 +1,11 @@
 {
   "rank": 331,
-  "german": "zwischen",
-  "english": "between",
-  "pronunciation": "TSVI-shen",
+  "german": "dadurch",
+  "english": "through this",
+  "pronunciation": "d a d ʊ ʀ ç",
   "partOfSpeech": "preposition",
-  "exampleDe": "Das Café ist zwischen der Bank und dem Markt.",
-  "exampleEn": "The cafe is between the bank and the market.",
+  "exampleDe": "Ich benutze dadurch jeden Tag.",
+  "exampleEn": "I use dadurch every day.",
   "group": "everyday-250",
-  "topic": "location"
+  "topic": "basics"
 }

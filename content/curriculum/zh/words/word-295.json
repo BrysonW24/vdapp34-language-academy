@@ -1,13 +1,13 @@
 {
   "rank": 295,
-  "chinese": "牛肉",
-  "characters": "牛肉",
-  "pinyin": "niúròu",
-  "english": "beef",
-  "pronunciation": "nyoh-roh (2nd tone, 4th tone)",
+  "chinese": "教师",
+  "characters": "教师",
+  "pinyin": "jiào shī",
+  "english": "teacher",
+  "pronunciation": "jiao-shi",
   "partOfSpeech": "noun",
-  "exampleZh": "牛肉面很好吃。",
-  "exampleEn": "Beef noodles are delicious.",
+  "exampleZh": "这个教师很重要。",
+  "exampleEn": "This teacher is important.",
   "group": "everyday-250",
-  "topic": "food-and-drink"
+  "topic": "people"
 }

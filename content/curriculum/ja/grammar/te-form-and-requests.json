@@ -1,0 +1,34 @@
+{
+  "slug": "te-form-and-requests",
+  "name": "The te-form and Requests",
+  "nameNative": "て形と依頼表現",
+  "summary": "The versatile て (te) form links actions and makes polite requests with てください (te kudasai), 'please do'.",
+  "level": "pre-intermediate",
+  "order": 12,
+  "explanation": "The て-form is one of the most powerful tools in Japanese. On its own it connects clauses ('do this and then that'), and combined with helper words it builds requests, permission, ongoing actions, and more. The most useful first use is the polite request: [verb in て-form] + ください means 'please do (the verb)'. 待ってください (matte kudasai) means 'please wait'.\n\nForming the て-form follows the same euphonic rules as the plain past -た form, just with て instead of た. Ichidan verbs drop る and add て: 食べる becomes 食べて (tabete). Godan verbs change by their ending: 飲む becomes 飲んで (nonde), 書く becomes 書いて (kaite), 待つ becomes 待って (matte), 話す becomes 話して (hanashite). The irregulars are して (shite) and 来て (kite).\n\nBeyond requests, the て-form joins two actions in sequence: 朝起きて、コーヒーを飲みます (asa okite, koohii o nomimasu) means 'I get up in the morning and drink coffee'. It also pairs with います for ongoing actions (食べています, tabete imasu, 'am eating'). Mastering the て-form opens the door to a huge range of everyday grammar.",
+  "pattern": "[verb te-form] + ください = please do (verb)",
+  "conjugation": {
+    "ichidan: taberu": "食べて (tabete) - eat and / eating",
+    "godan -mu: nomu": "飲んで (nonde) - drink and",
+    "godan -ku: kaku": "書いて (kaite) - write and",
+    "godan -tsu: matsu": "待って (matte) - wait and",
+    "irregular: suru": "して (shite) - do and",
+    "irregular: kuru": "来て (kite) - come and"
+  },
+  "examples": [
+    { "native": "ちょっと待ってください。(chotto matte kudasai.)", "en": "Please wait a moment." },
+    { "native": "ここに名前を書いてください。(koko ni namae o kaite kudasai.)", "en": "Please write your name here." },
+    { "native": "もう一度言ってください。(mou ichido itte kudasai.)", "en": "Please say it once more." },
+    { "native": "朝起きて、新聞を読みます。(asa okite, shinbun o yomimasu.)", "en": "I get up in the morning and read the newspaper." },
+    { "native": "今、昼ご飯を食べています。(ima, hirugohan o tabete imasu.)", "en": "I am eating lunch now." },
+    { "native": "写真を撮ってもいいですか。(shashin o totte mo ii desu ka.)", "en": "May I take a photo?" }
+  ],
+  "commonMistakes": [
+    "Applying the wrong euphonic change. 書く becomes 書いて, but 行く is irregular as 行って.",
+    "Using the dictionary form with ください. It must be the て-form: 待ってください, not 待つください.",
+    "Confusing the て-form with the past -た form; they share rules but end in て, not た.",
+    "Forgetting the irregulars する - して and 来る - 来て.",
+    "Treating てください as rude. It is polite, though there are even softer request forms for delicate situations."
+  ],
+  "tip": "Learn the て-form once and you unlock requests, sequencing, and ongoing actions all at the same time."
+}

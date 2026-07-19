@@ -1,0 +1,34 @@
+{
+  "slug": "accusative-and-cases",
+  "name": "The Accusative and Other Cases",
+  "nameNative": "Ad durum ekleri",
+  "summary": "Suffixes that do the work of English prepositions and word order: to, in, from, and the marked direct object.",
+  "level": "elementary",
+  "order": 6,
+  "explanation": "Turkish marks the role of a noun with case suffixes rather than with extra words or fixed word order. Six core cases cover most needs: nominative (no suffix, the subject), accusative (-i, a specific direct object), dative (-e, 'to'), locative (-de, 'in/at'), ablative (-den, 'from'), and genitive (-in, 'of'). Each suffix harmonises with the noun's vowels.\n\nThe accusative deserves special attention because it is used only for a definite, specific object. Kitap okuyorum means 'I am reading a book' (any book), but Kitabı okuyorum means 'I am reading the book' (a specific one). English has no separate word for this, so learners often add or drop the -i in the wrong place.\n\nWhen the accusative, dative, or genitive attaches to a word ending in a vowel, a buffer letter -y- appears to keep the sounds apart: araba becomes arabayı (the car), not arabaı. The locative and ablative add a buffer only in pronunciation, not spelling.",
+  "pattern": "noun + case suffix (accusative -ı/-i/-u/-ü, dative -a/-e, locative -da/-de, ablative -dan/-den)",
+  "conjugation": {
+    "accusative (the X)": "evi, kitabı, okulu, gözü",
+    "dative (to X)": "eve, okula",
+    "locative (in/at X)": "evde, okulda",
+    "ablative (from X)": "evden, okuldan",
+    "genitive (of X)": "evin, okulun",
+    "buffer -y- after a vowel": "araba -> arabayı, arabaya"
+  },
+  "examples": [
+    { "native": "Kitabı okuyorum.", "en": "I am reading the book." },
+    { "native": "Eve gidiyorum.", "en": "I am going home." },
+    { "native": "Okulda çalışıyorum.", "en": "I work at school." },
+    { "native": "İstanbul'dan geliyorum.", "en": "I am coming from Istanbul." },
+    { "native": "Arabayı görüyorum.", "en": "I see the car." },
+    { "native": "Annenin çantası.", "en": "Mother's bag." }
+  ],
+  "commonMistakes": [
+    "Adding the accusative -i to a non-specific object, saying Kitabı okuyorum when you mean any book.",
+    "Dropping the accusative for a clearly specific object, saying Kitap okuyorum about the book on the table.",
+    "Forgetting the buffer -y-, saying arabaı instead of arabayı.",
+    "Using the dative -e where the locative -de is needed, confusing 'going to' with 'being at'.",
+    "Mixing back and front harmony in the case vowel, saying evda instead of evde."
+  ],
+  "tip": "Think of cases as built-in prepositions. -e is 'to', -de is 'in/at', -den is 'from'. The accusative -i is the tricky one: use it only when English would say 'the'."
+}

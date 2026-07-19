@@ -1,0 +1,90 @@
+{
+  "slug": "food-and-restaurants",
+  "title": "Food & Restaurants",
+  "titleNative": "खाना और रेस्तराँ",
+  "shortSummary": "Order a meal, ask about spice and ingredients, and pay the bill in Hindi.",
+  "level": "beginner",
+  "order": 4,
+  "icon": "🍛",
+  "color": "#e8590c",
+  "culturalNote": "Food is at the heart of Indian hospitality, and a host will often insist you eat more (और लीजिए, please have more) several times as a sign of care. Many Indians are vegetarian, so shaakaahaari (शाकाहारी, vegetarian) and maansaahaari (मांसाहारी, non-vegetarian) are everyday words on every menu. Spice level matters; you can ask for food kam teekha (कम तीखा, less spicy) if you are not used to it. The thali (थाली), a round platter with several small dishes, rice, and bread, is a great way to sample a region. Traditionally people eat with the right hand, using roti to scoop curry, and the left hand is kept away from food. In many homes shoes come off at the door, and saying the food is tasty, bahut swaadisht (बहुत स्वादिष्ट), delights any host.",
+  "keyPhrases": [
+    { "native": "मुझे भूख लगी है", "transliteration": "mujhe bhookh lagi hai", "english": "I am hungry", "pronunciation": "MOO-jhay bhookh LUH-gee hai", "context": "Before a meal" },
+    { "native": "मेन्यू दिखाइए", "transliteration": "menu dikhaiye", "english": "Please show the menu", "pronunciation": "MEN-yoo di-KHAA-i-yay", "context": "At a restaurant" },
+    { "native": "मैं शाकाहारी हूँ", "transliteration": "main shaakaahaari hoon", "english": "I am vegetarian", "pronunciation": "main shaa-kaa-HAA-ree hoon", "context": "Stating diet" },
+    { "native": "यह कम तीखा बनाइए", "transliteration": "yah kam teekha banaiye", "english": "Please make it less spicy", "pronunciation": "yuh kum TEE-khaa buh-NAA-i-yay", "context": "Adjusting spice" },
+    { "native": "एक प्लेट दाल चाहिए", "transliteration": "ek plate daal chahiye", "english": "I want a plate of lentils", "pronunciation": "ek plate daal CHAA-hi-yay", "context": "Ordering food" },
+    { "native": "पानी लाइए", "transliteration": "paani laiye", "english": "Please bring water", "pronunciation": "PAA-nee LAA-i-yay", "context": "Requesting a drink" },
+    { "native": "यह बहुत स्वादिष्ट है", "transliteration": "yah bahut swaadisht hai", "english": "This is very tasty", "pronunciation": "yuh buh-HOOT swaa-DISHT hai", "context": "Complimenting food" },
+    { "native": "बिल लाइए", "transliteration": "bill laiye", "english": "Please bring the bill", "pronunciation": "bill LAA-i-yay", "context": "Asking to pay" },
+    { "native": "इसमें क्या है?", "transliteration": "ismein kya hai?", "english": "What is in this?", "pronunciation": "IS-mein kyaa hai", "context": "Asking ingredients" },
+    { "native": "और लीजिए", "transliteration": "aur lijiye", "english": "Please have some more", "pronunciation": "owr LEE-ji-yay", "context": "Offering more food" }
+  ],
+  "grammar": [
+    {
+      "rule": "Chahiye for 'want / need'",
+      "explanation": "Chahiye (चाहिए) means 'is wanted/needed' and the person who wants it takes the postposition ko (or the special pronoun mujhe = 'to me'). So mujhe chai chahiye literally means 'to me tea is wanted'.",
+      "examples": [
+        { "native": "मुझे चाय चाहिए। (mujhe chai chahiye.)", "en": "I want tea." },
+        { "native": "हमें दो रोटी चाहिए। (hamein do roti chahiye.)", "en": "We need two rotis." }
+      ],
+      "commonMistake": "Saying main chahiye; the wanter takes mujhe (to me), not main (I)."
+    },
+    {
+      "rule": "Polite requests with -iye",
+      "explanation": "To make a polite request, add -iye to the verb stem: laana (to bring) becomes laiye (please bring), dikhaana (to show) becomes dikhaiye (please show). This is the respectful imperative used with aap.",
+      "examples": [
+        { "native": "पानी लाइए। (paani laiye.)", "en": "Please bring water." },
+        { "native": "मेन्यू दिखाइए। (menu dikhaiye.)", "en": "Please show the menu." }
+      ],
+      "commonMistake": "Using the bare stem (laa, dikhaa) with strangers; it sounds like an order, not a request."
+    }
+  ],
+  "dialogue": {
+    "setup": "Sara orders dinner from a waiter, Ravi, at a Delhi restaurant.",
+    "lines": [
+      { "speaker": "Ravi", "native": "नमस्ते! आपको क्या चाहिए?", "transliteration": "namaste! aapko kya chahiye?", "english": "Hello! What would you like?" },
+      { "speaker": "Sara", "native": "नमस्ते! मैं शाकाहारी हूँ। मेन्यू दिखाइए।", "transliteration": "namaste! main shaakaahaari hoon. menu dikhaiye.", "english": "Hello! I'm vegetarian. Please show the menu." },
+      { "speaker": "Ravi", "native": "ज़रूर। दाल और पनीर बहुत अच्छे हैं।", "transliteration": "zaroor. daal aur paneer bahut achhe hain.", "english": "Of course. The lentils and paneer are very good." },
+      { "speaker": "Sara", "native": "ठीक है। एक प्लेट दाल चाहिए, कम तीखा।", "transliteration": "theek hai. ek plate daal chahiye, kam teekha.", "english": "Okay. I want a plate of lentils, less spicy." },
+      { "speaker": "Ravi", "native": "और पीने के लिए?", "transliteration": "aur peene ke liye?", "english": "And to drink?" },
+      { "speaker": "Sara", "native": "बस पानी लाइए, धन्यवाद।", "transliteration": "bas paani laiye, dhanyavaad.", "english": "Just bring water, thank you." },
+      { "speaker": "Ravi", "native": "जी ज़रूर। अभी लाता हूँ।", "transliteration": "ji zaroor. abhi laata hoon.", "english": "Yes, of course. I'll bring it now." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'I am vegetarian' in Hindi?",
+      "correctAnswer": "मैं शाकाहारी हूँ (main shaakaahaari hoon)",
+      "explanation": "Shaakaahaari means vegetarian; main hoon is 'I am'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which phrase asks the waiter to make food less spicy?",
+      "options": ["यह बहुत स्वादिष्ट है", "यह कम तीखा बनाइए", "बिल लाइए", "और लीजिए"],
+      "correctAnswer": "यह कम तीखा बनाइए",
+      "explanation": "Kam teekha means 'less spicy' and banaiye is 'please make'."
+    },
+    {
+      "type": "fill-blank",
+      "question": "मुझे चाय _____। (I want tea)",
+      "correctAnswer": "चाहिए (chahiye)",
+      "explanation": "Chahiye expresses 'is wanted', with the wanter marked by mujhe."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does 'बिल लाइए (bill laiye)' mean?",
+      "options": ["Show the menu", "Bring water", "Bring the bill", "Make it spicy"],
+      "correctAnswer": "Bring the bill",
+      "explanation": "Laiye is the polite 'please bring', so this asks for the bill."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: पानी / लाइए (Please bring water)",
+      "correctAnswer": "पानी लाइए (paani laiye)",
+      "explanation": "Object first, then the polite verb laiye at the end."
+    }
+  ],
+  "status": "complete"
+}

@@ -1,13 +1,11 @@
 {
   "rank": 563,
-  "german": "Tier",
-  "english": "animal",
-  "pronunciation": "TEER",
-  "partOfSpeech": "noun",
-  "gender": "neuter",
-  "article": "das",
-  "exampleDe": "Das Tier ist gefährlich.",
-  "exampleEn": "The animal is dangerous.",
+  "german": "dagegen",
+  "english": "to against it",
+  "pronunciation": "d a ɡ e ɡ ə n",
+  "partOfSpeech": "verb",
+  "exampleDe": "Ich möchte dagegen sein.",
+  "exampleEn": "I want to against it.",
   "group": "confident-350",
-  "topic": "travel"
+  "topic": "actions"
 }

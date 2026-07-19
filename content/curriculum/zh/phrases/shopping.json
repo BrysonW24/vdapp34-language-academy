@@ -1,0 +1,21 @@
+{
+  "slug": "shopping",
+  "title": "Shopping",
+  "description": "Ask for prices, bargain at markets, and pay while shopping in Mandarin.",
+  "situation": "Shops and markets: finding items, asking prices, bargaining, and paying by phone.",
+  "order": 4,
+  "phrases": [
+    { "chinese": "这个多少钱？", "pinyin": "zhège duōshao qián?", "english": "How much is this?", "formality": "neutral" },
+    { "chinese": "太贵了", "pinyin": "tài guì le", "english": "That's too expensive", "formality": "neutral", "tip": "The opening line of any good bargain." },
+    { "chinese": "便宜一点", "pinyin": "piányi yìdiǎn", "english": "A bit cheaper, please", "formality": "neutral", "tip": "Bargaining is expected at markets, not in malls." },
+    { "chinese": "我可以试穿吗？", "pinyin": "wǒ kěyǐ shìchuān ma?", "english": "Can I try it on?", "formality": "neutral" },
+    { "chinese": "有大一点的吗？", "pinyin": "yǒu dà yìdiǎn de ma?", "english": "Do you have a bigger one?", "formality": "neutral", "tip": "Swap 大 (dà, big) for 小 (xiǎo, small)." },
+    { "chinese": "我要这个", "pinyin": "wǒ yào zhège", "english": "I'll take this one", "formality": "neutral" },
+    { "chinese": "可以刷卡吗？", "pinyin": "kěyǐ shuākǎ ma?", "english": "Can I pay by card?", "formality": "neutral" },
+    { "chinese": "我用微信支付", "pinyin": "wǒ yòng Wēixìn zhīfù", "english": "I'll pay with WeChat", "formality": "neutral" },
+    { "chinese": "我只是看看", "pinyin": "wǒ zhǐshì kànkan", "english": "I'm just looking", "formality": "neutral" },
+    { "chinese": "有没有别的颜色？", "pinyin": "yǒu méiyǒu bié de yánsè?", "english": "Is there another colour?", "formality": "neutral" },
+    { "chinese": "请给我发票", "pinyin": "qǐng gěi wǒ fāpiào", "english": "Please give me a receipt", "formality": "neutral" },
+    { "chinese": "谢谢，不用了", "pinyin": "xièxie, bú yòng le", "english": "Thanks, I'm fine", "formality": "neutral", "tip": "A polite way to decline help." }
+  ]
+}

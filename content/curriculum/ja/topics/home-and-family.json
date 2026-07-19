@@ -1,0 +1,90 @@
+{
+  "slug": "home-and-family",
+  "title": "Home & Family",
+  "titleNative": "いえとかぞく",
+  "shortSummary": "Describe your family and home, using the humble and honorific words for relatives.",
+  "level": "beginner",
+  "order": 8,
+  "icon": "🏠",
+  "color": "#5f3dc4",
+  "culturalNote": "Japanese has two sets of family terms: humble words for your own family and respectful words for someone else's. You call your own mother haha but politely refer to another person's mother as okaasan, and likewise chichi versus otousan for fathers. This in-group versus out-group distinction (uchi and soto) runs deep through the language and reflects modesty about your own circle. Traditional homes feature a tatami-mat room, a genkan entrance where shoes come off, and often a butsudan (family altar) honouring ancestors. Multigenerational living is less common than it once was, but family remains a strong unit, and seasonal gatherings such as New Year (oshougatsu) bring relatives together. When you enter a home you say ojama shimasu ('I'll intrude'), a humble acknowledgement of being a guest.",
+  "keyPhrases": [
+    { "native": "家族は何人ですか", "transliteration": "kazoku wa nannin desu ka", "english": "How many are in your family?", "pronunciation": "KA-zo-koo wah NAN-nin dess kah", "context": "Asking about family" },
+    { "native": "四人家族です", "transliteration": "yonin kazoku desu", "english": "We are a family of four", "pronunciation": "yo-NIN ka-zo-koo dess", "context": "Stating family size" },
+    { "native": "兄弟がいますか", "transliteration": "kyoudai ga imasu ka", "english": "Do you have siblings?", "pronunciation": "kyoh-dai ga ee-mas kah", "context": "Asking about siblings" },
+    { "native": "姉が一人います", "transliteration": "ane ga hitori imasu", "english": "I have one older sister", "pronunciation": "A-neh ga hee-to-ree ee-mas", "context": "Describing family" },
+    { "native": "両親と住んでいます", "transliteration": "ryoushin to sunde imasu", "english": "I live with my parents", "pronunciation": "RYOH-shin to soon-deh ee-mas", "context": "Living arrangement" },
+    { "native": "犬を飼っています", "transliteration": "inu o katte imasu", "english": "I have a dog", "pronunciation": "EE-noo oh kat-teh ee-mas", "context": "Pets" },
+    { "native": "私の部屋です", "transliteration": "watashi no heya desu", "english": "It's my room", "pronunciation": "wa-TA-shee no HEH-ya dess", "context": "Showing the home" },
+    { "native": "台所はあそこです", "transliteration": "daidokoro wa asoko desu", "english": "The kitchen is over there", "pronunciation": "dai-DO-ko-ro wah a-so-ko dess", "context": "Describing rooms" },
+    { "native": "お邪魔します", "transliteration": "ojama shimasu", "english": "Excuse me for intruding", "pronunciation": "oh-JA-ma shee-mas", "context": "Entering a home" },
+    { "native": "ただいま", "transliteration": "tadaima", "english": "I'm home", "pronunciation": "ta-DAI-ma", "context": "Returning home" }
+  ],
+  "grammar": [
+    {
+      "rule": "The possessive particle no",
+      "explanation": "The particle no links two nouns to show possession or relationship, like English 'of' or apostrophe-s. Watashi no heya means 'my room' (literally 'me of room'), and kazoku no shashin means 'a photo of the family'.",
+      "examples": [
+        { "native": "私の家です。(watashi no ie desu)", "en": "It's my house." },
+        { "native": "母の名前です。(haha no namae desu)", "en": "It's my mother's name." }
+      ],
+      "commonMistake": "Reversing the order; the owner comes first, so 'my room' is watashi no heya, not heya no watashi."
+    },
+    {
+      "rule": "Existence with imasu for people and animals",
+      "explanation": "Imasu means 'there is / exists' for living things: people and animals. The thing that exists is usually marked with ga. Ane ga hitori imasu means 'I have one older sister' (literally 'an older sister exists, one person').",
+      "examples": [
+        { "native": "弟がいます。(otouto ga imasu)", "en": "I have a younger brother." },
+        { "native": "猫がいますか。(neko ga imasu ka)", "en": "Do you have a cat?" }
+      ],
+      "commonMistake": "Using arimasu for family members; living beings take imasu."
+    }
+  ],
+  "dialogue": {
+    "setup": "Mei asks her new friend Daniel about his family.",
+    "lines": [
+      { "speaker": "メイ", "native": "ご家族は何人ですか。", "transliteration": "gokazoku wa nannin desu ka", "english": "How many people are in your family?" },
+      { "speaker": "ダニエル", "native": "四人家族です。両親と妹がいます。", "transliteration": "yonin kazoku desu. ryoushin to imouto ga imasu", "english": "A family of four. I have my parents and a younger sister." },
+      { "speaker": "メイ", "native": "妹さんは何歳ですか。", "transliteration": "imouto-san wa nansai desu ka", "english": "How old is your younger sister?" },
+      { "speaker": "ダニエル", "native": "十五歳です。メイさんは兄弟がいますか。", "transliteration": "juugo-sai desu. Mei-san wa kyoudai ga imasu ka", "english": "She's fifteen. Mei, do you have siblings?" },
+      { "speaker": "メイ", "native": "姉が一人います。今、両親と住んでいます。", "transliteration": "ane ga hitori imasu. ima, ryoushin to sunde imasu", "english": "I have one older sister. I live with my parents now." },
+      { "speaker": "ダニエル", "native": "ペットもいますか。", "transliteration": "petto mo imasu ka", "english": "Do you have a pet too?" },
+      { "speaker": "メイ", "native": "はい、犬を飼っています。", "transliteration": "hai, inu o katte imasu", "english": "Yes, I have a dog." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'It's my room' in Japanese?",
+      "correctAnswer": "私の部屋です (watashi no heya desu)",
+      "explanation": "The particle no links watashi (me) and heya (room) to mean 'my room'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which verb expresses existence for people and animals?",
+      "options": ["あります (arimasu)", "います (imasu)", "します (shimasu)", "きます (kimasu)"],
+      "correctAnswer": "います (imasu)",
+      "explanation": "Imasu is for living things; arimasu is for objects and places."
+    },
+    {
+      "type": "fill-blank",
+      "question": "私 _____ 家です。(It's my house)",
+      "correctAnswer": "の (no)",
+      "explanation": "The possessive particle の links the owner (watashi) to the thing owned (ie)."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "How do you politely refer to someone else's mother?",
+      "options": ["はは (haha)", "おかあさん (okaasan)", "ちち (chichi)", "あね (ane)"],
+      "correctAnswer": "おかあさん (okaasan)",
+      "explanation": "Okaasan is the respectful term for another person's mother; haha is humble, for your own."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: います / 姉 / が (I have an older sister)",
+      "correctAnswer": "姉がいます (ane ga imasu)",
+      "explanation": "Subject + が + imasu expresses the existence of a living person."
+    }
+  ],
+  "status": "complete"
+}

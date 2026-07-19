@@ -1,0 +1,26 @@
+{
+  "slug": "classifiers",
+  "name": "Classifiers",
+  "nameTh": "ลักษณนาม",
+  "summary": "Thai counts nouns with a classifier, in the order noun, number, then classifier.",
+  "level": "elementary",
+  "order": 5,
+  "explanation": "Like Chinese, Thai needs a classifier (ลักษณนาม) when counting, but the order is different: Noun + Number + Classifier. So 'two books' is หนังสือสองเล่ม (nangsuu song lem) = book two volume.\n\nDifferent nouns take different classifiers. คน (khon) is for people, ตัว (tua) for animals and clothes, ใบ (bai) for cups, tickets, and round or hollow things, อัน (an) is a general one for small objects, and ขวด (khuat) for bottles.\n\nFor 'this' and 'that', the classifier comes with นี้ (this) or นั้น (that): หนังสือเล่มนี้ (this book) = book volume this.",
+  "pattern": "Noun + Number + Classifier  |  Noun + Classifier + นี้/นั้น",
+  "examples": [
+    { "th": "คนสองคน", "en": "two people (people two khon)" },
+    { "th": "หนังสือสามเล่ม", "en": "three books (book three lem)" },
+    { "th": "กาแฟหนึ่งแก้ว", "en": "one coffee (coffee one glass)" },
+    { "th": "แมวสี่ตัว", "en": "four cats (cat four tua)" },
+    { "th": "อันนี้", "en": "this one (general classifier อัน)" },
+    { "th": "ห้องนี้", "en": "this room (room this)" }
+  ],
+  "commonMistakes": [
+    "Using the Chinese or English order. Thai is Noun + Number + Classifier, not Number + Classifier + Noun.",
+    "Dropping the classifier when counting. It is required: สองคน, not just สอง คน.",
+    "Using the wrong classifier. The general อัน covers many small objects when unsure.",
+    "Forgetting the classifier with นี้/นั้น: it is อันนี้, not just นี้.",
+    "Putting the number after the classifier. The number comes before the classifier."
+  ],
+  "tip": "Memorise the order: thing, how many, classifier. Learn each noun with its classifier, and lean on อัน when stuck."
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "particles-wa-ga",
+  "name": "The Particles wa and ga",
+  "nameNative": "助詞「は」と「が」",
+  "summary": "Master the two core particles: は (wa) marks the topic, が (ga) marks the subject. The difference shapes meaning.",
+  "level": "beginner",
+  "order": 1,
+  "explanation": "Japanese uses small words called particles after nouns to show their role in the sentence. The two most important are は (written ha but pronounced wa) and が (ga). は marks the topic - the thing the sentence is about, often what is already known. が marks the subject - and often introduces new or emphasised information.\n\nA helpful way to feel the difference: 私は学生です (watashi wa gakusei desu) means 'As for me, I am a student' - は sets you up as the topic. By contrast 誰が学生ですか (dare ga gakusei desu ka) asks 'Who is a student?', and the answer 私が学生です (watashi ga gakusei desu) puts the spotlight on 'I' as the new answer.\n\nUse は for general statements and comparisons, and が to point out something specific, to answer a 'who/what' question, or with certain verbs of existence and ability. Getting this contrast right is the single biggest step toward natural Japanese.",
+  "pattern": "[topic] は ... / [subject] が ...",
+  "examples": [
+    { "native": "私は田中です。(watashi wa Tanaka desu.)", "en": "I am Tanaka. (As for me, I'm Tanaka.)" },
+    { "native": "猫がいます。(neko ga imasu.)", "en": "There is a cat." },
+    { "native": "今日は寒いです。(kyou wa samui desu.)", "en": "Today is cold. (As for today, it's cold.)" },
+    { "native": "誰が来ますか。(dare ga kimasu ka.)", "en": "Who is coming?" },
+    { "native": "コーヒーは好きですが、お茶は嫌いです。(koohii wa suki desu ga, ocha wa kirai desu.)", "en": "I like coffee, but I dislike tea." },
+    { "native": "雨が降っています。(ame ga futte imasu.)", "en": "It is raining." }
+  ],
+  "commonMistakes": [
+    "Pronouncing は as 'ha' when it is a particle. As a particle it is always read 'wa'.",
+    "Using が for the general topic. For broad statements like 'I am a student', use は, not が.",
+    "Answering a 'who' question with は. The answer to 誰が (dare ga) should keep が for emphasis.",
+    "Dropping the particle entirely. Casual speech sometimes drops it, but learners should keep は and が clear.",
+    "Forgetting that comparisons and contrasts naturally take は on both items."
+  ],
+  "tip": "Rule of thumb: は introduces the topic you already have in mind; が answers or highlights something new."
+}

@@ -1,13 +1,13 @@
 {
   "rank": 405,
-  "chinese": "害怕",
-  "characters": "害怕",
-  "pinyin": "hàipà",
-  "english": "to be afraid",
-  "pronunciation": "hi-pah (4th, 4th)",
-  "partOfSpeech": "verb",
-  "exampleZh": "小孩害怕黑暗。",
-  "exampleEn": "The child is afraid of the dark.",
+  "chinese": "现代",
+  "characters": "现代",
+  "pinyin": "xiàn dài",
+  "english": "modern",
+  "pronunciation": "xian-dai",
+  "partOfSpeech": "noun",
+  "exampleZh": "这个现代很重要。",
+  "exampleEn": "This modern is important.",
   "group": "confident-350",
-  "topic": "emotions"
+  "topic": "basics"
 }

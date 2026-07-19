@@ -1,0 +1,90 @@
+{
+  "slug": "directions-and-places",
+  "title": "Directions & Places",
+  "titleNative": "Yön tarifi ve yerler",
+  "shortSummary": "Ask for and understand directions, and name the places you need around town in Turkish.",
+  "level": "beginner",
+  "order": 5,
+  "icon": "🧭",
+  "color": "#2b8a3e",
+  "culturalNote": "Turks are famously generous with directions; ask a stranger and they will often walk you partway rather than simply point. The polite opener affedersiniz (excuse me) followed by your question is always appreciated. In older neighbourhoods, streets twist and house numbers can be erratic, so people navigate by landmarks: a mosque (cami), a square (meydan), a tea house, or a well-known shop. The word var (there is) and yok (there is none) are everywhere in directions and daily life, for example eczane var mı? (is there a pharmacy?). Distances in conversation are casual; yakın (near) and uzak (far) matter more than exact metres. If someone helps you, a warm teşekkür ederim (thank you) and the reply rica ederim (you're welcome) close the exchange courteously.",
+  "keyPhrases": [
+    { "native": "Affedersiniz", "english": "Excuse me", "pronunciation": "ahf-feh-dehr-see-NEEZ", "context": "Before asking a stranger" },
+    { "native": "... nerede?", "english": "Where is ...?", "pronunciation": "neh-reh-DEH", "context": "Asking a location" },
+    { "native": "Sağa dönün", "english": "Turn right", "pronunciation": "sah-AH dur-NEWN", "context": "Following directions" },
+    { "native": "Sola dönün", "english": "Turn left", "pronunciation": "soh-LAH dur-NEWN", "context": "Following directions" },
+    { "native": "Düz gidin", "english": "Go straight ahead", "pronunciation": "dewz gee-DEEN", "context": "Continuing along" },
+    { "native": "Yakın mı?", "english": "Is it near?", "pronunciation": "yah-KUHN muh", "context": "Checking distance" },
+    { "native": "Eczane nerede?", "english": "Where is the pharmacy?", "pronunciation": "ehj-zah-NEH neh-reh-DEH", "context": "Finding a chemist" },
+    { "native": "Sağ tarafta", "english": "On the right-hand side", "pronunciation": "sah tah-rahf-TAH", "context": "Locating something" },
+    { "native": "Burada", "english": "Here", "pronunciation": "boo-rah-DAH", "context": "Pointing nearby" },
+    { "native": "Kayboldum", "english": "I'm lost", "pronunciation": "kai-bohl-DOOM", "context": "When you need help" }
+  ],
+  "grammar": [
+    {
+      "rule": "The locative -de/-da for 'at' or 'in'",
+      "explanation": "To say something is at or in a place, add the locative ending -de or -da (or -te/-ta after a voiceless consonant). Vowel harmony chooses the vowel: okulda (at school), evde (at home), markette (at the market). This is how you answer 'where?' questions.",
+      "examples": [
+        { "native": "Banka meydanda.", "en": "The bank is on the square." },
+        { "native": "Eczane sağ tarafta.", "en": "The pharmacy is on the right side." }
+      ],
+      "commonMistake": "Using -te after a voiced sound or -de after a voiceless one. It is markette (after t), but evde (after v)."
+    },
+    {
+      "rule": "Giving commands with -in/-ın",
+      "explanation": "Polite directions use the plural/formal command ending -in, -ın, -un, or -ün on the verb stem. Dön- (turn) becomes dönün, git- (go) becomes gidin (the t softens to d before a vowel). This is the same siz form you use to be polite with strangers.",
+      "examples": [
+        { "native": "İleride sola dönün.", "en": "Turn left up ahead." },
+        { "native": "Köşeye kadar gidin.", "en": "Go as far as the corner." }
+      ],
+      "commonMistake": "Forgetting that git- softens to gid- before a vowel ending: it is gidin, not gitin."
+    }
+  ],
+  "dialogue": {
+    "setup": "A tourist stops a local on the street to find the nearest metro station.",
+    "lines": [
+      { "speaker": "Turist", "native": "Affedersiniz, metro istasyonu nerede?", "english": "Excuse me, where is the metro station?" },
+      { "speaker": "Yerel", "native": "Düz gidin, sonra ikinci sokaktan sağa dönün.", "english": "Go straight, then turn right at the second street." },
+      { "speaker": "Turist", "native": "Yakın mı?", "english": "Is it near?" },
+      { "speaker": "Yerel", "native": "Evet, çok yakın. Beş dakika.", "english": "Yes, very near. Five minutes." },
+      { "speaker": "Turist", "native": "İstasyon sağ tarafta mı?", "english": "Is the station on the right-hand side?" },
+      { "speaker": "Yerel", "native": "Evet, caminin yanında.", "english": "Yes, next to the mosque." },
+      { "speaker": "Turist", "native": "Çok teşekkür ederim!", "english": "Thank you very much!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'Turn left' in Turkish?",
+      "correctAnswer": "Sola dönün",
+      "explanation": "Sol is left; sola dönün is the polite command 'turn to the left'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which phrase means 'Go straight ahead'?",
+      "options": ["Sağa dönün", "Düz gidin", "Kayboldum", "Yakın mı?"],
+      "correctAnswer": "Düz gidin",
+      "explanation": "Düz means straight; gidin is the polite 'go'."
+    },
+    {
+      "type": "fill-blank",
+      "question": "Banka meydan_____. (The bank is on the square)",
+      "correctAnswer": "da",
+      "explanation": "The locative -da on meydan gives meydanda, 'on the square'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What do you say if you are lost?",
+      "options": ["Burada", "Kayboldum", "Affedersiniz", "Yakın mı?"],
+      "correctAnswer": "Kayboldum",
+      "explanation": "Kayboldum means 'I got lost / I'm lost'."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: nerede / eczane",
+      "correctAnswer": "Eczane nerede",
+      "explanation": "Eczane nerede? means 'Where is the pharmacy?'"
+    }
+  ],
+  "status": "complete"
+}

@@ -1,13 +1,13 @@
 {
   "rank": 300,
-  "chinese": "苹果",
-  "characters": "苹果",
-  "pinyin": "píngguǒ",
-  "english": "apple",
-  "pronunciation": "ping-gwor (2nd tone, 3rd tone)",
+  "chinese": "职业",
+  "characters": "职业",
+  "pinyin": "zhí yè",
+  "english": "Profession",
+  "pronunciation": "zhi-ye",
   "partOfSpeech": "noun",
-  "exampleZh": "我买了三个苹果。",
-  "exampleEn": "I bought three apples.",
+  "exampleZh": "我喜欢职业。",
+  "exampleEn": "I like Profession.",
   "group": "everyday-250",
-  "topic": "food-and-drink"
+  "topic": "basics"
 }

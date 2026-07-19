@@ -1,0 +1,90 @@
+{
+  "slug": "hobbies-and-leisure",
+  "title": "Hobbies & Leisure",
+  "titleNative": "しゅみとよか",
+  "shortSummary": "Talk about your hobbies, free time, and what you like to do, with the verbs for everyday fun.",
+  "level": "beginner",
+  "order": 14,
+  "icon": "🎨",
+  "color": "#f08c00",
+  "culturalNote": "Leisure in Japan blends traditional and modern pursuits. Classic hobbies (shumi) include calligraphy (shodou), the tea ceremony (sadou), and martial arts such as kendo and judo, all of which emphasise discipline and the idea of a lifelong path (the -dou suffix means 'way'). Modern pastimes are equally beloved: karaoke, manga, anime, video games, and baseball, Japan's most popular spectator sport. Asking about someone's hobby is a friendly, low-pressure way to build a conversation, and the modest reply is common, where people downplay their skill even when accomplished. When invited to join an activity, a soft, indirect refusal such as chotto ('it's a little...') is understood as a polite 'no' without causing offence. Weekends often mean outings to parks, shrines, or shopping districts with friends and family.",
+  "keyPhrases": [
+    { "native": "趣味は何ですか", "transliteration": "shumi wa nan desu ka", "english": "What are your hobbies?", "pronunciation": "SHOO-mee wah nan dess kah", "context": "Asking about hobbies" },
+    { "native": "音楽が好きです", "transliteration": "ongaku ga suki desu", "english": "I like music", "pronunciation": "ON-ga-koo ga soo-kee dess", "context": "Stating a like" },
+    { "native": "本を読みます", "transliteration": "hon o yomimasu", "english": "I read books", "pronunciation": "HON oh yo-mee-mas", "context": "Describing a hobby" },
+    { "native": "映画を見ます", "transliteration": "eiga o mimasu", "english": "I watch movies", "pronunciation": "AY-ga oh mee-mas", "context": "Describing a hobby" },
+    { "native": "スポーツをします", "transliteration": "supootsu o shimasu", "english": "I play sports", "pronunciation": "soo-POH-tsoo oh shee-mas", "context": "Active leisure" },
+    { "native": "料理が得意です", "transliteration": "ryouri ga tokui desu", "english": "I'm good at cooking", "pronunciation": "RYOH-ree ga to-koo-ee dess", "context": "Talking about skills" },
+    { "native": "週末は何をしますか", "transliteration": "shuumatsu wa nani o shimasu ka", "english": "What do you do on weekends?", "pronunciation": "SHOO-ma-tsoo wah na-nee oh shee-mas kah", "context": "Asking about free time" },
+    { "native": "一緒に行きませんか", "transliteration": "issho ni ikimasen ka", "english": "Won't you go together?", "pronunciation": "ees-sho nee ee-kee-ma-sen kah", "context": "Inviting" },
+    { "native": "いいですね", "transliteration": "ii desu ne", "english": "That sounds good", "pronunciation": "EE dess neh", "context": "Accepting" },
+    { "native": "楽しかったです", "transliteration": "tanoshikatta desu", "english": "It was fun", "pronunciation": "ta-no-shee-kat-ta dess", "context": "After the activity" }
+  ],
+  "grammar": [
+    {
+      "rule": "Likes and dislikes with suki",
+      "explanation": "Suki ('like') is a na-adjective, and the thing liked is marked with ga: ongaku ga suki desu means 'I like music'. To say you really love something, use daisuki; to dislike, use kirai. The strong form of preference is still followed by desu.",
+      "examples": [
+        { "native": "犬が好きです。(inu ga suki desu)", "en": "I like dogs." },
+        { "native": "野菜が嫌いです。(yasai ga kirai desu)", "en": "I dislike vegetables." }
+      ],
+      "commonMistake": "Marking the liked thing with o; suki takes ga, not the object particle o."
+    },
+    {
+      "rule": "Inviting with -masen ka",
+      "explanation": "Turning a polite verb into its negative question form -masen ka makes a soft invitation, like 'won't you...?'. Issho ni ikimasen ka means 'won't you go together?'. The negative phrasing sounds gentler and more considerate than a direct command.",
+      "examples": [
+        { "native": "お茶を飲みませんか。(ocha o nomimasen ka)", "en": "Won't you have some tea?" },
+        { "native": "映画を見ませんか。(eiga o mimasen ka)", "en": "Won't you watch a movie?" }
+      ],
+      "commonMistake": "Using the plain -masu ka form for invitations, which sounds like a yes/no fact-check rather than an offer."
+    }
+  ],
+  "dialogue": {
+    "setup": "Colleagues Rina and Ben talk about weekend plans.",
+    "lines": [
+      { "speaker": "リナ", "native": "ベンさん、趣味は何ですか。", "transliteration": "Ben-san, shumi wa nan desu ka", "english": "Ben, what are your hobbies?" },
+      { "speaker": "ベン", "native": "音楽が好きです。よくギターを弾きます。", "transliteration": "ongaku ga suki desu. yoku gitaa o hikimasu", "english": "I like music. I often play the guitar." },
+      { "speaker": "リナ", "native": "いいですね。週末は何をしますか。", "transliteration": "ii desu ne. shuumatsu wa nani o shimasu ka", "english": "That's nice. What do you do on weekends?" },
+      { "speaker": "ベン", "native": "映画を見ます。リナさんは。", "transliteration": "eiga o mimasu. Rina-san wa", "english": "I watch movies. How about you, Rina?" },
+      { "speaker": "リナ", "native": "私は料理が好きです。今度一緒に作りませんか。", "transliteration": "watashi wa ryouri ga suki desu. kondo issho ni tsukurimasen ka", "english": "I like cooking. Won't you make something together sometime?" },
+      { "speaker": "ベン", "native": "いいですね。楽しみです。", "transliteration": "ii desu ne. tanoshimi desu", "english": "Sounds good. I'm looking forward to it." },
+      { "speaker": "リナ", "native": "じゃあ、土曜日に。", "transliteration": "jaa, doyoubi ni", "english": "Then, on Saturday." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'I like music' in Japanese?",
+      "correctAnswer": "音楽が好きです (ongaku ga suki desu)",
+      "explanation": "Suki takes the particle ga for the thing liked, then desu makes it polite."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which form makes a soft invitation, like 'won't you...?'",
+      "options": ["-masu ka", "-masen ka", "-mashita", "-masen deshita"],
+      "correctAnswer": "-masen ka",
+      "explanation": "The negative question -masen ka gently invites someone to do something."
+    },
+    {
+      "type": "fill-blank",
+      "question": "犬 _____ 好きです。(I like dogs)",
+      "correctAnswer": "が (ga)",
+      "explanation": "Suki marks the liked thing with ga, not the object particle o."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does the -dou suffix in shodou or kendo signify?",
+      "options": ["A team sport", "A way or path of practice", "A type of food", "A place name"],
+      "correctAnswer": "A way or path of practice",
+      "explanation": "-dou means 'way / path', reflecting a lifelong discipline like calligraphy or kendo."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: 見ます / を / 映画 (I watch movies)",
+      "correctAnswer": "映画を見ます (eiga o mimasu)",
+      "explanation": "Object + を + verb: eiga (movie) o mimasu (watch)."
+    }
+  ],
+  "status": "complete"
+}

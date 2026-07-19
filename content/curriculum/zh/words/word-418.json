@@ -1,13 +1,13 @@
 {
   "rank": 418,
-  "chinese": "眼睛",
-  "characters": "眼睛",
-  "pinyin": "yǎnjing",
-  "english": "eye, eyes",
-  "pronunciation": "yen-jing (3rd, neutral)",
-  "partOfSpeech": "noun",
-  "exampleZh": "她的眼睛很大。",
-  "exampleEn": "Her eyes are big.",
+  "chinese": "长期",
+  "characters": "长期",
+  "pinyin": "cháng qī",
+  "english": "long",
+  "pronunciation": "chang-qi",
+  "partOfSpeech": "adverb",
+  "exampleZh": "他长期来了。",
+  "exampleEn": "He came long.",
   "group": "confident-350",
-  "topic": "health"
+  "topic": "descriptions"
 }

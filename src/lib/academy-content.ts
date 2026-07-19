@@ -351,6 +351,98 @@ const ThaiPhrasePackSchema = z.object({
   })),
 })
 
+// Generic schemas for newer language tracks. New languages author content with
+// neutral field names (native / transliteration / english) instead of a
+// per-language key, so they share one parser branch with zero new code.
+const GenericWordSchema = z.object({
+  rank: z.number(),
+  native: z.string(),
+  transliteration: z.string().optional(),
+  english: z.string(),
+  pronunciation: z.string().optional(),
+  partOfSpeech: z.string(),
+  gender: z.string().optional(),
+  exampleNative: z.string(),
+  exampleEn: z.string(),
+  group: z.string(),
+  topic: z.string(),
+})
+
+const GenericTopicSchema = z.object({
+  slug: z.string(),
+  title: z.string(),
+  titleNative: z.string(),
+  shortSummary: z.string(),
+  level: z.enum(["beginner", "elementary", "pre-intermediate"]),
+  order: z.number(),
+  icon: z.string(),
+  color: z.string(),
+  culturalNote: z.string(),
+  keyPhrases: z.array(z.object({
+    native: z.string(),
+    transliteration: z.string().optional(),
+    english: z.string(),
+    pronunciation: z.string().optional(),
+    context: z.string(),
+  })),
+  grammar: z.array(z.object({
+    rule: z.string(),
+    explanation: z.string(),
+    examples: z.array(z.object({ native: z.string(), en: z.string() })),
+    commonMistake: z.string(),
+  })),
+  dialogue: z.object({
+    setup: z.string(),
+    lines: z.array(z.object({
+      speaker: z.string(),
+      native: z.string(),
+      transliteration: z.string().optional(),
+      english: z.string(),
+    })),
+  }),
+  quiz: z.array(z.object({
+    type: z.enum(["translate", "fill-blank", "multiple-choice", "reorder"]),
+    question: z.string(),
+    options: z.array(z.string()).optional(),
+    correctAnswer: z.string(),
+    explanation: z.string(),
+  })),
+  status: z.enum(["complete", "coming-soon"]).default("coming-soon"),
+})
+
+const GenericGrammarSchema = z.object({
+  slug: z.string(),
+  name: z.string(),
+  nameNative: z.string(),
+  summary: z.string(),
+  level: z.enum(["beginner", "elementary", "pre-intermediate"]),
+  order: z.number(),
+  explanation: z.string(),
+  pattern: z.string(),
+  conjugation: z.record(z.string()).optional(),
+  cases: z.record(z.string()).optional(),
+  tones: z.string().optional(),
+  examples: z.array(z.object({ native: z.string(), en: z.string() })),
+  commonMistakes: z.array(z.string()),
+  tip: z.string(),
+})
+
+const GenericPhrasePackSchema = z.object({
+  slug: z.string(),
+  title: z.string(),
+  description: z.string(),
+  situation: z.string(),
+  order: z.number(),
+  phrases: z.array(z.object({
+    native: z.string(),
+    transliteration: z.string().optional(),
+    english: z.string(),
+    pronunciation: z.string().optional(),
+    formality: z.enum(["formal", "informal", "neutral"]),
+    tip: z.string().optional(),
+  })),
+})
+
 function resolveLanguageDir(language: SupportedLanguage) {
   const fullPath = path.join(CONTENT_DIR, language)
   if (fs.existsSync(fullPath)) return fullPath
@@ -445,16 +537,34 @@ function parseWord(language: SupportedLanguage, raw: unknown): AcademyWord {
     })
   }
 
-  const word = ThaiWordSchema.parse(raw)
+  if (language === "th") {
+    const word = ThaiWordSchema.parse(raw)
+    return AcademyWordSchema.parse({
+      rank: word.rank,
+      language,
+      term: word.thai,
+      transliteration: word.transliteration,
+      english: word.english,
+      pronunciation: word.pronunciation ?? word.transliteration,
+      partOfSpeech: word.partOfSpeech,
+      exampleNative: word.exampleTh,
+      exampleEn: word.exampleEn,
+      group: word.group,
+      topic: word.topic,
+    })
+  }
+
+  const word = GenericWordSchema.parse(raw)
   return AcademyWordSchema.parse({
     rank: word.rank,
     language,
-    term: word.thai,
+    term: word.native,
     transliteration: word.transliteration,
     english: word.english,
     pronunciation: word.pronunciation ?? word.transliteration,
     partOfSpeech: word.partOfSpeech,
-    exampleNative: word.exampleTh,
+    gender: normalizeGender(word.gender),
+    exampleNative: word.exampleNative,
     exampleEn: word.exampleEn,
     group: word.group,
     topic: word.topic,
@@ -577,12 +687,51 @@ function parseTopic(language: SupportedLanguage, raw: unknown): AcademyTopic {
     })
   }
 
-  const topic = ThaiTopicSchema.parse(raw)
+  if (language === "th") {
+    const topic = ThaiTopicSchema.parse(raw)
+    return AcademyTopicSchema.parse({
+      slug: topic.slug,
+      language,
+      title: topic.title,
+      nativeTitle: topic.titleTh,
+      shortSummary: topic.shortSummary,
+      level: topic.level,
+      order: topic.order,
+      icon: topic.icon,
+      color: topic.color,
+      culturalNote: topic.culturalNote,
+      keyPhrases: topic.keyPhrases.map((phrase) => ({
+        native: phrase.thai,
+        english: phrase.english,
+        pronunciation: phrase.pronunciation,
+        context: phrase.context,
+      })),
+      grammar: topic.grammar.map((rule) => ({
+        rule: rule.rule,
+        explanation: rule.explanation,
+        examples: rule.examples.map((example) => ({ native: example.th, en: example.en })),
+        commonMistake: rule.commonMistake,
+      })),
+      dialogue: {
+        setup: topic.dialogue.setup,
+        lines: topic.dialogue.lines.map((line) => ({
+          speaker: line.speaker,
+          native: line.thai,
+          secondary: line.pronunciation,
+          english: line.english,
+        })),
+      },
+      quiz: topic.quiz,
+      status: topic.status,
+    })
+  }
+
+  const topic = GenericTopicSchema.parse(raw)
   return AcademyTopicSchema.parse({
     slug: topic.slug,
     language,
     title: topic.title,
-    nativeTitle: topic.titleTh,
+    nativeTitle: topic.titleNative,
     shortSummary: topic.shortSummary,
     level: topic.level,
     order: topic.order,
@@ -590,23 +739,23 @@ function parseTopic(language: SupportedLanguage, raw: unknown): AcademyTopic {
     color: topic.color,
     culturalNote: topic.culturalNote,
     keyPhrases: topic.keyPhrases.map((phrase) => ({
-      native: phrase.thai,
+      native: phrase.native,
       english: phrase.english,
-      pronunciation: phrase.pronunciation,
+      pronunciation: phrase.pronunciation ?? phrase.transliteration,
       context: phrase.context,
     })),
     grammar: topic.grammar.map((rule) => ({
       rule: rule.rule,
       explanation: rule.explanation,
-      examples: rule.examples.map((example) => ({ native: example.th, en: example.en })),
+      examples: rule.examples.map((example) => ({ native: example.native, en: example.en })),
       commonMistake: rule.commonMistake,
     })),
     dialogue: {
       setup: topic.dialogue.setup,
       lines: topic.dialogue.lines.map((line) => ({
         speaker: line.speaker,
-        native: line.thai,
-        secondary: line.pronunciation,
+        native: line.native,
+        secondary: line.transliteration,
         english: line.english,
       })),
     },
@@ -674,18 +823,39 @@ function parseGrammarRule(language: SupportedLanguage, raw: unknown): AcademyGra
     })
   }
 
-  const rule = ThaiGrammarSchema.parse(raw)
+  if (language === "th") {
+    const rule = ThaiGrammarSchema.parse(raw)
+    return AcademyGrammarRuleSchema.parse({
+      slug: rule.slug,
+      language,
+      name: rule.name,
+      nativeName: rule.nameTh,
+      summary: rule.summary,
+      level: rule.level,
+      order: rule.order,
+      explanation: rule.explanation,
+      pattern: rule.pattern,
+      examples: rule.examples.map((example) => ({ native: example.th, en: example.en })),
+      commonMistakes: rule.commonMistakes,
+      tip: rule.tip,
+    })
+  }
+
+  const rule = GenericGrammarSchema.parse(raw)
   return AcademyGrammarRuleSchema.parse({
     slug: rule.slug,
     language,
     name: rule.name,
-    nativeName: rule.nameTh,
+    nativeName: rule.nameNative,
     summary: rule.summary,
     level: rule.level,
     order: rule.order,
     explanation: rule.explanation,
     pattern: rule.pattern,
-    examples: rule.examples.map((example) => ({ native: example.th, en: example.en })),
+    conjugation: rule.conjugation,
+    cases: rule.cases,
+    tones: rule.tones,
+    examples: rule.examples.map((example) => ({ native: example.native, en: example.en })),
     commonMistakes: rule.commonMistakes,
     tip: rule.tip,
   })
@@ -749,7 +919,26 @@ function parsePhrasePack(language: SupportedLanguage, raw: unknown): AcademyPhra
     })
   }
 
-  const pack = ThaiPhrasePackSchema.parse(raw)
+  if (language === "th") {
+    const pack = ThaiPhrasePackSchema.parse(raw)
+    return AcademyPhrasePackSchema.parse({
+      slug: pack.slug,
+      language,
+      title: pack.title,
+      description: pack.description,
+      situation: pack.situation,
+      order: pack.order,
+      phrases: pack.phrases.map((phrase) => ({
+        native: phrase.thai,
+        english: phrase.english,
+        pronunciation: phrase.pronunciation,
+        formality: phrase.formality,
+        tip: phrase.tip,
+      })),
+    })
+  }
+
+  const pack = GenericPhrasePackSchema.parse(raw)
   return AcademyPhrasePackSchema.parse({
     slug: pack.slug,
     language,
@@ -758,19 +947,43 @@ function parsePhrasePack(language: SupportedLanguage, raw: unknown): AcademyPhra
     situation: pack.situation,
     order: pack.order,
     phrases: pack.phrases.map((phrase) => ({
-      native: phrase.thai,
+      native: phrase.native,
       english: phrase.english,
-      pronunciation: phrase.pronunciation,
+      pronunciation: phrase.pronunciation ?? phrase.transliteration,
       formality: phrase.formality,
       tip: phrase.tip,
     })),
   })
 }
 
+// ---------------------------------------------------------------------------
+// Module-level caches.
+//
+// Static generation reads getWords/getTopics/getGrammarRules/getPhrasePacks
+// once per (page × language). Without caching, building 20+ pages re-parses
+// 1000 word JSONs per language per page. The maps below keep the parse cost
+// to once per language per Node process - a single build pass.
+//
+// Caches are deliberately module-scoped (process-lifetime). They survive
+// across page generations during a build, and across dev-server requests
+// while the file isn't edited. They do not survive a server restart.
+// ---------------------------------------------------------------------------
+
+const wordsCache = new Map<SupportedLanguage, AcademyWord[]>()
+const topicsCache = new Map<SupportedLanguage, AcademyTopic[]>()
+const grammarCache = new Map<SupportedLanguage, AcademyGrammarRule[]>()
+const phrasesCache = new Map<SupportedLanguage, AcademyPhrasePack[]>()
+const slangCache = new Map<SupportedLanguage, AcademyPhrasePack[]>()
+
 export function getWords(language: SupportedLanguage): AcademyWord[] {
-  return readJsonDir(language, "words", (raw) => parseWord(language, raw)).sort(
+  const cached = wordsCache.get(language)
+  if (cached) return cached
+
+  const words = readJsonDir(language, "words", (raw) => parseWord(language, raw)).sort(
     (a, b) => a.rank - b.rank
   )
+  wordsCache.set(language, words)
+  return words
 }
 
 export function getWordsByGroup(language: SupportedLanguage, group: string): AcademyWord[] {
@@ -778,43 +991,70 @@ export function getWordsByGroup(language: SupportedLanguage, group: string): Aca
 }
 
 export function getTopics(language: SupportedLanguage): AcademyTopic[] {
-  return readJsonDir(language, "topics", (raw) => parseTopic(language, raw)).sort(
+  const cached = topicsCache.get(language)
+  if (cached) return cached
+
+  const topics = readJsonDir(language, "topics", (raw) => parseTopic(language, raw)).sort(
     (a, b) => a.order - b.order
   )
+  topicsCache.set(language, topics)
+  return topics
 }
 
 export function getTopic(language: SupportedLanguage, slug: string): AcademyTopic | null {
-  return readJsonFile(language, `topics/${slug}.json`, (raw) => parseTopic(language, raw))
+  return getTopics(language).find((topic) => topic.slug === slug) ?? null
 }
 
 export function getGrammarRules(language: SupportedLanguage): AcademyGrammarRule[] {
-  return readJsonDir(language, "grammar", (raw) => parseGrammarRule(language, raw)).sort(
+  const cached = grammarCache.get(language)
+  if (cached) return cached
+
+  const rules = readJsonDir(language, "grammar", (raw) => parseGrammarRule(language, raw)).sort(
     (a, b) => a.order - b.order
   )
+  grammarCache.set(language, rules)
+  return rules
 }
 
 export function getGrammarRule(
   language: SupportedLanguage,
   slug: string
 ): AcademyGrammarRule | null {
-  return readJsonFile(language, `grammar/${slug}.json`, (raw) =>
-    parseGrammarRule(language, raw)
-  )
+  return getGrammarRules(language).find((rule) => rule.slug === slug) ?? null
 }
 
 export function getPhrasePacks(language: SupportedLanguage): AcademyPhrasePack[] {
-  return readJsonDir(language, "phrases", (raw) => parsePhrasePack(language, raw)).sort(
+  const cached = phrasesCache.get(language)
+  if (cached) return cached
+
+  const packs = readJsonDir(language, "phrases", (raw) => parsePhrasePack(language, raw)).sort(
     (a, b) => a.order - b.order
   )
+  phrasesCache.set(language, packs)
+  return packs
 }
 
 export function getPhrasePack(
   language: SupportedLanguage,
   slug: string
 ): AcademyPhrasePack | null {
-  return readJsonFile(language, `phrases/${slug}.json`, (raw) =>
-    parsePhrasePack(language, raw)
+  return getPhrasePacks(language).find((pack) => pack.slug === slug) ?? null
+}
+
+/**
+ * Everyday slang packs. Same shape as phrase packs (reuses the parser) but
+ * lives in the `slang/` content folder and surfaces separately. Slang is
+ * regional and fast-moving, so the UI carries an honest "best-effort" caveat.
+ */
+export function getSlangPacks(language: SupportedLanguage): AcademyPhrasePack[] {
+  const cached = slangCache.get(language)
+  if (cached) return cached
+
+  const packs = readJsonDir(language, "slang", (raw) => parsePhrasePack(language, raw)).sort(
+    (a, b) => a.order - b.order
   )
+  slangCache.set(language, packs)
+  return packs
 }
 
 export function getAcademyStats(language: SupportedLanguage) {

@@ -1,0 +1,34 @@
+{
+  "slug": "plurals",
+  "name": "Plurals",
+  "nameNative": "बहुवचन (bahuvachan)",
+  "summary": "Hindi forms plurals by changing noun endings, and the pattern depends on gender.",
+  "level": "elementary",
+  "order": 9,
+  "explanation": "Hindi does not add a single '-s' for plurals like English. Instead the ending changes according to the noun's gender and type. For masculine nouns ending in -आ (-aa), the plural changes -aa to -ए (-e): लड़का (ladka, boy) becomes लड़के (ladke, boys), and कमरा (kamra, room) becomes कमरे (kamre, rooms). Masculine nouns not ending in -aa, such as घर (ghar, house), stay the same in the plural; only the surrounding words signal the plural.\n\nFeminine nouns ending in -ई (-ee) form the plural by adding -आँ (-aan): लड़की (ladki, girl) becomes लड़कियाँ (ladkiyaan, girls). Other feminine nouns add -एँ (-en): किताब (kitaab, book) becomes किताबें (kitaaben, books), and बात (baat, matter) becomes बातें (baaten).\n\nRemember that the oblique plural is different again: whatever the direct plural looks like, before a postposition it becomes -ओं (-on), as in लड़कों को (ladkon ko, to the boys) and किताबों में (kitaabon mein, in the books). Adjectives and verbs also shift to plural forms to agree, so बड़ा घर (bada ghar, big house) becomes बड़े घर (bade ghar, big houses).",
+  "pattern": "masc -aa -> -e; masc other -> unchanged; fem -ee -> -iyaan; fem other -> -en",
+  "conjugation": {
+    "masc -aa": "लड़का -> लड़के (ladka -> ladke, boy -> boys)",
+    "masc other": "घर -> घर (ghar -> ghar, house -> houses, unchanged)",
+    "fem -ee": "लड़की -> लड़कियाँ (ladki -> ladkiyaan, girl -> girls)",
+    "fem other": "किताब -> किताबें (kitaab -> kitaaben, book -> books)",
+    "oblique plural": "लड़कों को (ladkon ko, to the boys)",
+    "adjective agreement": "बड़ा -> बड़े (bada -> bade, with masc plural)"
+  },
+  "examples": [
+    { "native": "दो लड़के खेल रहे हैं। (do ladke khel rahe hain.)", "en": "Two boys are playing." },
+    { "native": "तीन लड़कियाँ गा रही हैं। (teen ladkiyaan ga rahi hain.)", "en": "Three girls are singing." },
+    { "native": "मेरे पास कई किताबें हैं। (mere paas kai kitaaben hain.)", "en": "I have several books." },
+    { "native": "घर बड़े हैं। (ghar bade hain.)", "en": "The houses are big. (ghar unchanged, adjective signals plural)" },
+    { "native": "बच्चों को मिठाई दो। (bachchon ko mithai do.)", "en": "Give the children sweets. (oblique plural)" },
+    { "native": "ये कमरे साफ़ हैं। (ye kamre saaf hain.)", "en": "These rooms are clean." }
+  ],
+  "commonMistakes": [
+    "Adding an English '-s': saying ghars or kitaabs instead of the proper Hindi plural forms.",
+    "Using -iyaan for a non -ee feminine noun: saying kitaabiyaan instead of kitaaben.",
+    "Forgetting that masculine nouns like घर (ghar) look identical in the plural.",
+    "Using the direct plural before a postposition instead of the -ओं (-on) oblique form.",
+    "Leaving the adjective singular: saying bada ghar hain instead of bade ghar hain for 'big houses'."
+  ],
+  "tip": "Sort the noun first: -aa masculine, -ee feminine, or other. Each group has its own simple plural rule to memorise."
+}

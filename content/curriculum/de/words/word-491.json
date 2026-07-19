@@ -1,13 +1,11 @@
 {
   "rank": 491,
-  "german": "Küche",
-  "english": "kitchen",
-  "pronunciation": "KUE-kheh",
-  "partOfSpeech": "noun",
-  "gender": "feminine",
-  "article": "die",
-  "exampleDe": "Die Küche ist sauber.",
-  "exampleEn": "The kitchen is clean.",
+  "german": "innerhalb",
+  "english": "within",
+  "pronunciation": "ɪ n ɐ h a l p",
+  "partOfSpeech": "adjective",
+  "exampleDe": "Das ist sehr innerhalb.",
+  "exampleEn": "That is very within.",
   "group": "confident-350",
-  "topic": "home"
+  "topic": "descriptions"
 }

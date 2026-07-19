@@ -1,0 +1,81 @@
+{
+  "slug": "hotel",
+  "title": "At the Hotel",
+  "description": "Check in, ask about your room, and handle hotel basics in French.",
+  "situation": "Accommodation: checking in and out, room questions, breakfast times, and requests.",
+  "order": 6,
+  "phrases": [
+    {
+      "native": "J'ai une réservation",
+      "english": "I have a reservation",
+      "pronunciation": "zhay ewn ray-zehr-vah-see-ON",
+      "formality": "neutral"
+    },
+    {
+      "native": "Avez-vous une chambre libre ?",
+      "english": "Do you have a room available?",
+      "pronunciation": "ah-vay VOO ewn SHON-bruh LEE-bruh",
+      "formality": "formal"
+    },
+    {
+      "native": "Une chambre simple / double",
+      "english": "A single / double room",
+      "pronunciation": "ewn SHON-bruh SAN-pluh / DOO-bluh",
+      "formality": "neutral"
+    },
+    {
+      "native": "Pour combien de nuits ?",
+      "english": "For how many nights?",
+      "pronunciation": "poor kom-bee-AN duh NWEE",
+      "formality": "neutral"
+    },
+    {
+      "native": "Le petit-dejeuner est inclus ?",
+      "english": "Is breakfast included?",
+      "pronunciation": "luh puh-TEE day-zhuh-NAY eh tan-KLEW",
+      "formality": "neutral"
+    },
+    {
+      "native": "À quelle heure est le petit-dejeuner ?",
+      "english": "What time is breakfast?",
+      "pronunciation": "ah kel UHR eh luh puh-TEE day-zhuh-NAY",
+      "formality": "neutral"
+    },
+    {
+      "native": "Y a-t-il le wifi ?",
+      "english": "Is there Wi-Fi?",
+      "pronunciation": "ee ah-TEEL luh wee-FEE",
+      "formality": "neutral"
+    },
+    {
+      "native": "La climatisation ne marche pas",
+      "english": "The air conditioning isn't working",
+      "pronunciation": "lah klee-mah-tee-zah-see-ON nuh marsh PAH",
+      "formality": "neutral"
+    },
+    {
+      "native": "Puis-je avoir une serviette ?",
+      "english": "May I have a towel?",
+      "pronunciation": "pweezh ah-VWAHR ewn sehr-vee-ET",
+      "formality": "formal"
+    },
+    {
+      "native": "À quelle heure faut-il libérer la chambre ?",
+      "english": "What time is check-out?",
+      "pronunciation": "ah kel UHR foh-TEEL lee-bay-RAY lah SHON-bruh",
+      "formality": "formal"
+    },
+    {
+      "native": "Puis-je laisser mes bagages ?",
+      "english": "Can I leave my luggage?",
+      "pronunciation": "pweezh leh-SAY may bah-GAHZH",
+      "formality": "formal"
+    },
+    {
+      "native": "La clé, s'il vous plaît",
+      "english": "The key, please",
+      "pronunciation": "lah KLAY",
+      "formality": "formal"
+    }
+  ]
+}

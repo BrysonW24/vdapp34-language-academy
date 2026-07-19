@@ -1,13 +1,13 @@
 {
   "rank": 417,
-  "chinese": "头",
-  "characters": "头",
-  "pinyin": "tóu",
-  "english": "head",
-  "pronunciation": "toh (2nd tone)",
-  "partOfSpeech": "noun",
-  "exampleZh": "我头疼。",
-  "exampleEn": "I have a headache.",
+  "chinese": "转",
+  "characters": "转",
+  "pinyin": "zhuǎn",
+  "english": "to change",
+  "pronunciation": "zhuan",
+  "partOfSpeech": "verb",
+  "exampleZh": "我想转。",
+  "exampleEn": "I want to change.",
   "group": "confident-350",
-  "topic": "health"
+  "topic": "actions"
 }

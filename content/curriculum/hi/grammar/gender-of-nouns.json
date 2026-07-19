@@ -1,0 +1,34 @@
+{
+  "slug": "gender-of-nouns",
+  "name": "Gender of Nouns",
+  "nameNative": "संज्ञा का लिंग (sangya ka ling)",
+  "summary": "Every Hindi noun is either masculine or feminine, and that gender controls adjectives and verbs.",
+  "level": "beginner",
+  "order": 1,
+  "explanation": "Hindi has no neuter. Every noun is grammatically masculine (पुल्लिंग, pulling) or feminine (स्त्रीलिंग, striling), even objects like a table or a book. The gender of a noun decides the form of the adjectives and verbs that go with it, so it is worth learning the gender along with every new word.\n\nThere are helpful patterns. Many masculine nouns end in the vowel -आ (-aa), like लड़का (ladka, boy) and कमरा (kamra, room). Many feminine nouns end in -ई (-ee), like लड़की (ladki, girl) and कुर्सी (kursi, chair). These are tendencies, not strict rules, and there are common exceptions such as पानी (paani, water) which is masculine and माँ (maan, mother) which is feminine.\n\nBecause gender controls agreement, अच्छा (achchha, good) becomes अच्छा for a masculine noun and अच्छी (achchhi) for a feminine noun. When you do not know a noun's gender, listen for the adjective and verb endings around it, and learn the noun and its gender as a single unit.",
+  "pattern": "noun -> masculine (often -aa) or feminine (often -ee) -> adjective + verb agree",
+  "conjugation": {
+    "masculine, -aa": "लड़का (ladka) - boy",
+    "feminine, -ee": "लड़की (ladki) - girl",
+    "masculine exception": "पानी (paani) - water",
+    "feminine exception": "किताब (kitaab) - book",
+    "masculine, other": "घर (ghar) - house",
+    "feminine, other": "रात (raat) - night"
+  },
+  "examples": [
+    { "native": "अच्छा लड़का (achchha ladka)", "en": "good boy (masculine adjective)" },
+    { "native": "अच्छी लड़की (achchhi ladki)", "en": "good girl (feminine adjective)" },
+    { "native": "यह कमरा बड़ा है। (yeh kamra bada hai.)", "en": "This room is big. (masculine)" },
+    { "native": "यह कुर्सी बड़ी है। (yeh kursi badi hai.)", "en": "This chair is big. (feminine)" },
+    { "native": "पानी ठंडा है। (paani thanda hai.)", "en": "The water is cold. (paani is masculine)" },
+    { "native": "किताब नई है। (kitaab nai hai.)", "en": "The book is new. (kitaab is feminine)" }
+  ],
+  "commonMistakes": [
+    "Assuming every -aa word is masculine. Some, like माँ (maan), are feminine.",
+    "Assuming Hindi has a neuter gender like English 'it'. It does not; objects are masculine or feminine.",
+    "Forgetting to change the adjective: saying achchha kursi instead of achchhi kursi.",
+    "Treating पानी (paani) as feminine because it ends in -ee; it is actually masculine.",
+    "Learning a noun without its gender, then guessing wrong when an adjective or verb is needed."
+  ],
+  "tip": "Learn each noun together with a colour or size adjective, for example achchha ghar or achchhi kitaab, so the gender sticks."
+}

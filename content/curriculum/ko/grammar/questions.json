@@ -1,0 +1,34 @@
+{
+  "slug": "questions",
+  "name": "Questions (까 and 요)",
+  "nameNative": "의문문 (까/요)",
+  "summary": "Ask questions in Korean using rising 요 intonation or the formal -습니까 ending, plus key question words.",
+  "level": "elementary",
+  "order": 9,
+  "explanation": "The easiest way to ask a question in Korean is to take a polite statement and raise your intonation. 밥 먹어요 means 'I eat'; 밥 먹어요? with a rising tone means 'Do you eat?'. No word order change is needed; the verb still comes last.\n\nIn formal speech, the question ending is -습니까/-ㅂ니까 instead of -습니다/-ㅂ니다. 갑니다 (I go) becomes 갑니까? (Do you go?), and 먹습니다 becomes 먹습니까?. This 까 ending is common in announcements, business, and polite service settings.\n\nQuestion words sit naturally in the sentence rather than moving to the front like English. 뭐 (mwo, what), 어디 (eodi, where), 누구 (nugu, who), 언제 (eonje, when), 왜 (wae, why), and 어떻게 (eotteoke, how) drop into the normal slot: 어디 가요? (Where are you going?), 이게 뭐예요? (What is this?).",
+  "pattern": "statement + 요? (rising tone)  |  formal stem + 습니까/ㅂ니까?",
+  "conjugation": {
+    "polite question": "가요? (do you go?)",
+    "formal question": "갑니까? (do you go?, formal)",
+    "what": "뭐예요? (what is it?)",
+    "where": "어디예요? (where is it?)",
+    "who": "누구예요? (who is it?)",
+    "why": "왜요? (why?)"
+  },
+  "examples": [
+    { "native": "지금 어디 가요? (jigeum eodi gayo?)", "en": "Where are you going now?" },
+    { "native": "이게 뭐예요? (ige mwoyeyo?)", "en": "What is this?" },
+    { "native": "저분은 누구예요? (jeobuneun nuguyeyo?)", "en": "Who is that person?" },
+    { "native": "언제 만나요? (eonje mannayo?)", "en": "When shall we meet?" },
+    { "native": "왜 안 왔어요? (wae an wasseoyo?)", "en": "Why didn't you come?" },
+    { "native": "어떻게 가십니까? (eotteoke gasimnikka?)", "en": "How do you go, sir/madam? (formal)" }
+  ],
+  "commonMistakes": [
+    "Moving the question word to the front like English. 어디 가요? keeps the verb last; do not say 가요 어디.",
+    "Forgetting the rising intonation. In the polite 요 form, intonation alone signals a question.",
+    "Using -습니까 with the casual 요 ending. Pick one register: 가요? or 갑니까?, not 가요습니까.",
+    "Confusing 왜 (why) with 뭐 (what). 왜요? asks 'why?', 뭐예요? asks 'what is it?'.",
+    "Adding 까 to the polite 요 form. The 까 question ending belongs only to the formal 습니다 style."
+  ],
+  "tip": "Easiest question hack: say the polite statement and lift your voice at the end. Save 습니까 for formal moments."
+}

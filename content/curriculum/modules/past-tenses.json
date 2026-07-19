@@ -1,0 +1,25 @@
+{
+  "slug": "past-tenses",
+  "title": "Past Tenses",
+  "shortSummary": "Learn the two essential past tenses — the pretérito indefinido for completed actions and the pretérito imperfecto for descriptions and habitual past actions. Being able to talk about the past transforms your storytelling ability.",
+  "level": "beginner",
+  "category": "channel",
+  "whyItMatters": "Without past tenses, you are stuck in the present. You cannot tell stories, describe experiences, or explain what happened yesterday. The two main past tenses in Spanish work together — one for actions that happened, one for the backdrop and context.",
+  "coreConcepts": [
+    "Pretérito indefinido: regular conjugations (-ar, -er, -ir)",
+    "Common irregular preterites: fui, tuve, hice, dije, puse",
+    "Pretérito imperfecto: regular conjugations",
+    "Imperfecto irregulars: ser, ir, ver",
+    "When to use indefinido vs imperfecto",
+    "Time markers: ayer, la semana pasada, cuando era niño",
+    "Combining both tenses in storytelling",
+    "The pretérito perfecto (he comido) for recent past"
+  ],
+  "lessons": ["talking-about-the-past"],
+  "frameworks": ["grammar-spiral", "error-correction"],
+  "visualType": "timeline",
+  "relatedModules": ["present-tense", "conditional-tense", "subjunctive-mood"],
+  "status": "complete",
+  "order": 6,
+  "levelNumber": 2
+}

@@ -1,13 +1,13 @@
 {
   "rank": 407,
-  "chinese": "难过",
-  "characters": "难过",
-  "pinyin": "nánguò",
-  "english": "sad, upset",
-  "pronunciation": "nahn-gwoh (2nd, 4th)",
-  "partOfSpeech": "adjective",
-  "exampleZh": "听到这个消息我很难过。",
-  "exampleEn": "I'm sad to hear this news.",
+  "chinese": "知识",
+  "characters": "知识",
+  "pinyin": "zhī shí",
+  "english": "to Knowledge",
+  "pronunciation": "zhi-shi",
+  "partOfSpeech": "verb",
+  "exampleZh": "我想要知识。",
+  "exampleEn": "I want to Knowledge.",
   "group": "confident-350",
-  "topic": "emotions"
+  "topic": "actions"
 }

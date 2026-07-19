@@ -1,0 +1,90 @@
+{
+  "slug": "work-and-school",
+  "title": "Work & School",
+  "titleNative": "직장과 학교",
+  "shortSummary": "Talk about your job, studies, and workplace courtesies in polite and formal Korean.",
+  "level": "beginner",
+  "order": 9,
+  "icon": "💼",
+  "color": "#364fc7",
+  "culturalNote": "Korean workplaces and schools run on hierarchy and titles. You rarely call a senior colleague by name alone; instead you use their job title plus the honorific 님, as in 과장님 (gwajangnim, manager) or 선생님 (seonsaengnim, teacher). Seniority by age and rank shapes who speaks first, who pours drinks, and who pays. The phrase 수고하셨습니다 (sugohasyeotseumnida, you worked hard) is said at the end of the day or a task to acknowledge effort, and it is more about respect than literal praise. Students address teachers with great deference, and the relationship between 선배 (seonbae, senior) and 후배 (hubae, junior) carries lifelong social weight even after graduation. Because so much depends on rank, the formal 합니다 style is common in offices and presentations, while the polite -요 style suits friendly colleagues and everyday exchanges.",
+  "keyPhrases": [
+    { "native": "무슨 일 하세요?", "english": "What work do you do?", "transliteration": "museun il haseyo?", "pronunciation": "mu-seun il ha-se-yo", "context": "Asking about someone's job" },
+    { "native": "저는 회사원이에요", "english": "I'm an office worker", "transliteration": "jeoneun hoesawonieyo", "pronunciation": "jo-neun hoe-sa-wo-ni-e-yo", "context": "Stating your job" },
+    { "native": "어디에서 일해요?", "english": "Where do you work?", "transliteration": "eodieseo ilhaeyo?", "pronunciation": "o-di-e-so il-hae-yo", "context": "Asking the workplace" },
+    { "native": "대학교에 다녀요", "english": "I attend university", "transliteration": "daehakgyoe danyeoyo", "pronunciation": "dae-hak-gyo-e da-nyo-yo", "context": "Talking about studies" },
+    { "native": "전공이 뭐예요?", "english": "What is your major?", "transliteration": "jeongongi mwoyeyo?", "pronunciation": "jon-gong-i mwo-ye-yo", "context": "Asking a student's field" },
+    { "native": "회의가 있어요", "english": "I have a meeting", "transliteration": "hoeuiga isseoyo", "pronunciation": "hoe-ui-ga i-sso-yo", "context": "Workplace schedule" },
+    { "native": "바빠요", "english": "I'm busy", "transliteration": "bappayo", "pronunciation": "ba-ppa-yo", "context": "Describing your workload" },
+    { "native": "수고하셨습니다", "english": "You worked hard (end of day)", "transliteration": "sugohasyeotseumnida", "pronunciation": "su-go-ha-syot-seum-ni-da", "context": "Polite workplace closing" },
+    { "native": "과장님", "english": "Manager (title plus honorific)", "transliteration": "gwajangnim", "pronunciation": "gwa-jang-nim", "context": "Addressing a senior at work" },
+    { "native": "선생님", "english": "Teacher", "transliteration": "seonsaengnim", "pronunciation": "son-saeng-nim", "context": "Addressing a teacher respectfully" }
+  ],
+  "grammar": [
+    {
+      "rule": "The formal 합니다 style",
+      "explanation": "Alongside the polite -요 style, Korean has a formal 합니다 (hamnida) style used in offices, presentations, and announcements. A verb stem takes 습니다 after a consonant and ㅂ니다 after a vowel: 가다 (gada) becomes 갑니다 (gamnida), 먹다 (meokda) becomes 먹습니다 (meokseumnida).",
+      "examples": [
+        { "native": "회의에 갑니다. (hoeuie gamnida.)", "en": "I am going to the meeting." },
+        { "native": "감사합니다. (gamsahamnida.)", "en": "Thank you. (formal)" }
+      ],
+      "commonMistake": "Mixing 합니다 and -요 in the same formal context, which sounds inconsistent."
+    },
+    {
+      "rule": "Honorific titles with 님",
+      "explanation": "At work and school you address seniors by title plus 님 (nim), never by bare name. 과장 (gwajang, manager) becomes 과장님, and 선생 (seonsaeng, teacher) becomes 선생님. Omitting 님 with a senior is disrespectful.",
+      "examples": [
+        { "native": "과장님, 회의 시간이에요. (gwajangnim, hoeui siganieyo.)", "en": "Manager, it's meeting time." },
+        { "native": "선생님, 질문 있어요. (seonsaengnim, jilmun isseoyo.)", "en": "Teacher, I have a question." }
+      ],
+      "commonMistake": "Calling a senior by their plain name; always add the title and 님."
+    }
+  ],
+  "dialogue": {
+    "setup": "Hana, a new employee, chats with a senior colleague, Mr Lee, after a meeting.",
+    "lines": [
+      { "speaker": "하나", "native": "이 과장님, 무슨 일 하세요?", "transliteration": "i gwajangnim, museun il haseyo?", "english": "Manager Lee, what work do you do?" },
+      { "speaker": "이 과장님", "native": "저는 마케팅을 해요. 하나 씨는요?", "transliteration": "jeoneun maketingeul haeyo. hana ssineunyo?", "english": "I work in marketing. And you, Hana?" },
+      { "speaker": "하나", "native": "저는 신입사원이에요. 아직 배워요.", "transliteration": "jeoneun sinipsawonieyo. ajik baewoyo.", "english": "I'm a new employee. I'm still learning." },
+      { "speaker": "이 과장님", "native": "오늘 회의가 또 있어요?", "transliteration": "oneul hoeuiga tto isseoyo?", "english": "Do you have another meeting today?" },
+      { "speaker": "하나", "native": "네, 세 시에 회의가 있어요. 좀 바빠요.", "transliteration": "ne, se sie hoeuiga isseoyo. jom bappayo.", "english": "Yes, there's a meeting at three. I'm a bit busy." },
+      { "speaker": "이 과장님", "native": "수고하세요. 화이팅!", "transliteration": "sugohaseyo. hwaiting!", "english": "Keep up the good work. You can do it!" },
+      { "speaker": "하나", "native": "감사합니다. 과장님도 수고하셨습니다.", "transliteration": "gamsahamnida. gwajangnimdo sugohasyeotseumnida.", "english": "Thank you. You worked hard too, Manager." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you ask 'What work do you do?' in Korean?",
+      "correctAnswer": "무슨 일 하세요?",
+      "explanation": "무슨 일 하세요? (museun il haseyo) asks about someone's job politely."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "How should you address a manager named Park at work?",
+      "options": ["박", "박 씨", "박 과장님", "박이에요"],
+      "correctAnswer": "박 과장님",
+      "explanation": "Seniors are addressed by title plus 님, so 박 과장님 (Manager Park) is correct."
+    },
+    {
+      "type": "fill-blank",
+      "question": "감사_____. (formal 'thank you')",
+      "correctAnswer": "합니다",
+      "explanation": "감사합니다 (gamsahamnida) is the formal 합니다-style 'thank you'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "When is 수고하셨습니다 typically said?",
+      "options": ["When greeting in the morning", "To acknowledge someone's hard work", "When ordering food", "When asking directions"],
+      "correctAnswer": "To acknowledge someone's hard work",
+      "explanation": "수고하셨습니다 (sugohasyeotseumnida) thanks someone for their effort, often at day's end."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: 있어요 / 세 시에 / 회의가 (there's a meeting at three)",
+      "correctAnswer": "세 시에 회의가 있어요",
+      "explanation": "Time with 에, subject, then verb: 세 시에 회의가 있어요."
+    }
+  ],
+  "status": "complete"
+}

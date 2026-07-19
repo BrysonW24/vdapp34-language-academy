@@ -1,0 +1,90 @@
+{
+  "slug": "transport",
+  "title": "Transport",
+  "titleNative": "I trasporti",
+  "shortSummary": "Buy tickets, catch trains and buses, and get around Italy by public transport.",
+  "level": "beginner",
+  "order": 11,
+  "icon": "🚆",
+  "color": "#2c6e49",
+  "culturalNote": "Italy has an excellent rail network: fast trains (Frecce, Italo) link the major cities, while regional trains (regionali) serve smaller towns. A crucial habit is to validate (convalidare) regional tickets in the green or yellow machines on the platform before boarding, or you risk a fine even with a valid ticket. In cities, you usually buy bus and metro tickets in advance at a tabaccheria (tobacconist) or newsstand, then stamp them on board. Taxis are taken from official ranks rather than hailed on the street.",
+  "keyPhrases": [
+    { "native": "Un biglietto per Roma", "english": "A ticket to Rome", "pronunciation": "oon bee-LYET-toh per ROH-mah", "context": "Buying a ticket" },
+    { "native": "andata e ritorno", "english": "return (round trip)", "pronunciation": "an-DAH-tah eh ree-TOR-noh", "context": "Ticket type" },
+    { "native": "A che ora parte il treno?", "english": "What time does the train leave?", "pronunciation": "ah keh OH-rah PAR-teh eel TREH-noh", "context": "Timetable" },
+    { "native": "Da quale binario?", "english": "From which platform?", "pronunciation": "dah KWAH-leh bee-NAH-ree-oh", "context": "Finding the platform" },
+    { "native": "Devo convalidare il biglietto?", "english": "Do I need to validate the ticket?", "pronunciation": "DEH-voh kon-vah-lee-DAH-reh eel bee-LYET-toh", "context": "Avoiding fines" },
+    { "native": "Questo autobus va al centro?", "english": "Does this bus go to the centre?", "pronunciation": "KWES-toh OW-toh-boos vah al CHEN-troh", "context": "Checking the route" },
+    { "native": "Dov'è la fermata?", "english": "Where is the stop?", "pronunciation": "doh-VEH lah fer-MAH-tah", "context": "Bus stops" },
+    { "native": "Quanto dura il viaggio?", "english": "How long is the journey?", "pronunciation": "KWAN-toh DOO-rah eel vee-AH-joh", "context": "Trip length" },
+    { "native": "Vorrei un taxi", "english": "I'd like a taxi", "pronunciation": "vor-RAY oon TAK-see", "context": "Taxis" },
+    { "native": "Il treno è in ritardo", "english": "The train is late", "pronunciation": "eel TREH-noh eh een ree-TAR-doh", "context": "Delays" }
+  ],
+  "grammar": [
+    {
+      "rule": "Andare with a, in, and da",
+      "explanation": "Andare (to go) pairs with different prepositions: a with cities and some places (vado a Roma, vado al cinema), in with countries and many means of transport (vado in Italia, vado in treno), and da with people (vado dal medico).",
+      "examples": [
+        { "native": "Vado a Milano in treno.", "en": "I'm going to Milan by train." },
+        { "native": "Andiamo in autobus.", "en": "We're going by bus." }
+      ],
+      "commonMistake": "Using a with a country. It must be in: in Italia, not a Italia."
+    },
+    {
+      "rule": "Quale for 'which'",
+      "explanation": "Quale (which) asks you to choose from a set. It can shorten to qual before è: qual è il binario? (which is the platform?). It has a plural form quali.",
+      "examples": [
+        { "native": "Da quale binario parte?", "en": "Which platform does it leave from?" },
+        { "native": "Quali treni vanno a Pisa?", "en": "Which trains go to Pisa?" }
+      ],
+      "commonMistake": "Writing qual' with an apostrophe. Qual è never takes one."
+    }
+  ],
+  "dialogue": {
+    "setup": "A traveller buys a train ticket at the counter.",
+    "lines": [
+      { "speaker": "Viaggiatore", "native": "Buongiorno, un biglietto per Firenze.", "english": "Good morning, a ticket to Florence." },
+      { "speaker": "Bigliettaio", "native": "Solo andata o andata e ritorno?", "english": "One way or return?" },
+      { "speaker": "Viaggiatore", "native": "Andata e ritorno, grazie.", "english": "Return, thank you." },
+      { "speaker": "Bigliettaio", "native": "Sono trentadue euro.", "english": "That's thirty-two euros." },
+      { "speaker": "Viaggiatore", "native": "Da quale binario parte?", "english": "Which platform does it leave from?" },
+      { "speaker": "Bigliettaio", "native": "Binario cinque, fra dieci minuti.", "english": "Platform five, in ten minutes." },
+      { "speaker": "Viaggiatore", "native": "Devo convalidare il biglietto?", "english": "Do I need to validate the ticket?" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'A ticket to Rome' in Italian?",
+      "correctAnswer": "Un biglietto per Roma",
+      "explanation": "Per marks the destination of the ticket."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does andata e ritorno mean?",
+      "options": ["one way", "return (round trip)", "first class", "platform"],
+      "correctAnswer": "return (round trip)",
+      "explanation": "Andata e ritorno is a return ticket."
+    },
+    {
+      "type": "fill-blank",
+      "question": "Vado a Milano _____ treno. (by)",
+      "correctAnswer": "in",
+      "explanation": "Means of transport take in: in treno, in autobus."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Why might you need to convalidare a regional ticket?",
+      "options": ["To get a refund", "To avoid a fine", "To reserve a seat", "To buy food"],
+      "correctAnswer": "To avoid a fine",
+      "explanation": "Regional tickets must be validated before boarding."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: binario / quale / da",
+      "correctAnswer": "Da quale binario",
+      "explanation": "Da quale binario? means 'from which platform?'"
+    }
+  ],
+  "status": "complete"
+}

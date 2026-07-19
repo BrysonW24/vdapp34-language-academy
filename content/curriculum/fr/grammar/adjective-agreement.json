@@ -1,0 +1,26 @@
+{
+  "slug": "adjective-agreement",
+  "name": "Adjective Agreement",
+  "nameNative": "L'accord des adjectifs",
+  "summary": "French adjectives change to match the gender and number of the noun, and usually follow it.",
+  "level": "elementary",
+  "order": 6,
+  "explanation": "Adjectives agree with their noun in gender and number. The basic rule: add -e for feminine and -s for plural. So grand (m) becomes grande (f), grands (m. pl.), grandes (f. pl.).\n\nMost adjectives come after the noun: une voiture rouge (a red car), un livre intéressant (an interesting book). A small set of common short adjectives come before the noun, often remembered as BAGS: Beauty, Age, Goodness, Size, such as un grand homme, une belle maison, un jeune enfant.\n\nSome adjectives are irregular in the feminine, like beau / belle and vieux / vieille, and must be learned.",
+  "pattern": "Noun + adjective (+ e for feminine, + s for plural)",
+  "examples": [
+    { "native": "un petit chien", "en": "a small dog (masculine)" },
+    { "native": "une petite maison", "en": "a small house (feminine)" },
+    { "native": "des fleurs rouges", "en": "red flowers (feminine plural)" },
+    { "native": "une voiture noire", "en": "a black car (adjective after the noun)" },
+    { "native": "un grand homme", "en": "a tall man (adjective before the noun)" },
+    { "native": "une belle journée", "en": "a beautiful day (irregular: beau/belle)" }
+  ],
+  "commonMistakes": [
+    "Leaving the adjective unchanged for a feminine noun: it is une petite maison, not une petit maison.",
+    "Forgetting the plural -s: it is des fleurs rouges, not des fleurs rouge.",
+    "Putting every adjective before the noun like English. Most follow it in French.",
+    "Regularising irregular feminines: it is belle and vieille, not beaue or vieuxe.",
+    "Pronouncing the silent endings. The feminine -e is often what makes the consonant audible."
+  ],
+  "tip": "Match the adjective to its noun in gender and number, and place it after the noun unless it is a short BAGS adjective."
+}

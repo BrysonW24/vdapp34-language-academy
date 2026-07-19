@@ -1,0 +1,34 @@
+{
+  "slug": "future-and-plans",
+  "name": "Future Tense & Plans (गा / गी / गे)",
+  "nameNative": "भविष्यत् काल (bhavishyat kaal)",
+  "summary": "Talk about the future and your plans by adding गा / गी / गे to the verb.",
+  "level": "pre-intermediate",
+  "order": 12,
+  "explanation": "The Hindi future is formed by adding the endings -गा (-ga), -गी (-gi), or -गे (-ge) to a special future stem of the verb. These endings agree with the subject's gender and number: -गा for masculine singular, -गी for feminine, and -गे for plural and the polite आप. So 'I will go' is a man saying मैं जाऊँगा (main jaaunga) and a woman saying मैं जाऊँगी (main jaaungi).\n\nThe part before the ending changes with the person too: मैं जाऊँ- (main jaaun-), तुम जाओ- (tum jaao-), आप/हम/वे जाएँ- (aap/ham/ve jaayen-). Putting it together you get मैं जाऊँगा (main jaaunga, I will go), तुम जाओगे (tum jaaoge, you will go - familiar), and आप जाएँगे (aap jaayenge, you will go - polite). The endings -गा/-गी/-गे are simply attached to these forms.\n\nThis tense covers both predictions and plans, the same way English 'will' does. मैं कल आऊँगा (main kal aaunga) means 'I will come tomorrow'. For softer intentions you can add words like शायद (shaayad, maybe). Because the future already shows the subject through its ending, Hindi often drops the pronoun in casual speech, much like the present habitual.",
+  "pattern": "future stem + ga (m.sg) / gi (f) / ge (pl & polite); agrees with subject",
+  "conjugation": {
+    "मैं (m): जाना": "मैं जाऊँगा (main jaaunga, I will go)",
+    "मैं (f): जाना": "मैं जाऊँगी (main jaaungi, I will go)",
+    "तुम: जाना": "तुम जाओगे (tum jaaoge, you will go - familiar)",
+    "आप: जाना": "आप जाएँगे (aap jaayenge, you will go - polite)",
+    "वह (m): करना": "वह करेगा (voh karega, he will do)",
+    "हम: करना": "हम करेंगे (ham karenge, we will do)"
+  },
+  "examples": [
+    { "native": "मैं कल मुंबई जाऊँगा। (main kal Mumbai jaaunga.)", "en": "I will go to Mumbai tomorrow. (man speaking)" },
+    { "native": "वह डॉक्टर बनेगी। (voh doctor banegi.)", "en": "She will become a doctor." },
+    { "native": "हम साथ खाना खाएँगे। (ham saath khaana khaayenge.)", "en": "We will eat together." },
+    { "native": "क्या आप आएँगे? (kya aap aayenge?)", "en": "Will you come? (polite)" },
+    { "native": "तुम क्या करोगे? (tum kya karoge?)", "en": "What will you do? (familiar)" },
+    { "native": "शायद बारिश होगी। (shaayad baarish hogi.)", "en": "It will probably rain." }
+  ],
+  "commonMistakes": [
+    "Using -गा (-ga) for a feminine subject: a woman saying main jaaunga instead of main jaaungi.",
+    "Using है (hai) or होना forms instead of the -गा/-गी/-गे ending to mark the future.",
+    "Using -गा (singular) with आप, which needs the plural -गे (jaayenge).",
+    "Forgetting the stem change: saying main jaaonga instead of main jaaunga.",
+    "Adding an English-style 'will' word; the future is built into the verb ending in Hindi."
+  ],
+  "tip": "Lock in the three endings by gender and number: -गा masculine, -गी feminine, -गे plural and polite. The rest is just the right stem."
+}

@@ -1,0 +1,90 @@
+{
+  "slug": "travel-and-accommodation",
+  "title": "Travel & Accommodation",
+  "titleNative": "Voyage et hébergement",
+  "shortSummary": "Plan a trip, check into accommodation, and handle travel situations in French.",
+  "level": "pre-intermediate",
+  "order": 14,
+  "icon": "🧳",
+  "color": "#1f8a5b",
+  "culturalNote": "France is the world's most visited country, with everything from Paris and the Riviera to mountains and vineyards. Accommodation ranges from hotels to gîtes (self-catering cottages) and chambres d'hôtes (bed and breakfasts). August is the big holiday month, when many French take their long summer break, so popular spots are busy. A polite Bonjour at every front desk is expected.",
+  "keyPhrases": [
+    { "native": "Je voudrais réserver une chambre", "english": "I'd like to book a room", "pronunciation": "zhuh voo-DREH ray-zehr-VAY ewn SHON-bruh", "context": "Booking" },
+    { "native": "Avez-vous une chambre libre ?", "english": "Do you have a room available?", "pronunciation": "ah-vay VOO ewn SHON-bruh LEE-bruh", "context": "Walk-in" },
+    { "native": "pour deux nuits", "english": "for two nights", "pronunciation": "poor duh NWEE", "context": "Length of stay" },
+    { "native": "Le petit-déjeuner est inclus ?", "english": "Is breakfast included?", "pronunciation": "luh puh-TEE day-zhuh-NAY eh tan-KLEW", "context": "Checking inclusions" },
+    { "native": "À quelle heure est le départ ?", "english": "What time is check-out?", "pronunciation": "ah kel UHR eh luh day-PAR", "context": "Leaving" },
+    { "native": "J'ai raté mon vol", "english": "I missed my flight", "pronunciation": "zhay rah-TAY mon VOL", "context": "Travel problems" },
+    { "native": "Où est la gare ?", "english": "Where is the station?", "pronunciation": "oo eh lah GAR", "context": "Getting around" },
+    { "native": "Je suis de passage", "english": "I'm just passing through", "pronunciation": "zhuh swee duh pah-SAHZH", "context": "Explaining your trip" },
+    { "native": "Y a-t-il un site à voir ?", "english": "Is there a sight to see?", "pronunciation": "ee ah-TEEL un seet ah VWAHR", "context": "Sightseeing" },
+    { "native": "Bon voyage !", "english": "Have a good trip!", "pronunciation": "bon vwah-YAHZH", "context": "A warm farewell" }
+  ],
+  "grammar": [
+    {
+      "rule": "à, en, and au for destinations",
+      "explanation": "Use à for cities (à Paris), en for feminine countries (en France, en Italie), and au for masculine countries (au Canada, au Japon). For plural countries use aux: aux États-Unis.",
+      "examples": [
+        { "native": "Je vais à Nice.", "en": "I'm going to Nice. (city)" },
+        { "native": "Nous allons en Espagne.", "en": "We're going to Spain. (feminine country)" }
+      ],
+      "commonMistake": "Using à for countries: it is en France and au Japon, not à France."
+    },
+    {
+      "rule": "Passé composé for recounting a trip",
+      "explanation": "To tell someone about a past trip, use the passé composé: J'ai visité Paris (I visited Paris). Movement verbs take être: Je suis allé en Italie.",
+      "examples": [
+        { "native": "Nous avons réservé un hôtel.", "en": "We booked a hotel." },
+        { "native": "Je suis allé à la plage.", "en": "I went to the beach. (être verb)" }
+      ],
+      "commonMistake": "Using avoir with movement verbs: it is Je suis allé, not J'ai allé."
+    }
+  ],
+  "dialogue": {
+    "setup": "A guest arrives at a small hotel and speaks with the receptionist.",
+    "lines": [
+      { "speaker": "Client", "native": "Bonsoir, j'ai réservé une chambre.", "english": "Good evening, I have booked a room." },
+      { "speaker": "Réception", "native": "Bienvenue ! À quel nom, s'il vous plaît ?", "english": "Welcome! Under what name, please?" },
+      { "speaker": "Client", "native": "Au nom de Martin, pour deux nuits.", "english": "Under the name Martin, for two nights." },
+      { "speaker": "Réception", "native": "Parfait. Le petit-déjeuner est de sept à dix heures.", "english": "Perfect. Breakfast is from seven to ten." },
+      { "speaker": "Client", "native": "Très bien. À quelle heure est le départ ?", "english": "Very good. What time is check-out?" },
+      { "speaker": "Réception", "native": "À midi. Voici votre clé, chambre douze.", "english": "At noon. Here is your key, room twelve." },
+      { "speaker": "Client", "native": "Merci beaucoup. Bonne soirée !", "english": "Thank you very much. Have a good evening!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'I'd like to book a room'?",
+      "correctAnswer": "Je voudrais réserver une chambre",
+      "explanation": "Je voudrais plus the infinitive réserver."
+    },
+    {
+      "type": "fill-blank",
+      "question": "Nous allons _____ France. (to, feminine country)",
+      "correctAnswer": "en",
+      "explanation": "Feminine countries take en: en France."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which is correct for a masculine country (le Japon)?",
+      "options": ["à Japon", "en Japon", "au Japon", "aux Japon"],
+      "correctAnswer": "au Japon",
+      "explanation": "Masculine countries take au: au Japon."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which sentence is correct in the past?",
+      "options": ["J'ai allé en Italie", "Je suis allé en Italie", "J'ai allé à Italie", "Je suis allé à Italie"],
+      "correctAnswer": "Je suis allé en Italie",
+      "explanation": "aller takes être, and Italy (feminine) takes en."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: chambre / une / libre / avez-vous",
+      "correctAnswer": "Avez-vous une chambre libre",
+      "explanation": "Avez-vous (do you have) + une chambre libre (a free room)."
+    }
+  ],
+  "status": "complete"
+}

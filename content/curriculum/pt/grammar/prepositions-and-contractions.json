@@ -1,0 +1,34 @@
+{
+  "slug": "prepositions-and-contractions",
+  "name": "Prepositions and Contractions",
+  "nameNative": "As preposições e contrações",
+  "summary": "Portuguese prepositions merge with articles into single contracted words.",
+  "level": "pre-intermediate",
+  "order": 9,
+  "explanation": "When a preposition meets a definite article, they usually contract. The key prepositions are de (of/from), em (in/on), a (to), and por (by/through).\n\nDe + o becomes do, de + a becomes da; em + o becomes no, em + a becomes na; a + o becomes ao, a + a becomes à. So vou ao mercado (I go to the market), a casa do João (João's house), estou na escola (I'm at school).\n\nThese contractions are required, not optional. They also combine with este, esse, and aquele: de + aquele becomes daquele.",
+  "pattern": "preposition + article = contracted form",
+  "conjugation": {
+    "de + o": "do",
+    "de + a": "da",
+    "em + o": "no",
+    "em + a": "na",
+    "a + o": "ao",
+    "a + a": "à"
+  },
+  "examples": [
+    { "native": "Vou ao mercado.", "en": "I'm going to the market." },
+    { "native": "A casa do João.", "en": "João's house." },
+    { "native": "Estou na escola.", "en": "I'm at school." },
+    { "native": "O livro do professor.", "en": "The teacher's book." },
+    { "native": "Moro no Brasil.", "en": "I live in Brazil." },
+    { "native": "Ela vem da França.", "en": "She comes from France." }
+  ],
+  "commonMistakes": [
+    "Writing de o or em a separately. They must contract to do and na.",
+    "Forgetting the crase à (a + a), used before feminine nouns: vou à praia.",
+    "Mixing up de (of/from) and em (in/on), which change the meaning.",
+    "Saying 'in Brazil' as em Brasil; it is no Brasil with the article.",
+    "Leaving por uncontracted where it should be pelo (por + o) or pela (por + a)."
+  ],
+  "tip": "Build a small grid of preposition rows against article columns once; after that the contractions become automatic."
+}

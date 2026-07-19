@@ -1,0 +1,32 @@
+{
+  "slug": "ser-and-estar",
+  "name": "Ser and Estar (two verbs for 'to be')",
+  "nameNative": "Ser e estar",
+  "summary": "Portuguese has two verbs for 'to be': ser for permanent traits, estar for states.",
+  "level": "beginner",
+  "order": 3,
+  "explanation": "Portuguese splits 'to be' into two verbs. Ser is for permanent or defining things: identity, origin, profession, and characteristics. Estar is for temporary states: feelings, location, and conditions that can change.\n\nSer: sou, é, somos, são. Sou australiano (I am Australian, permanent).\n\nEstar: estou, está, estamos, estão. Estou cansado (I am tired, right now).\n\nThe same adjective can switch meaning: ele é chato (he is boring, by nature) versus ele está chato (he is being annoying today).",
+  "pattern": "ser (traits) vs estar (states)",
+  "conjugation": {
+    "eu": "sou / estou",
+    "você/ele/ela": "é / está",
+    "nós": "somos / estamos",
+    "vocês/eles/elas": "são / estão"
+  },
+  "examples": [
+    { "native": "Eu sou professor.", "en": "I am a teacher. (ser)" },
+    { "native": "Eu estou cansado.", "en": "I am tired. (estar)" },
+    { "native": "Ela é brasileira.", "en": "She is Brazilian. (ser)" },
+    { "native": "Ela está no trabalho.", "en": "She is at work. (estar)" },
+    { "native": "Nós somos amigos.", "en": "We are friends. (ser)" },
+    { "native": "O café está quente.", "en": "The coffee is hot. (estar)" }
+  ],
+  "commonMistakes": [
+    "Using ser for location. Where something is uses estar: estou em casa.",
+    "Using estar for nationality or profession. Those are permanent: sou australiano.",
+    "Confusing é (is) with e (and); the accent changes the meaning.",
+    "Forgetting that feelings take estar: estou feliz, not sou feliz.",
+    "Mixing the two conjugations; sou is ser, estou is estar."
+  ],
+  "tip": "A quick test: if the trait is essentially permanent, use ser; if it could change by this afternoon, use estar."
+}

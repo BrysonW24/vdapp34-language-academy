@@ -1,0 +1,90 @@
+{
+  "slug": "transport",
+  "title": "Transport",
+  "titleNative": "Ulaşım",
+  "shortSummary": "Get around by bus, metro, ferry, and taxi, and buy tickets in Turkish.",
+  "level": "beginner",
+  "order": 11,
+  "icon": "🚍",
+  "color": "#5f3dc4",
+  "culturalNote": "Istanbul straddles two continents, so the ferry (vapur) across the Bosphorus is not just transport but a beloved ritual, complete with tea and simit bread as the city slides by. Public transport in big cities runs on a rechargeable smart card, the İstanbulkart, which works on metro, tram, bus, and ferry alike, so locals rarely buy single paper tickets. Shared minibuses called dolmuş (literally 'stuffed full') follow set routes and leave when full; you pay the driver and call out inecek var (someone wants to get off) at your stop. Taxis are yellow and metered; insisting on the meter (taksimetre) is wise. The all-purpose phrase durabilir misiniz? (can you stop?) and naming your destination plus the dative -e ending get you where you need to go.",
+  "keyPhrases": [
+    { "native": "Otobüs durağı nerede?", "english": "Where is the bus stop?", "pronunciation": "oh-toh-BEWS doo-rah-UH neh-reh-DEH", "context": "Finding the stop" },
+    { "native": "Bir bilet, lütfen", "english": "One ticket, please", "pronunciation": "beer bee-LEHT lewt-FEHN", "context": "Buying a ticket" },
+    { "native": "Taksim'e gidiyor mu?", "english": "Does it go to Taksim?", "pronunciation": "tahk-see-MEH gee-dee-YOHR moo", "context": "Checking the route" },
+    { "native": "Metro hangi yönde?", "english": "Which way is the metro?", "pronunciation": "MEHT-roh hahn-GEE yurn-DEH", "context": "Asking for directions" },
+    { "native": "Bir taksi çağırın", "english": "Call a taxi", "pronunciation": "beer tahk-SEE chah-uh-RUHN", "context": "Needing a cab" },
+    { "native": "Buraya, lütfen", "english": "To here, please", "pronunciation": "boo-rah-YAH lewt-FEHN", "context": "Showing a driver an address" },
+    { "native": "Ne kadar sürer?", "english": "How long does it take?", "pronunciation": "neh kah-DAHR sew-REHR", "context": "Asking the journey time" },
+    { "native": "Durabilir misiniz?", "english": "Can you stop?", "pronunciation": "doo-rah-bee-LEER mee-see-NEEZ", "context": "Asking to get off" },
+    { "native": "Vapur ne zaman kalkıyor?", "english": "When does the ferry leave?", "pronunciation": "vah-POOR neh zah-MAHN kahl-kuh-YOHR", "context": "Catching the ferry" },
+    { "native": "İstasyona ne kadar var?", "english": "How far is the station?", "pronunciation": "ees-tahs-yoh-NAH neh kah-DAHR vahr", "context": "Checking the distance" }
+  ],
+  "grammar": [
+    {
+      "rule": "The dative -e/-a for a destination",
+      "explanation": "To say where you are going, add the dative ending -e or -a (with vowel harmony) to the destination. Taksim'e (to Taksim), istasyona (to the station), eve (home). Movement verbs like git- (go) and the question gidiyor mu? (does it go?) pair with this ending.",
+      "examples": [
+        { "native": "Kadıköy'e gidiyor mu?", "en": "Does it go to Kadıkoy?" },
+        { "native": "Havaalanına gidiyorum.", "en": "I'm going to the airport." }
+      ],
+      "commonMistake": "Leaving the destination bare. It is Taksim'e gidiyor mu?, not Taksim gidiyor mu?"
+    },
+    {
+      "rule": "Polite requests with -ir misiniz?",
+      "explanation": "A very polite way to ask someone to do something is the aorist plus the question particle: durabilir misiniz? (could you stop?), açar mısınız? (could you open?). The -ir/-ar form expresses possibility or a general request, and adding misiniz makes it a courteous question to a stranger.",
+      "examples": [
+        { "native": "Burada durabilir misiniz?", "en": "Could you stop here?" },
+        { "native": "Yardım eder misiniz?", "en": "Could you help?" }
+      ],
+      "commonMistake": "Dropping the question particle and just commanding. Durabilir misiniz? is far more polite than dur."
+    }
+  ],
+  "dialogue": {
+    "setup": "A visitor flags down a yellow taxi in Istanbul and gives directions.",
+    "lines": [
+      { "speaker": "Yolcu", "native": "Merhaba, Taksim'e gidiyor musunuz?", "english": "Hello, are you going to Taksim?" },
+      { "speaker": "Şoför", "native": "Tabii, buyurun. Binin lütfen.", "english": "Of course, please. Get in." },
+      { "speaker": "Yolcu", "native": "Ne kadar sürer?", "english": "How long does it take?" },
+      { "speaker": "Şoför", "native": "Trafik yoksa yirmi dakika.", "english": "If there's no traffic, twenty minutes." },
+      { "speaker": "Yolcu", "native": "Taksimetreyi açar mısınız?", "english": "Could you turn on the meter?" },
+      { "speaker": "Şoför", "native": "Açtım, merak etmeyin.", "english": "I've turned it on, don't worry." },
+      { "speaker": "Yolcu", "native": "Teşekkürler. Köşede durabilir misiniz?", "english": "Thank you. Could you stop at the corner?" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you ask 'Where is the bus stop?' in Turkish?",
+      "correctAnswer": "Otobüs durağı nerede?",
+      "explanation": "Otobüs durağı is the bus stop; nerede asks 'where'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which phrase politely asks the driver to stop?",
+      "options": ["Buraya, lütfen", "Durabilir misiniz?", "Bir bilet, lütfen", "Ne kadar sürer?"],
+      "correctAnswer": "Durabilir misiniz?",
+      "explanation": "Durabilir misiniz? means 'could you stop?', a polite request."
+    },
+    {
+      "type": "fill-blank",
+      "question": "Taksim'_____ gidiyor mu? (Does it go to Taksim?)",
+      "correctAnswer": "e",
+      "explanation": "The dative -e on Taksim gives Taksim'e, 'to Taksim'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does 'vapur' mean?",
+      "options": ["bus", "ferry", "taxi", "metro"],
+      "correctAnswer": "ferry",
+      "explanation": "Vapur is the ferry that crosses the Bosphorus in Istanbul."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: lütfen / bilet / bir",
+      "correctAnswer": "Bir bilet lütfen",
+      "explanation": "Bir bilet, lütfen means 'One ticket, please'."
+    }
+  ],
+  "status": "complete"
+}

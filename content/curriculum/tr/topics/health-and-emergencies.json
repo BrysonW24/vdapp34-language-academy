@@ -1,0 +1,90 @@
+{
+  "slug": "health-and-emergencies",
+  "title": "Health & Emergencies",
+  "titleNative": "Sağlık ve acil durumlar",
+  "shortSummary": "Explain how you feel, ask for help, and handle a medical or emergency situation in Turkish.",
+  "level": "beginner",
+  "order": 13,
+  "icon": "🏥",
+  "color": "#e03131",
+  "culturalNote": "Health is a frequent and caring topic in Turkish conversation, and wishing someone geçmiş olsun (may it pass / get well soon) is a heartfelt phrase you will hear constantly, even from strangers and shopkeepers when they learn you are unwell. Turkey has a wide network of pharmacies (eczane), marked by a red E, where pharmacists give practical advice and many medicines without a prescription; outside hours, a nöbetçi eczane (on-duty pharmacy) stays open. The universal emergency number is 112, which covers ambulance, fire, and police. State and private hospitals (hastane) serve large cities well, and many doctors in private clinics speak some English. When describing pain, Turks use the structure '... ağrıyor' (my ... hurts), as in başım ağrıyor (my head hurts). A warm geçmiş olsun in reply to anyone's illness is always appreciated.",
+  "keyPhrases": [
+    { "native": "Yardım edin!", "english": "Help!", "pronunciation": "yahr-DUHM eh-DEEN", "context": "Urgent call for help" },
+    { "native": "Hastayım", "english": "I'm sick", "pronunciation": "hahs-tah-YUHM", "context": "Telling someone you're ill" },
+    { "native": "Başım ağrıyor", "english": "My head hurts", "pronunciation": "bah-SHUHM ah-ruh-YOHR", "context": "Describing pain" },
+    { "native": "Doktora gitmeliyim", "english": "I need to see a doctor", "pronunciation": "dohk-toh-RAH geet-meh-lee-YEEM", "context": "Seeking treatment" },
+    { "native": "Eczane nerede?", "english": "Where is the pharmacy?", "pronunciation": "ehj-zah-NEH neh-reh-DEH", "context": "Finding medicine" },
+    { "native": "Ambulans çağırın", "english": "Call an ambulance", "pronunciation": "ahm-boo-LAHNS chah-uh-RUHN", "context": "Medical emergency" },
+    { "native": "Acil durum var", "english": "There's an emergency", "pronunciation": "ah-JEEL doo-ROOM vahr", "context": "Alerting others" },
+    { "native": "İlaç gerekiyor", "english": "I need medicine", "pronunciation": "ee-LAHCH geh-reh-kee-YOHR", "context": "At the pharmacy" },
+    { "native": "Alerjim var", "english": "I have an allergy", "pronunciation": "ah-lehr-JEEM vahr", "context": "Important medical info" },
+    { "native": "Geçmiş olsun", "english": "Get well soon", "pronunciation": "gech-MEESH ohl-SOON", "context": "Wishing someone well" }
+  ],
+  "grammar": [
+    {
+      "rule": "Describing pain with body part plus ağrıyor",
+      "explanation": "To say a body part hurts, add a possessive ending to it and follow with ağrıyor (it hurts): başım ağrıyor (my head hurts), midem ağrıyor (my stomach hurts), boğazım ağrıyor (my throat hurts). The body part takes the -im 'my' ending and the verb stays singular.",
+      "examples": [
+        { "native": "Dişim ağrıyor.", "en": "My tooth hurts." },
+        { "native": "Sırtım ağrıyor.", "en": "My back hurts." }
+      ],
+      "commonMistake": "Forgetting the possessive ending. It is başım ağrıyor (my head), not baş ağrıyor for 'my head hurts'."
+    },
+    {
+      "rule": "Necessity with -meli/-malı (I must)",
+      "explanation": "To say you must or should do something, add -meli or -malı (with vowel harmony) plus a personal ending to the verb stem: gitmeliyim (I must go), dinlenmeliyim (I should rest). This expresses obligation or strong advice.",
+      "examples": [
+        { "native": "Doktora gitmeliyim.", "en": "I must go to the doctor." },
+        { "native": "İlaç almalısın.", "en": "You should take medicine." }
+      ],
+      "commonMistake": "Using the wrong vowel. After a front vowel it is gitmeliyim; after a back vowel it is almalıyım."
+    }
+  ],
+  "dialogue": {
+    "setup": "A traveller feels unwell and goes to a pharmacy for advice.",
+    "lines": [
+      { "speaker": "Müşteri", "native": "Merhaba, hastayım. Başım çok ağrıyor.", "english": "Hello, I'm sick. My head hurts a lot." },
+      { "speaker": "Eczacı", "native": "Geçmiş olsun. Ateşiniz var mı?", "english": "Get well soon. Do you have a fever?" },
+      { "speaker": "Müşteri", "native": "Biraz. Bir ilaç gerekiyor.", "english": "A little. I need some medicine." },
+      { "speaker": "Eczacı", "native": "Alerjiniz var mı?", "english": "Do you have any allergies?" },
+      { "speaker": "Müşteri", "native": "Hayır, alerjim yok.", "english": "No, I don't have allergies." },
+      { "speaker": "Eczacı", "native": "Bu ağrı kesiciyi alın ve dinlenin.", "english": "Take this painkiller and rest." },
+      { "speaker": "Müşteri", "native": "Teşekkürler. Geçmezse doktora gitmeliyim.", "english": "Thank you. If it doesn't pass, I must see a doctor." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'Help!' in Turkish?",
+      "correctAnswer": "Yardım edin!",
+      "explanation": "Yardım edin! is the polite/plural call for help."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which phrase means 'Get well soon'?",
+      "options": ["Geçmiş olsun", "Afiyet olsun", "Kolay gelsin", "Hoş geldiniz"],
+      "correctAnswer": "Geçmiş olsun",
+      "explanation": "Geçmiş olsun means 'may it pass', said to someone who is unwell."
+    },
+    {
+      "type": "fill-blank",
+      "question": "Baş_____ ağrıyor. (My head hurts)",
+      "correctAnswer": "ım",
+      "explanation": "The possessive -ım on baş gives başım, 'my head'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "How do you say 'I need to see a doctor'?",
+      "options": ["Hastayım", "Doktora gitmeliyim", "Alerjim var", "İlaç gerekiyor"],
+      "correctAnswer": "Doktora gitmeliyim",
+      "explanation": "Gitmeliyim means 'I must go'; doktora is 'to the doctor'."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: çağırın / ambulans",
+      "correctAnswer": "Ambulans çağırın",
+      "explanation": "Ambulans çağırın means 'Call an ambulance'."
+    }
+  ],
+  "status": "complete"
+}

@@ -1,0 +1,90 @@
+{
+  "slug": "work-and-school",
+  "title": "Work & School",
+  "titleNative": "İş ve okul",
+  "shortSummary": "Talk about your job, studies, and daily work life in Turkish.",
+  "level": "beginner",
+  "order": 9,
+  "icon": "💼",
+  "color": "#1971c2",
+  "culturalNote": "Work relationships in Turkey blend professionalism with warmth: colleagues often share tea breaks, lunch, and personal news, and a workplace can feel like an extended family. Titles matter, so addressing a manager or older colleague with bey or hanım after their first name is respectful, and the formal siz is standard until someone invites the informal sen. Common courtesies pepper the workday, including kolay gelsin (may it come easily), said to anyone you see working, and iyi çalışmalar (good work) as a friendly sign-off. Education is highly valued, and the school system runs from ilkokul (primary) through lise (high school) to üniversite (university). When meeting someone new, asking ne iş yapıyorsunuz? (what work do you do?) or ne okuyorsunuz? (what are you studying?) is a natural, polite way to start a conversation.",
+  "keyPhrases": [
+    { "native": "Ne iş yapıyorsunuz?", "english": "What do you do for work?", "pronunciation": "neh eesh yah-puh-yohr-soo-NOOZ", "context": "Polite small talk" },
+    { "native": "Öğretmenim", "english": "I'm a teacher", "pronunciation": "ur-reht-meh-NEEM", "context": "Stating your job" },
+    { "native": "Bir şirkette çalışıyorum", "english": "I work at a company", "pronunciation": "beer shir-keht-TEH chah-luh-shuh-YOH-room", "context": "Describing your work" },
+    { "native": "Üniversitede okuyorum", "english": "I study at university", "pronunciation": "ew-nee-vehr-see-teh-DEH oh-koo-YOH-room", "context": "If you are a student" },
+    { "native": "Ne okuyorsunuz?", "english": "What are you studying?", "pronunciation": "neh oh-koo-yohr-soo-NOOZ", "context": "Asking a student" },
+    { "native": "Toplantım var", "english": "I have a meeting", "pronunciation": "tohp-lahn-TUHM vahr", "context": "Talking about your day" },
+    { "native": "Kolay gelsin", "english": "May it come easily (to someone working)", "pronunciation": "koh-LIE gehl-SEEN", "context": "Encouraging a worker" },
+    { "native": "İş yerim merkezde", "english": "My workplace is in the centre", "pronunciation": "eesh yeh-REEM mehr-kehz-DEH", "context": "Saying where you work" },
+    { "native": "Saat dokuzda başlıyorum", "english": "I start at nine o'clock", "pronunciation": "sah-AHT doh-kooz-DAH bahsh-luh-YOH-room", "context": "Describing work hours" },
+    { "native": "İyi çalışmalar", "english": "Have a good day's work", "pronunciation": "ee-YEE chah-luhsh-mah-LAHR", "context": "Friendly sign-off" }
+  ],
+  "grammar": [
+    {
+      "rule": "Question words ne, nerede, ne zaman",
+      "explanation": "Turkish question words sit just before the verb, not at the start of the sentence as in English. Ne means 'what' (ne yapıyorsunuz? what do you do?), nerede means 'where' (nerede çalışıyorsunuz? where do you work?), and ne zaman means 'when'. Word order otherwise stays subject-object-verb.",
+      "examples": [
+        { "native": "Nerede çalışıyorsunuz?", "en": "Where do you work?" },
+        { "native": "Ne zaman başlıyorsunuz?", "en": "When do you start?" }
+      ],
+      "commonMistake": "Fronting the question word and changing word order like English. Keep the verb at the end: ne okuyorsunuz?"
+    },
+    {
+      "rule": "The siz form of -iyor verbs",
+      "explanation": "To speak politely with the formal siz, add -sunuz (or -sınız, -siniz, -sünüz by harmony) after the -iyor present continuous: çalışıyorsunuz (you work), okuyorsunuz (you study). This is the form you use at work with people you do not know well.",
+      "examples": [
+        { "native": "Bir bankada mı çalışıyorsunuz?", "en": "Do you work at a bank?" },
+        { "native": "İngilizce öğreniyorsunuz.", "en": "You are learning English." }
+      ],
+      "commonMistake": "Mixing the informal -sun (sen) with siz. For polite 'you' it is çalışıyorsunuz, not çalışıyorsun."
+    }
+  ],
+  "dialogue": {
+    "setup": "At a networking event, Hakan and Derya introduce their work to each other.",
+    "lines": [
+      { "speaker": "Hakan", "native": "Merhaba, ne iş yapıyorsunuz?", "english": "Hello, what do you do for work?" },
+      { "speaker": "Derya", "native": "Bir yazılım şirketinde çalışıyorum. Siz?", "english": "I work at a software company. You?" },
+      { "speaker": "Hakan", "native": "Ben öğretmenim, lisede ders veriyorum.", "english": "I'm a teacher, I teach at a high school." },
+      { "speaker": "Derya", "native": "Çok güzel. Nerede çalışıyorsunuz?", "english": "Very nice. Where do you work?" },
+      { "speaker": "Hakan", "native": "Kadıköy'de. Sabah dokuzda başlıyorum.", "english": "In Kadıkoy. I start at nine in the morning." },
+      { "speaker": "Derya", "native": "Erkenmiş! Şimdi toplantım var, gitmeliyim.", "english": "That's early! I have a meeting now, I should go." },
+      { "speaker": "Hakan", "native": "Tabii, kolay gelsin!", "english": "Of course, may it come easily!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'I'm a teacher' in Turkish?",
+      "correctAnswer": "Öğretmenim",
+      "explanation": "Öğretmen (teacher) plus the -im ending means 'I am a teacher'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which phrase asks 'What do you do for work?' formally?",
+      "options": ["Ne okuyorsunuz?", "Ne iş yapıyorsunuz?", "Nerelisiniz?", "Kaç yaşındasınız?"],
+      "correctAnswer": "Ne iş yapıyorsunuz?",
+      "explanation": "Ne iş yapıyorsunuz? literally asks 'what work do you do?'"
+    },
+    {
+      "type": "fill-blank",
+      "question": "Nerede çalışıyor_____? (Where do you work? formal)",
+      "correctAnswer": "sunuz",
+      "explanation": "The polite siz ending -sunuz gives çalışıyorsunuz."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What do you say to someone who is working?",
+      "options": ["İyi çalışmalar", "Kolay gelsin", "Afiyet olsun", "Hoş geldiniz"],
+      "correctAnswer": "Kolay gelsin",
+      "explanation": "Kolay gelsin means 'may it come easily' and encourages anyone working."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: okuyorum / üniversitede",
+      "correctAnswer": "Üniversitede okuyorum",
+      "explanation": "Üniversitede okuyorum means 'I study at university'."
+    }
+  ],
+  "status": "complete"
+}

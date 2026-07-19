@@ -1,13 +1,11 @@
 {
   "rank": 650,
-  "german": "Nachteil",
-  "english": "disadvantage",
-  "pronunciation": "NAHKH-tyle",
-  "partOfSpeech": "noun",
-  "gender": "masculine",
-  "article": "der",
-  "exampleDe": "Das hat auch Nachteile.",
-  "exampleEn": "That also has disadvantages.",
+  "german": "jungen",
+  "english": "to boys",
+  "pronunciation": "j ʊ ŋ ə n",
+  "partOfSpeech": "verb",
+  "exampleDe": "Ich möchte jungen.",
+  "exampleEn": "I want to boys.",
   "group": "confident-350",
-  "topic": "descriptions"
+  "topic": "actions"
 }

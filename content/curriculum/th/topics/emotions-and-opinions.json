@@ -1,0 +1,90 @@
+{
+  "slug": "emotions-and-opinions",
+  "title": "Emotions & Opinions",
+  "titleTh": "อารมณ์และความคิดเห็น",
+  "shortSummary": "Say how you feel and share your opinion, the language of real conversation.",
+  "level": "pre-intermediate",
+  "order": 15,
+  "icon": "💬",
+  "color": "#a0453f",
+  "culturalNote": "Thai culture prizes a calm, pleasant manner and keeping เกรงใจ (kreng-jai), a considerate reluctance to impose or cause discomfort. Strong negative feelings are often expressed gently to keep harmony and save face. A คิดว่า (I think) softens an opinion, and a smile can carry a lot of meaning. Among close friends, people speak more openly and warmly.",
+  "keyPhrases": [
+    { "thai": "ผมดีใจ", "pronunciation": "phom dee-jai", "english": "I'm happy", "context": "Positive feeling" },
+    { "thai": "ผมเสียใจ", "pronunciation": "phom sia-jai", "english": "I'm sad", "context": "Negative feeling" },
+    { "thai": "ผมเหนื่อย", "pronunciation": "phom neuay", "english": "I'm tired", "context": "Common state" },
+    { "thai": "ผมคิดว่า...", "pronunciation": "phom khit waa...", "english": "I think...", "context": "Opening an opinion" },
+    { "thai": "ผมเห็นด้วย", "pronunciation": "phom hen-duay", "english": "I agree", "context": "Agreeing" },
+    { "thai": "ผมไม่เห็นด้วย", "pronunciation": "phom mai hen-duay", "english": "I disagree", "context": "Disagreeing" },
+    { "thai": "คุณคิดว่ายังไง", "pronunciation": "khun khit waa yang-ngai", "english": "What do you think?", "context": "Asking an opinion" },
+    { "thai": "ผมชอบ", "pronunciation": "phom chop", "english": "I like it", "context": "Expressing liking" },
+    { "thai": "ก็โอเค", "pronunciation": "ko okay", "english": "It's okay", "context": "A mild reaction" },
+    { "thai": "ดีมาก", "pronunciation": "dee maak", "english": "Very good / Great", "context": "Strong positive" }
+  ],
+  "grammar": [
+    {
+      "rule": "คิดว่า to give an opinion",
+      "explanation": "Begin an opinion with ผมคิดว่า (phom khit waa, I think that), then a full sentence: ผมคิดว่าหนังดี (I think the film is good). It softens your view politely.",
+      "examples": [
+        { "th": "ผมคิดว่าแพงไป", "en": "I think it's too expensive." },
+        { "th": "ผมคิดว่าคุณพูดถูก", "en": "I think you're right." }
+      ],
+      "commonMistake": "Confusing คิด (think) with อยาก (want). คิดว่า introduces an opinion."
+    },
+    {
+      "rule": "Feelings with ใจ",
+      "explanation": "Many Thai feelings are built with ใจ (jai, heart): ดีใจ (glad, good-heart), เสียใจ (sad, spoiled-heart), เกรงใจ (considerate). They behave like adjectives and need no 'is'.",
+      "examples": [
+        { "th": "ผมดีใจมาก", "en": "I'm very glad." },
+        { "th": "อย่าเกรงใจ", "en": "Don't worry about imposing." }
+      ],
+      "commonMistake": "Adding เป็น before a ใจ feeling. It stands alone like an adjective."
+    }
+  ],
+  "dialogue": {
+    "setup": "Two friends, Mook and Tee, leave the cinema and share their opinions about the film.",
+    "lines": [
+      { "speaker": "มุก", "thai": "คุณคิดว่าหนังเป็นยังไงคะ", "pronunciation": "khun khit waa nang pen yang-ngai kha", "english": "What did you think of the film?" },
+      { "speaker": "ตี๋", "thai": "ผมคิดว่าดีมากครับ คุณล่ะ", "pronunciation": "phom khit waa dee maak khrap, khun la", "english": "I thought it was great. And you?" },
+      { "speaker": "มุก", "thai": "ก็โอเคค่ะ แต่ยาวไปหน่อย", "pronunciation": "ko okay kha, tae yaao pai noi", "english": "It was okay, but a bit long." },
+      { "speaker": "ตี๋", "thai": "เพลงเพราะนะครับ", "pronunciation": "phleng phro na khrap", "english": "The music was lovely, right?" },
+      { "speaker": "มุก", "thai": "เห็นด้วยค่ะ เพลงเพราะมาก", "pronunciation": "hen-duay kha, phleng phro maak", "english": "I agree, the music was very nice." },
+      { "speaker": "ตี๋", "thai": "อยากดูภาคสองไหมครับ", "pronunciation": "yaak duu phaak-song mai khrap", "english": "Do you want to watch the second part?" },
+      { "speaker": "มุก", "thai": "บอกตรงๆ ไม่ค่อยอยากค่ะ", "pronunciation": "bok trong-trong, mai khoi yaak kha", "english": "Honestly, not really." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'I agree'?",
+      "correctAnswer": "ผมเห็นด้วย",
+      "explanation": "เห็นด้วย means 'to agree'."
+    },
+    {
+      "type": "fill-blank",
+      "question": "ผม_____ว่าหนังดี (I think)",
+      "correctAnswer": "คิด",
+      "explanation": "ผมคิดว่า introduces an opinion."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which means 'it's okay'?",
+      "options": ["ดีมาก", "ก็โอเค", "เสียใจ", "ไม่เห็นด้วย"],
+      "correctAnswer": "ก็โอเค",
+      "explanation": "ก็โอเค is a mild 'it's okay'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which feeling means 'glad / happy'?",
+      "options": ["เสียใจ", "ดีใจ", "เหนื่อย", "เกรงใจ"],
+      "correctAnswer": "ดีใจ",
+      "explanation": "ดีใจ (good-heart) means glad or happy."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: ยังไง / คิดว่า / คุณ",
+      "correctAnswer": "คุณคิดว่ายังไง",
+      "explanation": "คุณ + คิดว่า (think) + ยังไง (how/what)."
+    }
+  ],
+  "status": "complete"
+}

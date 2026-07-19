@@ -1,0 +1,26 @@
+{
+  "slug": "questions-ka",
+  "name": "Questions with ka",
+  "nameNative": "疑問の助詞「か」",
+  "summary": "Make any polite sentence a question by adding the particle か (ka) at the end. No word-order change needed.",
+  "level": "beginner",
+  "order": 9,
+  "explanation": "Asking questions in Japanese is delightfully simple. Take a polite statement and add か (ka) to the end. 学生です (gakusei desu, you are a student) becomes 学生ですか (gakusei desu ka, are you a student?). The word order does not change at all, unlike English which flips the subject and verb.\n\nThe か turns the sentence into a yes/no question. To answer, use はい (hai, yes) or いいえ (iie, no). For question-word questions, you place the question word - 何 (nani/nan, what), どこ (doko, where), 誰 (dare, who), いつ (itsu, when) - in the natural slot and still finish with か. 何を食べますか (nani o tabemasu ka) means 'What do you eat?'.\n\nIn casual speech, the か is often dropped and a rising intonation does the work instead: 食べる? (taberu?) means 'Will you eat?'. But in polite Japanese, keep the か. Written questions in Japanese often end with か rather than a question mark.",
+  "pattern": "[polite statement] + か",
+  "examples": [
+    { "native": "これはあなたの本ですか。(kore wa anata no hon desu ka.)", "en": "Is this your book?" },
+    { "native": "コーヒーを飲みますか。(koohii o nomimasu ka.)", "en": "Do you drink coffee?" },
+    { "native": "お名前は何ですか。(onamae wa nan desu ka.)", "en": "What is your name?" },
+    { "native": "駅はどこですか。(eki wa doko desu ka.)", "en": "Where is the station?" },
+    { "native": "いつ来ますか。(itsu kimasu ka.)", "en": "When are you coming?" },
+    { "native": "誰がこれを作りましたか。(dare ga kore o tsukurimashita ka.)", "en": "Who made this?" }
+  ],
+  "commonMistakes": [
+    "Changing the word order English-style. Japanese keeps the order and just adds か.",
+    "Adding a question mark instead of か in polite writing. Japanese questions end in か.",
+    "Forgetting that 何 is read 'nan' before です and 'nani' before を (nan desu ka, nani o).",
+    "Dropping か in polite speech. The casual rising-intonation question is for friends, not polite contexts.",
+    "Putting the question word at the front and reordering. Keep it in its natural slot."
+  ],
+  "tip": "One little か at the end turns any polite sentence into a question - the order never changes."
+}

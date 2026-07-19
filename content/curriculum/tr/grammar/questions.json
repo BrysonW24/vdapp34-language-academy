@@ -1,0 +1,34 @@
+{
+  "slug": "questions",
+  "name": "Yes/No Questions (mi)",
+  "nameNative": "Soru eki (mi)",
+  "summary": "Turn any statement into a yes/no question with the separate question particle mı/mi/mu/mü.",
+  "level": "beginner",
+  "order": 7,
+  "explanation": "To ask a yes/no question in Turkish, you do not change word order or raise your voice. You add the question particle, which is written as a separate word but harmonises with the word before it: mı, mi, mu, or mü. So Bu çay (this is tea) becomes Bu çay mı? (is this tea?).\n\nThe particle uses four-way harmony based on the last vowel of the preceding word: mı after a/ı, mi after e/i, mu after o/u, mü after ö/ü. It always stays a separate word, even though it behaves like a suffix in sound.\n\nThe particle attaches to whatever you are questioning, which lets you shift the focus of the question. Ali geldi mi? asks 'did Ali come?', while Ali mi geldi? asks 'was it Ali who came?'. With personal endings, the ending moves onto the particle: geliyor musun? (are you coming?).",
+  "pattern": "statement + mı/mi/mu/mü (+ personal ending on the particle)",
+  "conjugation": {
+    "after a, ı": "mı (hazır mı?)",
+    "after e, i": "mi (evde mi?)",
+    "after o, u": "mu (okuyor mu?)",
+    "after ö, ü": "mü (gördü mü?)",
+    "with sen ending": "geliyor musun?",
+    "with siz ending": "geliyor musunuz?"
+  },
+  "examples": [
+    { "native": "Bu çay mı?", "en": "Is this tea?" },
+    { "native": "Hazır mısın?", "en": "Are you ready?" },
+    { "native": "Türkçe biliyor musun?", "en": "Do you speak Turkish?" },
+    { "native": "Ali geldi mi?", "en": "Did Ali come?" },
+    { "native": "Burası güzel mi?", "en": "Is this place nice?" },
+    { "native": "Çay içiyor musunuz?", "en": "Are you drinking tea?" }
+  ],
+  "commonMistakes": [
+    "Attaching the particle to the previous word, writing çaymı instead of çay mı.",
+    "Using one fixed mi for everything instead of harmonising to mı, mu, or mü.",
+    "Leaving the personal ending on the verb, saying geliyorsun mu instead of geliyor musun.",
+    "Adding the English do/does as a separate word, since the particle already does that job.",
+    "Forgetting that placing mi after a different word changes the focus of the question."
+  ],
+  "tip": "Say the statement, pause, then add the matching mı/mi/mu/mü. Keep it a separate word, and let any personal ending hop onto the particle."
+}

@@ -1,12 +1,11 @@
 {
   "rank": 224,
-  "german": "Eltern",
-  "english": "parents",
-  "pronunciation": "EL-tern",
-  "partOfSpeech": "noun",
-  "gender": "n/a",
-  "exampleDe": "Meine Eltern leben in Hamburg.",
-  "exampleEn": "My parents live in Hamburg.",
+  "german": "passiert",
+  "english": "to happened",
+  "pronunciation": "p a s i ɐ t",
+  "partOfSpeech": "verb",
+  "exampleDe": "Ich möchte, dass es passiert.",
+  "exampleEn": "I want to happened.",
   "group": "everyday-250",
-  "topic": "family"
+  "topic": "actions"
 }

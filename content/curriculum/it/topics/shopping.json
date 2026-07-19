@@ -1,0 +1,90 @@
+{
+  "slug": "shopping",
+  "title": "Shopping",
+  "titleNative": "Fare spese",
+  "shortSummary": "Buy clothes, food, and gifts, ask prices, and handle sizes and payment in Italian.",
+  "level": "beginner",
+  "order": 6,
+  "icon": "🛍️",
+  "color": "#b8860b",
+  "culturalNote": "Italian shopping ranges from the daily mercato (open-air market) for fresh produce to small specialised shops and the elegant boutiques Italy is famous for. In smaller shops it is polite to greet with buongiorno on entering and grazie, arrivederci on leaving. Many shops close for a long lunch break (la pausa pranzo) and on Sunday. The summer and winter saldi (sales) are fixed by region and eagerly awaited. When trying clothes, sizes are given as la taglia, and you can ask to provare (try on) before deciding.",
+  "keyPhrases": [
+    { "native": "Quanto costa?", "english": "How much is it?", "pronunciation": "KWAN-toh KOS-tah", "context": "Asking a price" },
+    { "native": "Sto cercando un regalo", "english": "I'm looking for a gift", "pronunciation": "stoh cher-KAN-doh oon reh-GAH-loh", "context": "Stating your aim" },
+    { "native": "Posso provarlo?", "english": "Can I try it on?", "pronunciation": "POS-soh proh-VAR-loh", "context": "Trying clothes" },
+    { "native": "Che taglia porta?", "english": "What size do you wear?", "pronunciation": "keh TAH-lyah POR-tah", "context": "Common shop question" },
+    { "native": "È troppo caro", "english": "It's too expensive", "pronunciation": "eh TROP-poh KAH-roh", "context": "Reacting to a price" },
+    { "native": "Avete qualcosa di più economico?", "english": "Do you have something cheaper?", "pronunciation": "ah-VEH-teh kwal-KOH-zah dee pyoo eh-koh-NOH-mee-koh", "context": "Negotiating budget" },
+    { "native": "Lo prendo", "english": "I'll take it", "pronunciation": "loh PREN-doh", "context": "Deciding to buy" },
+    { "native": "Accettate la carta?", "english": "Do you take card?", "pronunciation": "ah-cheht-TAH-teh lah KAR-tah", "context": "Paying" },
+    { "native": "Solo un'occhiata, grazie", "english": "Just looking, thanks", "pronunciation": "SOH-loh oon-ok-kee-AH-tah", "context": "Browsing politely" },
+    { "native": "Mi può fare lo scontrino?", "english": "Can you give me the receipt?", "pronunciation": "mee pwoh FAH-reh loh skon-TREE-noh", "context": "After paying" }
+  ],
+  "grammar": [
+    {
+      "rule": "Direct object pronouns lo, la, li, le",
+      "explanation": "To say 'it' or 'them' for an object, Italian uses lo (masc.), la (fem.), li (masc. pl.), le (fem. pl.) before the verb. Lo prendo means 'I'll take it' for a masculine thing; la prendo for a feminine one.",
+      "examples": [
+        { "native": "Lo prendo.", "en": "I'll take it. (masc.)" },
+        { "native": "Le compro.", "en": "I'll buy them. (fem. pl.)" }
+      ],
+      "commonMistake": "Putting the pronoun after the verb. It goes before: lo prendo, not prendo lo."
+    },
+    {
+      "rule": "Comparatives with più and meno",
+      "explanation": "Use più (more) and meno (less) before an adjective to compare. Più economico means 'cheaper' (more economical), meno caro means 'less expensive'. Add di for 'than'.",
+      "examples": [
+        { "native": "Questo è più caro.", "en": "This one is more expensive." },
+        { "native": "Quello è meno bello.", "en": "That one is less nice." }
+      ],
+      "commonMistake": "Trying to add an -er ending as in English. Italian always uses più or meno."
+    }
+  ],
+  "dialogue": {
+    "setup": "Sofia shops for a scarf in a small boutique.",
+    "lines": [
+      { "speaker": "Commessa", "native": "Buongiorno, posso aiutarla?", "english": "Good morning, can I help you?" },
+      { "speaker": "Sofia", "native": "Sto cercando una sciarpa.", "english": "I'm looking for a scarf." },
+      { "speaker": "Commessa", "native": "Questa è di lana. Le piace?", "english": "This one is wool. Do you like it?" },
+      { "speaker": "Sofia", "native": "Sì, quanto costa?", "english": "Yes, how much is it?" },
+      { "speaker": "Commessa", "native": "Quaranta euro.", "english": "Forty euros." },
+      { "speaker": "Sofia", "native": "È un po' cara, ma la prendo.", "english": "It's a bit pricey, but I'll take it." },
+      { "speaker": "Commessa", "native": "Benissimo. Accettiamo la carta.", "english": "Wonderful. We take card." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'I'll take it' (masculine) in Italian?",
+      "correctAnswer": "Lo prendo",
+      "explanation": "Lo is the masculine direct object pronoun for 'it'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does più economico mean?",
+      "options": ["more expensive", "cheaper", "the same price", "free"],
+      "correctAnswer": "cheaper",
+      "explanation": "Più economico literally means 'more economical', so cheaper."
+    },
+    {
+      "type": "fill-blank",
+      "question": "Posso _____? (try it on)",
+      "correctAnswer": "provarlo",
+      "explanation": "Provare plus the pronoun lo gives provarlo, 'try it on'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which phrase means 'just looking'?",
+      "options": ["Lo prendo", "Solo un'occhiata", "È troppo caro", "Quanto costa"],
+      "correctAnswer": "Solo un'occhiata",
+      "explanation": "Solo un'occhiata means 'just a look'."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: costa / quanto",
+      "correctAnswer": "Quanto costa",
+      "explanation": "Quanto costa? means 'How much is it?'"
+    }
+  ],
+  "status": "complete"
+}

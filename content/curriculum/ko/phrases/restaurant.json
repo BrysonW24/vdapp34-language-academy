@@ -1,0 +1,21 @@
+{
+  "slug": "restaurant",
+  "title": "At the Restaurant",
+  "description": "Order food, ask for the bill, and handle a Korean meal with confidence.",
+  "situation": "Eating out: getting a table, calling the server, ordering, and paying at the counter.",
+  "order": 3,
+  "phrases": [
+    { "native": "몇 분이세요?", "transliteration": "myeot buniseyo?", "english": "How many people? (staff asks)", "pronunciation": "myot boo-nee-seh-yo", "formality": "formal", "tip": "You answer with a counter: 두 명이요 (du myeongiyo) for two people." },
+    { "native": "메뉴 좀 주세요", "transliteration": "menyu jom juseyo", "english": "May I have a menu, please?", "pronunciation": "meh-nyoo jom joo-seh-yo", "formality": "neutral" },
+    { "native": "저기요", "transliteration": "jeogiyo", "english": "Excuse me (to call staff)", "pronunciation": "jo-gee-yo", "formality": "neutral", "tip": "The normal way to get a server's attention; not rude at all in Korea." },
+    { "native": "이거 주세요", "transliteration": "igeo juseyo", "english": "I'll have this one, please", "pronunciation": "ee-go joo-seh-yo", "formality": "neutral", "tip": "Point at the menu and say it; perfect when you can't read the name." },
+    { "native": "비빔밥 하나 주세요", "transliteration": "bibimbap hana juseyo", "english": "One bibimbap, please", "pronunciation": "bee-beem-bahp hah-nah joo-seh-yo", "formality": "neutral" },
+    { "native": "안 맵게 해 주세요", "transliteration": "an maepge hae juseyo", "english": "Please make it not spicy", "pronunciation": "ahn mep-geh heh joo-seh-yo", "formality": "neutral", "tip": "Korean food is often spicy; this phrase saves a lot of tears." },
+    { "native": "물 좀 주세요", "transliteration": "mul jom juseyo", "english": "Some water, please", "pronunciation": "mul jom joo-seh-yo", "formality": "neutral", "tip": "Water and side dishes (반찬, banchan) are usually free and refillable." },
+    { "native": "맛있어요", "transliteration": "masisseoyo", "english": "It's delicious", "pronunciation": "mah-shee-sso-yo", "formality": "neutral" },
+    { "native": "리필 돼요?", "transliteration": "ripil dwaeyo?", "english": "Can I get a refill?", "pronunciation": "ree-pil dweh-yo", "formality": "neutral", "tip": "Side dishes are typically refilled free; just ask." },
+    { "native": "계산서 주세요", "transliteration": "gyesanseo juseyo", "english": "The bill, please", "pronunciation": "gyeh-sahn-so joo-seh-yo", "formality": "neutral", "tip": "In many places you pay at the front counter, not at the table." },
+    { "native": "카드 돼요?", "transliteration": "kadeu dwaeyo?", "english": "Do you take card?", "pronunciation": "kah-deu dweh-yo", "formality": "neutral", "tip": "Cards are accepted almost everywhere, even at small eateries." },
+    { "native": "잘 먹었습니다", "transliteration": "jal meogeotseumnida", "english": "Thank you for the meal", "pronunciation": "jahl mo-go-sseum-nee-dah", "formality": "formal", "tip": "Said after eating; the polite way to thank the cook or host." }
+  ]
+}

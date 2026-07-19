@@ -1,0 +1,103 @@
+{
+  "slug": "health-and-emergencies",
+  "title": "Health & Emergencies",
+  "titleEs": "Salud y Emergencias",
+  "shortSummary": "Describe symptoms, visit a doctor or pharmacy, and handle emergencies. Critical vocabulary for travel safety.",
+  "level": "elementary",
+  "order": 11,
+  "icon": "🏥",
+  "color": "#ef4444",
+  "culturalNote": "Pharmacies ('farmacias') in Spain and Latin America play a bigger role than in English-speaking countries — pharmacists can recommend medicines and even give injections without a prescription for many conditions. Look for the green cross sign. In Spain, the emergency number is 112 (like the EU). In most Latin American countries it's different per service. Carrying your European Health Insurance Card (or travel insurance) is essential.",
+  "keyPhrases": [
+    { "spanish": "Me duele la cabeza", "english": "My head hurts / I have a headache", "pronunciation": "meh DWEH-leh lah kah-BEH-sah", "context": "Doler works like gustar — the body part is the subject" },
+    { "spanish": "Necesito un médico", "english": "I need a doctor", "pronunciation": "neh-seh-SEE-toh oon MEH-dee-koh", "context": "Urgent request for medical help" },
+    { "spanish": "Tengo fiebre", "english": "I have a fever", "pronunciation": "TEHN-goh fee-EH-breh", "context": "Using 'tener' for symptoms" },
+    { "spanish": "Soy alérgico a la penicilina", "english": "I'm allergic to penicillin", "pronunciation": "soy ah-LEHR-hee-koh ah lah peh-nee-see-LEE-nah", "context": "Critical medical information" },
+    { "spanish": "¿Dónde está la farmacia más cercana?", "english": "Where is the nearest pharmacy?", "pronunciation": "DOHN-deh ehs-TAH lah far-MAH-see-ah mahs sehr-KAH-nah", "context": "Finding a pharmacy for basic remedies" },
+    { "spanish": "Me he roto el brazo", "english": "I've broken my arm", "pronunciation": "meh eh RROH-toh ehl BRAH-soh", "context": "Describing a fracture — past participle" },
+    { "spanish": "Llame a una ambulancia", "english": "Call an ambulance", "pronunciation": "YAH-meh ah OO-nah ahm-boo-LAHN-see-ah", "context": "Formal command for emergencies" },
+    { "spanish": "¿Tiene algo para el dolor de estómago?", "english": "Do you have anything for a stomachache?", "pronunciation": "tee-EH-neh AHL-goh PAH-rah ehl doh-LOHR deh ehs-TOH-mah-goh", "context": "Asking a pharmacist for help" },
+    { "spanish": "Estoy embarazada", "english": "I'm pregnant", "pronunciation": "ehs-TOY ehm-bah-rah-SAH-dah", "context": "Important: 'embarazada' = pregnant, NOT embarrassed" },
+    { "spanish": "¡Socorro! ¡Ayuda!", "english": "Help! Help!", "pronunciation": "soh-KOH-rroh ah-YOO-dah", "context": "Emergency cry for help" }
+  ],
+  "grammar": [
+    {
+      "rule": "Doler (to hurt) — works like gustar",
+      "explanation": "Doler uses the same structure as gustar: 'me duele' (it hurts me) + body part. The body part is the subject, not you. Use 'duele' for singular, 'duelen' for plural body parts.",
+      "examples": [
+        { "es": "Me duele la espalda", "en": "My back hurts" },
+        { "es": "Me duelen los pies", "en": "My feet hurt" },
+        { "es": "¿Te duele aquí?", "en": "Does it hurt here?" }
+      ],
+      "commonMistake": "Saying 'yo duelo' instead of 'me duele' — doler works backwards like gustar."
+    },
+    {
+      "rule": "Tener for symptoms and conditions",
+      "explanation": "Many health conditions use 'tener' (to have): tengo fiebre (fever), tengo tos (cough), tengo gripe (flu), tengo frío (I'm cold). English uses 'to be' but Spanish uses 'to have'.",
+      "examples": [
+        { "es": "Tengo tos y dolor de garganta", "en": "I have a cough and sore throat" },
+        { "es": "Tiene fiebre alta", "en": "He/she has a high fever" },
+        { "es": "¿Tienes alergia a algo?", "en": "Are you allergic to anything?" }
+      ],
+      "commonMistake": "Saying 'estoy fiebre' or 'soy enfermo' — most symptoms use 'tener', and 'estar enfermo' is the correct form for being sick."
+    },
+    {
+      "rule": "Formal commands for emergencies",
+      "explanation": "In emergencies, use formal commands (usted): llame (call), vaya (go), traiga (bring). These are subjunctive forms. For informal (tú), it's: llama, ve, trae.",
+      "examples": [
+        { "es": "¡Llame al 112!", "en": "Call 112!" },
+        { "es": "¡No se mueva!", "en": "Don't move! (formal)" },
+        { "es": "¡Traiga agua, por favor!", "en": "Bring water, please!" }
+      ],
+      "commonMistake": "Using infinitive in commands: '¡llamar al médico!' should be '¡llame al médico!' (formal) or '¡llama al médico!' (informal)."
+    }
+  ],
+  "dialogue": {
+    "setup": "A tourist visits a pharmacy in Spain with a stomach problem.",
+    "lines": [
+      { "speaker": "Turista", "spanish": "Buenos días. Me duele mucho el estómago.", "english": "Good morning. My stomach really hurts." },
+      { "speaker": "Farmacéutica", "spanish": "¿Desde cuándo le duele?", "english": "Since when has it been hurting?" },
+      { "speaker": "Turista", "spanish": "Desde ayer por la noche. También tengo náuseas.", "english": "Since last night. I also feel nauseous." },
+      { "speaker": "Farmacéutica", "spanish": "¿Tiene fiebre?", "english": "Do you have a fever?" },
+      { "speaker": "Turista", "spanish": "No, no tengo fiebre. Creo que comí algo malo.", "english": "No, I don't have a fever. I think I ate something bad." },
+      { "speaker": "Farmacéutica", "spanish": "¿Es alérgico a algún medicamento?", "english": "Are you allergic to any medication?" },
+      { "speaker": "Turista", "spanish": "No, no tengo alergias.", "english": "No, I don't have any allergies." },
+      { "speaker": "Farmacéutica", "spanish": "Tome estas pastillas cada ocho horas. Si no mejora, vaya al médico.", "english": "Take these pills every eight hours. If it doesn't improve, go to the doctor." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'My head hurts' in Spanish?",
+      "correctAnswer": "Me duele la cabeza",
+      "explanation": "'Doler' works like 'gustar': me duele + the body part that hurts."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "How do you say 'I have a fever'?",
+      "options": ["Soy fiebre", "Estoy fiebre", "Tengo fiebre", "Hago fiebre"],
+      "correctAnswer": "Tengo fiebre",
+      "explanation": "Symptoms use 'tener' (to have): tengo fiebre, tengo tos, tengo gripe."
+    },
+    {
+      "type": "fill-blank",
+      "question": "Me _____ los pies. (My feet hurt)",
+      "correctAnswer": "duelen",
+      "explanation": "'Pies' is plural, so use 'duelen' (not 'duele')."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does 'embarazada' mean?",
+      "options": ["Embarrassed", "Pregnant", "Sick", "Confused"],
+      "correctAnswer": "Pregnant",
+      "explanation": "This is a famous false friend! 'Embarazada' = pregnant, NOT embarrassed."
+    },
+    {
+      "type": "translate",
+      "question": "How do you say 'Call an ambulance!' (formal)?",
+      "correctAnswer": "¡Llame a una ambulancia!",
+      "explanation": "'Llame' is the formal (usted) command of 'llamar'."
+    }
+  ],
+  "status": "complete"
+}

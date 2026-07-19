@@ -1,0 +1,90 @@
+{
+  "slug": "greetings",
+  "title": "Greetings & Goodbyes",
+  "titleNative": "Saluti e congedi",
+  "shortSummary": "Greet people, introduce yourself, and say goodbye in Italian, the foundation of every conversation.",
+  "level": "beginner",
+  "order": 1,
+  "icon": "👋",
+  "color": "#2f5fa0",
+  "culturalNote": "Italians greet warmly and often. Ciao is the friendly hello and goodbye, but only with people you know; with strangers, elders, or in shops use the more respectful buongiorno (good day) or buonasera (good evening). A handshake suits first meetings, while friends and family exchange a light kiss on each cheek. The key social choice is tu versus Lei: use the informal tu with friends and peers, and the formal Lei (capitalised in writing) with people you have just met or in professional settings until you are invited to switch.",
+  "keyPhrases": [
+    { "native": "Buongiorno", "english": "Good morning / Hello", "pronunciation": "bwon-JOR-noh", "context": "Daytime, polite default" },
+    { "native": "Buonasera", "english": "Good evening", "pronunciation": "bwoh-nah-SEH-rah", "context": "From late afternoon" },
+    { "native": "Ciao", "english": "Hi / Bye (informal)", "pronunciation": "chow", "context": "Casual, with friends" },
+    { "native": "Come sta?", "english": "How are you? (formal)", "pronunciation": "KOH-meh stah", "context": "Formal, with Lei" },
+    { "native": "Come stai?", "english": "How are you? (informal)", "pronunciation": "KOH-meh stai", "context": "Casual greeting" },
+    { "native": "Sto bene, grazie", "english": "I'm well, thank you", "pronunciation": "stoh BEH-neh GRAH-tsee-eh", "context": "Standard reply" },
+    { "native": "Piacere", "english": "Nice to meet you", "pronunciation": "pyah-CHEH-reh", "context": "First meeting" },
+    { "native": "Arrivederci", "english": "Goodbye", "pronunciation": "ah-ree-veh-DER-chee", "context": "Standard farewell" },
+    { "native": "A presto", "english": "See you soon", "pronunciation": "ah PRES-toh", "context": "Friendly closing" },
+    { "native": "Buona giornata", "english": "Have a nice day", "pronunciation": "BWOH-nah jor-NAH-tah", "context": "Warm sign-off" }
+  ],
+  "grammar": [
+    {
+      "rule": "Formal Lei vs informal tu",
+      "explanation": "Italian has two ways to say 'you': tu (informal) and Lei (formal). Use tu with friends, family, and children; use Lei with strangers, elders, and at work. Lei takes the lui/lei verb form.",
+      "examples": [
+        { "native": "Come stai?", "en": "How are you? (informal)" },
+        { "native": "Come sta?", "en": "How are you? (formal)" }
+      ],
+      "commonMistake": "Using tu with someone you just met, which can sound too familiar."
+    },
+    {
+      "rule": "Greetings by time of day",
+      "explanation": "Use buongiorno during the day and buonasera in the evening. Buonanotte (good night) is only for going to bed, not a general evening greeting.",
+      "examples": [
+        { "native": "Buongiorno, signora.", "en": "Good morning, madam." },
+        { "native": "Buonasera a tutti.", "en": "Good evening, everyone." }
+      ],
+      "commonMistake": "Saying buonanotte when you arrive in the evening; it only means 'good night' before sleep."
+    }
+  ],
+  "dialogue": {
+    "setup": "Signora Bianchi meets her new colleague Signor Rossi in the morning.",
+    "lines": [
+      { "speaker": "Sig.ra Bianchi", "native": "Buongiorno! Come sta?", "english": "Good morning! How are you?" },
+      { "speaker": "Sig. Rossi", "native": "Buongiorno! Molto bene, grazie. E Lei?", "english": "Good morning! Very well, thank you. And you?" },
+      { "speaker": "Sig.ra Bianchi", "native": "Sto bene. Sono la signora Bianchi.", "english": "I'm well. I'm Mrs Bianchi." },
+      { "speaker": "Sig. Rossi", "native": "Piacere! Mi chiamo Paolo Rossi.", "english": "Nice to meet you! My name is Paolo Rossi." },
+      { "speaker": "Sig.ra Bianchi", "native": "Piacere. Benvenuto nel team!", "english": "Nice to meet you. Welcome to the team!" },
+      { "speaker": "Sig. Rossi", "native": "Grazie mille. A presto!", "english": "Thank you very much. See you soon!" },
+      { "speaker": "Sig.ra Bianchi", "native": "A presto. Buona giornata!", "english": "See you soon. Have a nice day!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'Good evening' in Italian?",
+      "correctAnswer": "Buonasera",
+      "explanation": "Buonasera is used from the late afternoon onward."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which greeting is formal?",
+      "options": ["Ciao", "Come stai?", "Come sta?", "Salve ragazzi"],
+      "correctAnswer": "Come sta?",
+      "explanation": "It uses the formal Lei; the others are casual."
+    },
+    {
+      "type": "fill-blank",
+      "question": "Come _____? (informal 'how are you')",
+      "correctAnswer": "stai",
+      "explanation": "With tu, the verb stare becomes stai."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which word means a casual 'hi' or 'bye'?",
+      "options": ["Arrivederci", "Buongiorno", "Ciao", "Grazie"],
+      "correctAnswer": "Ciao",
+      "explanation": "Ciao is the informal greeting and farewell."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: bene / sto / grazie",
+      "correctAnswer": "Sto bene grazie",
+      "explanation": "Sto bene grazie means 'I'm well, thank you'."
+    }
+  ],
+  "status": "complete"
+}

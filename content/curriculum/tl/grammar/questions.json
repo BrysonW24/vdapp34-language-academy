@@ -1,0 +1,34 @@
+{
+  "slug": "questions",
+  "name": "Asking Questions",
+  "nameNative": "Pagtatanong",
+  "summary": "Form yes/no questions with ba and use question words like ano, saan, kailan, and bakit.",
+  "level": "elementary",
+  "order": 7,
+  "explanation": "There are two main ways to ask a question in Filipino. For a yes/no question, add the small particle ba after the first word or phrase. A statement like Masaya ka (you are happy) becomes the question Masaya ka ba? (are you happy?). In casual speech ba is sometimes dropped and rising intonation carries the question.\n\nFor information questions, start with a question word. The key ones are ano (what), sino (who), saan (where), kailan (when), bakit (why), paano (how), and ilan or magkano (how many / how much). These usually come at the front of the sentence (Saan ka pupunta?, where are you going?).\n\nThe word alin means which, and kanino means whose. When the question word is the subject, no extra marker is needed. Question intonation in Filipino falls rather than rises on information questions, unlike English, which is a subtle but natural-sounding detail.",
+  "pattern": "yes/no: [word] + ba + ? | info: [question word] + clause",
+  "conjugation": {
+    "ano": "what",
+    "sino": "who",
+    "saan": "where",
+    "kailan": "when",
+    "bakit": "why",
+    "magkano": "how much"
+  },
+  "examples": [
+    { "native": "Gutom ka ba?", "en": "Are you hungry?" },
+    { "native": "Ano ang pangalan mo?", "en": "What is your name?" },
+    { "native": "Saan ka nakatira?", "en": "Where do you live?" },
+    { "native": "Kailan ang birthday mo?", "en": "When is your birthday?" },
+    { "native": "Bakit ka malungkot?", "en": "Why are you sad?" },
+    { "native": "Magkano ito?", "en": "How much is this?" }
+  ],
+  "commonMistakes": [
+    "Forgetting ba in a yes/no question, leaving it as a flat statement.",
+    "Placing ba at the end of a long sentence instead of right after the first word.",
+    "Confusing ano (what) with sino (who); sino is only for people.",
+    "Using magkano (how much money) when you mean ilan (how many items).",
+    "Adding ba to an information question, which is unnecessary (saan ka ba pupunta sounds redundant in neutral speech)."
+  ],
+  "tip": "Memorise the question words as a set: ano, sino, saan, kailan, bakit, paano. They unlock almost every question you'll need."
+}

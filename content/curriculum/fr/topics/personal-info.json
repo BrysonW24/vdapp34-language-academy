@@ -1,0 +1,90 @@
+{
+  "slug": "personal-info",
+  "title": "Personal Information",
+  "titleNative": "Renseignements personnels",
+  "shortSummary": "Talk about who you are: your name, nationality, job, and where you live.",
+  "level": "beginner",
+  "order": 3,
+  "icon": "🪪",
+  "color": "#2f5fa0",
+  "culturalNote": "When stating your profession, French drops the article: Je suis professeur (I am a teacher), with no 'un'. Nationalities are adjectives and agree with gender: il est français, elle est française. The French value a certain politeness and discretion, so deep personal questions usually come later in a relationship; job and city are normal small talk.",
+  "keyPhrases": [
+    { "native": "Je m'appelle...", "english": "My name is...", "pronunciation": "zhuh mah-PEL", "context": "Literally 'I call myself'" },
+    { "native": "Comment vous appelez-vous ?", "english": "What's your name? (formal)", "pronunciation": "koh-mon voo zah-play VOO", "context": "Polite question" },
+    { "native": "Je viens de...", "english": "I come from...", "pronunciation": "zhuh vee-AN duh", "context": "Stating origin" },
+    { "native": "J'habite à...", "english": "I live in...", "pronunciation": "zhah-BEET ah", "context": "Where you live" },
+    { "native": "J'ai trente ans", "english": "I am thirty years old", "pronunciation": "zhay tront ON", "context": "avoir is used for age" },
+    { "native": "Je suis professeur", "english": "I am a teacher", "pronunciation": "zhuh swee proh-feh-SUHR", "context": "No article before the job" },
+    { "native": "Je suis australien", "english": "I'm Australian", "pronunciation": "zhuh swee zos-trah-lee-AN", "context": "Women say 'australienne'" },
+    { "native": "Quel est votre métier ?", "english": "What is your job?", "pronunciation": "kel eh voh-truh may-tee-AY", "context": "Asking about work" },
+    { "native": "Je parle un peu français", "english": "I speak a little French", "pronunciation": "zhuh parl un puh fron-SEH", "context": "Useful early on" },
+    { "native": "Je suis marié", "english": "I am married", "pronunciation": "zhuh swee mah-ree-AY", "context": "Single is 'célibataire'" }
+  ],
+  "grammar": [
+    {
+      "rule": "No article with professions",
+      "explanation": "When saying what you do, French drops the indefinite article: Je suis médecin (I am a doctor), not Je suis un médecin. The same applies to nationalities and religions.",
+      "examples": [
+        { "native": "Elle est ingénieure.", "en": "She is an engineer." },
+        { "native": "Il est étudiant.", "en": "He is a student." }
+      ],
+      "commonMistake": "Adding un or une: it is Je suis professeur, not Je suis un professeur."
+    },
+    {
+      "rule": "venir de and habiter à",
+      "explanation": "Use venir de to say where you are from and habiter à to say where you live: Je viens d'Espagne, mais j'habite à Paris.",
+      "examples": [
+        { "native": "Je viens d'Italie.", "en": "I come from Italy." },
+        { "native": "J'habite à Lyon.", "en": "I live in Lyon." }
+      ],
+      "commonMistake": "Mixing them up. Origin uses venir de; current home uses habiter à."
+    }
+  ],
+  "dialogue": {
+    "setup": "At a language exchange, Tom introduces himself to Sophie.",
+    "lines": [
+      { "speaker": "Tom", "native": "Bonjour, je m'appelle Tom. Et vous ?", "english": "Hi, my name is Tom. And you?" },
+      { "speaker": "Sophie", "native": "Je m'appelle Sophie. Enchantée !", "english": "My name is Sophie. Nice to meet you!" },
+      { "speaker": "Tom", "native": "D'où venez-vous, Sophie ?", "english": "Where are you from, Sophie?" },
+      { "speaker": "Sophie", "native": "Je viens d'Espagne, mais j'habite à Paris.", "english": "I'm from Spain, but I live in Paris." },
+      { "speaker": "Tom", "native": "Super ! Quel est votre métier ?", "english": "Great! What's your job?" },
+      { "speaker": "Sophie", "native": "Je suis designer. Et vous ?", "english": "I'm a designer. And you?" },
+      { "speaker": "Tom", "native": "Je suis étudiant. J'étudie l'informatique.", "english": "I'm a student. I study computer science." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'I come from Australia'?",
+      "correctAnswer": "Je viens d'Australie",
+      "explanation": "Origin uses venir de, elided to d' before a vowel."
+    },
+    {
+      "type": "fill-blank",
+      "question": "J'_____ à Paris. (I live in Paris)",
+      "correctAnswer": "habite",
+      "explanation": "habiter means to live; j'habite is the je form, elided."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which sentence is correct?",
+      "options": ["Je suis un professeur", "Je suis professeur", "Je suis le professeur", "Je professeur suis"],
+      "correctAnswer": "Je suis professeur",
+      "explanation": "French drops the article before professions."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which word means 'married'?",
+      "options": ["célibataire", "marié", "jeune", "né"],
+      "correctAnswer": "marié",
+      "explanation": "marié means married; célibataire means single."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: Sophie / m'appelle / je",
+      "correctAnswer": "Je m'appelle Sophie",
+      "explanation": "Je m'appelle (I call myself) plus the name."
+    }
+  ],
+  "status": "complete"
+}

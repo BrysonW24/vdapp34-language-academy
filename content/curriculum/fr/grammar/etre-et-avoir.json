@@ -1,0 +1,32 @@
+{
+  "slug": "etre-et-avoir",
+  "name": "être & avoir",
+  "nameNative": "être et avoir",
+  "summary": "The two most important irregular verbs: to be (être) and to have (avoir).",
+  "level": "beginner",
+  "order": 3,
+  "explanation": "Two verbs power most French sentences, and both are irregular, so they must be memorised: être (to be) and avoir (to have).\n\nUse être for descriptions, states, and identity: je suis fatigué (I am tired). Use avoir for possession and age: j'ai un livre (I have a book), j'ai vingt ans (I am twenty, literally 'I have twenty years').\n\nAvoir is also the main helper verb for the past tense, so learning it well pays off twice. Note that French uses avoir, not être, for age, hunger, and thirst: j'ai faim (I am hungry), j'ai soif (I am thirsty).",
+  "pattern": "être: suis/es/est/sommes/êtes/sont  |  avoir: ai/as/a/avons/avez/ont",
+  "conjugation": {
+    "être (je/tu/il)": "suis / es / est",
+    "être (nous/vous/ils)": "sommes / êtes / sont",
+    "avoir (je/tu/il)": "ai / as / a",
+    "avoir (nous/vous/ils)": "avons / avez / ont"
+  },
+  "examples": [
+    { "native": "Je suis étudiant.", "en": "I am a student." },
+    { "native": "Tu es très gentil.", "en": "You are very kind." },
+    { "native": "Elle est française.", "en": "She is French." },
+    { "native": "J'ai deux frères.", "en": "I have two brothers." },
+    { "native": "Nous avons faim.", "en": "We are hungry. (literally: we have hunger)" },
+    { "native": "J'ai vingt ans.", "en": "I am twenty years old." }
+  ],
+  "commonMistakes": [
+    "Using être for age: it is j'ai vingt ans, not je suis vingt ans.",
+    "Using être for hunger or thirst: French says j'ai faim, j'ai soif.",
+    "Regularising the verbs. Both être and avoir are irregular and must be memorised.",
+    "Confusing est (he/she is) with es (you are) and et (and), which all sound similar.",
+    "Forgetting the circumflex and accents: it is être and vous êtes."
+  ],
+  "tip": "Memorise these two verbs first. With être and avoir you can already describe, possess, and build the past tense."
+}

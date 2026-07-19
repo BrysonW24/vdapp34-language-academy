@@ -1,13 +1,11 @@
 {
   "rank": 175,
-  "german": "Buch",
-  "english": "book",
-  "pronunciation": "BOOKH",
-  "partOfSpeech": "noun",
-  "gender": "neuter",
-  "article": "das",
-  "exampleDe": "Dieses Buch ist sehr spannend.",
-  "exampleEn": "This book is very exciting.",
+  "german": "eltern",
+  "english": "to parents",
+  "pronunciation": "ɛ l t ɐ n",
+  "partOfSpeech": "verb",
+  "exampleDe": "Ich möchte Eltern.",
+  "exampleEn": "I want to parents.",
   "group": "everyday-250",
-  "topic": "education"
+  "topic": "actions"
 }

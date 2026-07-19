@@ -1,0 +1,90 @@
+{
+  "slug": "transport",
+  "title": "Transport",
+  "titleNative": "परिवहन",
+  "shortSummary": "Catch an auto-rickshaw, take the train, and get around Indian cities in Hindi.",
+  "level": "beginner",
+  "order": 11,
+  "icon": "🛺",
+  "color": "#5f3dc4",
+  "culturalNote": "Getting around India is an adventure with many options: the auto-rickshaw (ऑटो), the cycle-rickshaw, buses, the metro in big cities, and the famous Indian Railways. Auto drivers may quote a price rather than use the meter, so agreeing the fare before you sit down (किराया कितना है?) saves trouble. App-based cabs are now common in cities and remove the bargaining. Trains are a way of life, with classes from general seating to air-conditioned sleeper coaches, and a platform (प्लेटफ़ॉर्म) number is always worth confirming. The metro in Delhi and other cities is clean, cheap, and has a women's coach. A simple, friendly tone goes a long way; saying 'bhaiya, station chaloge?' (brother, will you go to the station?) to an auto driver is perfectly normal.",
+  "keyPhrases": [
+    { "native": "किराया कितना है?", "transliteration": "kiraaya kitna hai?", "english": "How much is the fare?", "pronunciation": "ki-RAA-yaa KIT-naa hai", "context": "Before a ride" },
+    { "native": "मीटर से चलिए", "transliteration": "meter se chaliye", "english": "Please go by the meter", "pronunciation": "MEE-tar say CHUH-li-yay", "context": "In an auto-rickshaw" },
+    { "native": "स्टेशन चलिए", "transliteration": "station chaliye", "english": "Please go to the station", "pronunciation": "STAY-shun CHUH-li-yay", "context": "Telling the driver" },
+    { "native": "अगला स्टॉप कौन सा है?", "transliteration": "agla stop kaun sa hai?", "english": "Which is the next stop?", "pronunciation": "UG-laa stop kown saa hai", "context": "On a bus or metro" },
+    { "native": "ट्रेन कब आएगी?", "transliteration": "train kab aayegi?", "english": "When will the train come?", "pronunciation": "train kub AA-yay-gee", "context": "At the platform" },
+    { "native": "एक टिकट दीजिए", "transliteration": "ek ticket dijiye", "english": "Please give one ticket", "pronunciation": "ek TIK-it DEE-ji-yay", "context": "Buying a ticket" },
+    { "native": "यहाँ रोकिए", "transliteration": "yahaan rokiye", "english": "Please stop here", "pronunciation": "yuh-HAAN ROH-ki-yay", "context": "To a driver" },
+    { "native": "प्लेटफ़ॉर्म नंबर क्या है?", "transliteration": "platform number kya hai?", "english": "What is the platform number?", "pronunciation": "PLAT-form NUM-bar kyaa hai", "context": "At the station" },
+    { "native": "क्या यह बस एयरपोर्ट जाती है?", "transliteration": "kya yah bus airport jaati hai?", "english": "Does this bus go to the airport?", "pronunciation": "kyaa yuh bus ... JAA-tee hai", "context": "Checking the route" },
+    { "native": "जल्दी चलिए, देर हो रही है", "transliteration": "jaldi chaliye, der ho rahi hai", "english": "Please go quickly, it's getting late", "pronunciation": "JUL-dee CHUH-li-yay, dare hoh ruh-HEE hai", "context": "In a hurry" }
+  ],
+  "grammar": [
+    {
+      "rule": "Chaliye and chalo (to go/move)",
+      "explanation": "Chalna (चलना) means 'to go along/move'. The polite request is chaliye (please go), the informal is chalo. With a destination, the place comes first: station chaliye means 'please go to the station'.",
+      "examples": [
+        { "native": "बाज़ार चलिए। (bazaar chaliye.)", "en": "Please go to the market." },
+        { "native": "जल्दी चलो। (jaldi chalo.)", "en": "Go quickly. (informal)" }
+      ],
+      "commonMistake": "Confusing chalna (to move/go along) with jaana (to go to); for telling a driver to set off, chaliye is natural."
+    },
+    {
+      "rule": "Future tense for events (aayegi, jaayegi)",
+      "explanation": "Things that will happen take a future ending agreeing with the subject's gender and number. A feminine subject like train takes aayegi (will come) and jaayegi (will go); a masculine subject takes aayega and jaayega.",
+      "examples": [
+        { "native": "ट्रेन कब आएगी? (train kab aayegi?)", "en": "When will the train come?" },
+        { "native": "बस अभी जाएगी। (bus abhi jaayegi.)", "en": "The bus will go now." }
+      ],
+      "commonMistake": "Using aayega for the feminine train; the correct form is aayegi."
+    }
+  ],
+  "dialogue": {
+    "setup": "Ben hails an auto-rickshaw and negotiates with the driver, Raju.",
+    "lines": [
+      { "speaker": "Ben", "native": "भैया, स्टेशन चलिए। किराया कितना है?", "transliteration": "bhaiya, station chaliye. kiraaya kitna hai?", "english": "Brother, go to the station. How much is the fare?" },
+      { "speaker": "Raju", "native": "डेढ़ सौ रुपये लगेंगे।", "transliteration": "dedh sau rupaye lagenge.", "english": "It will cost one hundred and fifty rupees." },
+      { "speaker": "Ben", "native": "थोड़ा ज़्यादा है। मीटर से चलिए।", "transliteration": "thoda zyaada hai. meter se chaliye.", "english": "That's a bit much. Please go by the meter." },
+      { "speaker": "Raju", "native": "ठीक है, बैठिए।", "transliteration": "theek hai, baithiye.", "english": "Okay, sit down." },
+      { "speaker": "Ben", "native": "जल्दी चलिए, ट्रेन कब आएगी पता नहीं।", "transliteration": "jaldi chaliye, train kab aayegi pata nahin.", "english": "Go quickly, I don't know when the train will come." },
+      { "speaker": "Raju", "native": "चिंता मत कीजिए, दस मिनट में पहुँच जाएँगे।", "transliteration": "chinta mat kijiye, das minute mein pahunch jaayenge.", "english": "Don't worry, we'll arrive in ten minutes." },
+      { "speaker": "Ben", "native": "धन्यवाद! यहाँ रोकिए।", "transliteration": "dhanyavaad! yahaan rokiye.", "english": "Thank you! Stop here." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you ask 'How much is the fare?' in Hindi?",
+      "correctAnswer": "किराया कितना है? (kiraaya kitna hai?)",
+      "explanation": "Kiraaya means 'fare' and kitna hai asks 'how much'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which phrase asks an auto driver to use the meter?",
+      "options": ["यहाँ रोकिए", "मीटर से चलिए", "स्टेशन चलिए", "जल्दी चलिए"],
+      "correctAnswer": "मीटर से चलिए",
+      "explanation": "Meter se chaliye means 'please go by the meter'."
+    },
+    {
+      "type": "fill-blank",
+      "question": "ट्रेन कब _____? (When will the train come?)",
+      "correctAnswer": "आएगी (aayegi)",
+      "explanation": "Train is feminine, so the future form is aayegi."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does 'यहाँ रोकिए (yahaan rokiye)' mean?",
+      "options": ["Go quickly", "Stop here", "Turn left", "Go to the station"],
+      "correctAnswer": "Stop here",
+      "explanation": "Yahaan means 'here' and rokiye is the polite 'please stop'."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: दीजिए / टिकट / एक (Please give one ticket)",
+      "correctAnswer": "एक टिकट दीजिए (ek ticket dijiye)",
+      "explanation": "Number, noun, then the polite verb dijiye at the end."
+    }
+  ],
+  "status": "complete"
+}

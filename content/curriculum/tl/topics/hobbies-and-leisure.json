@@ -1,0 +1,90 @@
+{
+  "slug": "hobbies-and-leisure",
+  "title": "Hobbies & Leisure",
+  "titleNative": "Mga Libangan at Aliwan",
+  "shortSummary": "Talk about what you do for fun, from karaoke to basketball, and make plans in Filipino.",
+  "level": "beginner",
+  "order": 14,
+  "icon": "🎤",
+  "color": "#ae3ec9",
+  "culturalNote": "Filipinos love to unwind together, and music is central to it: karaoke, fondly called videoke, is a fixture at parties, in homes, and even on the street, and the soulful belting of love songs is a national pastime. Basketball is the most beloved sport, played on any spare patch of concrete, while younger crowds also follow volleyball and online games. Leisure is rarely solitary; barkada (a tight group of friends) gather for a beach trip, a fiesta, or a simple inuman (drinking session) full of stories and laughter. Sundays often mean a family outing or a trip to the mall, a favourite air-conditioned escape from the heat. Inviting people to join, with a warm Sama ka! (Come along!), is the natural Filipino reflex.",
+  "keyPhrases": [
+    { "native": "Ano ang libangan mo?", "english": "What is your hobby?", "pronunciation": "a-NO ang li-BA-ngan mo", "context": "Asking about hobbies" },
+    { "native": "Mahilig akong kumanta.", "english": "I love to sing.", "pronunciation": "ma-HI-lig a-KONG ku-man-TA", "context": "Sharing a hobby" },
+    { "native": "Naglalaro ako ng basketbol.", "english": "I play basketball.", "pronunciation": "nag-la-la-RO a-KO nang bas-ket-BOL", "context": "A sport" },
+    { "native": "Nanonood ako ng pelikula.", "english": "I watch movies.", "pronunciation": "na-no-NO-od a-KO nang pe-LI-ku-la", "context": "A pastime" },
+    { "native": "Gusto mo bang mag-videoke?", "english": "Do you want to do karaoke?", "pronunciation": "GUS-to mo bang mag-vi-de-O-ke", "context": "An invitation" },
+    { "native": "Sama ka sa amin!", "english": "Come along with us!", "pronunciation": "SA-ma ka sa A-min", "context": "Inviting a friend" },
+    { "native": "Libre ka ba sa Sabado?", "english": "Are you free on Saturday?", "pronunciation": "LIB-re ka ba sa sa-BA-do", "context": "Making plans" },
+    { "native": "Mag-beach trip tayo.", "english": "Let's go on a beach trip.", "pronunciation": "mag-bich trip ta-YO", "context": "Suggesting an activity" },
+    { "native": "Ang saya ng kasama!", "english": "The company is so fun!", "pronunciation": "ang sa-YA nang ka-SA-ma", "context": "Enjoying time together" },
+    { "native": "Tara, lakad tayo!", "english": "Come on, let's go out!", "pronunciation": "ta-RA la-KAD ta-YO", "context": "Casual call to hang out" }
+  ],
+  "grammar": [
+    {
+      "rule": "Expressing likes with mahilig and gusto",
+      "explanation": "Mahilig ako means 'I am fond of' and is followed by a verb with the linker: mahilig akong kumanta (I love to sing). Gusto ko means 'I like / want' and takes ng before a noun or a linker before a verb: gusto ko ng kape, gusto kong matulog.",
+      "examples": [
+        { "native": "Mahilig akong magbasa.", "en": "I love to read." },
+        { "native": "Gusto kong manood ng sine.", "en": "I want to watch a movie." }
+      ],
+      "commonMistake": "Forgetting the linker after mahilig ako; it must be mahilig akong + verb."
+    },
+    {
+      "rule": "Suggesting together-actions with tayo",
+      "explanation": "Tayo means 'we (including you)'. Put it after a verb to suggest doing something together: Kumain tayo (Let's eat), Mag-beach trip tayo (Let's go to the beach). It is the friendly way to make a plan.",
+      "examples": [
+        { "native": "Manood tayo ng pelikula.", "en": "Let's watch a movie." },
+        { "native": "Mag-videoke tayo mamaya.", "en": "Let's do karaoke later." }
+      ],
+      "commonMistake": "Using kami (we, excluding you) when inviting the listener; for 'let's' include them with tayo."
+    }
+  ],
+  "dialogue": {
+    "setup": "Friends Kim and Dale plan a weekend hangout.",
+    "lines": [
+      { "speaker": "Kim", "native": "Dale, libre ka ba sa Sabado?", "english": "Dale, are you free on Saturday?" },
+      { "speaker": "Dale", "native": "Oo, walang plano. Bakit, may lakad ba?", "english": "Yes, no plans. Why, are we going out?" },
+      { "speaker": "Kim", "native": "Mag-videoke tayo! Mahilig ka namang kumanta.", "english": "Let's do karaoke! You love to sing anyway." },
+      { "speaker": "Dale", "native": "Game! Pero pwede rin tayong mag-beach trip.", "english": "I'm in! But we could also do a beach trip." },
+      { "speaker": "Kim", "native": "Mas maganda iyan! Sama natin ang buong barkada.", "english": "That's even better! Let's bring the whole gang." },
+      { "speaker": "Dale", "native": "Sige, ako na bahala sa pagkain. Ang saya nito!", "english": "Okay, I'll handle the food. This is so fun!" },
+      { "speaker": "Kim", "native": "Tara, planuhin natin mamaya. Excited na ako!", "english": "Come on, let's plan it later. I'm so excited already!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you ask 'What is your hobby?' in Filipino?",
+      "correctAnswer": "Ano ang libangan mo?",
+      "explanation": "Ano (what) plus libangan mo (your hobby)."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is 'videoke' in Filipino leisure?",
+      "options": ["A board game", "Karaoke singing", "A basketball league", "A type of food"],
+      "correctAnswer": "Karaoke singing",
+      "explanation": "Videoke is the much-loved Filipino word for karaoke."
+    },
+    {
+      "type": "fill-blank",
+      "question": "Mahilig _____ kumanta. (I + the linker, joined as one word)",
+      "correctAnswer": "akong",
+      "explanation": "Mahilig akong kumanta means 'I love to sing'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which word means 'we' when you are inviting the listener to join?",
+      "options": ["kami", "tayo", "sila", "kayo"],
+      "correctAnswer": "tayo",
+      "explanation": "Tayo includes the listener: Kumain tayo means 'Let's eat'."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: tayo / mag-beach trip",
+      "correctAnswer": "Mag-beach trip tayo",
+      "explanation": "Mag-beach trip tayo means 'Let's go on a beach trip'."
+    }
+  ],
+  "status": "complete"
+}

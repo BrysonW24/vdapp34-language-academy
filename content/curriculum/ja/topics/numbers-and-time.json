@@ -1,0 +1,90 @@
+{
+  "slug": "numbers-and-time",
+  "title": "Numbers & Time",
+  "titleNative": "すうじとじかん",
+  "shortSummary": "Count, tell the time, and handle dates and prices, the numeric backbone of daily life in Japan.",
+  "level": "beginner",
+  "order": 3,
+  "icon": "🕐",
+  "color": "#e8590c",
+  "culturalNote": "Japanese has two number systems: the native wa-go set (hitotsu, futatsu, mittsu) used for counting small quantities of objects, and the Sino-Japanese set (ichi, ni, san) used for prices, phone numbers, times, and dates. Mastering ichi-ni-san first unlocks most everyday situations. Japan relies heavily on counters: you do not simply say 'three' but rather attach a counter suffix matched to the object, such as -hon for long thin things or -mai for flat things. Punctuality is taken very seriously, so trains and meetings start exactly on time, and arriving even a few minutes late is considered impolite. Numbers also carry superstition: the number four (shi) sounds like the word for death and is often avoided, while seven and eight are seen as lucky.",
+  "keyPhrases": [
+    { "native": "一、二、三", "transliteration": "ichi, ni, san", "english": "one, two, three", "pronunciation": "EE-chee, nee, san", "context": "Core counting" },
+    { "native": "今何時ですか", "transliteration": "ima nanji desu ka", "english": "What time is it now?", "pronunciation": "EE-ma NAN-jee dess kah", "context": "Asking the time" },
+    { "native": "三時です", "transliteration": "sanji desu", "english": "It's three o'clock", "pronunciation": "SAN-jee dess", "context": "Telling the time" },
+    { "native": "九時半です", "transliteration": "kuji han desu", "english": "It's half past nine", "pronunciation": "KOO-jee han dess", "context": "Half-hour" },
+    { "native": "いくらですか", "transliteration": "ikura desu ka", "english": "How much is it?", "pronunciation": "EE-koo-rah dess kah", "context": "Asking a price" },
+    { "native": "千円です", "transliteration": "sen en desu", "english": "It's 1,000 yen", "pronunciation": "SEN en dess", "context": "Stating a price" },
+    { "native": "何歳ですか", "transliteration": "nansai desu ka", "english": "How old are you?", "pronunciation": "NAN-sai dess kah", "context": "Asking age" },
+    { "native": "今日は何曜日ですか", "transliteration": "kyou wa nan youbi desu ka", "english": "What day is it today?", "pronunciation": "KYOH wah nan-YOH-bee dess kah", "context": "Asking the day" },
+    { "native": "月曜日です", "transliteration": "getsuyoubi desu", "english": "It's Monday", "pronunciation": "geh-tsoo-YOH-bee dess", "context": "Stating the day" },
+    { "native": "三時から五時まで", "transliteration": "sanji kara goji made", "english": "From 3 until 5", "pronunciation": "SAN-jee ka-ra GO-jee ma-deh", "context": "Time spans" }
+  ],
+  "grammar": [
+    {
+      "rule": "Counters for time: -ji and -fun",
+      "explanation": "To say the hour, attach -ji to the Sino-Japanese number: ichiji (1 o'clock), niji (2 o'clock). For minutes, attach -fun or -pun. Han means 'half', so kuji han is 9:30.",
+      "examples": [
+        { "native": "七時です。(shichiji desu)", "en": "It is seven o'clock." },
+        { "native": "十時十五分です。(juuji juugofun desu)", "en": "It is ten fifteen." }
+      ],
+      "commonMistake": "Using the native numbers (hitotsu, futatsu) for clock times instead of ichi, ni, san."
+    },
+    {
+      "rule": "Particles kara and made",
+      "explanation": "Kara means 'from' a starting point and made means 'until / to' an end point. They mark both time and place, so you can say a span like 'from 3 until 5' or a route 'from Tokyo to Osaka'.",
+      "examples": [
+        { "native": "九時から始まります。(kuji kara hajimarimasu)", "en": "It starts from nine o'clock." },
+        { "native": "月曜日から金曜日まで。(getsuyoubi kara kinyoubi made)", "en": "From Monday until Friday." }
+      ],
+      "commonMistake": "Swapping kara and made, which reverses the start and end of the span."
+    }
+  ],
+  "dialogue": {
+    "setup": "A customer asks a shop assistant about opening hours and a price.",
+    "lines": [
+      { "speaker": "客", "native": "すみません、今何時ですか。", "transliteration": "sumimasen, ima nanji desu ka", "english": "Excuse me, what time is it now?" },
+      { "speaker": "店員", "native": "今、四時です。", "transliteration": "ima, yoji desu", "english": "It's four o'clock now." },
+      { "speaker": "客", "native": "お店は何時までですか。", "transliteration": "omise wa nanji made desu ka", "english": "Until what time is the shop open?" },
+      { "speaker": "店員", "native": "九時から七時までです。", "transliteration": "kuji kara shichiji made desu", "english": "From nine until seven." },
+      { "speaker": "客", "native": "この本はいくらですか。", "transliteration": "kono hon wa ikura desu ka", "english": "How much is this book?" },
+      { "speaker": "店員", "native": "千五百円です。", "transliteration": "sen gohyaku en desu", "english": "It's 1,500 yen." },
+      { "speaker": "客", "native": "ありがとうございます。", "transliteration": "arigatou gozaimasu", "english": "Thank you very much." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you ask 'How much is it?' in Japanese?",
+      "correctAnswer": "いくらですか (ikura desu ka)",
+      "explanation": "Ikura means 'how much', and desu ka turns it into a polite question."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which counter is attached to a number to tell the hour?",
+      "options": ["-fun", "-ji", "-mai", "-en"],
+      "correctAnswer": "-ji",
+      "explanation": "-ji marks o'clock, so sanji is 3 o'clock; -fun marks minutes."
+    },
+    {
+      "type": "fill-blank",
+      "question": "九時 _____ 五時まで。(from 9 until 5)",
+      "correctAnswer": "から (kara)",
+      "explanation": "Kara means 'from' the start point; made means 'until'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which number system is used for prices and clock times?",
+      "options": ["hitotsu, futatsu, mittsu", "ichi, ni, san", "Both equally", "Neither, you use English"],
+      "correctAnswer": "ichi, ni, san",
+      "explanation": "The Sino-Japanese set (ichi, ni, san) is used for prices, times, and dates."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: です / 半 / 九時 (it's half past nine)",
+      "correctAnswer": "九時半です (kuji han desu)",
+      "explanation": "Han ('half') follows the hour: kuji han desu is 9:30."
+    }
+  ],
+  "status": "complete"
+}

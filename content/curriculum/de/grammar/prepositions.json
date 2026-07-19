@@ -1,0 +1,26 @@
+{
+  "slug": "prepositions",
+  "name": "Two-Way Prepositions",
+  "nameDe": "Wechselpräpositionen",
+  "summary": "Nine prepositions that take the accusative for movement and the dative for location.",
+  "level": "pre-intermediate",
+  "order": 11,
+  "explanation": "Most German prepositions always take one fixed case. But nine special prepositions can take either the accusative or the dative depending on meaning: an, auf, hinter, in, neben, über, unter, vor, zwischen.\n\nThe rule: use the accusative when there is movement toward a destination (the question 'wohin?', where to?). Use the dative when there is a fixed location (the question 'wo?', where?).\n\nCompare: 'Ich gehe in die Schule' (I go into the school, movement, accusative) versus 'Ich bin in der Schule' (I am in the school, location, dative). Same preposition, different case, different meaning.",
+  "pattern": "Movement (wohin?) -> accusative  |  Location (wo?) -> dative",
+  "examples": [
+    { "de": "Ich lege das Buch auf den Tisch.", "en": "I put the book onto the table. (movement, accusative)" },
+    { "de": "Das Buch liegt auf dem Tisch.", "en": "The book is lying on the table. (location, dative)" },
+    { "de": "Sie hängt das Bild an die Wand.", "en": "She hangs the picture on the wall. (movement)" },
+    { "de": "Das Bild hängt an der Wand.", "en": "The picture hangs on the wall. (location)" },
+    { "de": "Wir gehen in den Park.", "en": "We go into the park. (movement)" },
+    { "de": "Die Kinder spielen in dem Park.", "en": "The children play in the park. (location)" }
+  ],
+  "commonMistakes": [
+    "Using the dative for movement: it is 'Ich gehe in die Stadt' (accusative), not 'in der Stadt'.",
+    "Using the accusative for a fixed location: it is 'Ich wohne in der Stadt' (dative).",
+    "Forgetting that 'in dem' often contracts to 'im' and 'in das' to 'ins'.",
+    "Assuming the verb alone decides. Ask 'wohin?' versus 'wo?' to choose the case.",
+    "Treating all prepositions as two-way. Only those nine switch; others are fixed."
+  ],
+  "tip": "Ask the magic question: wohin (where to) means accusative, wo (where) means dative. The verb of motion is your clue."
+}

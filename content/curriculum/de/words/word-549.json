@@ -1,13 +1,11 @@
 {
   "rank": 549,
-  "german": "Wind",
-  "english": "wind",
-  "pronunciation": "VINT",
-  "partOfSpeech": "noun",
-  "gender": "masculine",
-  "article": "der",
-  "exampleDe": "Der Wind ist stark.",
-  "exampleEn": "The wind is strong.",
+  "german": "meist",
+  "english": "mostly",
+  "pronunciation": "m a ɪ s t",
+  "partOfSpeech": "adverb",
+  "exampleDe": "Er antwortet meist.",
+  "exampleEn": "He answers mostly.",
   "group": "confident-350",
-  "topic": "travel"
+  "topic": "descriptions"
 }

@@ -1,0 +1,90 @@
+{
+  "slug": "transport",
+  "title": "Transport",
+  "titleNative": "Les transports",
+  "shortSummary": "Buy tickets and use France's trains, metro, and buses with confidence.",
+  "level": "elementary",
+  "order": 10,
+  "icon": "🚆",
+  "color": "#1f8a5b",
+  "culturalNote": "France has an excellent rail network, with the high-speed TGV connecting cities quickly. In Paris the metro is dense and easy, and tickets or a Navigo pass cover the network. Remember to validate (composter) older paper tickets where required. People queue politely and a friendly Bonjour to the driver or ticket seller goes a long way.",
+  "keyPhrases": [
+    { "native": "un billet pour Paris", "english": "a ticket to Paris", "pronunciation": "un bee-YAY poor pah-REE", "context": "Buying a ticket" },
+    { "native": "Quand part le train ?", "english": "When does the train leave?", "pronunciation": "kon par luh TRAN", "context": "Checking times" },
+    { "native": "De quel quai ?", "english": "From which platform?", "pronunciation": "duh kel KAY", "context": "Finding the platform" },
+    { "native": "aller-retour", "english": "return (round trip)", "pronunciation": "ah-lay ruh-TOOR", "context": "Return ticket" },
+    { "native": "Cette place est libre ?", "english": "Is this seat free?", "pronunciation": "set plass eh LEE-bruh", "context": "Finding a seat" },
+    { "native": "Je dois changer ?", "english": "Do I have to change?", "pronunciation": "zhuh dwah shon-ZHAY", "context": "Connections" },
+    { "native": "Le train a du retard", "english": "The train is delayed", "pronunciation": "luh tran ah dew ruh-TAR", "context": "Common announcement" },
+    { "native": "Où est le métro ?", "english": "Where is the metro?", "pronunciation": "oo eh luh may-TROH", "context": "Finding the metro" },
+    { "native": "Je prends un taxi", "english": "I'll take a taxi", "pronunciation": "zhuh pron un tahk-SEE", "context": "Alternative transport" },
+    { "native": "le prochain bus", "english": "the next bus", "pronunciation": "luh proh-SHAN bewss", "context": "Bus travel" }
+  ],
+  "grammar": [
+    {
+      "rule": "prendre and en for transport",
+      "explanation": "Use prendre (to take) for transport: je prends le bus, je prends le train. To say 'by', use en for most vehicles (en train, en voiture) but à for foot or bike: à pied, à vélo.",
+      "examples": [
+        { "native": "Je prends le métro tous les jours.", "en": "I take the metro every day." },
+        { "native": "Nous voyageons en train.", "en": "We travel by train." }
+      ],
+      "commonMistake": "Using à for a vehicle: it is en voiture and en train, but à pied and à vélo."
+    },
+    {
+      "rule": "devoir for obligation",
+      "explanation": "devoir (must, to have to) expresses obligation and takes an infinitive: Je dois changer à Lyon (I have to change at Lyon). Forms: je dois, tu dois, il doit, nous devons, vous devez, ils doivent.",
+      "examples": [
+        { "native": "Je dois acheter un billet.", "en": "I have to buy a ticket." },
+        { "native": "Vous devez composter le billet.", "en": "You must validate the ticket." }
+      ],
+      "commonMistake": "Conjugating the second verb. After devoir it stays an infinitive: je dois partir."
+    }
+  ],
+  "dialogue": {
+    "setup": "A traveller buys a train ticket at the station counter.",
+    "lines": [
+      { "speaker": "Voyageur", "native": "Bonjour, un billet pour Marseille, s'il vous plaît.", "english": "Hello, a ticket to Marseille, please." },
+      { "speaker": "Guichet", "native": "Aller simple ou aller-retour ?", "english": "One way or return?" },
+      { "speaker": "Voyageur", "native": "Aller-retour. Je dois changer ?", "english": "Return. Do I have to change?" },
+      { "speaker": "Guichet", "native": "Oui, une fois à Lyon. Le train part à dix heures.", "english": "Yes, once at Lyon. The train leaves at ten." },
+      { "speaker": "Voyageur", "native": "De quel quai ?", "english": "From which platform?" },
+      { "speaker": "Guichet", "native": "Quai numéro quatre. Ça fait quatre-vingt-dix euros.", "english": "Platform four. That's ninety euros." },
+      { "speaker": "Voyageur", "native": "Merci. Bonne journée !", "english": "Thank you. Have a good day!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'I take the metro'?",
+      "correctAnswer": "Je prends le métro",
+      "explanation": "prendre is used for transport: je prends le métro."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which means 'return ticket'?",
+      "options": ["aller simple", "aller-retour", "changer", "quai"],
+      "correctAnswer": "aller-retour",
+      "explanation": "aller-retour means a round-trip ticket."
+    },
+    {
+      "type": "fill-blank",
+      "question": "Nous voyageons _____ train. (by)",
+      "correctAnswer": "en",
+      "explanation": "Most vehicles take en: en train, en voiture."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which means 'on foot'?",
+      "options": ["en pied", "à pied", "en voiture", "à train"],
+      "correctAnswer": "à pied",
+      "explanation": "à pied means 'on foot'."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: train / part / le / quand",
+      "correctAnswer": "Quand part le train",
+      "explanation": "Quand (when) + part le train (the train leaves)."
+    }
+  ],
+  "status": "complete"
+}

@@ -1,0 +1,90 @@
+{
+  "slug": "daily-routines",
+  "title": "Daily Routines",
+  "titleNative": "いちにちのながれ",
+  "shortSummary": "Talk about your daily schedule, from waking up to going to bed, using everyday verbs.",
+  "level": "beginner",
+  "order": 7,
+  "icon": "⏰",
+  "color": "#1098ad",
+  "culturalNote": "Daily life in Japan runs on a strong sense of rhythm and group harmony (wa). Many people commute by train at fixed times, and the famous packed rush-hour trains reflect how synchronised the working day is. Radio taisou, short morning calisthenics broadcast on radio and TV, are still done in schools and some workplaces to start the day together. A common daily courtesy is otsukaresama desu, said to colleagues to acknowledge their hard work, almost like 'thanks for your effort'. At home, you take off your shoes at the genkan (entrance) and often slip into house slippers. Bathing in the evening is a relaxing ritual: you wash and rinse outside the tub first, then soak in clean hot water.",
+  "keyPhrases": [
+    { "native": "毎朝七時に起きます", "transliteration": "maiasa shichiji ni okimasu", "english": "I get up at 7 every morning", "pronunciation": "MAI-a-sa shee-chee-jee nee oh-kee-mas", "context": "Waking up" },
+    { "native": "朝ご飯を食べます", "transliteration": "asagohan o tabemasu", "english": "I eat breakfast", "pronunciation": "A-sa-go-han oh ta-beh-mas", "context": "Morning routine" },
+    { "native": "会社に行きます", "transliteration": "kaisha ni ikimasu", "english": "I go to work", "pronunciation": "KAI-sha nee ee-kee-mas", "context": "Commuting" },
+    { "native": "電車に乗ります", "transliteration": "densha ni norimasu", "english": "I take the train", "pronunciation": "DEN-sha nee no-ree-mas", "context": "Transport" },
+    { "native": "仕事をします", "transliteration": "shigoto o shimasu", "english": "I work", "pronunciation": "shee-GO-toh oh shee-mas", "context": "During the day" },
+    { "native": "昼ご飯を食べます", "transliteration": "hirugohan o tabemasu", "english": "I eat lunch", "pronunciation": "HEE-roo-go-han oh ta-beh-mas", "context": "Midday" },
+    { "native": "家に帰ります", "transliteration": "ie ni kaerimasu", "english": "I go home", "pronunciation": "EE-eh nee ka-eh-ree-mas", "context": "Evening" },
+    { "native": "お風呂に入ります", "transliteration": "ofuro ni hairimasu", "english": "I take a bath", "pronunciation": "oh-FOO-ro nee hai-ree-mas", "context": "Evening ritual" },
+    { "native": "テレビを見ます", "transliteration": "terebi o mimasu", "english": "I watch TV", "pronunciation": "TEH-reh-bee oh mee-mas", "context": "Relaxing" },
+    { "native": "十一時に寝ます", "transliteration": "juuichiji ni nemasu", "english": "I go to sleep at 11", "pronunciation": "joo-EE-chee-jee nee neh-mas", "context": "Bedtime" }
+  ],
+  "grammar": [
+    {
+      "rule": "Polite present with -masu",
+      "explanation": "The -masu ending makes a verb polite and covers habitual and future actions. Tabemasu means 'I eat / I will eat', and ikimasu means 'I go / I will go'. The same form expresses your regular routine, so it is perfect for daily-life descriptions.",
+      "examples": [
+        { "native": "毎日勉強します。(mainichi benkyou shimasu)", "en": "I study every day." },
+        { "native": "コーヒーを飲みます。(koohii o nomimasu)", "en": "I drink coffee." }
+      ],
+      "commonMistake": "Dropping -masu in polite speech, which sounds blunt or overly casual."
+    },
+    {
+      "rule": "The time particle ni",
+      "explanation": "The particle ni marks a specific point in time when something happens, such as a clock time or a day. Shichiji ni okimasu means 'I get up at seven'. Vague time words like kyou (today) or maiasa (every morning) usually take no particle.",
+      "examples": [
+        { "native": "六時に起きます。(rokuji ni okimasu)", "en": "I get up at six o'clock." },
+        { "native": "日曜日に休みます。(nichiyoubi ni yasumimasu)", "en": "I rest on Sunday." }
+      ],
+      "commonMistake": "Adding ni after relative time words like kyou or maiasa, where no particle is needed."
+    }
+  ],
+  "dialogue": {
+    "setup": "Two friends, Kenji and Aya, chat about their morning routines.",
+    "lines": [
+      { "speaker": "健二", "native": "毎朝何時に起きますか。", "transliteration": "maiasa nanji ni okimasu ka", "english": "What time do you get up every morning?" },
+      { "speaker": "あや", "native": "六時半に起きます。", "transliteration": "rokuji han ni okimasu", "english": "I get up at half past six." },
+      { "speaker": "健二", "native": "早いですね。それから何をしますか。", "transliteration": "hayai desu ne. sorekara nani o shimasu ka", "english": "That's early. What do you do after that?" },
+      { "speaker": "あや", "native": "朝ご飯を食べて、電車に乗ります。", "transliteration": "asagohan o tabete, densha ni norimasu", "english": "I eat breakfast and take the train." },
+      { "speaker": "健二", "native": "私もです。会社まで何分かかりますか。", "transliteration": "watashi mo desu. kaisha made nanpun kakarimasu ka", "english": "Me too. How many minutes does it take to work?" },
+      { "speaker": "あや", "native": "四十分くらいです。夜は十一時に寝ます。", "transliteration": "yonjuppun kurai desu. yoru wa juuichiji ni nemasu", "english": "About forty minutes. At night I sleep at eleven." },
+      { "speaker": "健二", "native": "規則正しいですね。", "transliteration": "kisoku tadashii desu ne", "english": "You're very regular." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'I eat breakfast' in Japanese?",
+      "correctAnswer": "朝ご飯を食べます (asagohan o tabemasu)",
+      "explanation": "Asagohan (breakfast) takes the object particle を before tabemasu (eat)."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which particle marks a specific clock time?",
+      "options": ["を (o)", "に (ni)", "は (wa)", "で (de)"],
+      "correctAnswer": "に (ni)",
+      "explanation": "Ni marks a point in time, as in shichiji ni okimasu ('get up at seven')."
+    },
+    {
+      "type": "fill-blank",
+      "question": "七時 _____ 起きます。(I get up at 7)",
+      "correctAnswer": "に (ni)",
+      "explanation": "The time particle ni links the clock time to the verb."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does the -masu ending do to a verb?",
+      "options": ["Makes it past tense", "Makes it polite", "Makes it negative", "Makes it a question"],
+      "correctAnswer": "Makes it polite",
+      "explanation": "-masu is the polite present/future form used in everyday courteous speech."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: 寝ます / に / 十一時 (I sleep at 11)",
+      "correctAnswer": "十一時に寝ます (juuichiji ni nemasu)",
+      "explanation": "Time + に + verb: juuichiji ni nemasu means 'I sleep at eleven'."
+    }
+  ],
+  "status": "complete"
+}

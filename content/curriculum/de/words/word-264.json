@@ -1,13 +1,11 @@
 {
   "rank": 264,
-  "german": "Morgen",
-  "english": "morning",
-  "pronunciation": "MOR-gen",
-  "partOfSpeech": "noun",
-  "gender": "masculine",
-  "article": "der",
-  "exampleDe": "Am Morgen trinke ich Kaffee.",
-  "exampleEn": "In the morning I drink coffee.",
+  "german": "wahl",
+  "english": "election",
+  "pronunciation": "v a l",
+  "partOfSpeech": "adjective",
+  "exampleDe": "Das ist sehr wahl.",
+  "exampleEn": "That is very election.",
   "group": "everyday-250",
-  "topic": "time"
+  "topic": "descriptions"
 }

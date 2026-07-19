@@ -1,13 +1,13 @@
 {
   "rank": 313,
-  "chinese": "女儿",
-  "characters": "女儿",
-  "pinyin": "nǚér",
-  "english": "daughter",
-  "pronunciation": "nyoo-ar (3rd tone, 2nd tone)",
-  "partOfSpeech": "noun",
-  "exampleZh": "她的女儿很聪明。",
-  "exampleEn": "Her daughter is very smart.",
+  "chinese": "更加",
+  "characters": "更加",
+  "pinyin": "gèng jiā",
+  "english": "more",
+  "pronunciation": "geng-jia",
+  "partOfSpeech": "adverb",
+  "exampleZh": "你想喝茶更加咖啡？",
+  "exampleEn": "Do you want tea or coffee?",
   "group": "everyday-250",
-  "topic": "family"
+  "topic": "descriptions"
 }

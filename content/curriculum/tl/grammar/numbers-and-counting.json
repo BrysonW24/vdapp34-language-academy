@@ -1,0 +1,34 @@
+{
+  "slug": "numbers-and-counting",
+  "name": "Numbers and Counting",
+  "nameNative": "Mga numero at pagbilang",
+  "summary": "Count with native Filipino numbers and Spanish-derived numbers, and know when each is used.",
+  "level": "beginner",
+  "order": 11,
+  "explanation": "Filipino uses two number systems side by side. The native Tagalog numbers are isa (1), dalawa (2), tatlo (3), apat (4), lima (5), anim (6), pito (7), walo (8), siyam (9), and sampu (10). These are used for counting objects, telling someone's age, and most everyday quantities, joined to nouns with the linker (dalawang aso, two dogs).\n\nThe Spanish-derived numbers (uno, dos, tres, kwatro, singko, and so on) are borrowed from centuries of Spanish influence. Filipinos use them heavily for money, prices, and especially for telling time (alas dos, two o'clock; singkwenta, fifty).\n\nWhen you shop or pay, you will hear prices in the Spanish set: beinte (20), singkwenta (50), siyento (100). When you count fruit or say your age, the native set is more natural. A confident learner switches between the two by context: native numbers for counting things, Spanish numbers for money and time. Knowing both is part of sounding genuinely local.",
+  "pattern": "native: isa, dalawa, tatlo... | Spanish: uno, dos, tres... (money/time)",
+  "conjugation": {
+    "1": "isa / uno",
+    "2": "dalawa / dos",
+    "3": "tatlo / tres",
+    "5": "lima / singko",
+    "10": "sampu / diyes",
+    "100": "isang daan / siyento"
+  },
+  "examples": [
+    { "native": "Mayroon akong tatlong kapatid.", "en": "I have three siblings." },
+    { "native": "Dalawang tiket, please.", "en": "Two tickets, please." },
+    { "native": "Singkwenta pesos ito.", "en": "This is fifty pesos." },
+    { "native": "Alas dos na ngayon.", "en": "It is two o'clock now." },
+    { "native": "Lima kaming magkakapatid.", "en": "We are five siblings." },
+    { "native": "Magkano? Beinte lang po.", "en": "How much? Just twenty." }
+  ],
+  "commonMistakes": [
+    "Using native numbers for prices where Spanish numbers are expected (locals say singkwenta, not limampu, for fifty pesos casually).",
+    "Forgetting the linker between a number and a noun (tatlo aso instead of tatlong aso).",
+    "Using Spanish numbers to tell your age, where native numbers are more natural.",
+    "Mispairing time words: time uses alas plus a Spanish number (alas tres), not the native tatlo.",
+    "Mixing the two systems in one count, such as isa, dos, tatlo."
+  ],
+  "tip": "Rule of thumb: count objects and ages with native numbers, but reach for the Spanish set whenever money or the clock is involved."
+}

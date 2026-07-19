@@ -1,13 +1,13 @@
 {
   "rank": 316,
-  "chinese": "银行",
-  "characters": "银行",
-  "pinyin": "yínháng",
-  "english": "bank",
-  "pronunciation": "een-hahng (2nd tone, 2nd tone)",
+  "chinese": "节目",
+  "characters": "节目",
+  "pinyin": "jié mù",
+  "english": "programme",
+  "pronunciation": "jie-mu",
   "partOfSpeech": "noun",
-  "exampleZh": "银行几点开门？",
-  "exampleEn": "What time does the bank open?",
+  "exampleZh": "这个节目很重要。",
+  "exampleEn": "This programme is important.",
   "group": "everyday-250",
-  "topic": "places"
+  "topic": "basics"
 }

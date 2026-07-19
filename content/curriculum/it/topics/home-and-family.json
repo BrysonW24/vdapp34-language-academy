@@ -1,0 +1,90 @@
+{
+  "slug": "home-and-family",
+  "title": "Home & Family",
+  "titleNative": "Casa e famiglia",
+  "shortSummary": "Talk about your family members and describe your home, rooms, and where you live.",
+  "level": "beginner",
+  "order": 8,
+  "icon": "🏠",
+  "color": "#a0522d",
+  "culturalNote": "Family (la famiglia) is at the heart of Italian life, and ties between generations stay close. It is common for adult children to live near or with parents, and Sunday lunch with the extended family is a cherished institution. Note the grammar quirk: singular family members drop the usual possessive article, so you say mia madre (my mother), not la mia madre, but the article returns in the plural (i miei genitori, my parents). Homes are often apartments (un appartamento) in town, and the kitchen (la cucina) is the social centre of the house.",
+  "keyPhrases": [
+    { "native": "questa è la mia famiglia", "english": "this is my family", "pronunciation": "KWES-tah eh lah MEE-ah fah-MEE-lyah", "context": "Introducing family" },
+    { "native": "mia madre", "english": "my mother", "pronunciation": "MEE-ah MAH-dreh", "context": "Close family, no article" },
+    { "native": "mio padre", "english": "my father", "pronunciation": "MEE-oh PAH-dreh", "context": "Close family, no article" },
+    { "native": "i miei genitori", "english": "my parents", "pronunciation": "ee mee-AY jeh-nee-TOH-ree", "context": "Plural keeps the article" },
+    { "native": "ho un fratello", "english": "I have a brother", "pronunciation": "oh oon frah-TEL-loh", "context": "Siblings" },
+    { "native": "una sorella", "english": "a sister", "pronunciation": "OO-nah soh-REL-lah", "context": "Siblings" },
+    { "native": "abito in un appartamento", "english": "I live in an apartment", "pronunciation": "AH-bee-toh een oon ap-par-tah-MEN-toh", "context": "Type of home" },
+    { "native": "la mia casa è piccola", "english": "my house is small", "pronunciation": "lah MEE-ah KAH-zah eh PEEK-koh-lah", "context": "Describing home" },
+    { "native": "ci sono tre camere", "english": "there are three bedrooms", "pronunciation": "chee SOH-noh treh KAH-meh-reh", "context": "Rooms" },
+    { "native": "viviamo insieme", "english": "we live together", "pronunciation": "vee-vee-AH-moh een-see-EH-meh", "context": "Household" }
+  ],
+  "grammar": [
+    {
+      "rule": "Possessives with family members",
+      "explanation": "Singular, unmodified family members drop the article that possessives normally take: mia madre, tuo fratello. In the plural, or with an adjective, the article returns: i miei fratelli, la mia sorella maggiore.",
+      "examples": [
+        { "native": "Mio padre è alto.", "en": "My father is tall." },
+        { "native": "I miei zii vivono a Napoli.", "en": "My uncles live in Naples." }
+      ],
+      "commonMistake": "Saying la mia madre. Singular family members take no article: mia madre."
+    },
+    {
+      "rule": "C'è and ci sono for 'there is/are'",
+      "explanation": "Use c'è for 'there is' (singular) and ci sono for 'there are' (plural). C'è una cucina (there is a kitchen), ci sono due bagni (there are two bathrooms).",
+      "examples": [
+        { "native": "C'è un giardino.", "en": "There is a garden." },
+        { "native": "Ci sono molte finestre.", "en": "There are many windows." }
+      ],
+      "commonMistake": "Using c'è with a plural noun. Plurals need ci sono."
+    }
+  ],
+  "dialogue": {
+    "setup": "Chiara shows a friend a photo of her family.",
+    "lines": [
+      { "speaker": "Amico", "native": "Chi sono queste persone?", "english": "Who are these people?" },
+      { "speaker": "Chiara", "native": "Questa è la mia famiglia.", "english": "This is my family." },
+      { "speaker": "Amico", "native": "E questa signora?", "english": "And this lady?" },
+      { "speaker": "Chiara", "native": "È mia madre. Accanto c'è mio padre.", "english": "She's my mother. Next to her is my father." },
+      { "speaker": "Amico", "native": "Hai fratelli o sorelle?", "english": "Do you have brothers or sisters?" },
+      { "speaker": "Chiara", "native": "Sì, ho un fratello e una sorella.", "english": "Yes, I have a brother and a sister." },
+      { "speaker": "Amico", "native": "Che bella famiglia!", "english": "What a lovely family!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'my mother' in Italian?",
+      "correctAnswer": "mia madre",
+      "explanation": "Singular family members drop the article: mia madre, not la mia madre."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which is correct for 'my parents'?",
+      "options": ["miei genitori", "i miei genitori", "mio genitori", "la miei genitori"],
+      "correctAnswer": "i miei genitori",
+      "explanation": "The plural brings the article back: i miei genitori."
+    },
+    {
+      "type": "fill-blank",
+      "question": "_____ una cucina grande. (there is)",
+      "correctAnswer": "C'è",
+      "explanation": "C'è means 'there is' for a singular noun."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does una sorella mean?",
+      "options": ["a brother", "a sister", "a mother", "an aunt"],
+      "correctAnswer": "a sister",
+      "explanation": "Sorella is sister; fratello is brother."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: sono / camere / ci / tre",
+      "correctAnswer": "Ci sono tre camere",
+      "explanation": "Ci sono tre camere means 'there are three bedrooms'."
+    }
+  ],
+  "status": "complete"
+}

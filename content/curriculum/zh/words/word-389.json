@@ -1,13 +1,13 @@
 {
   "rank": 389,
-  "chinese": "医院",
-  "characters": "医院",
-  "pinyin": "yīyuàn",
-  "english": "hospital",
-  "pronunciation": "ee-ywen (1st tone, 4th tone)",
-  "partOfSpeech": "noun",
-  "exampleZh": "他在医院工作。",
-  "exampleEn": "He works at the hospital.",
+  "chinese": "张",
+  "characters": "张",
+  "pinyin": "zhāng",
+  "english": "open",
+  "pronunciation": "zhang",
+  "partOfSpeech": "measure-word",
+  "exampleZh": "我买了一张水。",
+  "exampleEn": "I bought one bottle of water.",
   "group": "everyday-250",
-  "topic": "health"
+  "topic": "basics"
 }

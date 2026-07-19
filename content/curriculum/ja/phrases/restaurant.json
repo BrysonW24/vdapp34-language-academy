@@ -1,0 +1,21 @@
+{
+  "slug": "restaurant",
+  "title": "At the Restaurant",
+  "description": "Order food, ask about the menu, and handle the bill politely in a Japanese restaurant.",
+  "situation": "Eating out: being seated, ordering, requesting recommendations, the meal rituals, and paying.",
+  "order": 3,
+  "phrases": [
+    { "native": "いただきます", "transliteration": "itadakimasu", "english": "I gratefully receive (said before eating)", "pronunciation": "ee-tah-dah-kee-mahs", "formality": "neutral", "tip": "Always say this before a meal; it thanks everyone who made the food possible." },
+    { "native": "メニューをお願いします", "transliteration": "menyuu o onegai shimasu", "english": "The menu, please", "pronunciation": "men-yoo oh oh-neh-gai shee-mahs", "formality": "formal" },
+    { "native": "おすすめは何ですか", "transliteration": "osusume wa nan desu ka", "english": "What do you recommend?", "pronunciation": "oh-soo-soo-meh wah nan dess kah", "formality": "neutral" },
+    { "native": "これをください", "transliteration": "kore o kudasai", "english": "I'll have this one, please", "pronunciation": "koh-reh oh koo-dah-sai", "formality": "neutral", "tip": "Point at the menu and say this; これ (kore) means 'this'." },
+    { "native": "水をください", "transliteration": "mizu o kudasai", "english": "Water, please", "pronunciation": "mee-zoo oh koo-dah-sai", "formality": "neutral" },
+    { "native": "ベジタリアンの料理はありますか", "transliteration": "bejitarian no ryouri wa arimasu ka", "english": "Do you have vegetarian dishes?", "pronunciation": "beh-jee-tah-ree-an noh ryoh-ree wah ah-ree-mahs kah", "formality": "formal" },
+    { "native": "アレルギーがあります", "transliteration": "arerugii ga arimasu", "english": "I have an allergy", "pronunciation": "ah-reh-roo-gee gah ah-ree-mahs", "formality": "neutral", "tip": "Name the food first, e.g. 卵 (tamago, egg) があります." },
+    { "native": "とても美味しいです", "transliteration": "totemo oishii desu", "english": "It's very delicious", "pronunciation": "toh-teh-moh oy-shee dess", "formality": "neutral" },
+    { "native": "すみません、注文をお願いします", "transliteration": "sumimasen, chuumon o onegai shimasu", "english": "Excuse me, I'd like to order", "pronunciation": "soo-mee-mah-sen, choo-mon oh oh-neh-gai shee-mahs", "formality": "formal" },
+    { "native": "お会計をお願いします", "transliteration": "okaikei o onegai shimasu", "english": "The bill, please", "pronunciation": "oh-kai-kay oh oh-neh-gai shee-mahs", "formality": "formal", "tip": "In Japan you usually pay at the front counter, not at the table." },
+    { "native": "ごちそうさまでした", "transliteration": "gochisousama deshita", "english": "Thank you for the meal", "pronunciation": "goh-chee-soh-sah-mah desh-tah", "formality": "neutral", "tip": "Say this after finishing; it is the bookend to いただきます." },
+    { "native": "カードで払えますか", "transliteration": "kaado de haraemasu ka", "english": "Can I pay by card?", "pronunciation": "kah-doh deh hah-rah-eh-mahs kah", "formality": "neutral", "tip": "Many smaller places are still cash-only, so it pays to ask." }
+  ]
+}

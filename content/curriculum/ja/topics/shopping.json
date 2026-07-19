@@ -1,0 +1,90 @@
+{
+  "slug": "shopping",
+  "title": "Shopping",
+  "titleNative": "かいもの",
+  "shortSummary": "Shop confidently, ask prices, sizes, and colours, and handle payment in Japanese stores.",
+  "level": "beginner",
+  "order": 6,
+  "icon": "🛍️",
+  "color": "#9c36b5",
+  "culturalNote": "Customer service in Japan is famously attentive, captured in the principle of omotenashi, wholehearted hospitality. Staff greet you with irasshaimase as you enter, and you are not obliged to reply. Haggling is not done in regular shops; prices are fixed, though the displayed tag may not include consumption tax until the register. When paying, place your money or card on the small tray (otsuri-zara) by the register rather than handing it directly to the cashier. Goods are wrapped with great care, and you will often be handed your change and receipt with both hands and a slight bow. Many shops are cash-friendly, though contactless IC cards like Suica are widely accepted in cities.",
+  "keyPhrases": [
+    { "native": "これはいくらですか", "transliteration": "kore wa ikura desu ka", "english": "How much is this?", "pronunciation": "KO-reh wah EE-koo-rah dess kah", "context": "Asking a price" },
+    { "native": "見ているだけです", "transliteration": "mite iru dake desu", "english": "I'm just looking", "pronunciation": "MEE-teh ee-roo da-keh dess", "context": "Polite browsing" },
+    { "native": "試着できますか", "transliteration": "shichaku dekimasu ka", "english": "Can I try it on?", "pronunciation": "shee-CHA-koo deh-kee-mas kah", "context": "Clothes shopping" },
+    { "native": "もっと大きいのはありますか", "transliteration": "motto ookii no wa arimasu ka", "english": "Do you have a bigger one?", "pronunciation": "MOT-to oh-kee no wah a-ree-mas kah", "context": "Asking for size" },
+    { "native": "別の色はありますか", "transliteration": "betsu no iro wa arimasu ka", "english": "Is there another colour?", "pronunciation": "BEH-tsoo no EE-ro wah a-ree-mas kah", "context": "Asking for colour" },
+    { "native": "これをください", "transliteration": "kore o kudasai", "english": "I'll take this", "pronunciation": "KO-reh oh koo-da-sai", "context": "Deciding to buy" },
+    { "native": "カードで払えますか", "transliteration": "kaado de haraemasu ka", "english": "Can I pay by card?", "pronunciation": "KAH-do deh ha-ra-eh-mas kah", "context": "Payment method" },
+    { "native": "袋をください", "transliteration": "fukuro o kudasai", "english": "A bag, please", "pronunciation": "FOO-koo-ro oh koo-da-sai", "context": "At the register" },
+    { "native": "高いです", "transliteration": "takai desu", "english": "It's expensive", "pronunciation": "ta-KAI dess", "context": "Reacting to price" },
+    { "native": "安いです", "transliteration": "yasui desu", "english": "It's cheap", "pronunciation": "ya-SOO-ee dess", "context": "Reacting to price" }
+  ],
+  "grammar": [
+    {
+      "rule": "Demonstratives kore, sore, are",
+      "explanation": "Kore (this) refers to something near the speaker, sore (that) to something near the listener, and are (that over there) to something far from both. Used alone they replace a noun, so kore wa ikura desu ka means 'how much is this?'.",
+      "examples": [
+        { "native": "これは何ですか。(kore wa nan desu ka)", "en": "What is this?" },
+        { "native": "それをください。(sore o kudasai)", "en": "I'll take that one, please." }
+      ],
+      "commonMistake": "Mixing up sore (near the listener) and are (far from both speakers)."
+    },
+    {
+      "rule": "Asking ability with dekimasu ka",
+      "explanation": "Dekimasu means 'can do / is possible'. Attach it after a noun or action to ask whether something is allowed, as in shichaku dekimasu ka ('can I try it on?') or kaado de haraemasu ka ('can I pay by card?').",
+      "examples": [
+        { "native": "ここで写真が撮れますか。(koko de shashin ga toremasu ka)", "en": "Can I take photos here?" },
+        { "native": "予約できますか。(yoyaku dekimasu ka)", "en": "Can I make a reservation?" }
+      ],
+      "commonMistake": "Forgetting the question particle ka, which turns the ability statement into a request to confirm."
+    }
+  ],
+  "dialogue": {
+    "setup": "A shopper looks at a jacket in a clothing store.",
+    "lines": [
+      { "speaker": "店員", "native": "いらっしゃいませ。", "transliteration": "irasshaimase", "english": "Welcome." },
+      { "speaker": "客", "native": "すみません、これはいくらですか。", "transliteration": "sumimasen, kore wa ikura desu ka", "english": "Excuse me, how much is this?" },
+      { "speaker": "店員", "native": "そちらは八千円です。", "transliteration": "sochira wa hassen en desu", "english": "That one is 8,000 yen." },
+      { "speaker": "客", "native": "試着できますか。", "transliteration": "shichaku dekimasu ka", "english": "Can I try it on?" },
+      { "speaker": "店員", "native": "はい、どうぞ。別の色もありますよ。", "transliteration": "hai, douzo. betsu no iro mo arimasu yo", "english": "Yes, please. There are other colours too." },
+      { "speaker": "客", "native": "じゃあ、これをください。カードで払えますか。", "transliteration": "jaa, kore o kudasai. kaado de haraemasu ka", "english": "Then I'll take this. Can I pay by card?" },
+      { "speaker": "店員", "native": "はい、大丈夫です。ありがとうございます。", "transliteration": "hai, daijoubu desu. arigatou gozaimasu", "english": "Yes, that's fine. Thank you very much." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you ask 'How much is this?' in Japanese?",
+      "correctAnswer": "これはいくらですか (kore wa ikura desu ka)",
+      "explanation": "Kore (this) is the topic, and ikura desu ka asks 'how much is it?'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which word means 'this' (near the speaker)?",
+      "options": ["それ (sore)", "あれ (are)", "これ (kore)", "どれ (dore)"],
+      "correctAnswer": "これ (kore)",
+      "explanation": "Kore is near the speaker; sore is near the listener; are is far from both."
+    },
+    {
+      "type": "fill-blank",
+      "question": "試着 _____ ますか。(Can I try it on?)",
+      "correctAnswer": "でき (deki)",
+      "explanation": "Dekimasu means 'can do', so shichaku dekimasu ka asks about ability to try on."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Where should you place your money when paying?",
+      "options": ["Directly in the cashier's hand", "On the small tray by the register", "On the counter casually", "In the bag"],
+      "correctAnswer": "On the small tray by the register",
+      "explanation": "Japanese registers have a small tray (otsuri-zara) for money and cards."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: ください / 袋 / を (a bag, please)",
+      "correctAnswer": "袋をください (fukuro o kudasai)",
+      "explanation": "Noun + を + kudasai is the polite request pattern."
+    }
+  ],
+  "status": "complete"
+}

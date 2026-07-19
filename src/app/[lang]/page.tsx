@@ -1,9 +1,18 @@
 import Link from "next/link"
-import { ArrowRight, BookOpen, Globe, GraduationCap, Languages, Layers, MessageSquare, Target } from "lucide-react"
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
-import { Badge } from "@/components/ui/badge"
-import { getAcademyStats, getWords } from "@/lib/academy-content"
-import { getLanguageConfig, langHref, SUPPORTED_LANGUAGES } from "@/lib/languages"
+import { ArrowRight, BookOpen, Globe, GraduationCap, Languages, MessageSquare, Smile, Sparkles } from "lucide-react"
+import { Card, CardContent } from "@/components/ui/card"
+import { getAcademyStats, getWords, getSlangPacks } from "@/lib/academy-content"
+import { WordGroupLadder } from "@/components/academy/WordGroupLadder"
+import { VoicePicker } from "@/components/academy/VoicePicker"
+import { getAccent, getGradient } from "@/lib/language-visuals"
+import {
+  getLanguageConfig,
+  langHref,
+  languageHasSurface,
+  SUPPORTED_LANGUAGES,
+  type LanguageSurface,
+} from "@/lib/languages"
+import { getVisualGuidesIndexHref } from "@/lib/visual-guides"
 import { TARGET_COUNTS, WORD_GROUPS } from "@/types/academy"
 import { notFound } from "next/navigation"
 
@@ -37,89 +46,142 @@ export default async function LanguageHomePage({
 
   const stats = getAcademyStats(language.code)
   const words = getWords(language.code)
+  const gradient = getGradient(language.code)
   const groupCounts = WORD_GROUPS.map((group) => ({
     ...group,
     count: words.filter((word) => word.group === group.id).length,
   }))
 
-  const sections = [
+  const allSections: Array<{
+    href: string
+    label: string
+    desc: string
+    icon: typeof BookOpen
+    color: string
+    surface: LanguageSurface
+  }> = [
     {
       href: langHref(language.code, "words"),
       label: "1000 Words",
-      desc: `Frequency-ranked vocabulary with ${stats.words} loaded so far.`,
+      desc: "Ranked vocabulary",
       icon: BookOpen,
       color: "#386a58",
+      surface: "words",
     },
     {
       href: langHref(language.code, "topics"),
       label: "Topics",
-      desc: `${stats.topics} topic lesson${stats.topics === 1 ? "" : "s"} currently available.`,
+      desc: "Real-life lessons",
       icon: Globe,
       color: "#2f4f79",
+      surface: "topics",
     },
     {
       href: langHref(language.code, "grammar"),
       label: "Grammar",
-      desc: `${stats.grammar} grammar rule${stats.grammar === 1 ? "" : "s"} currently available.`,
+      desc: "Rules and patterns",
       icon: Languages,
       color: "#6d28d9",
+      surface: "grammar",
     },
     {
       href: langHref(language.code, "phrases"),
       label: "Phrases",
-      desc: `${stats.phrases} phrase pack${stats.phrases === 1 ? "" : "s"} currently available.`,
+      desc: "Ready-made phrases",
       icon: MessageSquare,
       color: "#a16a1f",
+      surface: "phrases",
     },
     {
       href: langHref(language.code, "practice"),
       label: "Practice",
-      desc: "Quizzes, drills, and reinforcement activities.",
+      desc: "Quizzes and drills",
       icon: GraduationCap,
       color: "#a0453f",
+      surface: "practice",
+    },
+    {
+      href: langHref(language.code, "slang"),
+      label: "Slang",
+      desc: "Everyday slang",
+      icon: Smile,
+      color: "#b5651d",
+      surface: "slang",
     },
   ]
 
+  const hasSlang = languageHasSurface(language.code, "slang") && getSlangPacks(language.code).length > 0
+  const sections = allSections.filter((section) =>
+    section.surface === "slang" ? hasSlang : languageHasSurface(language.code, section.surface)
+  )
+  const hasWordsSurface = languageHasSurface(language.code, "words")
+  const hasGuidesSurface = languageHasSurface(language.code, "guides")
+
   const otherLanguages = SUPPORTED_LANGUAGES.filter((code) => code !== language.code).map(
-    (code) => ({
-      ...getLanguageConfig(code)!,
-      stats: getAcademyStats(code),
-    })
+    (code) => getLanguageConfig(code)!
   )
 
   return (
-    <div className="container mx-auto px-4 py-8 space-y-12">
-      <section className="max-w-3xl space-y-4 pt-8">
-        <Badge variant="default">Unified academy</Badge>
-        <h1 className="text-4xl sm:text-5xl lg:text-6xl font-serif font-semibold text-editorial-ink leading-tight tracking-tight">
-          Learn {language.learningName} with <span className="text-editorial-green">1,000 Words</span>
-        </h1>
-        <p className="text-lg sm:text-xl text-editorial-muted leading-relaxed max-w-2xl">
-          {language.description}
-        </p>
+    <div className="container mx-auto px-4 py-5 max-w-2xl space-y-5">
+      <section className="space-y-2.5 pt-1">
+        <div className="flex items-center gap-3">
+          <span
+            className="flex h-11 w-11 flex-shrink-0 items-center justify-center rounded-[13px] bg-editorial-green-soft text-2xl"
+            aria-hidden="true"
+          >
+            {language.flag}
+          </span>
+          <div className="min-w-0">
+            <p className="text-xs italic leading-none text-editorial-muted mb-1">{language.nativeName}</p>
+            <h1 className="text-xl sm:text-2xl font-serif font-semibold text-editorial-ink leading-none">
+              {language.name}
+            </h1>
+          </div>
+        </div>
+        <p className="text-sm text-editorial-muted leading-relaxed">{language.description}</p>
+        {hasGuidesSurface && (
+          <Link
+            href={getVisualGuidesIndexHref(language.code)}
+            className="inline-flex items-center gap-2 rounded-full border border-[rgba(44,49,59,0.08)] bg-white/72 px-3.5 py-1.5 text-sm font-medium text-editorial-ink shadow-editorial-soft transition-all duration-300 hover:-translate-y-0.5 hover:bg-white"
+          >
+            Explore the visual guides <ArrowRight className="h-4 w-4" />
+          </Link>
+        )}
       </section>
 
-      <section className="grid grid-cols-2 lg:grid-cols-4 gap-4 max-w-4xl">
+      <Link
+        href={langHref(language.code, "coach")}
+        className="group relative flex items-center gap-3 overflow-hidden rounded-[14px] px-3.5 py-2.5 text-white shadow-editorial-soft transition-all duration-300 hover:-translate-y-0.5"
+        style={{ backgroundImage: gradient }}
+      >
+        <span className="pointer-events-none absolute inset-0 bg-gradient-to-b from-white/15 to-transparent" aria-hidden="true" />
+        <span className="relative flex h-8 w-8 flex-shrink-0 items-center justify-center rounded-full bg-white/20">
+          <Sparkles className="h-4 w-4" />
+        </span>
+        <span className="relative min-w-0 flex-1">
+          <span className="block text-sm font-semibold leading-tight">Practise with the AI coach</span>
+          <span className="block text-[11px] leading-tight text-white/85">Speak a real conversation, hear every line, get scored</span>
+        </span>
+        <ArrowRight className="relative h-4 w-4 flex-shrink-0 transition-transform group-hover:translate-x-0.5" />
+      </Link>
+
+      <VoicePicker language={language.code} languageName={language.name} accent={getAccent(language.code)} />
+
+      <section className="grid grid-cols-4 gap-2">
         {[
-          { label: "Words", value: `${stats.words}/${TARGET_COUNTS.words}`, icon: BookOpen, color: "#386a58" },
-          { label: "Groups", value: String(WORD_GROUPS.length), icon: Layers, color: "#2f4f79" },
-          { label: "Topics", value: `${stats.topics}/${TARGET_COUNTS.topics}`, icon: Globe, color: "#6d28d9" },
-          { label: "Target Level", value: "A1-A2", icon: Target, color: "#a16a1f" },
-        ].map((stat) => {
-          const Icon = stat.icon
-          return (
-            <Card key={stat.label} className="text-center p-4">
-              <div
-                className="mx-auto h-10 w-10 rounded-full flex items-center justify-center mb-2"
-                style={{ backgroundColor: `${stat.color}15` }}
-              >
-                <Icon className="h-5 w-5" style={{ color: stat.color }} />
-              </div>
-              <p className="text-2xl font-serif font-semibold text-editorial-ink">{stat.value}</p>
-              <p className="text-sm text-editorial-muted">{stat.label}</p>
-            </Card>
-          )
-        })}
+          { label: "Words", value: stats.words },
+          { label: "Topics", value: stats.topics },
+          { label: "Grammar", value: stats.grammar },
+          { label: "Phrases", value: stats.phrases },
+        ].map((stat) => (
+          <div
+            key={stat.label}
+            className="rounded-[11px] border border-[rgba(44,49,59,0.08)] bg-white/60 px-2 py-2 text-center"
+          >
+            <p className="font-serif text-lg leading-none text-editorial-ink">{stat.value}</p>
+            <p className="mt-1 text-[10px] text-editorial-muted">{stat.label}</p>
+          </div>
+        ))}
       </section>
 
       {stats.words < TARGET_COUNTS.words && (
@@ -134,119 +196,70 @@ export default async function LanguageHomePage({
         </Card>
       )}
 
-      <section className="space-y-6">
-        <div className="max-w-2xl">
-          <h2 className="text-2xl sm:text-3xl font-serif font-semibold text-editorial-ink mb-2">
-            The Pareto Ladder
-          </h2>
-          <p className="text-editorial-muted">
-            Five frequency-based word groups that take you from survival language to confident expression.
-          </p>
+      {hasWordsSurface && (
+      <section className="space-y-2.5">
+        <div>
+          <h2 className="text-lg font-serif font-semibold text-editorial-ink">The Pareto Ladder</h2>
+          <p className="text-sm text-editorial-muted">Five frequency tiers from survival language to confident expression.</p>
         </div>
-
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
-          {groupCounts.map((group) => (
-            <Link key={group.id} href={langHref(language.code, `words/${group.id}`)} className="block group">
-              <Card className="h-full hover:shadow-editorial-hover hover:-translate-y-1 transition-all duration-300">
-                <CardHeader className="pb-2">
-                  <div className="flex items-center justify-between mb-1">
-                    <Badge
-                      className="text-xs"
-                      style={{
-                        backgroundColor: `${group.color}15`,
-                        color: group.color,
-                        borderColor: "transparent",
-                      }}
-                    >
-                      {group.range}
-                    </Badge>
-                    <span className="text-xs text-editorial-muted">{group.count} loaded</span>
-                  </div>
-                  <CardTitle className="text-lg">{group.name}</CardTitle>
-                </CardHeader>
-                <CardContent>
-                  <CardDescription>{group.desc}</CardDescription>
-                  <div className="mt-3 flex items-center gap-1 text-sm font-medium transition-all group-hover:gap-2" style={{ color: group.color }}>
-                    Start learning <ArrowRight className="h-3.5 w-3.5" />
-                  </div>
-                </CardContent>
-              </Card>
-            </Link>
-          ))}
-        </div>
+        <WordGroupLadder
+          groups={groupCounts.map((group) => ({
+            id: group.id,
+            name: group.name,
+            range: group.range,
+            desc: group.desc,
+            color: group.color,
+            count: group.count,
+            href: langHref(language.code, `words/${group.id}`),
+          }))}
+        />
       </section>
+      )}
 
-      <section className="space-y-6">
-        <div className="max-w-2xl">
-          <h2 className="text-2xl sm:text-3xl font-serif font-semibold text-editorial-ink mb-2">
-            Explore the Academy
-          </h2>
-          <p className="text-editorial-muted">
-            Words, topics, grammar, phrases, and practice all run from the same shared app now.
-          </p>
-        </div>
-
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+      {sections.length > 0 && (
+      <section className="space-y-2.5">
+        <h2 className="text-lg font-serif font-semibold text-editorial-ink">Explore the Academy</h2>
+        <div className="grid grid-cols-2 gap-2">
           {sections.map((section) => {
             const Icon = section.icon
             return (
-              <Link key={section.href} href={section.href} className="block group">
-                <Card className="h-full hover:shadow-editorial-hover hover:-translate-y-1 transition-all duration-300">
-                  <CardHeader>
-                    <div
-                      className="h-10 w-10 rounded-[12px] flex items-center justify-center mb-2"
-                      style={{ backgroundColor: `${section.color}15` }}
-                    >
-                      <Icon className="h-5 w-5" style={{ color: section.color }} />
-                    </div>
-                    <CardTitle className="text-lg">{section.label}</CardTitle>
-                  </CardHeader>
-                  <CardContent>
-                    <CardDescription>{section.desc}</CardDescription>
-                    <div className="mt-3 flex items-center gap-1 text-sm font-medium transition-all group-hover:gap-2" style={{ color: section.color }}>
-                      Explore <ArrowRight className="h-3.5 w-3.5" />
-                    </div>
-                  </CardContent>
-                </Card>
+              <Link
+                key={section.href}
+                href={section.href}
+                className="group flex items-center gap-2.5 rounded-[12px] border border-[rgba(44,49,59,0.08)] bg-white/60 px-3 py-2.5 transition-all duration-200 hover:-translate-y-0.5 hover:bg-white"
+              >
+                <span
+                  className="flex h-8 w-8 flex-shrink-0 items-center justify-center rounded-[9px]"
+                  style={{ backgroundColor: `${section.color}15` }}
+                >
+                  <Icon className="h-4 w-4" style={{ color: section.color }} />
+                </span>
+                <span className="min-w-0">
+                  <span className="block font-serif text-sm font-semibold leading-tight text-editorial-ink">{section.label}</span>
+                  <span className="block text-[11px] leading-tight text-editorial-muted">{section.desc}</span>
+                </span>
               </Link>
             )
           })}
         </div>
       </section>
+      )}
 
-      <section className="space-y-6">
-        <div className="max-w-2xl">
-          <h2 className="text-2xl sm:text-3xl font-serif font-semibold text-editorial-ink mb-2">
-            Switch Languages
-          </h2>
-          <p className="text-editorial-muted">
-            The same academy structure now supports multiple languages from one deploy.
-          </p>
-        </div>
-
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+      <section className="space-y-2.5">
+        <h2 className="text-lg font-serif font-semibold text-editorial-ink">Switch Languages</h2>
+        <div className="grid grid-cols-1 sm:grid-cols-2 gap-2">
           {otherLanguages.map((item) => (
-            <Link key={item.code} href={langHref(item.code)} className="block group">
-              <Card className="h-full hover:shadow-editorial-hover hover:-translate-y-1 transition-all duration-300">
-                <CardHeader className="pb-3">
-                  <div className="flex items-center justify-between gap-3">
-                    <div>
-                      <CardTitle className="text-lg">{item.name}</CardTitle>
-                      <p className="text-sm text-editorial-muted italic">{item.nativeName}</p>
-                    </div>
-                    <Badge variant="secondary">{item.shortCode}</Badge>
-                  </div>
-                </CardHeader>
-                <CardContent className="space-y-3">
-                  <CardDescription>{item.description}</CardDescription>
-                  <p className="text-sm text-editorial-muted">
-                    {item.stats.words} words, {item.stats.topics} topics, {item.stats.grammar} grammar, {item.stats.phrases} phrase packs
-                  </p>
-                  <div className="flex items-center gap-1 text-sm font-medium text-editorial-green transition-all group-hover:gap-2">
-                    Open academy <ArrowRight className="h-3.5 w-3.5" />
-                  </div>
-                </CardContent>
-              </Card>
+            <Link
+              key={item.code}
+              href={langHref(item.code)}
+              className="group flex items-center gap-2.5 rounded-[12px] border border-[rgba(44,49,59,0.08)] bg-white/60 px-3 py-2 transition-all duration-200 hover:-translate-y-0.5 hover:bg-white"
+            >
+              <span className="flex-shrink-0 text-lg" aria-hidden="true">{item.flag}</span>
+              <span className="min-w-0 flex-1">
+                <span className="block truncate font-serif text-sm font-semibold leading-tight text-editorial-ink">{item.name}</span>
+                <span className="block truncate text-[11px] italic leading-tight text-editorial-muted">{item.nativeName}</span>
+              </span>
+              <ArrowRight className="h-3.5 w-3.5 flex-shrink-0 text-editorial-muted transition-transform group-hover:translate-x-0.5" />
             </Link>
           ))}
         </div>

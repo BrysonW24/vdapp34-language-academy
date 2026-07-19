@@ -1,13 +1,13 @@
 {
   "rank": 143,
-  "chinese": "长",
-  "characters": "长",
-  "pinyin": "cháng",
-  "english": "long",
-  "pronunciation": "chahng (2nd tone, rising)",
-  "partOfSpeech": "adjective",
-  "exampleZh": "这条路很长。",
-  "exampleEn": "This road is very long.",
+  "chinese": "拉",
+  "characters": "拉",
+  "pinyin": "lā",
+  "english": "to pull",
+  "pronunciation": "la",
+  "partOfSpeech": "verb",
+  "exampleZh": "我想拉。",
+  "exampleEn": "I want to pull.",
   "group": "core-100",
-  "topic": "descriptions"
+  "topic": "actions"
 }

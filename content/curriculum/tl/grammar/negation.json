@@ -1,0 +1,34 @@
+{
+  "slug": "negation",
+  "name": "Negation (hindi, wala, huwag)",
+  "nameNative": "Pagkakaila (hindi, wala, huwag)",
+  "summary": "Say no and not using the three negators: hindi for facts, wala for absence, and huwag for commands.",
+  "level": "elementary",
+  "order": 8,
+  "explanation": "Filipino has three distinct negators, and choosing the right one is essential. Hindi negates verbs, adjectives, and identity statements; it is the general not (Hindi ako guro, I am not a teacher; Hindi masarap, it is not delicious).\n\nWala expresses absence or not having something; it is the opposite of may (have) and mayroon (there is). So may pera ako (I have money) becomes wala akong pera (I have no money), and may tao (there is someone) becomes walang tao (there is no one). Notice that wala takes the linker -ng before the next word.\n\nHuwag is used only for negative commands, meaning do not. Huwag kang umalis means do not leave. With po for politeness it becomes huwag po kayong mag-alala (please do not worry). Keep these three apart: hindi for facts and qualities, wala for absence, and huwag for telling someone not to do something.",
+  "pattern": "hindi + verb/adjective | wala + -ng + noun | huwag + command",
+  "conjugation": {
+    "hindi": "not (general)",
+    "wala": "none / does not have",
+    "huwag": "do not (command)",
+    "hindi po": "not (polite)",
+    "wala po": "none (polite)",
+    "huwag po": "please do not (polite)"
+  },
+  "examples": [
+    { "native": "Hindi ako marunong magluto.", "en": "I do not know how to cook." },
+    { "native": "Hindi siya masaya.", "en": "He/She is not happy." },
+    { "native": "Wala akong pera.", "en": "I have no money." },
+    { "native": "Walang tao sa bahay.", "en": "There is no one in the house." },
+    { "native": "Huwag kang mag-alala.", "en": "Do not worry." },
+    { "native": "Huwag po kayong matakot.", "en": "Please do not be afraid." }
+  ],
+  "commonMistakes": [
+    "Using hindi to mean does not have. Absence requires wala, not hindi.",
+    "Using hindi for a command. Negative commands need huwag.",
+    "Forgetting the linker after wala (wala akong pera, not wala ako pera).",
+    "Saying huwag for a simple factual no instead of hindi.",
+    "Pairing wala with may in the same phrase; wala already replaces may."
+  ],
+  "tip": "Match the negator to the job: hindi denies a fact, wala denies having, huwag forbids an action."
+}

@@ -1,13 +1,13 @@
 {
   "rank": 319,
-  "chinese": "图书馆",
-  "characters": "图书馆",
-  "pinyin": "túshūguǎn",
-  "english": "library",
-  "pronunciation": "too-shoo-gwahn (2nd, 1st, 3rd tone)",
-  "partOfSpeech": "noun",
-  "exampleZh": "图书馆里很安静。",
-  "exampleEn": "It is very quiet in the library.",
+  "chinese": "阅读",
+  "characters": "阅读",
+  "pinyin": "yuè dú",
+  "english": "to read",
+  "pronunciation": "yue-du",
+  "partOfSpeech": "verb",
+  "exampleZh": "我想阅读。",
+  "exampleEn": "I want to read.",
   "group": "everyday-250",
-  "topic": "places"
+  "topic": "work"
 }

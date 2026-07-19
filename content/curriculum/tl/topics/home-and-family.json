@@ -1,0 +1,90 @@
+{
+  "slug": "home-and-family",
+  "title": "Home & Family",
+  "titleNative": "Tahanan at Pamilya",
+  "shortSummary": "Talk about your home, your relatives, and family life, the heart of Filipino culture.",
+  "level": "beginner",
+  "order": 8,
+  "icon": "🏠",
+  "color": "#37b24d",
+  "culturalNote": "Family (pamilya) is the centre of Filipino life, and the family circle is wide: grandparents (lolo and lola), aunts and uncles (tito and tita), cousins (pinsan), and even close family friends are all woven in. Many households are multigenerational, with grandparents, parents, and children living under one roof, and respect for elders is paramount. Older siblings are addressed as kuya (older brother) and ate (older sister), titles also used warmly for strangers slightly older than you. Children are expected to show utang na loob (a deep sense of gratitude) to their parents, and caring for ageing parents at home is the norm rather than the exception. Sunday family gatherings, shared meals, and helping relatives are everyday expressions of this closeness.",
+  "keyPhrases": [
+    { "native": "Ito ang pamilya ko.", "english": "This is my family.", "pronunciation": "i-TO ang pa-MIL-ya ko", "context": "Introducing family" },
+    { "native": "May dalawa akong kapatid.", "english": "I have two siblings.", "pronunciation": "may da-la-WA a-KONG ka-pa-TID", "context": "Talking about siblings" },
+    { "native": "Si Kuya Jun ang panganay.", "english": "Kuya Jun is the eldest.", "pronunciation": "si KU-ya jun ang pa-NGA-nay", "context": "Birth order" },
+    { "native": "Nakatira kami sa Quezon City.", "english": "We live in Quezon City.", "pronunciation": "na-ka-ti-RA ka-MI sa KE-son si-ti", "context": "Where you live" },
+    { "native": "Malaki ang bahay namin.", "english": "Our house is big.", "pronunciation": "ma-la-KI ang BA-hay na-MIN", "context": "Describing a home" },
+    { "native": "Nasa kusina si Nanay.", "english": "Mum is in the kitchen.", "pronunciation": "na-SA ku-SI-na si na-NAY", "context": "Locating someone" },
+    { "native": "Kasama namin ang lolo at lola.", "english": "Grandpa and grandma live with us.", "pronunciation": "ka-SA-ma na-MIN ang LO-lo at LO-la", "context": "Multigenerational home" },
+    { "native": "Mahal ko ang pamilya ko.", "english": "I love my family.", "pronunciation": "ma-HAL ko ang pa-MIL-ya ko", "context": "Expressing affection" },
+    { "native": "Ilan kayong magkakapatid?", "english": "How many siblings are you?", "pronunciation": "i-LAN ka-YONG mag-ka-ka-pa-TID", "context": "Asking about family size" },
+    { "native": "Anak ako ng magsasaka.", "english": "I am the child of a farmer.", "pronunciation": "a-NAK a-KO nang mag-sa-sa-KA", "context": "Talking about parents" }
+  ],
+  "grammar": [
+    {
+      "rule": "Possession with the ng-pronouns ko, mo, niya",
+      "explanation": "To show possession, Filipino places a pronoun after the noun: bahay ko (my house), pamilya mo (your family), anak niya (his/her child). These ng-pronouns mark 'my, your, his/her' and follow the thing owned.",
+      "examples": [
+        { "native": "Ito ang pamilya ko.", "en": "This is my family." },
+        { "native": "Malaki ang bahay niya.", "en": "His house is big." }
+      ],
+      "commonMistake": "Putting the pronoun before the noun, English-style, such as ko pamilya instead of pamilya ko."
+    },
+    {
+      "rule": "Existence and possession with may and mayroon",
+      "explanation": "May means 'there is' or 'have' and comes before the noun: may kapatid ako (I have a sibling). Mayroon is the longer form used when the pronoun comes first: mayroon akong kapatid. Both express having something.",
+      "examples": [
+        { "native": "May dalawa akong kapatid.", "en": "I have two siblings." },
+        { "native": "Mayroon kaming aso.", "en": "We have a dog." }
+      ],
+      "commonMistake": "Using may directly before a pronoun; with a leading pronoun use mayroon, as in mayroon akong."
+    }
+  ],
+  "dialogue": {
+    "setup": "Joy shows her new friend Tonio a family photo.",
+    "lines": [
+      { "speaker": "Joy", "native": "Tingnan mo, ito ang pamilya ko.", "english": "Look, this is my family." },
+      { "speaker": "Tonio", "native": "Ang ganda! Ilan kayong magkakapatid?", "english": "How lovely! How many siblings are you?" },
+      { "speaker": "Joy", "native": "Tatlo kami. Si Kuya Jun ang panganay, ako ang bunso.", "english": "We are three. Kuya Jun is the eldest, I am the youngest." },
+      { "speaker": "Tonio", "native": "Kasama ninyo ang lolo at lola?", "english": "Do your grandpa and grandma live with you?" },
+      { "speaker": "Joy", "native": "Oo, nakatira kaming lahat sa isang bahay.", "english": "Yes, we all live in one house." },
+      { "speaker": "Tonio", "native": "Ang saya niyan! Masuwerte kang malapit kayo.", "english": "That's wonderful! You're lucky to be close." },
+      { "speaker": "Joy", "native": "Totoo. Mahal na mahal ko ang pamilya ko.", "english": "True. I love my family very much." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'This is my family' in Filipino?",
+      "correctAnswer": "Ito ang pamilya ko",
+      "explanation": "Ito (this) plus pamilya ko (my family)."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does 'kuya' mean?",
+      "options": ["Older brother", "Younger sister", "Grandfather", "Cousin"],
+      "correctAnswer": "Older brother",
+      "explanation": "Kuya is older brother; ate is older sister."
+    },
+    {
+      "type": "fill-blank",
+      "question": "Malaki ang bahay _____. (the word for 'my')",
+      "correctAnswer": "ko",
+      "explanation": "Ko means 'my' and follows the noun: bahay ko."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which phrase correctly means 'I have two siblings'?",
+      "options": ["May dalawa akong kapatid", "Ako dalawa kapatid", "Kapatid ako dalawa", "Dalawa may kapatid"],
+      "correctAnswer": "May dalawa akong kapatid",
+      "explanation": "May expresses having; the linker -ng joins akong kapatid."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: ko / pamilya / mahal / ang",
+      "correctAnswer": "Mahal ko ang pamilya",
+      "explanation": "Mahal ko ang pamilya means 'I love my family'."
+    }
+  ],
+  "status": "complete"
+}

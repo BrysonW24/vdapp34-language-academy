@@ -1,0 +1,25 @@
+{
+  "slug": "everyday",
+  "title": "Everyday Slang",
+  "description": "The casual, current slang young Japanese people actually say with friends every day.",
+  "situation": "Hanging out with friends - reacting, joking, and chatting in relaxed, real-world Japanese.",
+  "order": 1,
+  "phrases": [
+    { "native": "やばい", "transliteration": "yabai", "english": "Crazy / awesome / oh no", "pronunciation": "yah-bai", "formality": "informal", "tip": "Hugely common all-purpose reaction. Originally meant 'dangerous', now it works for both amazing and terrible - tone tells you which." },
+    { "native": "めっちゃ", "transliteration": "meccha", "english": "Super / really", "pronunciation": "meh-cha", "formality": "informal", "tip": "Intensifier you put before anything: めっちゃ美味しい (meccha oishii) = super tasty. Originally Kansai slang, now used everywhere." },
+    { "native": "マジで", "transliteration": "maji de", "english": "Seriously / for real?", "pronunciation": "mah-jee deh", "formality": "informal", "tip": "Use マジで? as a question to mean 'are you serious?'. Drop the で for a quicker マジ?" },
+    { "native": "うける", "transliteration": "ukeru", "english": "That's hilarious / LOL", "pronunciation": "oo-keh-roo", "formality": "informal", "tip": "Literally 'it lands / it gets a reaction'. Say it when something is funny, like a spoken laugh." },
+    { "native": "だるい", "transliteration": "darui", "english": "Can't be bothered / so draining", "pronunciation": "dah-roo-ee", "formality": "informal", "tip": "Covers both physical tiredness and a task feeling like a hassle. Very casual, only with friends." },
+    { "native": "すごい", "transliteration": "sugoi", "english": "Amazing / wow", "pronunciation": "soo-goy", "formality": "neutral", "tip": "Widely acceptable everywhere. Friends often shorten it to すげー (sugee) for a rougher, more excited feel." },
+    { "native": "無理", "transliteration": "muri", "english": "No way / I can't even", "pronunciation": "moo-ree", "formality": "informal", "tip": "Literally 'impossible'. On its own it means 'I can't deal with this' - a go-to reaction to something overwhelming." },
+    { "native": "ちょっと待って", "transliteration": "chotto matte", "english": "Hold on / wait a sec", "pronunciation": "chot-toh maht-teh", "formality": "informal", "tip": "Casual 'wait up'. Friends often just say 待って (matte). Add the polite ください for strangers." },
+    { "native": "遊ぼう", "transliteration": "asobou", "english": "Let's hang out", "pronunciation": "ah-soh-boh", "formality": "informal", "tip": "遊ぶ (asobu) literally means 'to play' but for adults it just means hanging out or going out together." },
+    { "native": "金欠", "transliteration": "kinketsu", "english": "I'm broke", "pronunciation": "keen-keh-tsoo", "formality": "informal", "tip": "Literally 'money shortage'. Casual way to say you're out of cash this month." },
+    { "native": "まったり", "transliteration": "mattari", "english": "Chilling / taking it easy", "pronunciation": "maht-tah-ree", "formality": "informal", "tip": "A relaxed, cozy vibe. 家でまったりする (ie de mattari suru) = chill at home doing nothing." },
+    { "native": "ガチで", "transliteration": "gachi de", "english": "For real / dead serious", "pronunciation": "gah-chee deh", "formality": "informal", "tip": "From sumo slang for a genuine bout. ガチで美味しい = genuinely, no-joke delicious. A stronger マジで." },
+    { "native": "えぐい", "transliteration": "egui", "english": "Insane / intense", "pronunciation": "eh-goo-ee", "formality": "informal", "tip": "Trendy among younger speakers for something extreme in a good or bad way - similar energy to やばい." },
+    { "native": "なんか", "transliteration": "nanka", "english": "Like / kinda / sorta", "pronunciation": "nahn-kah", "formality": "informal", "tip": "The classic filler word. Sprinkle it in to soften statements, like English 'like'. Easy to overuse." },
+    { "native": "疲れた", "transliteration": "tsukareta", "english": "I'm exhausted / wiped out", "pronunciation": "tsoo-kah-reh-tah", "formality": "informal", "tip": "Drop it after a long day. Drag it out to 疲れたー (tsukareta-) for extra drama." },
+    { "native": "行こう", "transliteration": "ikou", "english": "Let's go!", "pronunciation": "ee-koh", "formality": "informal", "tip": "Casual 'let's get going'. The hyped-up English borrow レッツゴー (rettsu go-) is also common with friends." }
+  ]
+}

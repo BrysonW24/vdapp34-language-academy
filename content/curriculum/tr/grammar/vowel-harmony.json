@@ -1,0 +1,32 @@
+{
+  "slug": "vowel-harmony",
+  "name": "Vowel Harmony",
+  "nameNative": "Ünlü uyumu",
+  "summary": "The single most important rule in Turkish: suffix vowels change to match the word.",
+  "level": "beginner",
+  "order": 1,
+  "explanation": "Turkish builds words by adding suffixes, and the vowels in those suffixes change to harmonise with the last vowel of the word. This is vowel harmony, and it governs almost every ending you will learn.\n\nThe eight vowels split into two groups by where they are made: back vowels (a, ı, o, u) and front vowels (e, i, ö, ü). A suffix picks a vowel from the same group as the last vowel of the stem.\n\nThe plural suffix shows this clearly: it is -lar after a back vowel (kitaplar, books) but -ler after a front vowel (evler, houses). Once you hear the harmony, the endings feel natural.",
+  "pattern": "suffix vowel matches the last vowel (back vs front)",
+  "conjugation": {
+    "back vowels": "a, ı, o, u",
+    "front vowels": "e, i, ö, ü",
+    "plural -lar": "after a, ı, o, u",
+    "plural -ler": "after e, i, ö, ü"
+  },
+  "examples": [
+    { "native": "kitap -> kitaplar", "en": "book -> books (back vowel)" },
+    { "native": "ev -> evler", "en": "house -> houses (front vowel)" },
+    { "native": "araba -> arabalar", "en": "car -> cars" },
+    { "native": "göz -> gözler", "en": "eye -> eyes" },
+    { "native": "okul -> okullar", "en": "school -> schools" },
+    { "native": "köy -> köyler", "en": "village -> villages" }
+  ],
+  "commonMistakes": [
+    "Using one fixed form of a suffix regardless of the word's vowels.",
+    "Forgetting that o and ö are different groups, so they take different endings.",
+    "Mixing back and front vowels within the suffix chain.",
+    "Ignoring the four-way harmony (a, e, ı, i) needed for some endings like the accusative.",
+    "Treating loanwords as exceptions without checking their final vowel."
+  ],
+  "tip": "Master two-way harmony first (a/e for plurals), then four-way harmony (ı/i/u/ü) for cases. Everything else builds on it."
+}

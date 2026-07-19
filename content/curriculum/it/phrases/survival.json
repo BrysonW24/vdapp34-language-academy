@@ -1,0 +1,21 @@
+{
+  "slug": "survival",
+  "title": "Survival Italian",
+  "description": "The essential phrases to get by anywhere in Italy. Learn these first.",
+  "situation": "Absolute basics: greetings, please, thank you, help, and signalling when you do not understand.",
+  "order": 1,
+  "phrases": [
+    { "native": "Buongiorno", "english": "Good morning / Hello", "pronunciation": "bwon-JOR-no", "formality": "neutral", "tip": "Switch to Buonasera in the late afternoon." },
+    { "native": "Per favore", "english": "Please", "pronunciation": "per fah-VOH-reh", "formality": "neutral" },
+    { "native": "Grazie", "english": "Thank you", "pronunciation": "GRAH-tsee-eh", "formality": "neutral", "tip": "Reply with prego (you're welcome)." },
+    { "native": "Scusi", "english": "Excuse me (formal)", "pronunciation": "SKOO-zee", "formality": "formal", "tip": "Informal: scusa." },
+    { "native": "Sì / No", "english": "Yes / No", "pronunciation": "see / noh", "formality": "neutral" },
+    { "native": "Non capisco", "english": "I don't understand", "pronunciation": "non kah-PEES-koh", "formality": "neutral", "tip": "The single most useful survival phrase." },
+    { "native": "Parla inglese?", "english": "Do you speak English?", "pronunciation": "PAR-lah een-GLEH-zeh", "formality": "formal" },
+    { "native": "Può ripetere?", "english": "Can you repeat that?", "pronunciation": "pwoh ree-PEH-teh-reh", "formality": "formal" },
+    { "native": "Quanto costa?", "english": "How much does it cost?", "pronunciation": "KWAN-toh KOS-tah", "formality": "neutral" },
+    { "native": "Dov'è il bagno?", "english": "Where is the toilet?", "pronunciation": "doh-VEH eel BAH-nyoh", "formality": "neutral" },
+    { "native": "Ho bisogno di aiuto", "english": "I need help", "pronunciation": "oh bee-ZOH-nyoh dee ah-YOO-toh", "formality": "neutral" },
+    { "native": "Arrivederci", "english": "Goodbye", "pronunciation": "ah-ree-veh-DER-chee", "formality": "neutral", "tip": "Casual: ciao (also means hi)." }
+  ]
+}

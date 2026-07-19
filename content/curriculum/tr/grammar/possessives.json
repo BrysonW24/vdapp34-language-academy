@@ -1,0 +1,34 @@
+{
+  "slug": "possessives",
+  "name": "Possessive Suffixes",
+  "nameNative": "İyelik ekleri",
+  "summary": "Show ownership by adding a suffix to the thing owned: my, your, his, our, their, all built in.",
+  "level": "elementary",
+  "order": 9,
+  "explanation": "Turkish shows possession with a suffix on the noun that is owned, not with a separate word like 'my' or 'your'. Ev (house) becomes evim (my house), evin (your house), evi (his/her house), evimiz (our house), eviniz (your house, plural or formal), and evleri (their house). The owner is built into the word.\n\nThe suffixes harmonise with the noun's vowels, and a buffer letter -m, -n, or -s appears when the noun ends in a vowel. Araba (car) becomes arabam (my car) and arabası (his car). You will often add a possessor noun in the genitive in front for clarity: benim evim (my house), Ali'nin evi (Ali's house).\n\nThe third-person -i suffix looks just like the accusative -i, which can confuse beginners, but context and the genitive possessor make the meaning clear. Annemin çantası means 'my mother's bag', where annemin is 'of my mother' and çantası is 'her bag'.",
+  "pattern": "noun + (i)m / (i)n / (s)i / (i)miz / (i)niz / leri",
+  "conjugation": {
+    "benim (my)": "evim",
+    "senin (your)": "evin",
+    "onun (his/her)": "evi",
+    "bizim (our)": "evimiz",
+    "sizin (your, formal/plural)": "eviniz",
+    "onların (their)": "evleri"
+  },
+  "examples": [
+    { "native": "Evim büyük.", "en": "My house is big." },
+    { "native": "Adın ne?", "en": "What is your name?" },
+    { "native": "Arabası kırmızı.", "en": "His car is red." },
+    { "native": "Öğretmenimiz çok iyi.", "en": "Our teacher is very good." },
+    { "native": "Anneniz nerede?", "en": "Where is your mother?" },
+    { "native": "Ali'nin telefonu yeni.", "en": "Ali's phone is new." }
+  ],
+  "commonMistakes": [
+    "Using a separate word for 'my' and skipping the suffix, saying benim ev instead of benim evim or just evim.",
+    "Forgetting the buffer letter, saying arabam fine but arabai instead of arabası.",
+    "Confusing the third-person possessive -i with the accusative -i in a sentence.",
+    "Mixing harmony in the suffix vowel, saying evum instead of evim.",
+    "Dropping the genitive on the possessor, saying Ali evi instead of Ali'nin evi."
+  ],
+  "tip": "Start with evim, evin, evi (my, your, his house). The owner lives inside the word; the separate benim, senin, onun are optional emphasis."
+}

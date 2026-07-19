@@ -1,0 +1,90 @@
+{
+  "slug": "greetings",
+  "title": "Greetings & Goodbyes",
+  "titleNative": "Saudações e despedidas",
+  "shortSummary": "Greet people, introduce yourself, and say goodbye in Portuguese, the foundation of every conversation.",
+  "level": "beginner",
+  "order": 1,
+  "icon": "👋",
+  "color": "#2f9e44",
+  "culturalNote": "Brazilians are warm and informal, and greetings are friendly from the first hello. Oi (hi) and tudo bem? (all good?) are the everyday openers, while bom dia, boa tarde, and boa noite mark the time of day more politely. Among friends and family a kiss on the cheek is common, and men often greet with a handshake or a hug. Brazil mostly uses você for 'you' rather than the formal o senhor or a senhora, which are kept for elders, officials, and showing extra respect.",
+  "keyPhrases": [
+    { "native": "Oi", "english": "Hi", "pronunciation": "oy", "context": "Casual everyday hello" },
+    { "native": "Bom dia", "english": "Good morning", "pronunciation": "bohn DEE-ah", "context": "Daytime greeting" },
+    { "native": "Boa tarde", "english": "Good afternoon", "pronunciation": "BOH-ah TAR-jee", "context": "From midday" },
+    { "native": "Boa noite", "english": "Good evening / Good night", "pronunciation": "BOH-ah NOY-tee", "context": "Evening and night" },
+    { "native": "Tudo bem?", "english": "How's it going?", "pronunciation": "TOO-doo bayn", "context": "Common check-in" },
+    { "native": "Tudo bem, e você?", "english": "All good, and you?", "pronunciation": "TOO-doo bayn ee voh-SEH", "context": "Standard reply" },
+    { "native": "Prazer", "english": "Nice to meet you", "pronunciation": "prah-ZEHR", "context": "First meeting" },
+    { "native": "Tchau", "english": "Bye", "pronunciation": "chow", "context": "Casual farewell" },
+    { "native": "Até logo", "english": "See you later", "pronunciation": "ah-TEH LOH-goo", "context": "Friendly closing" },
+    { "native": "Até amanhã", "english": "See you tomorrow", "pronunciation": "ah-TEH ah-mah-NYAN", "context": "Next-day sign-off" }
+  ],
+  "grammar": [
+    {
+      "rule": "Você vs o senhor / a senhora",
+      "explanation": "Brazil mostly uses você for 'you', even with people you have just met. The more formal o senhor (to a man) and a senhora (to a woman) show extra respect, used with elders, officials, and in service settings.",
+      "examples": [
+        { "native": "Como você está?", "en": "How are you? (neutral)" },
+        { "native": "Como o senhor está?", "en": "How are you, sir? (formal)" }
+      ],
+      "commonMistake": "Over-using o senhor with peers, which can sound stiff in friendly Brazil."
+    },
+    {
+      "rule": "Greetings by time of day",
+      "explanation": "Use bom dia in the morning, boa tarde from midday, and boa noite in the evening. Boa noite serves as both 'good evening' on arrival and 'good night' on leaving.",
+      "examples": [
+        { "native": "Bom dia, tudo bem?", "en": "Good morning, how are you?" },
+        { "native": "Boa noite, pessoal!", "en": "Good evening, everyone!" }
+      ],
+      "commonMistake": "Using bom dia in the afternoon; switch to boa tarde after midday."
+    }
+  ],
+  "dialogue": {
+    "setup": "Camila runs into her neighbour Rafael in the morning.",
+    "lines": [
+      { "speaker": "Camila", "native": "Oi, Rafael! Bom dia!", "english": "Hi, Rafael! Good morning!" },
+      { "speaker": "Rafael", "native": "Bom dia, Camila! Tudo bem?", "english": "Good morning, Camila! How's it going?" },
+      { "speaker": "Camila", "native": "Tudo bem, e você?", "english": "All good, and you?" },
+      { "speaker": "Rafael", "native": "Tudo ótimo, obrigado.", "english": "Everything's great, thanks." },
+      { "speaker": "Camila", "native": "Que bom! Bom trabalho hoje.", "english": "How nice! Good work today." },
+      { "speaker": "Rafael", "native": "Obrigado! Até logo.", "english": "Thanks! See you later." },
+      { "speaker": "Camila", "native": "Tchau, até amanhã!", "english": "Bye, see you tomorrow!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'Good afternoon' in Portuguese?",
+      "correctAnswer": "Boa tarde",
+      "explanation": "Boa tarde is used from midday onward."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which is the more formal way to say 'you' to an elder man?",
+      "options": ["você", "o senhor", "tchau", "oi"],
+      "correctAnswer": "o senhor",
+      "explanation": "O senhor is the respectful form for a man."
+    },
+    {
+      "type": "fill-blank",
+      "question": "Tudo _____? (how's it going)",
+      "correctAnswer": "bem",
+      "explanation": "Tudo bem? literally asks 'all well?'"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which word is a casual 'hi'?",
+      "options": ["Tchau", "Oi", "Obrigado", "Prazer"],
+      "correctAnswer": "Oi",
+      "explanation": "Oi is the everyday informal greeting."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: você / e / bem / tudo",
+      "correctAnswer": "Tudo bem e você",
+      "explanation": "Tudo bem, e você? means 'all good, and you?'"
+    }
+  ],
+  "status": "complete"
+}

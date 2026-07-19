@@ -1,0 +1,26 @@
+{
+  "slug": "shi-de-construction",
+  "name": "The 是...的 Construction",
+  "nameZh": "是...的结构",
+  "summary": "Use 是...的 to highlight the time, place, or way a past action happened.",
+  "level": "pre-intermediate",
+  "order": 12,
+  "explanation": "When an action already happened and you want to stress a detail about it, such as when, where, or how, Chinese frames it with 是 ... 的. The 是 goes before the detail and 的 comes at the end: 我是昨天来的 (wǒ shì zuótiān lái de) = it was yesterday that I came.\n\nThe focus sits between 是 and 的. 你是怎么来的？(how did you come?), 我是坐火车来的 (I came by train). It assumes the action is already known to have happened, and highlights the circumstance.\n\nIn everyday speech 是 is sometimes dropped, leaving just 的 at the end, but learners should keep 是 until the pattern feels natural.",
+  "pattern": "Subject + 是 + [time / place / manner] + Verb + 的",
+  "examples": [
+    { "zh": "我是昨天到的。", "en": "It was yesterday that I arrived." },
+    { "zh": "你是在哪里学的中文？", "en": "Where did you learn Chinese?" },
+    { "zh": "我是坐飞机来的。", "en": "I came by plane." },
+    { "zh": "他是跟朋友一起去的。", "en": "He went together with friends." },
+    { "zh": "这本书是谁写的？", "en": "Who wrote this book?" },
+    { "zh": "我是二零二零年来的。", "en": "It was in 2020 that I came." }
+  ],
+  "commonMistakes": [
+    "Using 是...的 for an action that has not happened. It highlights details of a known past event.",
+    "Dropping 的 at the end, which removes the whole emphasis.",
+    "Putting the focus outside the 是 ... 的 frame. The highlighted detail sits between them.",
+    "Adding 了 as well. 是...的 replaces 了 for this kind of emphasis; do not use both.",
+    "Forgetting that 是 can be omitted in casual speech but 的 cannot."
+  ],
+  "tip": "Use 是...的 to answer when, where, or how something already happened. Wrap the detail in 是 ... 的 and the emphasis is automatic."
+}

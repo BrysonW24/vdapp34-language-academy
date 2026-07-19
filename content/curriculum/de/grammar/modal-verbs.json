@@ -1,0 +1,33 @@
+{
+  "slug": "modal-verbs",
+  "name": "Modal Verbs",
+  "nameDe": "Modalverben",
+  "summary": "Express ability, necessity, and desire with können, müssen, wollen, and friends.",
+  "level": "elementary",
+  "order": 7,
+  "explanation": "Modal verbs add meaning to another verb: can, must, want, may, should. The six German modals are können (can), müssen (must), wollen (want), dürfen (may/be allowed), sollen (should), and mogen (to like).\n\nThe rule is simple and powerful: the modal verb is conjugated in second position, and the main verb goes to the very end of the sentence as an infinitive. 'Ich kann schwimmen' (I can swim), 'Wir müssen jetzt gehen' (We must go now).\n\nModals are irregular in the singular: ich kann, du kannst, er kann (note: no -t on er). The plural forms are regular.",
+  "pattern": "Subject + modal (position 2) + ... + main verb (infinitive, end)",
+  "conjugation": {
+    "können (ich/du/er)": "kann / kannst / kann",
+    "müssen (ich/du/er)": "muss / musst / muss",
+    "wollen (ich/du/er)": "will / willst / will",
+    "dürfen (ich/du/er)": "darf / darfst / darf",
+    "plural (wir/ihr/sie)": "regular: -en / -t / -en"
+  },
+  "examples": [
+    { "de": "Ich kann gut kochen.", "en": "I can cook well." },
+    { "de": "Wir müssen jetzt gehen.", "en": "We have to go now." },
+    { "de": "Willst du einen Kaffee?", "en": "Do you want a coffee?" },
+    { "de": "Darf ich hier rauchen?", "en": "May I smoke here?" },
+    { "de": "Du sollst mehr schlafen.", "en": "You should sleep more." },
+    { "de": "Ich möchte ein Wasser.", "en": "I would like a water. (polite form of mogen)" }
+  ],
+  "commonMistakes": [
+    "Leaving the main verb in the middle: it is 'Ich muss arbeiten', with 'arbeiten' at the end.",
+    "Adding -t to er with modals: it is 'er kann', not 'er kannt'.",
+    "Conjugating the second verb. After a modal it stays an infinitive: 'er will spielen', not 'er will spielt'.",
+    "Confusing 'mogen' (to like) with 'möchten' (would like). Möchten is the polite, conditional form.",
+    "Using 'können' for permission. Use 'dürfen' for 'may/be allowed'."
+  ],
+  "tip": "Picture a bracket: the modal opens the sentence and the infinitive closes it at the very end. Everything else sits inside."
+}

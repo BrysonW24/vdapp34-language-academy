@@ -1,13 +1,13 @@
 {
   "rank": 309,
-  "chinese": "妹妹",
-  "characters": "妹妹",
-  "pinyin": "mèimei",
-  "english": "younger sister",
-  "pronunciation": "may-may (4th tone, neutral)",
-  "partOfSpeech": "noun",
-  "exampleZh": "妹妹很可爱。",
-  "exampleEn": "My younger sister is very cute.",
+  "chinese": "属",
+  "characters": "属",
+  "pinyin": "shǔ",
+  "english": "to genus",
+  "pronunciation": "shu",
+  "partOfSpeech": "verb",
+  "exampleZh": "我要属。",
+  "exampleEn": "I want to genus.",
   "group": "everyday-250",
-  "topic": "family"
+  "topic": "actions"
 }

@@ -1,0 +1,90 @@
+{
+  "slug": "numbers-and-time",
+  "title": "Numbers & Time",
+  "titleNative": "Numeri e ora",
+  "shortSummary": "Count, tell the time, and handle dates and prices, the numbers you need every day.",
+  "level": "beginner",
+  "order": 3,
+  "icon": "🔢",
+  "color": "#0f7a6f",
+  "culturalNote": "Italy uses the 24-hour clock for anything official: timetables, opening hours, and appointments will say le sedici (16:00) rather than 4 PM. In casual speech people still say the 12-hour version with a part of day. To tell the time you use sono le plus the hour, except for one o'clock, noon, and midnight which take è (è l'una). Prices use a comma for decimals, so 3,50 euro is read tre euro e cinquanta. Italians also write the date day-first: 5/11 is the fifth of November.",
+  "keyPhrases": [
+    { "native": "uno, due, tre", "english": "one, two, three", "pronunciation": "OO-noh, DOO-eh, treh", "context": "Counting basics" },
+    { "native": "dieci, venti, cento", "english": "ten, twenty, one hundred", "pronunciation": "dee-EH-chee, VEN-tee, CHEN-toh", "context": "Round numbers" },
+    { "native": "Che ore sono?", "english": "What time is it?", "pronunciation": "keh OH-reh SOH-noh", "context": "Asking the time" },
+    { "native": "Sono le tre", "english": "It's three o'clock", "pronunciation": "SOH-noh leh treh", "context": "Telling the time" },
+    { "native": "È l'una", "english": "It's one o'clock", "pronunciation": "eh LOO-nah", "context": "Singular hour uses è" },
+    { "native": "le tre e mezza", "english": "half past three", "pronunciation": "leh treh eh MED-dzah", "context": "Half hours" },
+    { "native": "A che ora?", "english": "At what time?", "pronunciation": "ah keh OH-rah", "context": "Asking when" },
+    { "native": "Quanto costa?", "english": "How much is it?", "pronunciation": "KWAN-toh KOS-tah", "context": "Asking a price" },
+    { "native": "Sono le otto di mattina", "english": "It's eight in the morning", "pronunciation": "SOH-noh leh OT-toh dee mat-TEE-nah", "context": "Adding part of day" },
+    { "native": "mezzogiorno", "english": "midday", "pronunciation": "med-dzoh-JOR-noh", "context": "Noon" }
+  ],
+  "grammar": [
+    {
+      "rule": "Sono le vs è for the hour",
+      "explanation": "Telling the time uses sono le plus the hour for most times, because the hours are plural. One o'clock, midday, and midnight are singular, so they take è: è l'una, è mezzogiorno.",
+      "examples": [
+        { "native": "Sono le sette.", "en": "It's seven o'clock." },
+        { "native": "È l'una e un quarto.", "en": "It's a quarter past one." }
+      ],
+      "commonMistake": "Saying sono l'una for one o'clock. The singular hour needs è."
+    },
+    {
+      "rule": "Minutes with e and meno",
+      "explanation": "Add minutes with e (and): le tre e dieci (ten past three). For times near the next hour, use meno (minus): le quattro meno dieci (ten to four).",
+      "examples": [
+        { "native": "Sono le nove e venti.", "en": "It's twenty past nine." },
+        { "native": "Sono le dieci meno cinque.", "en": "It's five to ten." }
+      ],
+      "commonMistake": "Forgetting meno for 'to' the hour and saying the minutes the long way only."
+    }
+  ],
+  "dialogue": {
+    "setup": "Marco asks the station clerk about the next train.",
+    "lines": [
+      { "speaker": "Marco", "native": "Scusi, che ore sono?", "english": "Excuse me, what time is it?" },
+      { "speaker": "Impiegato", "native": "Sono le dieci e mezza.", "english": "It's half past ten." },
+      { "speaker": "Marco", "native": "A che ora parte il prossimo treno?", "english": "What time does the next train leave?" },
+      { "speaker": "Impiegato", "native": "Alle undici e un quarto.", "english": "At a quarter past eleven." },
+      { "speaker": "Marco", "native": "Quanto costa il biglietto?", "english": "How much is the ticket?" },
+      { "speaker": "Impiegato", "native": "Dodici euro e cinquanta.", "english": "Twelve euros fifty." },
+      { "speaker": "Marco", "native": "Perfetto, grazie mille!", "english": "Perfect, thank you very much!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you ask 'What time is it?' in Italian?",
+      "correctAnswer": "Che ore sono?",
+      "explanation": "Che ore sono? is the standard way to ask the time."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which is correct for one o'clock?",
+      "options": ["Sono l'una", "È l'una", "Sono le una", "È le una"],
+      "correctAnswer": "È l'una",
+      "explanation": "The singular hour uses è, not sono."
+    },
+    {
+      "type": "fill-blank",
+      "question": "Sono _____ tre. (the, before the hour)",
+      "correctAnswer": "le",
+      "explanation": "Hours take the feminine plural article le."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does mezzogiorno mean?",
+      "options": ["midnight", "midday", "morning", "evening"],
+      "correctAnswer": "midday",
+      "explanation": "Mezzogiorno is noon; mezzanotte is midnight."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: costa / quanto",
+      "correctAnswer": "Quanto costa",
+      "explanation": "Quanto costa? means 'How much is it?'"
+    }
+  ],
+  "status": "complete"
+}

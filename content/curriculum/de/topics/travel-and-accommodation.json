@@ -1,0 +1,90 @@
+{
+  "slug": "travel-and-accommodation",
+  "title": "Travel & Accommodation",
+  "titleDe": "Reisen und Unterkunft",
+  "shortSummary": "Plan a trip, check into accommodation, and handle travel situations in German.",
+  "level": "pre-intermediate",
+  "order": 14,
+  "icon": "🧳",
+  "color": "#386a58",
+  "culturalNote": "Germans are famously keen travellers and plan trips carefully and well in advance. Beyond hotels, options like Pension (a small guesthouse) and Ferienwohnung (a holiday flat) are popular, and quiet hours (Ruhezeit) usually apply in the evening and on Sundays even in accommodation. The word for a journey, Reise, gives the warm farewell 'Gute Reise!' (have a good trip).",
+  "keyPhrases": [
+    { "german": "Ich möchte ein Zimmer reservieren", "english": "I'd like to reserve a room", "pronunciation": "ikh MUR-tuh ine TSIM-mer reh-zer-VEE-ren", "context": "Booking" },
+    { "german": "Haben Sie ein Zimmer frei?", "english": "Do you have a room available?", "pronunciation": "HAH-ben zee ine TSIM-mer fry", "context": "Walk-in request" },
+    { "german": "für zwei Nächte", "english": "for two nights", "pronunciation": "foor tsvy NEKH-tuh", "context": "Length of stay" },
+    { "german": "Ist das Frühstück inklusive?", "english": "Is breakfast included?", "pronunciation": "ist dahs FROO-shtook in-kloo-ZEE-vuh", "context": "Checking what's included" },
+    { "german": "Wann ist Check-out?", "english": "When is check-out?", "pronunciation": "vahn ist CHEK-owt", "context": "Leaving" },
+    { "german": "Ich habe meinen Flug verpasst", "english": "I've missed my flight", "pronunciation": "ikh HAH-buh MY-nen flook fer-PAHST", "context": "Travel problems" },
+    { "german": "Wo ist der Bahnhof?", "english": "Where is the station?", "pronunciation": "voh ist dair BAHN-hohf", "context": "Getting around" },
+    { "german": "Ich bin auf der Durchreise", "english": "I'm just passing through", "pronunciation": "ikh bin owf dair DOORKH-ry-zuh", "context": "Explaining your trip" },
+    { "german": "Gibt es eine Sehenswürdigkeit?", "english": "Is there a sight worth seeing?", "pronunciation": "gipt es EYE-nuh ZAY-ens-voor-dikh-kite", "context": "Sightseeing" },
+    { "german": "Gute Reise!", "english": "Have a good trip!", "pronunciation": "GOO-tuh RY-zuh", "context": "A warm farewell" }
+  ],
+  "grammar": [
+    {
+      "rule": "nach, in, and zu for destinations",
+      "explanation": "Use 'nach' for cities and countries without an article (nach Berlin, nach Italien), 'in die' for countries with an article (in die Schweiz), and 'zu' for people and specific points (zum Bahnhof).",
+      "examples": [
+        { "de": "Ich fliege nach Spanien.", "en": "I'm flying to Spain." },
+        { "de": "Wir fahren in die Türkei.", "en": "We're travelling to Turkey." }
+      ],
+      "commonMistake": "Using 'nach' for countries that take an article: it is 'in die Schweiz', not 'nach die Schweiz'."
+    },
+    {
+      "rule": "Perfect tense for recounting a trip",
+      "explanation": "To tell someone about a past trip, German uses the perfect tense: helper (haben/sein) plus participle at the end. Movement verbs take 'sein': 'Ich bin nach Wien gefahren'.",
+      "examples": [
+        { "de": "Wir sind nach Italien geflogen.", "en": "We flew to Italy." },
+        { "de": "Ich habe ein Hotel gebucht.", "en": "I booked a hotel." }
+      ],
+      "commonMistake": "Using haben with movement verbs: it is 'Ich bin gefahren', not 'Ich habe gefahren'."
+    }
+  ],
+  "dialogue": {
+    "setup": "A guest arrives at a small hotel and speaks with the receptionist.",
+    "lines": [
+      { "speaker": "Gast", "german": "Guten Abend, ich habe ein Zimmer reserviert.", "english": "Good evening, I have reserved a room." },
+      { "speaker": "Rezeption", "german": "Willkommen! Auf welchen Namen, bitte?", "english": "Welcome! Under what name, please?" },
+      { "speaker": "Gast", "german": "Auf den Namen Schmidt, für zwei Nächte.", "english": "Under the name Schmidt, for two nights." },
+      { "speaker": "Rezeption", "german": "Perfekt. Das Frühstück ist von sieben bis zehn Uhr.", "english": "Perfect. Breakfast is from seven to ten o'clock." },
+      { "speaker": "Gast", "german": "Sehr gut. Wann ist Check-out?", "english": "Very good. When is check-out?" },
+      { "speaker": "Rezeption", "german": "Bis elf Uhr. Hier ist Ihr Schlüssel, Zimmer zwölf.", "english": "By eleven o'clock. Here is your key, room twelve." },
+      { "speaker": "Gast", "german": "Vielen Dank. Schönen Abend!", "english": "Thank you very much. Have a nice evening!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'I'd like to reserve a room'?",
+      "correctAnswer": "Ich möchte ein Zimmer reservieren",
+      "explanation": "möchte (would like) plus the infinitive reservieren at the end."
+    },
+    {
+      "type": "fill-blank",
+      "question": "Ich fliege _____ Spanien. (to a country without an article)",
+      "correctAnswer": "nach",
+      "explanation": "Cities and most countries take 'nach'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which is correct for a country with an article?",
+      "options": ["nach die Schweiz", "in die Schweiz", "zu die Schweiz", "auf die Schweiz"],
+      "correctAnswer": "in die Schweiz",
+      "explanation": "Countries with an article use 'in die': in die Schweiz."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which sentence is correct in the perfect tense?",
+      "options": ["Ich habe nach Wien gefahren", "Ich bin nach Wien gefahren", "Ich bin nach Wien gefahrt", "Ich habe nach Wien gefahrt"],
+      "correctAnswer": "Ich bin nach Wien gefahren",
+      "explanation": "fahren is a movement verb, so it takes 'sein' and the participle gefahren."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: Zimmer / ein / Sie / haben / frei",
+      "correctAnswer": "Haben Sie ein Zimmer frei",
+      "explanation": "Yes/no question: verb haben first, then Sie, then the rest."
+    }
+  ],
+  "status": "complete"
+}

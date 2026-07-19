@@ -1,0 +1,90 @@
+{
+  "slug": "health-and-emergencies",
+  "title": "Health & Emergencies",
+  "titleNative": "Kalusugan at mga Emerhensiya",
+  "shortSummary": "Describe symptoms, ask for help, and handle emergencies in Filipino with clarity and calm.",
+  "level": "beginner",
+  "order": 13,
+  "icon": "🚑",
+  "color": "#e03131",
+  "culturalNote": "Filipinos often turn first to family and community in a health crisis, and relatives commonly stay overnight at the hospital as bantay (watchers) to care for a patient. Traditional remedies remain popular alongside modern medicine: the manghihilot (a folk healer who massages) and herbal cures like lagundi and sambong are widely trusted. The national emergency number is 911. Pharmacies (botika) are everywhere and pharmacists give practical advice, so many minor illnesses are managed without a doctor visit. Showing concern is a social duty; people will ask Kumusta ang pakiramdam mo? (How do you feel?) and offer help readily. In emergencies the cry Saklolo! or Tulong! (Help!) brings neighbours running, reflecting the deep bayanihan spirit of pitching in for one another.",
+  "keyPhrases": [
+    { "native": "Tulong!", "english": "Help!", "pronunciation": "TU-long", "context": "Calling for help" },
+    { "native": "May sakit ako.", "english": "I am sick.", "pronunciation": "may sa-KIT a-KO", "context": "Saying you are ill" },
+    { "native": "Masakit ang ulo ko.", "english": "My head hurts.", "pronunciation": "ma-sa-KIT ang u-LO ko", "context": "Describing a symptom" },
+    { "native": "May lagnat ako.", "english": "I have a fever.", "pronunciation": "may lag-NAT a-KO", "context": "Describing a symptom" },
+    { "native": "Kailangan ko ng doktor.", "english": "I need a doctor.", "pronunciation": "kai-LA-ngan ko nang dok-TOR", "context": "Asking for care" },
+    { "native": "Saan ang pinakamalapit na ospital?", "english": "Where is the nearest hospital?", "pronunciation": "sa-AN ang pi-na-ka-MA-la-pit na os-pi-TAL", "context": "Finding help" },
+    { "native": "Tawag kayo ng ambulansya!", "english": "Call an ambulance!", "pronunciation": "TA-wag ka-YO nang am-bu-LAN-sya", "context": "Emergency" },
+    { "native": "May allergy ako sa gamot.", "english": "I am allergic to medicine.", "pronunciation": "may a-LER-ji a-KO sa ga-MOT", "context": "Important warning" },
+    { "native": "Kumusta ang pakiramdam mo?", "english": "How do you feel?", "pronunciation": "ku-MUS-ta ang pa-ki-ram-DAM mo", "context": "Showing concern" },
+    { "native": "Magpahinga ka muna.", "english": "Rest for now.", "pronunciation": "mag-pa-hi-NGA ka MU-na", "context": "Caring advice" }
+  ],
+  "grammar": [
+    {
+      "rule": "Describing pain with masakit ang",
+      "explanation": "To say a body part hurts, use Masakit ang + body part: Masakit ang ulo ko (my head hurts), Masakit ang tiyan ko (my stomach hurts). Masakit means 'painful', and ang marks what hurts.",
+      "examples": [
+        { "native": "Masakit ang ulo ko.", "en": "My head hurts." },
+        { "native": "Masakit ang lalamunan ko.", "en": "My throat hurts." }
+      ],
+      "commonMistake": "Forgetting the marker ang, for example saying masakit ulo ko instead of masakit ang ulo ko."
+    },
+    {
+      "rule": "Expressing need with kailangan",
+      "explanation": "Kailangan means 'need'. For 'I need (a thing)', use Kailangan ko ng + noun: Kailangan ko ng doktor (I need a doctor). For 'I need to (do)', use Kailangan kong + verb: Kailangan kong magpahinga (I need to rest).",
+      "examples": [
+        { "native": "Kailangan ko ng gamot.", "en": "I need medicine." },
+        { "native": "Kailangan kong magpahinga.", "en": "I need to rest." }
+      ],
+      "commonMistake": "Using ng before a verb; before a verb use the linker -ng/kong, not ng."
+    }
+  ],
+  "dialogue": {
+    "setup": "Lena feels unwell and her friend Paolo helps her get care.",
+    "lines": [
+      { "speaker": "Paolo", "native": "Lena, ayos ka lang? Mukha kang maputla.", "english": "Lena, are you okay? You look pale." },
+      { "speaker": "Lena", "native": "Hindi, may sakit ako. Masakit ang ulo ko at may lagnat.", "english": "No, I'm sick. My head hurts and I have a fever." },
+      { "speaker": "Paolo", "native": "Naku. Kailangan mo ng doktor. Pupunta tayo sa ospital.", "english": "Oh no. You need a doctor. Let's go to the hospital." },
+      { "speaker": "Lena", "native": "Sige, pero may allergy ako sa ilang gamot.", "english": "Okay, but I'm allergic to some medicines." },
+      { "speaker": "Paolo", "native": "Sasabihin natin sa doktor iyan. Saan ang pinakamalapit na ospital?", "english": "We'll tell the doctor that. Where is the nearest hospital?" },
+      { "speaker": "Lena", "native": "Malapit lang, dalawang kanto mula dito.", "english": "It's nearby, two corners from here." },
+      { "speaker": "Paolo", "native": "Sige, dahan-dahan lang. Magpahinga ka muna sa daan.", "english": "Okay, take it slow. Rest a bit on the way." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'I need a doctor' in Filipino?",
+      "correctAnswer": "Kailangan ko ng doktor",
+      "explanation": "Kailangan ko ng + noun expresses needing a thing."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which phrase means 'My head hurts'?",
+      "options": ["May lagnat ako", "Masakit ang ulo ko", "Gutom na ako", "Tulong!"],
+      "correctAnswer": "Masakit ang ulo ko",
+      "explanation": "Masakit ang + body part says that part hurts."
+    },
+    {
+      "type": "fill-blank",
+      "question": "Masakit _____ ulo ko. (the marker before what hurts)",
+      "correctAnswer": "ang",
+      "explanation": "Ang marks the subject that hurts: Masakit ang ulo ko."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the national emergency number in the Philippines?",
+      "options": ["000", "111", "911", "112"],
+      "correctAnswer": "911",
+      "explanation": "911 is the national emergency hotline in the Philippines."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: ambulansya / ng / tawag / kayo",
+      "correctAnswer": "Tawag kayo ng ambulansya",
+      "explanation": "Tawag kayo ng ambulansya! means 'Call an ambulance!'"
+    }
+  ],
+  "status": "complete"
+}

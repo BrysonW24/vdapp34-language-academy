@@ -1,19 +1,17 @@
 import Link from "next/link"
 import { ArrowRight } from "lucide-react"
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
-import { Badge } from "@/components/ui/badge"
+import { Card } from "@/components/ui/card"
+import { BackLink } from "@/components/academy/BackLink"
+import { AcademyAccordion } from "@/components/academy/AcademyAccordion"
+import { getAccent } from "@/lib/language-visuals"
 import { getGrammarRules } from "@/lib/academy-content"
-import { getLanguageConfig, langHref, SUPPORTED_LANGUAGES } from "@/lib/languages"
+import { getLanguageConfig, langHref, languageHasSurface, SUPPORTED_LANGUAGES } from "@/lib/languages"
 import { notFound } from "next/navigation"
 
-const LEVEL_VARIANT: Record<string, "beginner" | "intermediate" | "advanced"> = {
-  beginner: "beginner",
-  elementary: "intermediate",
-  "pre-intermediate": "advanced",
-}
-
 export function generateStaticParams() {
-  return SUPPORTED_LANGUAGES.map((lang) => ({ lang }))
+  return SUPPORTED_LANGUAGES
+    .filter((lang) => languageHasSurface(lang, "grammar"))
+    .map((lang) => ({ lang }))
 }
 
 export async function generateMetadata({ params }: { params: Promise<{ lang: string }> }) {
@@ -33,62 +31,54 @@ export default async function GrammarPage({ params }: { params: Promise<{ lang: 
   const language = getLanguageConfig(lang)
 
   if (!language) notFound()
+  if (!languageHasSurface(language.code, "grammar")) notFound()
 
   const rules = getGrammarRules(language.code)
 
   return (
-    <div className="container mx-auto px-4 py-8 space-y-8">
-      <div className="max-w-2xl">
-        <h1 className="text-3xl sm:text-4xl font-serif font-semibold text-editorial-ink mb-2">
-          {language.name} Grammar
-        </h1>
-        <p className="text-editorial-muted text-lg leading-relaxed">
+    <div className="container mx-auto max-w-2xl space-y-4 px-4 py-5">
+      <BackLink href={langHref(language.code)} label={`${language.name} academy`} />
+
+      <div>
+        <h1 className="font-serif text-xl font-semibold text-editorial-ink">{language.name} Grammar</h1>
+        <p className="text-sm leading-relaxed text-editorial-muted">
           Essential rules, patterns, and examples to help your vocabulary turn into real sentences.
         </p>
       </div>
 
       {rules.length === 0 ? (
-        <Card className="p-8 text-center">
-          <p className="text-editorial-muted">
+        <Card className="p-4 text-center">
+          <p className="text-sm text-editorial-muted">
             Grammar content for {language.name} is still being added. Start with the word ladder for now.
           </p>
           <Link
             href={langHref(language.code, "words")}
-            className="inline-flex items-center gap-1.5 text-sm font-medium text-editorial-green hover:gap-2.5 transition-all mt-4"
+            className="mt-3 inline-flex items-center gap-1.5 text-sm font-medium text-editorial-green transition-all hover:gap-2.5"
           >
             Browse words <ArrowRight className="h-3.5 w-3.5" />
           </Link>
         </Card>
       ) : (
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
-          {rules.map((rule) => (
-            <Link key={`${language.code}-${rule.slug}`} href={langHref(language.code, `grammar/${rule.slug}`)} className="block group">
-              <Card className="h-full hover:shadow-editorial-hover hover:-translate-y-1 transition-all duration-300">
-                <CardHeader className="pb-2">
-                  <div className="flex items-center justify-between mb-1">
-                    <Badge variant={LEVEL_VARIANT[rule.level] ?? "beginner"}>{rule.level}</Badge>
-                    <span className="text-xs text-editorial-muted">#{rule.order}</span>
-                  </div>
-                  <CardTitle className="text-lg">{rule.name}</CardTitle>
-                  {rule.nativeName !== rule.name && (
-                    <p className="text-sm text-editorial-muted italic">{rule.nativeName}</p>
-                  )}
-                </CardHeader>
-                <CardContent>
-                  <CardDescription>{rule.summary}</CardDescription>
-                  <div className="mt-3 flex items-center gap-3 text-xs text-editorial-muted">
-                    <span>{rule.examples.length} examples</span>
-                    {rule.conjugation && <span>Forms</span>}
-                    {rule.cases && <span>Cases</span>}
-                  </div>
-                  <div className="mt-3 flex items-center gap-1 text-sm font-medium text-editorial-green transition-all group-hover:gap-2">
-                    Study rule <ArrowRight className="h-3.5 w-3.5" />
-                  </div>
-                </CardContent>
-              </Card>
-            </Link>
-          ))}
-        </div>
+        <AcademyAccordion
+          accent={getAccent(language.code)}
+          items={rules.map((rule) => ({
+            id: rule.slug,
+            rank: `#${rule.order}`,
+            title: rule.name,
+            subtitle: rule.nativeName !== rule.name ? rule.nativeName : undefined,
+            rightLabel: rule.level,
+            meta: [
+              `${rule.examples.length} examples`,
+              rule.conjugation ? "Forms" : null,
+              rule.cases ? "Cases" : null,
+            ]
+              .filter(Boolean)
+              .join(" · "),
+            description: rule.summary,
+            href: langHref(language.code, `grammar/${rule.slug}`),
+            cta: "Study rule",
+          }))}
+        />
       )}
     </div>
   )

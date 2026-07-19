@@ -1,0 +1,21 @@
+{
+  "slug": "phone-and-digital",
+  "title": "Phone & Digital",
+  "description": "Buy load, connect to Wi-Fi, send messages, and handle GCash in the Philippines.",
+  "situation": "Staying connected: SIM cards, mobile load, Wi-Fi, messaging, and digital payments.",
+  "order": 8,
+  "phrases": [
+    { "native": "Saan po ako pwedeng bumili ng SIM card?", "english": "Where can I buy a SIM card?", "pronunciation": "sa-AN po a-KO PWE-deng boo-MEE-li nang sim kard", "formality": "formal", "tip": "Globe and Smart are the two big networks." },
+    { "native": "Pabili po ng load", "english": "I'd like to buy mobile credit", "pronunciation": "pa-BEE-li po nang lod", "formality": "formal", "tip": "Load is prepaid mobile credit, sold in tiny sari-sari stores everywhere." },
+    { "native": "Magkano po ang load para sa data?", "english": "How much is load for data?", "pronunciation": "mag-KA-no po ang lod PA-ra sa DA-ta", "formality": "formal" },
+    { "native": "Ano po ang password ng Wi-Fi?", "english": "What is the Wi-Fi password?", "pronunciation": "a-NO po ang PAS-word nang way-FAY", "formality": "formal" },
+    { "native": "Mahina po ang signal dito", "english": "The signal is weak here", "pronunciation": "ma-HEE-na po ang SIG-nal DEE-to", "formality": "formal", "tip": "Mahina (weak) is the opposite of malakas (strong)." },
+    { "native": "Pwede po bang i-charge ang telepono?", "english": "Can I charge my phone?", "pronunciation": "PWE-de po bang ee-tsarj ang te-LE-po-no", "formality": "formal" },
+    { "native": "I-text mo na lang ako", "english": "Just text me", "pronunciation": "ee-TEKST mo na lang a-KO", "formality": "informal", "tip": "Texting is deeply woven into Filipino daily life." },
+    { "native": "May GCash po ba kayo?", "english": "Do you accept GCash?", "pronunciation": "may JEE-kash po ba ka-YO", "formality": "formal", "tip": "GCash is the most popular mobile wallet in the country." },
+    { "native": "Pakiscan po ang QR code", "english": "Please scan the QR code", "pronunciation": "pa-kee-SKAN po ang kyoo-AR kod", "formality": "formal" },
+    { "native": "Tatawagan kita mamaya", "english": "I'll call you later", "pronunciation": "ta-ta-WA-gan KEE-ta ma-ma-YA", "formality": "informal" },
+    { "native": "Mag-video call po tayo", "english": "Let's video call", "pronunciation": "mag-VI-de-o kol po TA-yo", "formality": "formal", "tip": "Common for keeping in touch with family overseas." },
+    { "native": "Naubusan po ako ng baterya", "english": "My battery ran out", "pronunciation": "na-oo-boo-SAN po a-KO nang ba-TER-ya", "formality": "formal" }
+  ]
+}

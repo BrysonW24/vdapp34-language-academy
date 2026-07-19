@@ -1,0 +1,90 @@
+{
+  "slug": "daily-routines",
+  "title": "Daily Routines",
+  "titleTh": "กิจวัตรประจำวัน",
+  "shortSummary": "Describe your day from morning to night using everyday verbs and time words.",
+  "level": "elementary",
+  "order": 7,
+  "icon": "⏰",
+  "color": "#386a58",
+  "culturalNote": "Thai days often start early to beat the heat, with markets and exercise in cool morning hours. Food punctuates the whole day, and it is common to eat several small meals or snacks rather than three big ones. Evenings are social, with night markets and street food bringing neighbourhoods together. A relaxed pace and the spirit of สบายๆ (sabai-sabai), taking it easy, runs through daily life.",
+  "keyPhrases": [
+    { "thai": "ผมตื่นเจ็ดโมง", "pronunciation": "phom teun jet moong", "english": "I wake up at 7am", "context": "Start of the day" },
+    { "thai": "ผมกินข้าวเช้า", "pronunciation": "phom kin khao chao", "english": "I eat breakfast", "context": "Morning" },
+    { "thai": "ผมไปทำงาน", "pronunciation": "phom pai tham-ngaan", "english": "I go to work", "context": "Heading out" },
+    { "thai": "ผมพักกลางวัน", "pronunciation": "phom phak klang-wan", "english": "I take a lunch break", "context": "Midday" },
+    { "thai": "ผมกลับบ้าน", "pronunciation": "phom klap baan", "english": "I go home", "context": "Evening" },
+    { "thai": "ผมทำกับข้าว", "pronunciation": "phom tham kap-khao", "english": "I cook dinner", "context": "Evening routine" },
+    { "thai": "ผมดูทีวี", "pronunciation": "phom duu thii-wii", "english": "I watch TV", "context": "Relaxing" },
+    { "thai": "ผมนอนสี่ทุ่ม", "pronunciation": "phom non sii-thum", "english": "I sleep at 10pm", "context": "End of day" },
+    { "thai": "ทุกวัน", "pronunciation": "thuk wan", "english": "every day", "context": "Frequency word" },
+    { "thai": "วันนี้ทำอะไร", "pronunciation": "wan-nii tham a-rai", "english": "What are you doing today?", "context": "Asking about the day" }
+  ],
+  "grammar": [
+    {
+      "rule": "Time words near the start or end",
+      "explanation": "Thai puts time words like ทุกวัน (every day) or a clock time around the sentence, not inside the verb: ผมตื่นเจ็ดโมงทุกวัน (I wake at seven every day). The verb itself never changes.",
+      "examples": [
+        { "th": "ทุกวันผมไปทำงาน", "en": "Every day I go to work." },
+        { "th": "ผมกินข้าวตอนเย็น", "en": "I eat in the evening." }
+      ],
+      "commonMistake": "Trying to mark tense on the verb. Use a time word instead."
+    },
+    {
+      "rule": "แล้ว for sequence and completion",
+      "explanation": "แล้ว (laeo) after a verb shows it is done, and links one action to the next: กินข้าวแล้วนอน (eat, then sleep). It signals 'and then' as well as 'already'.",
+      "examples": [
+        { "th": "อาบน้ำแล้วนอน", "en": "Shower and then sleep." },
+        { "th": "ผมกินแล้ว", "en": "I have eaten." }
+      ],
+      "commonMistake": "Putting แล้ว before the verb. It follows the verb at the end of the clause."
+    }
+  ],
+  "dialogue": {
+    "setup": "Two friends, Aom and Bee, compare their daily routines over coffee.",
+    "lines": [
+      { "speaker": "ออม", "thai": "คุณตื่นกี่โมงทุกวันคะ", "pronunciation": "khun teun kii moong thuk wan kha", "english": "What time do you wake up every day?" },
+      { "speaker": "บี", "thai": "ตื่นหกโมงครึ่งครับ คุณล่ะ", "pronunciation": "teun hok moong khreung khrap, khun la", "english": "Half past six. And you?" },
+      { "speaker": "ออม", "thai": "เจ็ดโมงค่ะ แล้วไปทำงาน", "pronunciation": "jet moong kha, laeo pai tham-ngaan", "english": "Seven, then I go to work." },
+      { "speaker": "บี", "thai": "ตอนเย็นทำอะไรครับ", "pronunciation": "ton-yen tham a-rai khrap", "english": "What do you do in the evening?" },
+      { "speaker": "ออม", "thai": "ทำกับข้าวแล้วดูทีวีค่ะ", "pronunciation": "tham kap-khao laeo duu thii-wii kha", "english": "I cook then watch TV." },
+      { "speaker": "บี", "thai": "ผมชอบไปวิ่งตอนเย็นครับ", "pronunciation": "phom chop pai wing ton-yen khrap", "english": "I like to go running in the evening." },
+      { "speaker": "ออม", "thai": "ดีจังเลยค่ะ", "pronunciation": "dee jang loei kha", "english": "That's great!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'I go home'?",
+      "correctAnswer": "ผมกลับบ้าน",
+      "explanation": "กลับ (return) + บ้าน (home)."
+    },
+    {
+      "type": "fill-blank",
+      "question": "กินข้าว_____นอน (eat, then sleep)",
+      "correctAnswer": "แล้ว",
+      "explanation": "แล้ว links one action to the next."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does ทุกวัน mean?",
+      "options": ["today", "every day", "tomorrow", "this evening"],
+      "correctAnswer": "every day",
+      "explanation": "ทุกวัน means 'every day'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which means 'I eat breakfast'?",
+      "options": ["ผมกินข้าวเช้า", "ผมตื่น", "ผมนอน", "ผมไปทำงาน"],
+      "correctAnswer": "ผมกินข้าวเช้า",
+      "explanation": "กินข้าวเช้า means 'eat breakfast'."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: ทำงาน / ผม / ไป",
+      "correctAnswer": "ผมไปทำงาน",
+      "explanation": "ผม (I) + ไป (go) + ทำงาน (work)."
+    }
+  ],
+  "status": "complete"
+}

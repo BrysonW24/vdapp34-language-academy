@@ -1,0 +1,21 @@
+{
+  "slug": "emergencies",
+  "title": "Emergencies",
+  "description": "Get help fast: phrases for medical, safety, and urgent situations in German.",
+  "situation": "Urgent help: calling for assistance, describing problems, pharmacies, and the doctor.",
+  "order": 7,
+  "phrases": [
+    { "german": "Hilfe!", "english": "Help!", "pronunciation": "HIL-fuh", "formality": "neutral" },
+    { "german": "Rufen Sie einen Krankenwagen!", "english": "Call an ambulance!", "pronunciation": "ROO-fen zee EYE-nen KRAHN-ken-vah-gen", "formality": "formal", "tip": "The emergency number across Germany and the EU is 112." },
+    { "german": "Ich brauche einen Arzt", "english": "I need a doctor", "pronunciation": "ikh BROW-khuh EYE-nen artst", "formality": "neutral" },
+    { "german": "Es ist ein Notfall", "english": "It's an emergency", "pronunciation": "es ist ine NOHT-fahl", "formality": "neutral" },
+    { "german": "Ich fühle mich nicht gut", "english": "I don't feel well", "pronunciation": "ikh FOO-luh mikh nikht goot", "formality": "neutral" },
+    { "german": "Es tut hier weh", "english": "It hurts here", "pronunciation": "es toot heer vay", "formality": "neutral", "tip": "Point to where it hurts as you say it." },
+    { "german": "Ich bin allergisch gegen...", "english": "I'm allergic to...", "pronunciation": "ikh bin ah-LAIR-gish GAY-gen", "formality": "neutral" },
+    { "german": "Wo ist die nächste Apotheke?", "english": "Where is the nearest pharmacy?", "pronunciation": "voh ist dee NEKH-stuh ah-poh-TAY-kuh", "formality": "neutral", "tip": "An Apotheke sells medicine; a Drogerie sells toiletries." },
+    { "german": "Ich habe meinen Pass verloren", "english": "I've lost my passport", "pronunciation": "ikh HAH-buh MY-nen pahs fer-LOH-ren", "formality": "neutral" },
+    { "german": "Rufen Sie die Polizei!", "english": "Call the police!", "pronunciation": "ROO-fen zee dee poh-li-TSY", "formality": "formal", "tip": "Police direct line is 110." },
+    { "german": "Können Sie mir helfen?", "english": "Can you help me?", "pronunciation": "KUR-nen zee meer HEL-fen", "formality": "formal" },
+    { "german": "Ich verstehe nicht, sprechen Sie langsamer bitte", "english": "I don't understand, please speak slower", "pronunciation": "ikh fer-SHTAY-uh nikht SHPREKH-en zee LAHNG-zah-mer BIT-tuh", "formality": "formal" }
+  ]
+}

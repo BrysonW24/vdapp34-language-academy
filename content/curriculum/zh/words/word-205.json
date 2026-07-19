@@ -1,12 +1,13 @@
 {
   "rank": 205,
-  "chinese": "到",
-  "characters": "到",
-  "pinyin": "dào",
-  "english": "to arrive/to reach",
-  "partOfSpeech": "verb",
-  "exampleZh": "你什么时候到？",
-  "exampleEn": "When will you arrive?",
+  "chinese": "现象",
+  "characters": "现象",
+  "pinyin": "xiàn xiàng",
+  "english": "Phenomenon",
+  "pronunciation": "xian-xiang",
+  "partOfSpeech": "noun",
+  "exampleZh": "我喜欢现象。",
+  "exampleEn": "I like Phenomenon.",
   "group": "everyday-250",
-  "topic": "actions"
+  "topic": "basics"
 }

@@ -1,0 +1,21 @@
+{
+  "slug": "survival",
+  "title": "Survival Turkish",
+  "description": "The essential phrases to get by anywhere in Turkey. Learn these first.",
+  "situation": "Absolute basics: greetings, please, thank you, help, and signalling when you do not understand.",
+  "order": 1,
+  "phrases": [
+    { "native": "Merhaba", "english": "Hello", "pronunciation": "MEHR-hah-bah", "formality": "neutral", "tip": "Works any time of day." },
+    { "native": "Lütfen", "english": "Please", "pronunciation": "LYUT-fen", "formality": "neutral" },
+    { "native": "Teşekkür ederim", "english": "Thank you", "pronunciation": "teh-shek-KYUR eh-deh-reem", "formality": "neutral", "tip": "Casual: teşekkürler." },
+    { "native": "Affedersiniz", "english": "Excuse me", "pronunciation": "ahf-feh-DEHR-see-neez", "formality": "formal", "tip": "Use to get attention or apologise." },
+    { "native": "Evet / Hayır", "english": "Yes / No", "pronunciation": "EH-vet / HAH-yuhr", "formality": "neutral" },
+    { "native": "Anlamıyorum", "english": "I don't understand", "pronunciation": "ahn-lah-MUH-yoh-room", "formality": "neutral", "tip": "The single most useful survival phrase." },
+    { "native": "İngilizce biliyor musunuz?", "english": "Do you speak English?", "pronunciation": "een-gee-LEEZ-jeh bee-lee-YOR moo-soo-nooz", "formality": "formal" },
+    { "native": "Tekrar eder misiniz?", "english": "Can you repeat that?", "pronunciation": "tek-RAR eh-DEHR mee-see-neez", "formality": "formal" },
+    { "native": "Ne kadar?", "english": "How much?", "pronunciation": "neh kah-DAR", "formality": "neutral" },
+    { "native": "Tuvalet nerede?", "english": "Where is the toilet?", "pronunciation": "too-vah-LET NEH-reh-deh", "formality": "neutral" },
+    { "native": "Yardıma ihtiyacım var", "english": "I need help", "pronunciation": "yar-duh-MAH eeh-tee-yah-JUHM var", "formality": "neutral" },
+    { "native": "Hoşça kal", "english": "Goodbye (said by person leaving)", "pronunciation": "HOSH-chah kal", "formality": "informal", "tip": "The one staying says güle güle." }
+  ]
+}

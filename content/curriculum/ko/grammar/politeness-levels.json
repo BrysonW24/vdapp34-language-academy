@@ -1,0 +1,33 @@
+{
+  "slug": "politeness-levels",
+  "name": "Politeness Levels (the 요 form)",
+  "nameNative": "존댓말과 해요체",
+  "summary": "Learn the everyday polite -요 (haeyo) speech level and how it sits between casual and formal speech.",
+  "level": "beginner",
+  "order": 3,
+  "explanation": "Korean encodes respect in the verb ending. The polite -요 ending (called 해요체) is the most useful level for learners: it is respectful enough for strangers, shops, and most adults, but warm enough for everyday talk. Almost every sentence in this course ends in 요.\n\nThere are three levels you will meet. Casual 반말 (banmal) drops the 요 and is only for close friends, children, or people clearly younger: 먹어 (meogeo, eat). Polite 해요체 adds 요: 먹어요 (meogeoyo). Formal 합쇼체 uses -습니다/-ㅂ니다 for announcements, business, and showing high respect: 먹습니다 (meokseumnida).\n\nUsing the right level matters socially in Korea, where age and seniority shape speech. When unsure, default to the polite 요 form. It is rarely wrong, while accidental 반말 with an elder or stranger can sound rude.",
+  "pattern": "verb stem + 아요/어요/해요 (polite) | + 습니다/ㅂ니다 (formal)",
+  "conjugation": {
+    "casual (banmal)": "먹어 (eat)",
+    "polite (haeyo)": "먹어요 (eat, polite)",
+    "formal (hapsyo)": "먹습니다 (eat, formal)",
+    "polite question": "먹어요? (do you eat?)",
+    "formal question": "먹습니까? (do you eat?, formal)"
+  },
+  "examples": [
+    { "native": "어디 가요? (eodi gayo?)", "en": "Where are you going? (polite)" },
+    { "native": "어디 가? (eodi ga?)", "en": "Where are you going? (casual)" },
+    { "native": "감사합니다. (gamsahamnida.)", "en": "Thank you. (formal)" },
+    { "native": "고마워요. (gomawoyo.)", "en": "Thank you. (polite)" },
+    { "native": "선생님, 질문 있어요. (seonsaengnim, jilmun isseoyo.)", "en": "Teacher, I have a question. (polite)" },
+    { "native": "회의를 시작하겠습니다. (hoeuireul sijakhagesseumnida.)", "en": "We will begin the meeting. (formal)" }
+  ],
+  "commonMistakes": [
+    "Using 반말 with strangers or elders. Dropping 요 with someone you do not know well sounds disrespectful in Korea.",
+    "Mixing levels in one sentence. Stay in the polite 요 form throughout rather than switching to 반말 halfway.",
+    "Assuming formal 습니다 is always 'more correct'. It can feel stiff in casual settings; 요 fits daily life better.",
+    "Forgetting that 요 also turns a statement into a polite question simply by raising your intonation.",
+    "Translating 'you' literally. Korean usually drops the pronoun and relies on the politeness level instead."
+  ],
+  "tip": "When in doubt, add 요. The polite form is your safe default for nearly every conversation in Korea."
+}

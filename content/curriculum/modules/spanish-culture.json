@@ -1,0 +1,25 @@
+{
+  "slug": "spanish-culture",
+  "title": "Spanish-Speaking Cultures",
+  "shortSummary": "Understand the cultural contexts behind the language — from Spain to Latin America. Festivals, customs, etiquette, humour, and the cultural knowledge that makes you sound like more than just a textbook speaker.",
+  "level": "intermediate",
+  "category": "strategy",
+  "whyItMatters": "Language without culture is just words. Understanding cultural context — why Spaniards eat dinner at 10pm, how formality differs between Mexico and Argentina, what festivals matter — makes your Spanish authentic and your interactions meaningful.",
+  "coreConcepts": [
+    "Cultural differences: Spain vs Latin America",
+    "Key festivals: Día de los Muertos, La Tomatina, Fallas, Carnaval",
+    "Food culture across the Spanish-speaking world",
+    "Social etiquette: greetings, personal space, time culture",
+    "Humour and sarcasm in Spanish",
+    "The concept of 'mañana' and time flexibility",
+    "Family dynamics and social structures",
+    "Regional identity and national pride"
+  ],
+  "lessons": [],
+  "frameworks": ["cultural-competence", "immersion-framework"],
+  "visualType": "world-map",
+  "relatedModules": ["food-restaurants", "opinions-debates", "regional-dialects"],
+  "status": "coming-soon",
+  "order": 14,
+  "levelNumber": 3
+}

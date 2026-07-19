@@ -1,0 +1,90 @@
+{
+  "slug": "directions-and-places",
+  "title": "Directions & Places",
+  "titleNative": "Direções e lugares",
+  "shortSummary": "Ask the way, understand directions, and name the places around a Brazilian town.",
+  "level": "beginner",
+  "order": 5,
+  "icon": "🧭",
+  "color": "#2f7a3f",
+  "culturalNote": "Brazilians are friendly and usually happy to help a lost visitor, often with plenty of gesturing. Directions frequently use landmarks like the praça (square), the igreja (church), or a well-known padaria (bakery) rather than street names. Note the useful verb ficar, which means 'to be located': onde fica? is the natural way to ask where something is. Distances in big cities can be deceptive, so it is worth asking é longe? (is it far?). The words direita (right) and esquerda (left) plus virar (to turn) cover most situations.",
+  "keyPhrases": [
+    { "native": "Onde fica a estação?", "english": "Where is the station?", "pronunciation": "ON-jee FEE-kah ah es-tah-SOWN", "context": "Asking location" },
+    { "native": "Como chego ao centro?", "english": "How do I get to the centre?", "pronunciation": "KOH-moo SHEH-goo ow SEN-troo", "context": "Asking the route" },
+    { "native": "Siga em frente", "english": "Go straight ahead", "pronunciation": "SEE-gah ayn FREN-tee", "context": "A common direction" },
+    { "native": "Vire à direita", "english": "Turn right", "pronunciation": "VEE-ree ah jee-RAY-tah", "context": "Instruction" },
+    { "native": "Vire à esquerda", "english": "Turn left", "pronunciation": "VEE-ree ah es-KEHR-dah", "context": "Instruction" },
+    { "native": "É perto ou longe?", "english": "Is it near or far?", "pronunciation": "eh PEHR-too oh LON-zhee", "context": "Checking distance" },
+    { "native": "Estou perdido", "english": "I'm lost", "pronunciation": "es-TOH per-JEE-doo", "context": "Asking for help" },
+    { "native": "a praça", "english": "the square", "pronunciation": "ah PRAH-sah", "context": "Key landmark" },
+    { "native": "o semáforo", "english": "the traffic light", "pronunciation": "oo seh-MAH-foh-roo", "context": "A reference point" },
+    { "native": "ao lado da padaria", "english": "next to the bakery", "pronunciation": "ow LAH-doo dah pah-dah-REE-ah", "context": "Relative position" }
+  ],
+  "grammar": [
+    {
+      "rule": "Ficar for location",
+      "explanation": "The verb ficar means 'to be located' when talking about places. Onde fica o banco? (where is the bank?) is more natural than using estar for a fixed location.",
+      "examples": [
+        { "native": "Onde fica o hotel?", "en": "Where is the hotel?" },
+        { "native": "O museu fica no centro.", "en": "The museum is in the centre." }
+      ],
+      "commonMistake": "Using estar for a building's permanent location; Brazilians prefer ficar."
+    },
+    {
+      "rule": "Commands for directions",
+      "explanation": "Directions are given with command forms: siga (follow/go), vire (turn), pegue (take), atravesse (cross). With você these polite commands end in -e or -a depending on the verb group.",
+      "examples": [
+        { "native": "Pegue a primeira rua à direita.", "en": "Take the first street on the right." },
+        { "native": "Atravesse a praça.", "en": "Cross the square." }
+      ],
+      "commonMistake": "Using the plain infinitive instead of the command form when giving directions."
+    }
+  ],
+  "dialogue": {
+    "setup": "A visitor stops a local to find the museum.",
+    "lines": [
+      { "speaker": "Visitante", "native": "Com licença, onde fica o museu?", "english": "Excuse me, where is the museum?" },
+      { "speaker": "Senhora", "native": "Siga em frente por dois quarteirões.", "english": "Go straight ahead for two blocks." },
+      { "speaker": "Visitante", "native": "Em frente, certo.", "english": "Straight ahead, right." },
+      { "speaker": "Senhora", "native": "Depois vire à direita no semáforo.", "english": "Then turn right at the traffic light." },
+      { "speaker": "Visitante", "native": "É longe?", "english": "Is it far?" },
+      { "speaker": "Senhora", "native": "Não, é pertinho, cinco minutos.", "english": "No, it's really close, five minutes." },
+      { "speaker": "Visitante", "native": "Muito obrigado!", "english": "Thank you very much!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you ask 'Where is the station?' in Portuguese?",
+      "correctAnswer": "Onde fica a estação?",
+      "explanation": "Onde fica uses the verb ficar for location."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does siga em frente mean?",
+      "options": ["turn left", "turn right", "go straight ahead", "go back"],
+      "correctAnswer": "go straight ahead",
+      "explanation": "Siga em frente means to keep going straight."
+    },
+    {
+      "type": "fill-blank",
+      "question": "Vire à _____. (left)",
+      "correctAnswer": "esquerda",
+      "explanation": "Esquerda is left; direita is right."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which phrase means 'I'm lost'?",
+      "options": ["Estou perdido", "É perto", "Sigo em frente", "É longe"],
+      "correctAnswer": "Estou perdido",
+      "explanation": "Estou perdido uses estar for a temporary state."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: direita / vire / à",
+      "correctAnswer": "Vire à direita",
+      "explanation": "Vire à direita means 'turn right'."
+    }
+  ],
+  "status": "complete"
+}

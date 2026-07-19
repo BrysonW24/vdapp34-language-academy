@@ -1,0 +1,26 @@
+{
+  "slug": "sentence-structure",
+  "name": "Basic Sentence Structure",
+  "nameTh": "โครงสร้างประโยค",
+  "summary": "Thai word order is Subject-Verb-Object, with no conjugation and no tenses to learn.",
+  "level": "beginner",
+  "order": 1,
+  "explanation": "Thai follows Subject-Verb-Object order, like English: ผมกินข้าว (phom kin khao) = I eat rice. The huge relief for learners is that verbs never change. There is no conjugation for person and no tense endings, so กิน (kin, eat) stays the same for everyone.\n\nTime is shown with separate words rather than verb forms: เมื่อวาน (yesterday), พรุ่งนี้ (tomorrow), placed near the start or end. Thai also drops words that are obvious from context, so a pronoun is often left out once it is clear who you mean.\n\nBecause nothing conjugates, Thai grammar is mostly about word order, small particles, and time words.",
+  "pattern": "Subject + Verb + Object  (time words added separately)",
+  "examples": [
+    { "th": "ผมดื่มน้ำ", "en": "I drink water." },
+    { "th": "เขาเรียนภาษาไทย", "en": "He studies Thai." },
+    { "th": "เรากินข้าวเมื่อวาน", "en": "We ate rice yesterday." },
+    { "th": "คุณไปไหน", "en": "Where are you going?" },
+    { "th": "เธอชอบกาแฟ", "en": "She likes coffee." },
+    { "th": "ผมอ่านหนังสือ", "en": "I read a book." }
+  ],
+  "commonMistakes": [
+    "Trying to conjugate verbs. Thai verbs never change form.",
+    "Adding a word for 'am/is/are' before a verb. The verb stands alone.",
+    "Forcing a pronoun into every sentence. Thai drops it when the subject is clear.",
+    "Using English tense forms. Thai shows time with separate words, not verb endings.",
+    "Putting the object before the verb. Thai keeps Subject-Verb-Object order."
+  ],
+  "tip": "Relax about grammar tables: there are none. Focus on word order, time words, and the polite particles."
+}

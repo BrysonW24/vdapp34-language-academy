@@ -1,0 +1,21 @@
+{
+  "slug": "hotel",
+  "title": "At the Hotel",
+  "description": "Check in, ask about your room, and handle a hotel stay in Portuguese.",
+  "situation": "Hotels and pousadas: checking in and out, room questions, and common requests.",
+  "order": 6,
+  "phrases": [
+    { "native": "Tenho uma reserva", "english": "I have a reservation", "pronunciation": "TEH-nyoo OO-mah heh-ZEHR-vah", "formality": "neutral" },
+    { "native": "Tem quartos disponíveis?", "english": "Do you have rooms available?", "pronunciation": "tayn KWAR-toos jees-poh-NEE-vays", "formality": "neutral" },
+    { "native": "Um quarto de solteiro", "english": "A single room", "pronunciation": "oon KWAR-too jee sol-TEH-roo", "formality": "neutral", "tip": "De casal is a double room." },
+    { "native": "Por quantas noites?", "english": "For how many nights?", "pronunciation": "por KWAN-tahs NOY-tees", "formality": "neutral" },
+    { "native": "Que horas é o check-out?", "english": "What time is checkout?", "pronunciation": "kee OH-rahs eh oo chek-owt", "formality": "neutral" },
+    { "native": "O café da manhã está incluído?", "english": "Is breakfast included?", "pronunciation": "oo kah-FEH dah mah-NYAN es-TAH een-kloo-EE-doo", "formality": "neutral" },
+    { "native": "Tem wifi?", "english": "Is there wifi?", "pronunciation": "tayn WEE-fee", "formality": "neutral" },
+    { "native": "O ar-condicionado não funciona", "english": "The air conditioning isn't working", "pronunciation": "oo ar kon-jee-see-oh-NAH-doo nown foon-see-OH-nah", "formality": "neutral" },
+    { "native": "Posso deixar as malas?", "english": "Can I leave my luggage?", "pronunciation": "POH-soo day-SHAR ahs MAH-lahs", "formality": "neutral" },
+    { "native": "A chave, por favor", "english": "The key, please", "pronunciation": "ah SHAH-vee", "formality": "neutral" },
+    { "native": "Pode chamar um táxi?", "english": "Can you call a taxi?", "pronunciation": "POH-jee shah-MAR oon TAHK-see", "formality": "neutral" },
+    { "native": "Queria fazer o check-out", "english": "I'd like to check out", "pronunciation": "keh-REE-ah fah-ZEHR oo chek-owt", "formality": "neutral" }
+  ]
+}

@@ -1,11 +1,10 @@
-import Link from "next/link"
-import { ArrowLeft } from "lucide-react"
-import { Card, CardContent } from "@/components/ui/card"
-import { Badge } from "@/components/ui/badge"
+import { Card } from "@/components/ui/card"
 import { getWordsByGroup } from "@/lib/academy-content"
-import { getLanguageConfig, langHref, SUPPORTED_LANGUAGES } from "@/lib/languages"
+import { getLanguageConfig, langHref, languageHasSurface, SUPPORTED_LANGUAGES } from "@/lib/languages"
 import { WORD_GROUPS } from "@/types/academy"
 import { notFound } from "next/navigation"
+import { BackLink } from "@/components/academy/BackLink"
+import { SpeakButton } from "@/components/academy/SpeakButton"
 
 const POS_COLORS: Record<string, string> = {
   noun: "#2f4f79",
@@ -24,7 +23,9 @@ const POS_COLORS: Record<string, string> = {
 }
 
 export function generateStaticParams() {
-  return SUPPORTED_LANGUAGES.flatMap((lang) => WORD_GROUPS.map((group) => ({ lang, group: group.id })))
+  return SUPPORTED_LANGUAGES.filter((lang) => languageHasSurface(lang, "words")).flatMap((lang) =>
+    WORD_GROUPS.map((group) => ({ lang, group: group.id }))
+  )
 }
 
 export async function generateMetadata({
@@ -54,97 +55,82 @@ export default async function WordGroupPage({
   const group = WORD_GROUPS.find((item) => item.id === groupId)
 
   if (!language || !group) notFound()
+  if (!languageHasSurface(language.code, "words")) notFound()
 
   const words = getWordsByGroup(language.code, groupId)
 
   return (
-    <div className="container mx-auto px-4 py-8 space-y-8">
-      <div>
-        <Link
-          href={langHref(language.code, "words")}
-          className="inline-flex items-center gap-1.5 text-sm text-editorial-muted hover:text-editorial-ink transition-colors mb-4"
+    <div className="container mx-auto max-w-2xl space-y-4 px-4 py-5">
+      <div className="space-y-2">
+        <BackLink href={langHref(language.code, "words")} label="Word groups" />
+
+        <span
+          className="inline-block rounded-full px-2 py-0.5 text-[10px] font-medium"
+          style={{ backgroundColor: `${group.color}15`, color: group.color }}
         >
-          <ArrowLeft className="h-3.5 w-3.5" />
-          All word groups
-        </Link>
+          Words {group.range}
+        </span>
 
-        <div className="flex items-center gap-3 mb-2">
-          <Badge
-            className="text-xs"
-            style={{
-              backgroundColor: `${group.color}15`,
-              color: group.color,
-              borderColor: "transparent",
-            }}
-          >
-            Words {group.range}
-          </Badge>
-        </div>
-
-        <h1 className="text-3xl sm:text-4xl font-serif font-semibold text-editorial-ink mb-2">
+        <h1 className="font-serif text-xl font-semibold text-editorial-ink">
           {language.name} {group.name}
         </h1>
-        <p className="text-editorial-muted text-lg">{group.desc}</p>
+        <p className="text-sm text-editorial-muted">{group.desc}</p>
       </div>
 
       {words.length === 0 ? (
-        <Card className="p-8 text-center">
-          <p className="text-editorial-muted">Words for this group are coming soon.</p>
+        <Card className="p-4 text-center">
+          <p className="text-sm text-editorial-muted">Words for this group are coming soon.</p>
         </Card>
       ) : (
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+        <div className="overflow-hidden rounded-[16px] border border-[rgba(44,49,59,0.08)] bg-white/45">
           {words.map((word) => {
             const displayTerm = word.article ? `${word.article} ${word.term}` : word.term
+            const posColor = POS_COLORS[word.partOfSpeech] ?? "#65655f"
+            // One reading aid only: the romanization for script languages, or the
+            // phonetic hint otherwise. Avoids the duplicated "thi /thi/".
+            const roman = (word.transliteration ?? word.pronunciation)?.replace(/\//g, "").trim()
 
             return (
-              <Card key={`${language.code}-${word.rank}`} className="hover:shadow-editorial-hover transition-all duration-200">
-                <CardContent className="p-5 space-y-3">
-                  <div className="flex items-start justify-between gap-2">
+              <div
+                key={`${language.code}-${word.rank}`}
+                className="relative flex items-center gap-2 border-b border-[rgba(44,49,59,0.06)] py-1.5 pl-3.5 pr-2 transition-colors duration-200 last:border-b-0 hover:bg-white/70"
+              >
+                {/* Part-of-speech colour rail */}
+                <span
+                  aria-hidden="true"
+                  className="absolute inset-y-0 left-0 w-[3px]"
+                  style={{ backgroundColor: posColor }}
+                />
+
+                <div className="min-w-0 flex-1 space-y-0.5">
+                  <div className="flex flex-wrap items-baseline gap-x-1.5 gap-y-0.5 leading-tight">
+                    <span className="font-mono text-[10px] tabular-nums text-editorial-muted">#{word.rank}</span>
+                    <span className="font-serif text-[15px] font-semibold text-editorial-ink">{displayTerm}</span>
+                    <span className="text-[13px] text-editorial-ink">{word.english}</span>
+                    {roman && <span className="text-[11px] italic text-editorial-muted">{roman}</span>}
+                    {word.gender && <span className="text-[10px] italic text-editorial-muted">{word.gender}</span>}
                     <span
-                      className="text-xs font-mono px-2 py-0.5 rounded-full"
-                      style={{
-                        backgroundColor: `${group.color}12`,
-                        color: group.color,
-                      }}
+                      className="shrink-0 rounded px-1 py-px text-[9px] font-medium uppercase tracking-wide"
+                      style={{ backgroundColor: `${posColor}14`, color: posColor }}
                     >
-                      #{word.rank}
+                      {word.partOfSpeech}
                     </span>
-                    <div className="flex items-center gap-2">
-                      {word.gender && (
-                        <Badge variant="outline" className="text-[10px]">
-                          {word.gender}
-                        </Badge>
-                      )}
-                      <Badge
-                        className="text-[10px]"
-                        style={{
-                          backgroundColor: `${POS_COLORS[word.partOfSpeech] ?? "#65655f"}12`,
-                          color: POS_COLORS[word.partOfSpeech] ?? "#65655f",
-                          borderColor: "transparent",
-                        }}
-                      >
-                        {word.partOfSpeech}
-                      </Badge>
-                    </div>
                   </div>
 
-                  <div>
-                    <p className="text-2xl font-serif font-semibold text-editorial-ink">{displayTerm}</p>
-                    {word.secondary && <p className="text-sm text-editorial-muted">{word.secondary}</p>}
-                    {word.transliteration && <p className="text-sm text-editorial-muted italic">{word.transliteration}</p>}
-                    <p className="text-base text-editorial-muted mt-1">{word.english}</p>
-                  </div>
+                  <p className="truncate text-[11px] leading-snug text-editorial-muted">
+                    <span className="text-editorial-ink/90">{word.exampleNative}</span>{" "}
+                    {word.exampleEn}
+                  </p>
+                </div>
 
-                  {word.pronunciation && (
-                    <p className="text-sm text-editorial-muted italic">/{word.pronunciation}/</p>
-                  )}
-
-                  <div className="pt-2 border-t border-[rgba(44,49,59,0.06)] space-y-1">
-                    <p className="text-sm text-editorial-ink">{word.exampleNative}</p>
-                    <p className="text-sm text-editorial-muted">{word.exampleEn}</p>
-                  </div>
-                </CardContent>
-              </Card>
+                <SpeakButton
+                  text={displayTerm}
+                  language={language.code}
+                  size="sm"
+                  rate={0.85}
+                  className="flex-shrink-0"
+                />
+              </div>
             )
           })}
         </div>

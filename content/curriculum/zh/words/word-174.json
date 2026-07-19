@@ -1,12 +1,13 @@
 {
   "rank": 174,
-  "chinese": "喝",
-  "characters": "喝",
-  "pinyin": "hē",
-  "english": "to drink",
-  "partOfSpeech": "verb",
-  "exampleZh": "你想喝什么？",
-  "exampleEn": "What would you like to drink?",
+  "chinese": "三个",
+  "characters": "三个",
+  "pinyin": "sān gè",
+  "english": "three",
+  "pronunciation": "san-ge",
+  "partOfSpeech": "number",
+  "exampleZh": "我有三个个。",
+  "exampleEn": "I have three.",
   "group": "everyday-250",
-  "topic": "food-drink"
+  "topic": "numbers"
 }

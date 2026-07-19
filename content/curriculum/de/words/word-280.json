@@ -1,11 +1,13 @@
 {
   "rank": 280,
-  "german": "jetzt",
-  "english": "now",
-  "pronunciation": "YETST",
-  "partOfSpeech": "adverb",
-  "exampleDe": "Ich muss jetzt gehen.",
-  "exampleEn": "I have to go now.",
+  "german": "freunde",
+  "english": "friends",
+  "pronunciation": "f ʀ ɔ ɪ n d ə",
+  "partOfSpeech": "noun",
+  "exampleDe": "Meine Freunde kommen später.",
+  "exampleEn": "My friends are coming later.",
   "group": "everyday-250",
-  "topic": "time"
+  "topic": "people",
+  "article": "der",
+  "gender": "masculine"
 }

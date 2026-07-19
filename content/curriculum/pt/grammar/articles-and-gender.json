@@ -1,0 +1,33 @@
+{
+  "slug": "articles-and-gender",
+  "name": "Articles and Gender",
+  "nameNative": "Artigos e gênero",
+  "summary": "Every Portuguese noun is masculine or feminine, and the article matches it.",
+  "level": "beginner",
+  "order": 1,
+  "explanation": "Portuguese nouns have a gender. Most nouns ending in -o are masculine (o livro, the book) and most ending in -a are feminine (a casa, the house). Other endings must simply be learned with their article.\n\nThe definite article ('the') is o for masculine singular, a for feminine singular, os and as for the plurals. The indefinite article ('a/an') is um (masculine) and uma (feminine), with plurals uns and umas meaning 'some'.\n\nUnlike English, the article is used far more often, including before many abstract nouns and sometimes before names.",
+  "pattern": "o / a / os / as + noun",
+  "conjugation": {
+    "o (masc. sg.)": "o carro",
+    "a (fem. sg.)": "a mesa",
+    "os (masc. pl.)": "os carros",
+    "as (fem. pl.)": "as mesas",
+    "um / uma": "um café / uma água"
+  },
+  "examples": [
+    { "native": "o menino", "en": "the boy" },
+    { "native": "a menina", "en": "the girl" },
+    { "native": "um livro", "en": "a book" },
+    { "native": "uma casa", "en": "a house" },
+    { "native": "os amigos", "en": "the friends" },
+    { "native": "as flores", "en": "the flowers" }
+  ],
+  "commonMistakes": [
+    "Assuming gender from the English word instead of the Portuguese ending.",
+    "Dropping the article where Portuguese keeps it (o Brasil, a água).",
+    "Using o with a feminine noun. Match the article to the noun: a casa, not o casa.",
+    "Forgetting that some -a words are masculine (o dia, o problema).",
+    "Treating um/uma as always meaning 'one' when they often just mean 'a'."
+  ],
+  "tip": "Learn each noun with its article, like o livro or a porta, so the gender is fixed from the start."
+}

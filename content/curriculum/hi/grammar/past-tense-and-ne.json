@@ -1,0 +1,34 @@
+{
+  "slug": "past-tense-and-ne",
+  "name": "Past Tense & the ने Construction",
+  "nameNative": "भूतकाल और ने (bhootkaal aur ne)",
+  "summary": "In the past tense, transitive verbs mark the subject with ने, and the verb agrees with the object.",
+  "level": "pre-intermediate",
+  "order": 11,
+  "explanation": "The simple past in Hindi is one of its most distinctive features because of the postposition ने (ne). With a transitive verb (a verb that takes an object) in the past, the subject is followed by ने, and the verb agrees not with the subject but with the object. So 'I ate the apple' is मैंने सेब खाया (mainne seb khaaya): मैं becomes मैंने, and खाया (khaaya) agrees with सेब (seb, apple - masculine), not with 'I'.\n\nIf the object is feminine, the verb changes to match it: मैंने रोटी खाई (mainne roti khaai), where खाई (khaai) agrees with रोटी (roti, bread - feminine). If the object is plural, the verb takes the plural form. When the object itself carries the postposition को (ko), the verb stops agreeing with anyone and defaults to the neutral masculine singular -आ (-aa) form.\n\nIntransitive verbs (no object), like जाना (jaana, to go) or आना (aana, to come), do not use ने at all. There the verb simply agrees with the subject in the normal way: वह गया (voh gaya, he went) but वह गई (voh gayi, she went). The big habit to build is: transitive past takes ने and agrees with the object; intransitive past has no ने and agrees with the subject.",
+  "pattern": "transitive past: subject + ne + object + verb (agrees with object); intransitive: subject + verb (agrees with subject)",
+  "conjugation": {
+    "मैंने (mainne)": "I (with ne) - मैंने खाया (mainne khaaya, I ate)",
+    "तुमने (tumne)": "you familiar (with ne) - तुमने देखा (tumne dekha)",
+    "आपने (aapne)": "you polite (with ne) - आपने कहा (aapne kaha)",
+    "उसने (usne)": "he/she (with ne) - उसने लिखा (usne likha)",
+    "transitive agreement": "मैंने रोटी खाई (mainne roti khaai, agrees with feminine roti)",
+    "intransitive (no ne)": "वह गया / वह गई (voh gaya / voh gayi, he/she went)"
+  },
+  "examples": [
+    { "native": "मैंने सेब खाया। (mainne seb khaaya.)", "en": "I ate the apple. (verb agrees with masculine seb)" },
+    { "native": "मैंने रोटी खाई। (mainne roti khaai.)", "en": "I ate the bread. (verb agrees with feminine roti)" },
+    { "native": "उसने एक पत्र लिखा। (usne ek patra likha.)", "en": "He wrote a letter." },
+    { "native": "आपने क्या कहा? (aapne kya kaha?)", "en": "What did you say? (polite)" },
+    { "native": "वह बाज़ार गया। (voh bazaar gaya.)", "en": "He went to the market. (intransitive, no ne)" },
+    { "native": "लड़की स्कूल गई। (ladki school gayi.)", "en": "The girl went to school. (intransitive, agrees with subject)" }
+  ],
+  "commonMistakes": [
+    "Forgetting ने with a transitive past verb: saying main seb khaaya instead of mainne seb khaaya.",
+    "Making the verb agree with the subject instead of the object in a ने sentence.",
+    "Wrongly adding ने to an intransitive verb: saying mainne gaya instead of main gaya.",
+    "Not changing the verb for a feminine object: saying mainne roti khaaya instead of khaai.",
+    "Forgetting that an object marked with को (ko) forces the neutral -aa verb form."
+  ],
+  "tip": "Ask two questions: does the verb take an object? If yes, use ने and agree with the object. If no, drop ने and agree with the subject."
+}

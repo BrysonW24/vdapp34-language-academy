@@ -1,0 +1,90 @@
+{
+  "slug": "work-and-school",
+  "title": "Work & School",
+  "titleDe": "Arbeit und Schule",
+  "shortSummary": "Talk about your job, studies, and daily working life in German.",
+  "level": "pre-intermediate",
+  "order": 12,
+  "icon": "💼",
+  "color": "#6d28d9",
+  "culturalNote": "German working culture values clear structure, directness, and a strong separation between work and private life. Meetings start on time, plans are made in advance, and the famous dual system (duale Ausbildung) combines vocational training with on-the-job apprenticeships. Job titles and qualifications carry real weight, so people often state their profession with quiet pride.",
+  "keyPhrases": [
+    { "german": "Was machen Sie beruflich?", "english": "What do you do for work?", "pronunciation": "vahs MAHKH-en zee buh-ROOF-likh", "context": "Asking about a job" },
+    { "german": "Ich arbeite bei...", "english": "I work at... (company)", "pronunciation": "ikh AR-by-tuh by", "context": "Naming your employer" },
+    { "german": "Ich bin selbstständig", "english": "I'm self-employed", "pronunciation": "ikh bin ZELPST-shten-dikh", "context": "Working for yourself" },
+    { "german": "Ich studiere an der Universität", "english": "I study at university", "pronunciation": "ikh shtoo-DEE-ruh ahn dair oo-nee-ver-zee-TAYT", "context": "For students" },
+    { "german": "Ich habe ein Meeting", "english": "I have a meeting", "pronunciation": "ikh HAH-buh ine MEE-ting", "context": "Work schedule" },
+    { "german": "Ich arbeite von neun bis fünf", "english": "I work from nine to five", "pronunciation": "ikh AR-by-tuh fon noyn bis foonf", "context": "Working hours" },
+    { "german": "Ich habe heute frei", "english": "I have the day off today", "pronunciation": "ikh HAH-buh HOY-tuh fry", "context": "Time off" },
+    { "german": "der Kollege / die Kollegin", "english": "the colleague (m/f)", "pronunciation": "dair ko-LAY-guh / dee ko-LAY-gin", "context": "People at work" },
+    { "german": "die Besprechung", "english": "the meeting / discussion", "pronunciation": "dee buh-SHPREKH-oong", "context": "A common work word" },
+    { "german": "Schönen Feierabend!", "english": "Have a nice evening off!", "pronunciation": "SHUR-nen FY-er-ah-bent", "context": "Said when leaving work" }
+  ],
+  "grammar": [
+    {
+      "rule": "als and bei for jobs",
+      "explanation": "Use 'als' to say in what role you work and 'bei' to name the employer: 'Ich arbeite als Ingenieurin bei Siemens' (I work as an engineer at Siemens). Both are common in introductions.",
+      "examples": [
+        { "de": "Ich arbeite als Lehrer.", "en": "I work as a teacher." },
+        { "de": "Sie arbeitet bei einer Bank.", "en": "She works at a bank." }
+      ],
+      "commonMistake": "Mixing them: use 'als' for the role and 'bei' for the company, not the reverse."
+    },
+    {
+      "rule": "Word order with time phrases",
+      "explanation": "When a sentence starts with a time phrase, the verb stays in second position and the subject moves after it: 'Am Montag habe ich ein Meeting'.",
+      "examples": [
+        { "de": "Um neun beginnt die Arbeit.", "en": "Work begins at nine." },
+        { "de": "Heute arbeite ich von zu Hause.", "en": "Today I work from home." }
+      ],
+      "commonMistake": "Keeping subject-verb order after a time phrase: it is 'Heute arbeite ich', not 'Heute ich arbeite'."
+    }
+  ],
+  "dialogue": {
+    "setup": "At a party, Nora and David get to know each other and talk about work.",
+    "lines": [
+      { "speaker": "Nora", "german": "Und was machst du beruflich, David?", "english": "And what do you do for work, David?" },
+      { "speaker": "David", "german": "Ich arbeite als Programmierer bei einer kleinen Firma.", "english": "I work as a programmer at a small company." },
+      { "speaker": "Nora", "german": "Interessant! Gefällt dir die Arbeit?", "english": "Interesting! Do you like the work?" },
+      { "speaker": "David", "german": "Ja, sehr. Und du? Was machst du?", "english": "Yes, very much. And you? What do you do?" },
+      { "speaker": "Nora", "german": "Ich studiere noch. Ich studiere Medizin an der Universität.", "english": "I'm still studying. I study medicine at university." },
+      { "speaker": "David", "german": "Respekt! Das ist bestimmt anstrengend.", "english": "Respect! That's surely demanding." },
+      { "speaker": "Nora", "german": "Ja, aber es macht mir Spaß. Schönen Feierabend noch!", "english": "Yes, but I enjoy it. Have a nice evening!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you ask 'What do you do for work?' (informal)",
+      "correctAnswer": "Was machst du beruflich?",
+      "explanation": "beruflich means 'professionally / for work'."
+    },
+    {
+      "type": "fill-blank",
+      "question": "Ich arbeite _____ Lehrer. (in the role of)",
+      "correctAnswer": "als",
+      "explanation": "als introduces the role: als Lehrer (as a teacher)."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which word means 'colleague' (female)?",
+      "options": ["der Kollege", "die Kollegin", "der Chef", "die Arbeit"],
+      "correctAnswer": "die Kollegin",
+      "explanation": "die Kollegin is a female colleague; der Kollege is male."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does 'Feierabend' mean?",
+      "options": ["a party", "the end of the workday", "a holiday", "a meeting"],
+      "correctAnswer": "the end of the workday",
+      "explanation": "Feierabend is the cherished moment when the workday ends."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: bei / ich / Siemens / arbeite",
+      "correctAnswer": "Ich arbeite bei Siemens",
+      "explanation": "bei names the employer; verb arbeite stays in second position."
+    }
+  ],
+  "status": "complete"
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "shopping",
+  "title": "Shopping",
+  "description": "Ask prices, bargain at markets, and pay while shopping in Thai.",
+  "situation": "Markets and shops: finding items, asking prices, bargaining, and paying.",
+  "order": 4,
+  "phrases": [
+    { "thai": "อันนี้เท่าไหร่", "pronunciation": "an-nii thao-rai", "english": "How much is this?", "formality": "neutral" },
+    { "thai": "แพงไป", "pronunciation": "phaeng pai", "english": "Too expensive", "formality": "neutral", "tip": "The start of any friendly market bargain." },
+    { "thai": "ลดหน่อยได้ไหม", "pronunciation": "lot noi dai mai", "english": "Can you lower the price a bit?", "formality": "neutral", "tip": "Bargaining is normal at markets, not in malls." },
+    { "thai": "มีสีอื่นไหม", "pronunciation": "mii sii uun mai", "english": "Is there another colour?", "formality": "neutral" },
+    { "thai": "ลองได้ไหม", "pronunciation": "long dai mai", "english": "Can I try it on?", "formality": "neutral" },
+    { "thai": "เอาอันนี้", "pronunciation": "ao an-nii", "english": "I'll take this", "formality": "neutral" },
+    { "thai": "มีไซส์ใหญ่กว่านี้ไหม", "pronunciation": "mii size yai kwaa nii mai", "english": "Do you have a bigger size?", "formality": "neutral" },
+    { "thai": "จ่ายด้วยพร้อมเพย์ได้ไหม", "pronunciation": "jaai duay PromptPay dai mai", "english": "Can I pay with PromptPay?", "formality": "neutral", "tip": "QR payment is very common in Thailand." },
+    { "thai": "ดูเฉยๆ", "pronunciation": "duu chooi-chooi", "english": "I'm just looking", "formality": "neutral" },
+    { "thai": "ขอใบเสร็จ", "pronunciation": "kho bai-set", "english": "May I have a receipt?", "formality": "neutral" },
+    { "thai": "เล็กไป", "pronunciation": "lek pai", "english": "Too small", "formality": "neutral" },
+    { "thai": "ขอบคุณ ไม่เอา", "pronunciation": "khop-khun mai ao", "english": "Thanks, I'll pass", "formality": "neutral" }
+  ]
+}

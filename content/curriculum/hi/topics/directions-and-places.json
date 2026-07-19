@@ -1,0 +1,90 @@
+{
+  "slug": "directions-and-places",
+  "title": "Directions & Places",
+  "titleNative": "दिशाएँ और जगहें",
+  "shortSummary": "Ask for the way, understand left and right, and find key places in Hindi.",
+  "level": "beginner",
+  "order": 5,
+  "icon": "🧭",
+  "color": "#2f9e44",
+  "culturalNote": "Asking for directions in India is a social act; strangers will happily help, and it is polite to open with bhaiya (भैया, brother) or didi (दीदी, sister) to a younger helper, or with ji to an elder. Directions are often given by landmarks rather than street names, so expect 'turn at the temple' (मंदिर के पास) or 'near the big tree' rather than precise distances. Many older neighbourhoods have winding lanes called gali (गली), and a main road is a sadak (सड़क). Auto-rickshaw and taxi drivers may not use meters in every city, so agreeing a fare first is wise. A reassuring 'paas mein hi hai' (it's quite near) can sometimes mean a longer walk than you expect, so it is worth confirming the distance.",
+  "keyPhrases": [
+    { "native": "माफ़ कीजिए, ... कहाँ है?", "transliteration": "maaf kijiye, ... kahaan hai?", "english": "Excuse me, where is ...?", "pronunciation": "maaf KEE-ji-yay, ... kuh-HAAN hai", "context": "Polite opener" },
+    { "native": "बाएँ मुड़िए", "transliteration": "baaen mudiye", "english": "Turn left", "pronunciation": "BAA-en MOO-di-yay", "context": "Giving directions" },
+    { "native": "दाएँ मुड़िए", "transliteration": "daaen mudiye", "english": "Turn right", "pronunciation": "DAA-en MOO-di-yay", "context": "Giving directions" },
+    { "native": "सीधे जाइए", "transliteration": "seedhe jaiye", "english": "Go straight", "pronunciation": "SEE-dhay JAA-i-yay", "context": "Giving directions" },
+    { "native": "यह कितनी दूर है?", "transliteration": "yah kitni door hai?", "english": "How far is it?", "pronunciation": "yuh KIT-nee door hai", "context": "Asking distance" },
+    { "native": "पास में ही है", "transliteration": "paas mein hi hai", "english": "It is very near", "pronunciation": "paas mein hee hai", "context": "Describing distance" },
+    { "native": "रेलवे स्टेशन कहाँ है?", "transliteration": "railway station kahaan hai?", "english": "Where is the railway station?", "pronunciation": "RAIL-way STAY-shun kuh-HAAN hai", "context": "Finding a place" },
+    { "native": "बाज़ार किधर है?", "transliteration": "bazaar kidhar hai?", "english": "Which way is the market?", "pronunciation": "buh-ZAAR KID-har hai", "context": "Asking a direction" },
+    { "native": "यहाँ रुकिए", "transliteration": "yahaan rukiye", "english": "Stop here", "pronunciation": "yuh-HAAN ROO-ki-yay", "context": "To a driver" },
+    { "native": "मैं रास्ता भूल गया", "transliteration": "main raasta bhool gaya", "english": "I got lost (man speaking)", "pronunciation": "main RAAS-taa bhool guh-YAA", "context": "When lost" }
+  ],
+  "grammar": [
+    {
+      "rule": "Postpositions come after the noun",
+      "explanation": "Where English uses prepositions before a noun (in the market), Hindi uses postpositions after it. Mein (in), par (on/at), ke paas (near), ke saamne (in front of), and ke peeche (behind) all follow their noun.",
+      "examples": [
+        { "native": "बाज़ार में (bazaar mein)", "en": "in the market" },
+        { "native": "मंदिर के पास (mandir ke paas)", "en": "near the temple" }
+      ],
+      "commonMistake": "Putting the postposition before the noun like English; mein bazaar is wrong, it must be bazaar mein."
+    },
+    {
+      "rule": "Polite commands for directions",
+      "explanation": "Direction verbs take the polite -iye ending: jaana (to go) becomes jaiye, mudna (to turn) becomes mudiye, rukna (to stop) becomes rukiye. Use these with anyone you address as aap.",
+      "examples": [
+        { "native": "सीधे जाइए। (seedhe jaiye.)", "en": "Go straight." },
+        { "native": "दाएँ मुड़िए। (daaen mudiye.)", "en": "Turn right." }
+      ],
+      "commonMistake": "Mixing up baaen (left) and daaen (right); baaen starts like the English 'bay'."
+    }
+  ],
+  "dialogue": {
+    "setup": "John, a tourist, asks a passer-by, Meena, how to reach the railway station.",
+    "lines": [
+      { "speaker": "John", "native": "माफ़ कीजिए, रेलवे स्टेशन कहाँ है?", "transliteration": "maaf kijiye, railway station kahaan hai?", "english": "Excuse me, where is the railway station?" },
+      { "speaker": "Meena", "native": "सीधे जाइए, फिर दाएँ मुड़िए।", "transliteration": "seedhe jaiye, phir daaen mudiye.", "english": "Go straight, then turn right." },
+      { "speaker": "John", "native": "अच्छा। यह कितनी दूर है?", "transliteration": "achha. yah kitni door hai?", "english": "Okay. How far is it?" },
+      { "speaker": "Meena", "native": "पास में ही है, दस मिनट।", "transliteration": "paas mein hi hai, das minute.", "english": "It's very near, ten minutes." },
+      { "speaker": "John", "native": "क्या रास्ते में बाज़ार है?", "transliteration": "kya raaste mein bazaar hai?", "english": "Is there a market on the way?" },
+      { "speaker": "Meena", "native": "जी हाँ, मंदिर के पास।", "transliteration": "ji haan, mandir ke paas.", "english": "Yes, near the temple." },
+      { "speaker": "John", "native": "बहुत धन्यवाद, दीदी!", "transliteration": "bahut dhanyavaad, didi!", "english": "Thank you very much, sister!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'Go straight' in Hindi?",
+      "correctAnswer": "सीधे जाइए (seedhe jaiye)",
+      "explanation": "Seedhe means 'straight' and jaiye is the polite 'please go'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which phrase means 'Turn left'?",
+      "options": ["दाएँ मुड़िए", "बाएँ मुड़िए", "सीधे जाइए", "यहाँ रुकिए"],
+      "correctAnswer": "बाएँ मुड़िए",
+      "explanation": "Baaen is left; daaen is right."
+    },
+    {
+      "type": "fill-blank",
+      "question": "मंदिर _____ पास (near the temple)",
+      "correctAnswer": "के (ke)",
+      "explanation": "The postposition phrase ke paas (near) follows the noun mandir."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does 'यह कितनी दूर है? (yah kitni door hai?)' ask?",
+      "options": ["What is this?", "How far is it?", "Where is it?", "How much is it?"],
+      "correctAnswer": "How far is it?",
+      "explanation": "Door means 'far', so this asks about distance."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: है / स्टेशन / कहाँ (Where is the station?)",
+      "correctAnswer": "स्टेशन कहाँ है (station kahaan hai)",
+      "explanation": "Subject, then the question word kahaan, then the verb hai at the end."
+    }
+  ],
+  "status": "complete"
+}

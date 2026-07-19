@@ -1,0 +1,34 @@
+{
+  "slug": "prepositions-and-contractions",
+  "name": "Prepositions and Contractions",
+  "nameNative": "Le preposizioni articolate",
+  "summary": "Italian prepositions merge with the article into single contracted words.",
+  "level": "pre-intermediate",
+  "order": 9,
+  "explanation": "When a preposition meets a definite article, they fuse into one word. This happens with a (to/at), di (of), da (from), in (in), and su (on).\n\nSo a + il becomes al, di + la becomes della, in + il becomes nel, su + le becomes sulle. The pattern is regular once you see it: vado al bar (I go to the bar), la casa di Maria becomes il libro dell'amico.\n\nTwo prepositions, con (with) and per (for), normally do not contract: con il treno, per la festa.",
+  "pattern": "preposition + article = contracted form",
+  "conjugation": {
+    "a + il": "al",
+    "di + il": "del",
+    "da + la": "dalla",
+    "in + il": "nel",
+    "su + lo": "sullo",
+    "a + le": "alle"
+  },
+  "examples": [
+    { "native": "Vado al mercato.", "en": "I'm going to the market." },
+    { "native": "È la casa della mia amica.", "en": "It's my friend's house." },
+    { "native": "Vengo dalla stazione.", "en": "I'm coming from the station." },
+    { "native": "Il gatto è nel giardino.", "en": "The cat is in the garden." },
+    { "native": "Il libro è sul tavolo.", "en": "The book is on the table." },
+    { "native": "Ci vediamo alle otto.", "en": "See you at eight o'clock." }
+  ],
+  "commonMistakes": [
+    "Writing the preposition and article separately. In + il must become nel, not in il.",
+    "Contracting con and per. They normally stay separate.",
+    "Forgetting the double l in forms like della, dello, sullo.",
+    "Using a instead of in for cities versus countries: a Roma but in Italia.",
+    "Mixing up di (of) with da (from), which change the meaning completely."
+  ],
+  "tip": "Build a small grid of preposition rows against article columns once; after that the contractions become automatic."
+}

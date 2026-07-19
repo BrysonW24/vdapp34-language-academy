@@ -1,0 +1,21 @@
+{
+  "slug": "restaurant",
+  "title": "At the Restaurant",
+  "description": "Order food, ask about dishes, and pay the bill at an Indian restaurant or dhaba.",
+  "situation": "Eating out: getting a table, ordering, dietary needs, water, and settling the bill politely.",
+  "order": 3,
+  "phrases": [
+    { "native": "मेन्यू दिखाइए", "transliteration": "menu dikhaiye", "english": "Please show me the menu", "pronunciation": "MEN-yoo di-KHAA-ee-yeh", "formality": "formal" },
+    { "native": "क्या टेबल खाली है?", "transliteration": "kya table khaali hai?", "english": "Is a table free?", "pronunciation": "kyaa table KHAA-lee hai", "formality": "neutral" },
+    { "native": "मैं यह लूँगा", "transliteration": "main yeh loonga", "english": "I will have this", "pronunciation": "main yeh LOON-gaa", "formality": "neutral", "tip": "A woman says main yeh loongi." },
+    { "native": "क्या यह शाकाहारी है?", "transliteration": "kya yeh shaakaahaari hai?", "english": "Is this vegetarian?", "pronunciation": "kyaa yeh shaa-kaa-HAA-ree hai", "formality": "neutral", "tip": "Shaakaahaari means vegetarian; maansaahaari means non-vegetarian." },
+    { "native": "ज़्यादा तीखा मत बनाइए", "transliteration": "zyaada teekha mat banaaiye", "english": "Please don't make it too spicy", "pronunciation": "ZYAA-daa TEE-khaa mut buh-NAA-ee-yeh", "formality": "formal", "tip": "Teekha means spicy-hot. Very useful to know." },
+    { "native": "एक पानी की बोतल लाइए", "transliteration": "ek paani ki botal laaiye", "english": "Please bring a bottle of water", "pronunciation": "ek PAA-nee kee BOH-tul LAA-ee-yeh", "formality": "formal" },
+    { "native": "यह बहुत स्वादिष्ट है", "transliteration": "yeh bahut svaadisht hai", "english": "This is very delicious", "pronunciation": "yeh buh-HUT svaa-DISHT hai", "formality": "neutral" },
+    { "native": "थोड़ा और चावल मिलेगा?", "transliteration": "thoda aur chaaval milega?", "english": "Can I get a little more rice?", "pronunciation": "THOH-raa aur CHAA-vul mi-LEH-gaa", "formality": "neutral" },
+    { "native": "मुझे चाय चाहिए", "transliteration": "mujhe chai chahiye", "english": "I would like some tea", "pronunciation": "MOO-jheh chai CHAA-hee-yeh", "formality": "neutral", "tip": "Chai usually means hot milky spiced tea." },
+    { "native": "बिल लाइए", "transliteration": "bil laaiye", "english": "Please bring the bill", "pronunciation": "bil LAA-ee-yeh", "formality": "formal" },
+    { "native": "क्या मैं कार्ड से पैसे दे सकता हूँ?", "transliteration": "kya main card se paise de sakta hoon?", "english": "Can I pay by card?", "pronunciation": "kyaa main card seh PAI-seh deh SUK-taa hoon", "formality": "neutral", "tip": "A woman says de sakti hoon." },
+    { "native": "खाना बहुत अच्छा था", "transliteration": "khaana bahut achchha tha", "english": "The food was very good", "pronunciation": "KHAA-naa buh-HUT UCH-chaa thaa", "formality": "neutral" }
+  ]
+}

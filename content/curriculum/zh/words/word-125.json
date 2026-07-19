@@ -1,13 +1,13 @@
 {
   "rank": 125,
-  "chinese": "第",
-  "characters": "第",
-  "pinyin": "dì",
-  "english": "ordinal prefix (1st, 2nd, 3rd...)",
-  "pronunciation": "dee (4th tone, sharp falling)",
-  "partOfSpeech": "particle",
-  "exampleZh": "他是第一名。",
-  "exampleEn": "He is first place.",
+  "chinese": "原来",
+  "characters": "原来",
+  "pinyin": "yuán lái",
+  "english": "turn out to be",
+  "pronunciation": "yuan-lai",
+  "partOfSpeech": "preposition",
+  "exampleZh": "书在原来桌子上。",
+  "exampleEn": "The book is turn out to be the table.",
   "group": "core-100",
-  "topic": "numbers"
+  "topic": "basics"
 }

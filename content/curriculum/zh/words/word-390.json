@@ -1,13 +1,13 @@
 {
   "rank": 390,
-  "chinese": "医生",
-  "characters": "医生",
-  "pinyin": "yīshēng",
-  "english": "doctor",
-  "pronunciation": "ee-shung (1st tone, 1st tone)",
-  "partOfSpeech": "noun",
-  "exampleZh": "你应该去看医生。",
-  "exampleEn": "You should go see a doctor.",
+  "chinese": "感到",
+  "characters": "感到",
+  "pinyin": "gǎn dào",
+  "english": "to feel",
+  "pronunciation": "gan-dao",
+  "partOfSpeech": "verb",
+  "exampleZh": "我想感到。",
+  "exampleEn": "I want to feel.",
   "group": "everyday-250",
-  "topic": "health"
+  "topic": "emotions"
 }

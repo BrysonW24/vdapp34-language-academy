@@ -1,11 +1,11 @@
 {
   "rank": 580,
-  "german": "bestellen",
-  "english": "to order",
-  "pronunciation": "beh-SHTEL-en",
-  "partOfSpeech": "verb",
-  "exampleDe": "Ich möchte bestellen.",
-  "exampleEn": "I would like to order.",
+  "german": "ebenso",
+  "english": "alike",
+  "pronunciation": "e b ə n z o",
+  "partOfSpeech": "adjective",
+  "exampleDe": "Das ist sehr ebenso.",
+  "exampleEn": "That is very alike.",
   "group": "confident-350",
-  "topic": "shopping"
+  "topic": "descriptions"
 }

@@ -1,0 +1,21 @@
+{
+  "slug": "meeting-people",
+  "title": "Meeting People",
+  "description": "Introduce yourself, ask someone's name, and make a warm first impression in Italian.",
+  "situation": "First introductions: names, where you are from, and polite small talk when meeting someone new.",
+  "order": 2,
+  "phrases": [
+    { "native": "Come ti chiami?", "english": "What's your name? (informal)", "pronunciation": "KOH-meh tee kee-AH-mee", "formality": "informal", "tip": "Formal: come si chiama?" },
+    { "native": "Mi chiamo...", "english": "My name is...", "pronunciation": "mee kee-AH-moh", "formality": "neutral", "tip": "Literally 'I call myself'." },
+    { "native": "Piacere", "english": "Nice to meet you", "pronunciation": "pyah-CHEH-reh", "formality": "neutral" },
+    { "native": "Di dove sei?", "english": "Where are you from? (informal)", "pronunciation": "dee DOH-veh say", "formality": "informal" },
+    { "native": "Vengo dall'Australia", "english": "I'm from Australia", "pronunciation": "VEN-goh dahl-ows-TRAH-lee-ah", "formality": "neutral" },
+    { "native": "Come stai?", "english": "How are you? (informal)", "pronunciation": "KOH-meh stai", "formality": "informal", "tip": "Formal: come sta?" },
+    { "native": "Sto bene, grazie", "english": "I'm well, thank you", "pronunciation": "stoh BEH-neh GRAH-tsee-eh", "formality": "neutral" },
+    { "native": "Che lavoro fai?", "english": "What work do you do?", "pronunciation": "keh lah-VOH-roh fai", "formality": "informal" },
+    { "native": "Parlo un po' di italiano", "english": "I speak a little Italian", "pronunciation": "PAR-loh oon poh dee ee-tah-lee-AH-noh", "formality": "neutral" },
+    { "native": "Sto imparando l'italiano", "english": "I'm learning Italian", "pronunciation": "stoh eem-pah-RAN-doh lee-tah-lee-AH-noh", "formality": "neutral" },
+    { "native": "A presto", "english": "See you soon", "pronunciation": "ah PRES-toh", "formality": "neutral" },
+    { "native": "Buona giornata", "english": "Have a nice day", "pronunciation": "BWOH-nah jor-NAH-tah", "formality": "neutral" }
+  ]
+}

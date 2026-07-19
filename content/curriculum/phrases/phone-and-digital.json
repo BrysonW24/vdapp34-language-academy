@@ -1,0 +1,21 @@
+{
+  "slug": "phone-and-digital",
+  "title": "Phone & Digital",
+  "description": "12 modern phrases for the digital age — wifi, apps, phone calls, social media, and tech support in Spanish.",
+  "situation": "Using technology abroad — connecting to wifi, making calls, using apps, and getting tech help.",
+  "order": 8,
+  "phrases": [
+    { "spanish": "¿Cuál es la contraseña del wifi?", "english": "What's the wifi password?", "pronunciation": "kwahl ehs lah kohn-trah-SEH-nyah dehl WEE-fee", "formality": "neutral" },
+    { "spanish": "No tengo señal", "english": "I don't have signal", "pronunciation": "noh TEHN-goh seh-NYAHL", "formality": "neutral", "tip": "Also 'no tengo cobertura' (no coverage)" },
+    { "spanish": "¿Dónde puedo cargar mi teléfono?", "english": "Where can I charge my phone?", "pronunciation": "DOHN-deh PWEH-doh kar-GAHR mee teh-LEH-foh-noh", "formality": "neutral" },
+    { "spanish": "Te mando un mensaje", "english": "I'll send you a message", "pronunciation": "teh MAHN-doh oon mehn-SAH-heh", "formality": "informal", "tip": "'Mensaje' covers text, WhatsApp, any message" },
+    { "spanish": "¿Me pasas tu número?", "english": "Can you give me your number?", "pronunciation": "meh PAH-sahs too NOO-meh-roh", "formality": "informal" },
+    { "spanish": "Quiero comprar una tarjeta SIM", "english": "I want to buy a SIM card", "pronunciation": "kee-EH-roh kohm-PRAHR OO-nah tar-HEH-tah seem", "formality": "neutral" },
+    { "spanish": "¿Tiene cargador de iPhone?", "english": "Do you have an iPhone charger?", "pronunciation": "tee-EH-neh kar-gah-DOHR deh iPhone", "formality": "formal" },
+    { "spanish": "El internet va muy lento", "english": "The internet is very slow", "pronunciation": "ehl een-tehr-NEHT bah moo-ee LEHN-toh", "formality": "neutral" },
+    { "spanish": "¿Puedo pagar con el móvil?", "english": "Can I pay with my phone?", "pronunciation": "PWEH-doh pah-GAHR kohn ehl MOH-beel", "formality": "formal", "tip": "'Móvil' in Spain, 'celular' in Latin America" },
+    { "spanish": "Sígueme en Instagram", "english": "Follow me on Instagram", "pronunciation": "SEE-geh-meh ehn Instagram", "formality": "informal" },
+    { "spanish": "Te hago una videollamada", "english": "I'll video call you", "pronunciation": "teh AH-goh OO-nah bee-deh-oh-yah-MAH-dah", "formality": "informal" },
+    { "spanish": "Mi teléfono se ha quedado sin batería", "english": "My phone ran out of battery", "pronunciation": "mee teh-LEH-foh-noh seh ah keh-DAH-doh seen bah-teh-REE-ah", "formality": "neutral" }
+  ]
+}

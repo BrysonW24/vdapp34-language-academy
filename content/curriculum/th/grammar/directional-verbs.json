@@ -1,0 +1,26 @@
+{
+  "slug": "directional-verbs",
+  "name": "Directional Verbs ไป / มา",
+  "nameTh": "คำกริยาบอกทิศทาง",
+  "summary": "ไป (go) and มา (come) attach to other verbs to show movement away from or toward the speaker.",
+  "level": "pre-intermediate",
+  "order": 9,
+  "explanation": "ไป (pai, go) and มา (maa, come) are everyday verbs, but they also follow other verbs to show direction. Added after a verb, ไป means the action moves away from the speaker and มา means it moves toward the speaker: เอามา (bring it here), เอาไป (take it away).\n\nThis pairing is very common: กลับมา (come back), กลับไป (go back), เดินมา (walk over here), ส่งมา (send it to me). The choice of ไป or มา depends on whether the action heads toward you or away from you.\n\nไป and มา also combine with places directly: ไปตลาด (go to the market), มาบ้าน (come to the house).",
+  "pattern": "Verb + ไป (away)  |  Verb + มา (toward speaker)",
+  "examples": [
+    { "th": "เอามา", "en": "Bring it here." },
+    { "th": "เอาไป", "en": "Take it away." },
+    { "th": "ผมจะกลับมา", "en": "I will come back." },
+    { "th": "เขาเดินมา", "en": "He walks over (toward me)." },
+    { "th": "ส่งข้อความมา", "en": "Send me a message (to me)." },
+    { "th": "ผมไปตลาด", "en": "I go to the market." }
+  ],
+  "commonMistakes": [
+    "Swapping ไป and มา. มา is toward the speaker; ไป is away from the speaker.",
+    "Leaving out the direction word where Thai expects it, as in เอามา / เอาไป.",
+    "Putting ไป or มา before the main verb when it should follow it.",
+    "Translating both as 'go'. มา specifically means motion toward you.",
+    "Forgetting that ไป and มา can also be full verbs on their own (to go, to come)."
+  ],
+  "tip": "Ask which way the action moves: toward me is มา, away from me is ไป. Tag it onto the verb."
+}

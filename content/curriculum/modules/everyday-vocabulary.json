@@ -1,0 +1,25 @@
+{
+  "slug": "everyday-vocabulary",
+  "title": "Everyday Vocabulary",
+  "shortSummary": "Build your core vocabulary for daily life — family, home, body, colours, weather, animals, and common objects. These are the words that appear in every conversation and form the building blocks of fluency.",
+  "level": "beginner",
+  "category": "foundation",
+  "whyItMatters": "You cannot form sentences without words. This module focuses on the highest-frequency vocabulary you need for daily life — the words that cover 80% of casual conversation. Learning these words first is the fastest path to being understood.",
+  "coreConcepts": [
+    "Family members: madre, padre, hermano, hermana",
+    "Parts of the body: cabeza, mano, ojo, boca",
+    "Colours: rojo, azul, verde, amarillo, blanco, negro",
+    "Weather: hace calor, hace frío, llueve, está nublado",
+    "Common objects: mesa, silla, puerta, ventana",
+    "Food basics: pan, agua, leche, carne, fruta",
+    "Clothing: camisa, pantalón, zapatos, vestido",
+    "Emotions: feliz, triste, cansado, enfadado"
+  ],
+  "lessons": ["building-everyday-vocabulary"],
+  "frameworks": ["eighty-twenty-vocab", "comprehensible-input"],
+  "visualType": "grid",
+  "relatedModules": ["spanish-basics", "greetings-introductions", "food-restaurants"],
+  "status": "complete",
+  "order": 4,
+  "levelNumber": 1
+}

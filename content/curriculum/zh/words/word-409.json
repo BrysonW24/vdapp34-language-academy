@@ -1,13 +1,13 @@
 {
   "rank": 409,
-  "chinese": "满意",
-  "characters": "满意",
-  "pinyin": "mǎnyì",
-  "english": "satisfied",
-  "pronunciation": "mahn-ee (3rd, 4th)",
-  "partOfSpeech": "adjective",
-  "exampleZh": "客户对结果很满意。",
-  "exampleEn": "The client is satisfied with the result.",
+  "chinese": "行业",
+  "characters": "行业",
+  "pinyin": "háng yè",
+  "english": "industry",
+  "pronunciation": "hang-ye",
+  "partOfSpeech": "noun",
+  "exampleZh": "这个行业很重要。",
+  "exampleEn": "This industry is important.",
   "group": "confident-350",
-  "topic": "emotions"
+  "topic": "basics"
 }

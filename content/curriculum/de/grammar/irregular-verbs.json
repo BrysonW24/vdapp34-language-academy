@@ -1,0 +1,33 @@
+{
+  "slug": "irregular-verbs",
+  "name": "Irregular Verbs: sein, haben & stem changes",
+  "nameDe": "Unregelmassige Verben",
+  "summary": "The two most important irregular verbs, plus vowel-changing verbs you meet every day.",
+  "level": "elementary",
+  "order": 6,
+  "explanation": "Two verbs power most German sentences and both are irregular: 'sein' (to be) and 'haben' (to have). They must be memorised because they do not follow the regular pattern.\n\nA large group of common verbs also changes its stem vowel in the du and er/sie/es forms only. 'fahren' (to drive) becomes 'du fährst, er fährt' (a to a); 'sprechen' (to speak) becomes 'du sprichst, er spricht' (e to i); 'lesen' (to read) becomes 'du liest, er liest' (e to ie).\n\nThe endings stay regular; only the stem vowel shifts, and only in those two forms.",
+  "pattern": "sein/haben: memorise  |  stem-change verbs: vowel shifts in du & er/sie/es",
+  "conjugation": {
+    "sein (ich/du/er)": "bin / bist / ist",
+    "sein (wir/ihr/sie)": "sind / seid / sind",
+    "haben (ich/du/er)": "habe / hast / hat",
+    "fahren (du/er)": "fährst / fährt",
+    "sprechen (du/er)": "sprichst / spricht"
+  },
+  "examples": [
+    { "de": "Ich bin müde.", "en": "I am tired." },
+    { "de": "Du bist sehr nett.", "en": "You are very kind." },
+    { "de": "Wir haben Hunger.", "en": "We are hungry. (literally: we have hunger)" },
+    { "de": "Er fährt nach München.", "en": "He is driving to Munich. (a to a)" },
+    { "de": "Sprichst du Englisch?", "en": "Do you speak English? (e to i)" },
+    { "de": "Sie liest ein Buch.", "en": "She is reading a book. (e to ie)" }
+  ],
+  "commonMistakes": [
+    "Regularising sein: it is 'ich bin', never 'ich seine'.",
+    "Saying 'Ich bin Hunger'. German uses haben: 'Ich habe Hunger'.",
+    "Applying the stem change to ich, wir, ihr, sie. It only happens in du and er/sie/es.",
+    "Forgetting the vowel change altogether: it is 'er spricht', not 'er sprecht'.",
+    "Mixing up bist (du) and ist (er/sie/es)."
+  ],
+  "tip": "If a verb changes its stem vowel, it does so only in du and er/sie/es. The other four forms look completely regular."
+}

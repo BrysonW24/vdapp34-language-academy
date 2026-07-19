@@ -1,11 +1,11 @@
 {
   "rank": 298,
-  "german": "finden",
-  "english": "to find",
-  "pronunciation": "FIN-den",
-  "partOfSpeech": "verb",
-  "exampleDe": "Ich finde meinen Schlüssel nicht.",
-  "exampleEn": "I can't find my key.",
+  "german": "ziel",
+  "english": "aim",
+  "pronunciation": "t s i l",
+  "partOfSpeech": "adjective",
+  "exampleDe": "Dieser Ort ist sehr zielgerichtet.",
+  "exampleEn": "This place is very aim.",
   "group": "everyday-250",
-  "topic": "daily-life"
+  "topic": "descriptions"
 }

@@ -2,16 +2,21 @@
   "name": "vdapp34-language-academy",
   "version": "1.0.0",
   "private": true,
-  "description": "Unified language academy for Spanish, Chinese, German, and Thai",
+  "description": "Unified language academy across 12 languages (Spanish, Chinese, German, Thai, French, Italian, Portuguese, Korean, Japanese, Turkish, Filipino, Hindi)",
+  "packageManager": "npm@10.8.0",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "lint:fix": "next lint --fix",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
     "type-check": "tsc --noEmit",
+    "test": "vitest run",
+    "test:watch": "vitest",
     "format": "prettier --write \"src/**/*.{ts,tsx,json,css}\"",
-    "format:check": "prettier --check \"src/**/*.{ts,tsx,json,css}\""
+    "format:check": "prettier --check \"src/**/*.{ts,tsx,json,css}\"",
+    "snapshot": "bash scripts/snapshot.sh",
+    "snapshot:full": "bash scripts/snapshot.sh --content"
   },
   "dependencies": {
     "@radix-ui/react-accordion": "^1.2.2",
@@ -21,32 +26,29 @@
     "@radix-ui/react-slot": "^1.1.1",
     "@radix-ui/react-tabs": "^1.1.1",
     "@radix-ui/react-tooltip": "^1.1.4",
-    "@react-three/drei": "^10.7.7",
-    "@react-three/fiber": "^9.5.0",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
-    "framer-motion": "^12.0.0",
-    "lucide-react": "^0.469.0",
+    "lucide-react": "^0.460.0",
     "next": "^15.1.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "tailwind-merge": "^2.6.0",
     "tailwindcss-animate": "^1.0.7",
-    "three": "^0.183.2",
-    "zod": "^3.24.1",
-    "zustand": "^5.0.2"
+    "zod": "^3.24.1"
   },
   "devDependencies": {
     "@types/node": "^22.10.5",
     "@types/react": "^19.0.2",
     "@types/react-dom": "^19.0.2",
+    "@eslint/eslintrc": "^3.2.0",
     "autoprefixer": "^10.4.20",
     "eslint": "^9.18.0",
     "eslint-config-next": "^15.1.0",
     "postcss": "^8.4.49",
     "prettier": "^3.4.2",
     "tailwindcss": "^3.4.17",
-    "typescript": "^5.7.2"
+    "typescript": "^5.7.2",
+    "vitest": "^3.2.4"
   },
   "engines": {
     "node": ">=20.0.0"

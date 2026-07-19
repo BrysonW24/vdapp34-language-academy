@@ -1,0 +1,26 @@
+{
+  "slug": "politeness-particles",
+  "name": "Politeness Particles ครับ / ค่ะ",
+  "nameTh": "คำลงท้าย ครับ ค่ะ",
+  "summary": "End your sentences with ครับ or ค่ะ to sound polite, chosen by the speaker's gender.",
+  "level": "beginner",
+  "order": 2,
+  "explanation": "Thai politeness lives at the end of the sentence. Male speakers add ครับ (khrap), and female speakers add ค่ะ (kha) for statements or คะ (kha, rising) for questions. These particles make almost anything sound respectful: สวัสดีครับ / สวัสดีค่ะ (hello).\n\nThe particle depends on the speaker, not the listener, so a man always says ครับ regardless of who he is talking to. Using these particles, especially with strangers, elders, and in service situations, is one of the easiest ways to come across as polite and well-mannered.\n\nIn casual speech among close friends they can be dropped, but learners should keep them until the politeness feels natural.",
+  "pattern": "Sentence + ครับ (male) / ค่ะ (female)",
+  "examples": [
+    { "th": "ขอบคุณครับ", "en": "Thank you. (male speaker)" },
+    { "th": "ขอบคุณค่ะ", "en": "Thank you. (female speaker)" },
+    { "th": "ไม่เป็นไรครับ", "en": "It's okay. (male)" },
+    { "th": "สบายดีไหมคะ", "en": "How are you? (female, question)" },
+    { "th": "ใช่ค่ะ", "en": "Yes. (female)" },
+    { "th": "ไปไหนครับ", "en": "Where are you going? (male)" }
+  ],
+  "commonMistakes": [
+    "Choosing the particle by the listener's gender. It follows the speaker's gender.",
+    "A man using ค่ะ or a woman using ครับ. The particle marks your own gender.",
+    "Dropping the particle with strangers or elders, which can sound abrupt.",
+    "Forgetting that female questions often use คะ (rising) rather than ค่ะ (falling).",
+    "Placing the particle in the middle. It always comes at the very end."
+  ],
+  "tip": "Add your particle to everything at first. Men: ครับ. Women: ค่ะ. It instantly lifts your politeness."
+}

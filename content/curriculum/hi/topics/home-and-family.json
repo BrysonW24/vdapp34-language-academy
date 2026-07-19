@@ -1,0 +1,90 @@
+{
+  "slug": "home-and-family",
+  "title": "Home & Family",
+  "titleNative": "घर और परिवार",
+  "shortSummary": "Talk about your family members and your home using warm, everyday Hindi.",
+  "level": "beginner",
+  "order": 8,
+  "icon": "🏠",
+  "color": "#c2255c",
+  "culturalNote": "Family (परिवार) is the centre of Indian life, and the joint family, where parents, married children, and grandchildren share one home, is still common. Hindi has remarkably precise kinship terms: your father's brother is chacha (चाचा) while your mother's brother is mama (मामा), and there are different words for each grandparent. Elders are addressed with respect, often with ji, and younger people are not usually called by name alone by their elders. Children are doted on by the whole household, and respect for parents and grandparents is a deeply held value. When you visit someone's home, removing your shoes at the door and accepting at least a little tea or food is the polite thing to do, as refusing outright can seem cold.",
+  "keyPhrases": [
+    { "native": "यह मेरा परिवार है", "transliteration": "yah mera parivaar hai", "english": "This is my family", "pronunciation": "yuh MAY-raa puh-ree-VAAR hai", "context": "Introducing family" },
+    { "native": "ये मेरे पिताजी हैं", "transliteration": "ye mere pitaji hain", "english": "This is my father (respectful)", "pronunciation": "yay MAY-ray pi-TAA-jee hain", "context": "Introducing father" },
+    { "native": "ये मेरी माँ हैं", "transliteration": "ye meri maa hain", "english": "This is my mother", "pronunciation": "yay MAY-ree maa hain", "context": "Introducing mother" },
+    { "native": "मेरा एक भाई है", "transliteration": "mera ek bhai hai", "english": "I have one brother", "pronunciation": "MAY-raa ek bhai hai", "context": "Talking about siblings" },
+    { "native": "मेरी दो बहनें हैं", "transliteration": "meri do behnein hain", "english": "I have two sisters", "pronunciation": "MAY-ree doh BEH-nein hain", "context": "Talking about siblings" },
+    { "native": "हम एक साथ रहते हैं", "transliteration": "hum ek saath rehte hain", "english": "We live together", "pronunciation": "hum ek saath REH-tay hain", "context": "Describing the household" },
+    { "native": "मेरा घर बड़ा है", "transliteration": "mera ghar bada hai", "english": "My house is big", "pronunciation": "MAY-raa ghar buh-DAA hai", "context": "Describing home" },
+    { "native": "आपके कितने बच्चे हैं?", "transliteration": "aapke kitne bachche hain?", "english": "How many children do you have?", "pronunciation": "AAP-kay KIT-nay BUCH-chay hain", "context": "Asking about family" },
+    { "native": "मेरे दादा-दादी यहाँ रहते हैं", "transliteration": "mere daada-daadi yahaan rehte hain", "english": "My grandparents live here", "pronunciation": "MAY-ray DAA-daa-DAA-dee yuh-HAAN REH-tay hain", "context": "Extended family" },
+    { "native": "हमारा परिवार बड़ा है", "transliteration": "hamaara parivaar bada hai", "english": "Our family is big", "pronunciation": "huh-MAA-raa puh-ree-VAAR buh-DAA hai", "context": "Family size" }
+  ],
+  "grammar": [
+    {
+      "rule": "Possessive adjectives mera, tera, hamaara",
+      "explanation": "Possessives agree with the thing owned, not the owner. Mera (my) becomes meri before feminine nouns and mere before plural or oblique nouns: mera bhai (my brother), meri behan (my sister), mere bhai (my brothers).",
+      "examples": [
+        { "native": "मेरा घर (mera ghar)", "en": "my house (masculine)" },
+        { "native": "मेरी माँ (meri maa)", "en": "my mother (feminine)" }
+      ],
+      "commonMistake": "Using mera with a feminine noun; it should change to meri, as in meri behan."
+    },
+    {
+      "rule": "Plural verb for respected elders",
+      "explanation": "Out of respect, parents and elders take plural verb forms even when there is only one person. Mere pitaji hain (my father is) uses hain, the plural, rather than the singular hai.",
+      "examples": [
+        { "native": "ये मेरे पिताजी हैं। (ye mere pitaji hain.)", "en": "This is my father. (respectful plural)" },
+        { "native": "मेरी माँ खाना बनाती हैं। (meri maa khaana banaati hain.)", "en": "My mother cooks. (respectful)" }
+      ],
+      "commonMistake": "Using hai (singular) for a parent; respect calls for the plural hain."
+    }
+  ],
+  "dialogue": {
+    "setup": "Sam visits his Indian friend Arjun's home and is introduced to the family.",
+    "lines": [
+      { "speaker": "Arjun", "native": "सैम, यह मेरा परिवार है।", "transliteration": "Sam, yah mera parivaar hai.", "english": "Sam, this is my family." },
+      { "speaker": "Sam", "native": "नमस्ते! आपका घर बहुत सुंदर है।", "transliteration": "namaste! aapka ghar bahut sundar hai.", "english": "Hello! Your house is very beautiful." },
+      { "speaker": "Arjun", "native": "ये मेरे पिताजी और माँ हैं।", "transliteration": "ye mere pitaji aur maa hain.", "english": "These are my father and mother." },
+      { "speaker": "Sam", "native": "नमस्ते! आपके कितने बच्चे हैं?", "transliteration": "namaste! aapke kitne bachche hain?", "english": "Hello! How many children do you have?" },
+      { "speaker": "Arjun", "native": "हम तीन भाई-बहन हैं। हम एक साथ रहते हैं।", "transliteration": "hum teen bhai-behan hain. hum ek saath rehte hain.", "english": "We are three siblings. We live together." },
+      { "speaker": "Sam", "native": "बहुत अच्छा! आपका परिवार बड़ा है।", "transliteration": "bahut achha! aapka parivaar bada hai.", "english": "Very nice! Your family is big." },
+      { "speaker": "Arjun", "native": "जी हाँ, मेरे दादा-दादी भी यहाँ रहते हैं।", "transliteration": "ji haan, mere daada-daadi bhi yahaan rehte hain.", "english": "Yes, my grandparents also live here." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'This is my family' in Hindi?",
+      "correctAnswer": "यह मेरा परिवार है (yah mera parivaar hai)",
+      "explanation": "Mera agrees with the masculine noun parivaar."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which possessive correctly fills 'I have ___ sister': मेरी ___ बहन?",
+      "options": ["मेरा (mera)", "मेरी (meri)", "मेरे (mere)", "हमारा (hamaara)"],
+      "correctAnswer": "मेरी (meri)",
+      "explanation": "Behan (sister) is feminine, so the possessive is meri."
+    },
+    {
+      "type": "fill-blank",
+      "question": "ये मेरे पिताजी _____। (This is my father, respectful)",
+      "correctAnswer": "हैं (hain)",
+      "explanation": "Elders take the respectful plural hain, not hai."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does 'हम एक साथ रहते हैं' mean?",
+      "options": ["We eat together", "We live together", "We go together", "We are brothers"],
+      "correctAnswer": "We live together",
+      "explanation": "Ek saath means 'together' and rehte hain is 'live'."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: है / घर / बड़ा / मेरा (My house is big)",
+      "correctAnswer": "मेरा घर बड़ा है (mera ghar bada hai)",
+      "explanation": "Possessive, noun, adjective, then the verb hai at the end."
+    }
+  ],
+  "status": "complete"
+}

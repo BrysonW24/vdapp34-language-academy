@@ -1,0 +1,32 @@
+{
+  "slug": "nominative-accusative",
+  "name": "Nominative & Accusative",
+  "nameDe": "Nominativ und Akkusativ",
+  "summary": "The first two German cases: who does the action, and who or what receives it.",
+  "level": "beginner",
+  "order": 3,
+  "explanation": "German marks the role of a noun in a sentence with cases. The nominative is the subject (the doer). The accusative is the direct object (the thing being acted upon).\n\nThe key change happens with masculine nouns: 'der' becomes 'den' and 'ein' becomes 'einen' in the accusative. Feminine (die/eine), neuter (das/ein), and plural (die) articles do not change between nominative and accusative.\n\nSo in 'Der Mann sieht den Hund' (The man sees the dog), 'der Mann' is the subject (nominative) and 'den Hund' is the object (accusative). Reverse the articles and you reverse the meaning.",
+  "pattern": "Subject (Nom) + verb + Object (Acc)",
+  "cases": {
+    "masculine": "der -> den, ein -> einen",
+    "feminine": "die -> die, eine -> eine",
+    "neuter": "das -> das, ein -> ein",
+    "plural": "die -> die"
+  },
+  "examples": [
+    { "de": "Der Hund schlaft.", "en": "The dog sleeps. (nominative subject)" },
+    { "de": "Ich sehe den Hund.", "en": "I see the dog. (accusative object, masculine changes)" },
+    { "de": "Sie kauft einen Apfel.", "en": "She buys an apple. (einen, masculine accusative)" },
+    { "de": "Wir trinken die Milch.", "en": "We drink the milk. (feminine, no change)" },
+    { "de": "Das Kind isst das Brot.", "en": "The child eats the bread. (neuter, no change)" },
+    { "de": "Er liest ein Buch.", "en": "He reads a book. (neuter, no change)" }
+  ],
+  "commonMistakes": [
+    "Leaving masculine 'der' in the object position: it is 'Ich sehe den Mann', not 'Ich sehe der Mann'.",
+    "Changing feminine or neuter articles in the accusative. Only the masculine changes.",
+    "Forgetting 'ein' becomes 'einen' for masculine objects: 'Ich habe einen Bruder'.",
+    "Assuming word order shows the subject. In German the case marking does that, so the object can come first for emphasis.",
+    "Confusing the verb's subject and object when both are singular and the masculine marker is the only clue."
+  ],
+  "tip": "Only the masculine article changes in the accusative (der -> den, ein -> einen). Master that one shift and you have most of the accusative."
+}

@@ -1,0 +1,90 @@
+{
+  "slug": "health-and-emergencies",
+  "title": "Health & Emergencies",
+  "titleNative": "Salute ed emergenze",
+  "shortSummary": "Describe symptoms, ask for a pharmacy or doctor, and get help in an emergency.",
+  "level": "beginner",
+  "order": 13,
+  "icon": "🚑",
+  "color": "#c0392b",
+  "culturalNote": "The single emergency number across Italy and Europe is 112, which connects you to police, ambulance, and fire. For everyday ailments the first stop is the farmacia (pharmacy), marked by a green cross; Italian pharmacists are well trained and can advise on minor problems and supply many remedies. To describe pain, Italians use the verb fare male: mi fa male la testa literally means 'the head hurts me'. Knowing ho bisogno di un medico (I need a doctor) and chiami un'ambulanza (call an ambulance) can matter in a crisis.",
+  "keyPhrases": [
+    { "native": "Non mi sento bene", "english": "I don't feel well", "pronunciation": "non mee SEN-toh BEH-neh", "context": "General illness" },
+    { "native": "Mi fa male la testa", "english": "My head hurts", "pronunciation": "mee fah MAH-leh lah TES-tah", "context": "Describing pain" },
+    { "native": "Ho la febbre", "english": "I have a fever", "pronunciation": "oh lah FEB-breh", "context": "Symptoms" },
+    { "native": "Ho bisogno di un medico", "english": "I need a doctor", "pronunciation": "oh bee-ZOH-nyoh dee oon MEH-dee-koh", "context": "Seeking help" },
+    { "native": "Dov'è la farmacia?", "english": "Where is the pharmacy?", "pronunciation": "doh-VEH lah far-mah-CHEE-ah", "context": "Minor ailments" },
+    { "native": "Chiami un'ambulanza", "english": "Call an ambulance", "pronunciation": "kee-AH-mee oon-am-boo-LAN-tsah", "context": "Emergency" },
+    { "native": "È un'emergenza", "english": "It's an emergency", "pronunciation": "eh oon-eh-mer-JEN-tsah", "context": "Stating urgency" },
+    { "native": "Sono allergico", "english": "I'm allergic", "pronunciation": "SOH-noh al-LER-jee-koh", "context": "Important to mention" },
+    { "native": "Mi sono fatto male", "english": "I've hurt myself", "pronunciation": "mee SOH-noh FAT-toh MAH-leh", "context": "Injury" },
+    { "native": "Dov'è l'ospedale?", "english": "Where is the hospital?", "pronunciation": "doh-VEH los-peh-DAH-leh", "context": "Serious cases" }
+  ],
+  "grammar": [
+    {
+      "rule": "Fare male for pain",
+      "explanation": "To say something hurts, use fare male with an indirect pronoun: mi fa male (it hurts me). The thing that hurts is the subject, so mi fa male la testa, mi fanno male i piedi (my feet hurt, plural).",
+      "examples": [
+        { "native": "Mi fa male lo stomaco.", "en": "My stomach hurts." },
+        { "native": "Ti fanno male le gambe?", "en": "Do your legs hurt?" }
+      ],
+      "commonMistake": "Forgetting the verb agrees with the body part: fanno male for plural parts."
+    },
+    {
+      "rule": "Ho bisogno di for 'I need'",
+      "explanation": "To express need, Italian uses avere bisogno di (literally 'to have need of'). It is always followed by di before the noun or verb: ho bisogno di aiuto, ho bisogno di riposare.",
+      "examples": [
+        { "native": "Ho bisogno di una medicina.", "en": "I need a medicine." },
+        { "native": "Abbiamo bisogno di aiuto.", "en": "We need help." }
+      ],
+      "commonMistake": "Dropping the di. The phrase always needs bisogno di."
+    }
+  ],
+  "dialogue": {
+    "setup": "A traveller feels unwell and speaks to a pharmacist.",
+    "lines": [
+      { "speaker": "Farmacista", "native": "Buongiorno, mi dica.", "english": "Good morning, how can I help?" },
+      { "speaker": "Turista", "native": "Non mi sento bene. Mi fa male la testa.", "english": "I don't feel well. My head hurts." },
+      { "speaker": "Farmacista", "native": "Ha la febbre?", "english": "Do you have a fever?" },
+      { "speaker": "Turista", "native": "Sì, un po'. E sono allergico all'aspirina.", "english": "Yes, a little. And I'm allergic to aspirin." },
+      { "speaker": "Farmacista", "native": "Va bene, le do questo.", "english": "Alright, I'll give you this." },
+      { "speaker": "Turista", "native": "Grazie. Ho bisogno di riposare.", "english": "Thank you. I need to rest." },
+      { "speaker": "Farmacista", "native": "Sì, e beva molta acqua. Guarisca presto!", "english": "Yes, and drink plenty of water. Get well soon!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'I need a doctor' in Italian?",
+      "correctAnswer": "Ho bisogno di un medico",
+      "explanation": "Avere bisogno di means 'to need'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which phrase means 'my head hurts'?",
+      "options": ["Ho la testa", "Mi fa male la testa", "La testa è male", "Faccio la testa"],
+      "correctAnswer": "Mi fa male la testa",
+      "explanation": "Pain uses fare male with an indirect pronoun."
+    },
+    {
+      "type": "fill-blank",
+      "question": "Ho bisogno _____ aiuto. (of)",
+      "correctAnswer": "di",
+      "explanation": "Avere bisogno always takes di."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Where would you go first for a minor ailment in Italy?",
+      "options": ["l'ospedale", "la farmacia", "il municipio", "la stazione"],
+      "correctAnswer": "la farmacia",
+      "explanation": "The farmacia (pharmacy) handles minor health needs."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: un'ambulanza / chiami",
+      "correctAnswer": "Chiami un'ambulanza",
+      "explanation": "Chiami un'ambulanza means 'call an ambulance'."
+    }
+  ],
+  "status": "complete"
+}

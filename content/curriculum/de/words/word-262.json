@@ -1,11 +1,11 @@
 {
   "rank": 262,
-  "german": "heute",
-  "english": "today",
-  "pronunciation": "HOY-te",
-  "partOfSpeech": "adverb",
-  "exampleDe": "Heute ist ein schöner Tag.",
-  "exampleEn": "Today is a beautiful day.",
+  "german": "tut",
+  "english": "to do",
+  "pronunciation": "t u t",
+  "partOfSpeech": "verb",
+  "exampleDe": "Er tut das heute.",
+  "exampleEn": "He do that today.",
   "group": "everyday-250",
-  "topic": "time"
+  "topic": "actions"
 }

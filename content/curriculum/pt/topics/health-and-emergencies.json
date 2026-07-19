@@ -1,0 +1,90 @@
+{
+  "slug": "health-and-emergencies",
+  "title": "Health & Emergencies",
+  "titleNative": "Saúde e emergências",
+  "shortSummary": "Describe symptoms, ask for a pharmacy or doctor, and get help in an emergency.",
+  "level": "beginner",
+  "order": 13,
+  "icon": "🚑",
+  "color": "#c0392b",
+  "culturalNote": "In Brazil the emergency numbers are 192 for an ambulance (SAMU) and 190 for the police. For everyday ailments the first stop is the farmácia (pharmacy), which is plentiful and where pharmacists can advise on minor problems. To describe pain, Brazilians use estou com plus the symptom: estou com dor de cabeça (I have a headache, literally 'I'm with head pain'). Knowing preciso de um médico (I need a doctor) and chame uma ambulância (call an ambulance) is valuable. Brazilians are caring and will readily help someone who is unwell.",
+  "keyPhrases": [
+    { "native": "Não estou me sentindo bem", "english": "I don't feel well", "pronunciation": "nown es-TOH mee sen-TEEN-doo bayn", "context": "General illness" },
+    { "native": "Estou com dor de cabeça", "english": "I have a headache", "pronunciation": "es-TOH kohn dor jee kah-BEH-sah", "context": "Describing pain" },
+    { "native": "Estou com febre", "english": "I have a fever", "pronunciation": "es-TOH kohn FEH-bree", "context": "Symptoms" },
+    { "native": "Preciso de um médico", "english": "I need a doctor", "pronunciation": "preh-SEE-zoo jee oon MEH-jee-koo", "context": "Seeking help" },
+    { "native": "Onde fica a farmácia?", "english": "Where is the pharmacy?", "pronunciation": "ON-jee FEE-kah ah far-MAH-see-ah", "context": "Minor ailments" },
+    { "native": "Chame uma ambulância", "english": "Call an ambulance", "pronunciation": "SHAH-mee OO-mah am-boo-LAN-see-ah", "context": "Emergency" },
+    { "native": "É uma emergência", "english": "It's an emergency", "pronunciation": "eh OO-mah eh-mer-ZHEN-see-ah", "context": "Stating urgency" },
+    { "native": "Sou alérgico", "english": "I'm allergic", "pronunciation": "soh ah-LEHR-zhee-koo", "context": "Important to mention" },
+    { "native": "Eu me machuquei", "english": "I've hurt myself", "pronunciation": "EH-oo mee mah-shoo-KAY", "context": "Injury" },
+    { "native": "Onde fica o hospital?", "english": "Where is the hospital?", "pronunciation": "ON-jee FEE-kah oo os-pee-TOW", "context": "Serious cases" }
+  ],
+  "grammar": [
+    {
+      "rule": "Estar com for symptoms",
+      "explanation": "To say you have a symptom or feeling, Portuguese often uses estar com (to be with): estou com dor (I have pain), estou com fome (I'm hungry), estou com febre (I have a fever).",
+      "examples": [
+        { "native": "Estou com dor de estômago.", "en": "I have a stomachache." },
+        { "native": "Ela está com tosse.", "en": "She has a cough." }
+      ],
+      "commonMistake": "Translating 'I have' with tenho for symptoms; estar com sounds far more natural."
+    },
+    {
+      "rule": "Precisar de for 'to need'",
+      "explanation": "The verb precisar takes de before a noun: preciso de ajuda (I need help), preciso de um remédio (I need a medicine). Before a verb, it can drop the de: preciso descansar.",
+      "examples": [
+        { "native": "Preciso de um médico.", "en": "I need a doctor." },
+        { "native": "Precisamos de ajuda.", "en": "We need help." }
+      ],
+      "commonMistake": "Dropping de before a noun. It is preciso de um médico, not preciso um médico."
+    }
+  ],
+  "dialogue": {
+    "setup": "A traveller feels unwell and speaks to a pharmacist.",
+    "lines": [
+      { "speaker": "Farmacêutico", "native": "Bom dia, em que posso ajudar?", "english": "Good morning, how can I help?" },
+      { "speaker": "Turista", "native": "Não estou me sentindo bem. Estou com dor de cabeça.", "english": "I don't feel well. I have a headache." },
+      { "speaker": "Farmacêutico", "native": "Está com febre?", "english": "Do you have a fever?" },
+      { "speaker": "Turista", "native": "Um pouco. E sou alérgico a aspirina.", "english": "A little. And I'm allergic to aspirin." },
+      { "speaker": "Farmacêutico", "native": "Tudo bem, vou te dar este aqui.", "english": "Alright, I'll give you this one." },
+      { "speaker": "Turista", "native": "Obrigado. Preciso descansar.", "english": "Thank you. I need to rest." },
+      { "speaker": "Farmacêutico", "native": "Sim, e beba bastante água. Melhoras!", "english": "Yes, and drink plenty of water. Get well!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'I need a doctor' in Portuguese?",
+      "correctAnswer": "Preciso de um médico",
+      "explanation": "Precisar de means 'to need'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which phrase means 'I have a headache'?",
+      "options": ["Tenho cabeça", "Estou com dor de cabeça", "A cabeça é dor", "Faço dor de cabeça"],
+      "correctAnswer": "Estou com dor de cabeça",
+      "explanation": "Symptoms use estar com."
+    },
+    {
+      "type": "fill-blank",
+      "question": "Preciso _____ ajuda. (preposition)",
+      "correctAnswer": "de",
+      "explanation": "Precisar takes de before a noun."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Where would you go first for a minor ailment in Brazil?",
+      "options": ["o hospital", "a farmácia", "a rodoviária", "a praça"],
+      "correctAnswer": "a farmácia",
+      "explanation": "The farmácia (pharmacy) handles minor health needs."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: uma / chame / ambulância",
+      "correctAnswer": "Chame uma ambulância",
+      "explanation": "Chame uma ambulância means 'call an ambulance'."
+    }
+  ],
+  "status": "complete"
+}

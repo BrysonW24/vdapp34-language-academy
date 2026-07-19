@@ -1,0 +1,21 @@
+{
+  "slug": "survival",
+  "title": "Survival Portuguese",
+  "description": "The essential phrases to get by anywhere in Brazil. Learn these first.",
+  "situation": "Absolute basics: greetings, please, thank you, help, and signalling when you do not understand.",
+  "order": 1,
+  "phrases": [
+    { "native": "Bom dia", "english": "Good morning / Hello", "pronunciation": "bohn DEE-ah", "formality": "neutral", "tip": "Switch to boa tarde in the afternoon." },
+    { "native": "Por favor", "english": "Please", "pronunciation": "por fah-VOR", "formality": "neutral" },
+    { "native": "Obrigado", "english": "Thank you", "pronunciation": "oh-bree-GAH-doo", "formality": "neutral", "tip": "Men say obrigado, women say obrigada." },
+    { "native": "Com licença", "english": "Excuse me", "pronunciation": "kohn lee-SEN-sah", "formality": "neutral", "tip": "Use to pass by or get attention." },
+    { "native": "Sim / Não", "english": "Yes / No", "pronunciation": "seen / nown", "formality": "neutral" },
+    { "native": "Não entendo", "english": "I don't understand", "pronunciation": "nown en-TEN-doo", "formality": "neutral", "tip": "The single most useful survival phrase." },
+    { "native": "Você fala inglês?", "english": "Do you speak English?", "pronunciation": "voh-SEH FAH-lah een-GLES", "formality": "neutral" },
+    { "native": "Pode repetir?", "english": "Can you repeat that?", "pronunciation": "POH-jee heh-peh-TEER", "formality": "neutral" },
+    { "native": "Quanto custa?", "english": "How much does it cost?", "pronunciation": "KWAN-too KOOS-tah", "formality": "neutral" },
+    { "native": "Onde fica o banheiro?", "english": "Where is the toilet?", "pronunciation": "ON-jee FEE-kah oo bah-NYEH-roo", "formality": "neutral" },
+    { "native": "Preciso de ajuda", "english": "I need help", "pronunciation": "preh-SEE-zoo jee ah-ZHOO-dah", "formality": "neutral" },
+    { "native": "Tchau", "english": "Bye", "pronunciation": "chow", "formality": "informal", "tip": "Formal: até logo (see you later)." }
+  ]
+}

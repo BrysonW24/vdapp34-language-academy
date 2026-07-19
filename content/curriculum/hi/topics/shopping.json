@@ -1,0 +1,90 @@
+{
+  "slug": "shopping",
+  "title": "Shopping",
+  "titleNative": "खरीदारी",
+  "shortSummary": "Buy things, ask prices, bargain politely, and pay in Hindi markets and shops.",
+  "level": "beginner",
+  "order": 6,
+  "icon": "🛍️",
+  "color": "#9c36b5",
+  "culturalNote": "Indian shopping spans tiny street stalls, weekly markets, and air-conditioned malls, and the rules differ. In local markets and with street vendors, polite bargaining (मोल-भाव) is expected and even enjoyed; a friendly 'kuch kam kijiye' (please reduce it a little) is normal, but never aggressive. In fixed-price shops and malls, prices are set and bargaining is out of place. Cash is still common, but digital payment apps using UPI (you may hear 'QR code scan kijiye') are everywhere, even with small vendors. The currency is the rupaya (रुपया), and prices are often quoted per kilo for food. When a shopkeeper says 'lijiye' (please take it) while handing something over, a simple dhanyavaad is enough.",
+  "keyPhrases": [
+    { "native": "यह कितने का है?", "transliteration": "yah kitne ka hai?", "english": "How much is this?", "pronunciation": "yuh KIT-nay kaa hai", "context": "Asking a price" },
+    { "native": "बहुत महँगा है", "transliteration": "bahut mehanga hai", "english": "It is very expensive", "pronunciation": "buh-HOOT muh-HUN-gaa hai", "context": "Reacting to a price" },
+    { "native": "कुछ कम कीजिए", "transliteration": "kuch kam kijiye", "english": "Please reduce it a little", "pronunciation": "kuch kum KEE-ji-yay", "context": "Polite bargaining" },
+    { "native": "मुझे यह चाहिए", "transliteration": "mujhe yah chahiye", "english": "I want this", "pronunciation": "MOO-jhay yuh CHAA-hi-yay", "context": "Choosing an item" },
+    { "native": "क्या आपके पास ... है?", "transliteration": "kya aapke paas ... hai?", "english": "Do you have ...?", "pronunciation": "kyaa AAP-kay paas ... hai", "context": "Asking availability" },
+    { "native": "दूसरा रंग दिखाइए", "transliteration": "doosra rang dikhaiye", "english": "Please show another colour", "pronunciation": "DOOS-raa rung di-KHAA-i-yay", "context": "Asking options" },
+    { "native": "मैं सिर्फ़ देख रहा हूँ", "transliteration": "main sirf dekh raha hoon", "english": "I'm just looking (man speaking)", "pronunciation": "main sirf dekh ruh-HAA hoon", "context": "Browsing" },
+    { "native": "मैं कार्ड से दूँगा", "transliteration": "main card se doonga", "english": "I'll pay by card (man speaking)", "pronunciation": "main card say DOON-gaa", "context": "Paying" },
+    { "native": "रसीद दीजिए", "transliteration": "raseed dijiye", "english": "Please give a receipt", "pronunciation": "ruh-SEED DEE-ji-yay", "context": "After paying" },
+    { "native": "बस इतना ही", "transliteration": "bas itna hi", "english": "That's all", "pronunciation": "bus IT-naa hee", "context": "Finishing an order" }
+  ],
+  "grammar": [
+    {
+      "rule": "Ka, ke, ki agreement in prices",
+      "explanation": "The price-link word ka (का) changes to ki (की) before feminine nouns and ke (के) before plurals. Yah kitne ka hai uses masculine ka; for a feminine item like a book you would say yah kitne ki hai.",
+      "examples": [
+        { "native": "यह शर्ट कितने की है? (yah shirt kitne ki hai?)", "en": "How much is this shirt? (feminine)" },
+        { "native": "ये जूते कितने के हैं? (ye joote kitne ke hain?)", "en": "How much are these shoes? (plural)" }
+      ],
+      "commonMistake": "Using ka with every noun; the form must agree with gender and number."
+    },
+    {
+      "rule": "Aapke paas for 'do you have'",
+      "explanation": "To ask if someone has something, Hindi uses ke paas (literally 'near'): aapke paas chai hai? means 'do you have tea?'. There is no separate verb 'to have'; possession is expressed with paas plus hai.",
+      "examples": [
+        { "native": "आपके पास छाता है? (aapke paas chhaata hai?)", "en": "Do you have an umbrella?" },
+        { "native": "मेरे पास पैसे हैं। (mere paas paise hain.)", "en": "I have money." }
+      ],
+      "commonMistake": "Translating 'have' with a single verb; Hindi needs the paas construction."
+    }
+  ],
+  "dialogue": {
+    "setup": "Priya shops for a scarf at a market stall run by a vendor, Imran.",
+    "lines": [
+      { "speaker": "Priya", "native": "नमस्ते! यह स्कार्फ़ कितने का है?", "transliteration": "namaste! yah scarf kitne ka hai?", "english": "Hello! How much is this scarf?" },
+      { "speaker": "Imran", "native": "नमस्ते! तीन सौ रुपये का है।", "transliteration": "namaste! teen sau rupaye ka hai.", "english": "Hello! It's three hundred rupees." },
+      { "speaker": "Priya", "native": "बहुत महँगा है। कुछ कम कीजिए।", "transliteration": "bahut mehanga hai. kuch kam kijiye.", "english": "That's very expensive. Please reduce it a little." },
+      { "speaker": "Imran", "native": "ठीक है, दो सौ पचास दे दीजिए।", "transliteration": "theek hai, do sau pachaas de dijiye.", "english": "Okay, give two hundred and fifty." },
+      { "speaker": "Priya", "native": "क्या आपके पास नीला रंग है?", "transliteration": "kya aapke paas neela rang hai?", "english": "Do you have it in blue?" },
+      { "speaker": "Imran", "native": "जी हाँ, ये लीजिए।", "transliteration": "ji haan, ye lijiye.", "english": "Yes, here you go." },
+      { "speaker": "Priya", "native": "ठीक है, मैं कार्ड से दूँगी। रसीद दीजिए।", "transliteration": "theek hai, main card se doongi. raseed dijiye.", "english": "Okay, I'll pay by card. Please give a receipt." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you ask 'How much is this?' in Hindi?",
+      "correctAnswer": "यह कितने का है? (yah kitne ka hai?)",
+      "explanation": "Kitne ka hai asks the price of a masculine item."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which phrase politely asks for a lower price?",
+      "options": ["बहुत महँगा है", "कुछ कम कीजिए", "रसीद दीजिए", "बस इतना ही"],
+      "correctAnswer": "कुछ कम कीजिए",
+      "explanation": "Kuch kam kijiye means 'please reduce it a little'."
+    },
+    {
+      "type": "fill-blank",
+      "question": "आपके _____ छाता है? (Do you have an umbrella?)",
+      "correctAnswer": "पास (paas)",
+      "explanation": "Ke paas plus hai is how Hindi expresses 'to have'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does 'मैं सिर्फ़ देख रहा हूँ' mean?",
+      "options": ["I want this", "I'm just looking", "It's expensive", "Give a receipt"],
+      "correctAnswer": "I'm just looking",
+      "explanation": "Sirf means 'only/just' and dekh raha hoon is 'am looking'."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: चाहिए / यह / मुझे (I want this)",
+      "correctAnswer": "मुझे यह चाहिए (mujhe yah chahiye)",
+      "explanation": "Mujhe (to me), then the object yah, then chahiye at the end."
+    }
+  ],
+  "status": "complete"
+}

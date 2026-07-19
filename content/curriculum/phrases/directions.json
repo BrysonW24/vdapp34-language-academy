@@ -1,0 +1,21 @@
+{
+  "slug": "directions",
+  "title": "Asking for Directions",
+  "description": "12 key phrases for finding your way around — asking for directions, understanding responses, and locating landmarks.",
+  "situation": "On the street, in a city centre, finding landmarks, buildings, and transport stops.",
+  "order": 5,
+  "phrases": [
+    { "spanish": "Disculpe, ¿dónde está...?", "english": "Excuse me, where is...?", "pronunciation": "dees-KOOL-peh DOHN-deh ehs-TAH", "formality": "formal", "tip": "'Disculpe' (formal) or 'perdona' (informal) to get attention politely" },
+    { "spanish": "¿Cómo llego a...?", "english": "How do I get to...?", "pronunciation": "KOH-moh YEH-goh ah", "formality": "neutral" },
+    { "spanish": "Siga todo recto", "english": "Go straight ahead", "pronunciation": "SEE-gah TOH-doh RREHK-toh", "formality": "formal" },
+    { "spanish": "Gire a la derecha", "english": "Turn right", "pronunciation": "HEE-reh ah lah deh-REH-chah", "formality": "formal" },
+    { "spanish": "Gire a la izquierda", "english": "Turn left", "pronunciation": "HEE-reh ah lah eez-kee-EHR-dah", "formality": "formal" },
+    { "spanish": "Está al final de la calle", "english": "It's at the end of the street", "pronunciation": "ehs-TAH ahl fee-NAHL deh lah KAH-yeh", "formality": "neutral" },
+    { "spanish": "Está a dos cuadras de aquí", "english": "It's two blocks from here", "pronunciation": "ehs-TAH ah dohs KWAH-drahs deh ah-KEE", "formality": "neutral", "tip": "'Cuadras' in Latin America, 'manzanas' in Spain" },
+    { "spanish": "¿Está lejos o cerca?", "english": "Is it far or near?", "pronunciation": "ehs-TAH LEH-hohs oh SEHR-kah", "formality": "neutral" },
+    { "spanish": "Está al lado de la iglesia", "english": "It's next to the church", "pronunciation": "ehs-TAH ahl LAH-doh deh lah ee-GLEH-see-ah", "formality": "neutral" },
+    { "spanish": "¿Se puede ir andando?", "english": "Can you walk there?", "pronunciation": "seh PWEH-deh eer ahn-DAHN-doh", "formality": "neutral" },
+    { "spanish": "Creo que estoy perdido/perdida", "english": "I think I'm lost", "pronunciation": "KREH-oh keh ehs-TOY pehr-DEE-doh/dah", "formality": "neutral", "tip": "Use perdido (male) or perdida (female)" },
+    { "spanish": "¿Me puede mostrar en el mapa?", "english": "Can you show me on the map?", "pronunciation": "meh PWEH-deh mohs-TRAHR ehn ehl MAH-pah", "formality": "formal" }
+  ]
+}

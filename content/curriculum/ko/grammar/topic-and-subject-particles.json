@@ -1,0 +1,32 @@
+{
+  "slug": "topic-and-subject-particles",
+  "name": "Topic and Subject Particles",
+  "nameNative": "은/는 그리고 이/가",
+  "summary": "Master the two particle pairs that mark the topic (은/는) and the subject (이/가) of a Korean sentence.",
+  "level": "beginner",
+  "order": 1,
+  "explanation": "Korean attaches small markers called particles to nouns to show their role. The topic particle 은/는 marks what the sentence is about, often used for contrast or general statements. Use 은 after a consonant and 는 after a vowel: 책은 (chaegeun, the book), 저는 (jeoneun, as for me).\n\nThe subject particle 이/가 marks who or what does the action, and it often introduces new information or answers 'who?' or 'what?'. Use 이 after a consonant and 가 after a vowel: 책이 (chaegi), 친구가 (chinguga).\n\nA useful rule of thumb: 은/는 sets the stage ('as for X...') while 이/가 picks out the specific subject. 'I am a student' is 저는 학생이에요 (the topic is me); 'Who came?' is answered with 친구가 왔어요 (the friend, as new information, came).",
+  "pattern": "noun + 은/는 (topic) ... noun + 이/가 (subject)",
+  "conjugation": {
+    "topic after consonant": "책 + 은 = 책은",
+    "topic after vowel": "저 + 는 = 저는",
+    "subject after consonant": "책 + 이 = 책이",
+    "subject after vowel": "친구 + 가 = 친구가"
+  },
+  "examples": [
+    { "native": "저는 학생이에요. (jeoneun haksaengieyo.)", "en": "As for me, I'm a student." },
+    { "native": "이건 커피예요. (igeon keopiyeyo.)", "en": "This is coffee." },
+    { "native": "친구가 왔어요. (chinguga wasseoyo.)", "en": "A friend came." },
+    { "native": "날씨가 좋아요. (nalssiga joayo.)", "en": "The weather is nice." },
+    { "native": "한국은 아름다워요. (hangugeun areumdawoyo.)", "en": "Korea is beautiful." },
+    { "native": "고양이는 좋아하지만 개는 안 좋아해요. (goyangineun joahajiman gaeneun an joahaeyo.)", "en": "I like cats, but I don't like dogs." }
+  ],
+  "commonMistakes": [
+    "Using 은/는 after a vowel or 이/가 after a consonant. The form depends on the final sound: 저는 (vowel) but 책은 (consonant).",
+    "Treating 은/는 and 이/가 as interchangeable. 은/는 is the topic and often contrastive; 이/가 marks the specific subject.",
+    "Answering 'who came?' with 는. New-information subjects take 가: 친구가 왔어요, not 친구는 왔어요.",
+    "Dropping the particle in writing. Casual speech may omit it, but learners should keep it to build the habit.",
+    "Forgetting that 저 + 는 contracts naturally to 저는 and 나 + 는 to 나는; do not write 저은."
+  ],
+  "tip": "Think of 은/는 as 'as for...' and 이/가 as a spotlight on the doer. When in doubt about new info, reach for 이/가."
+}

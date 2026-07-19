@@ -1,13 +1,13 @@
 {
   "rank": 404,
-  "chinese": "担心",
-  "characters": "担心",
-  "pinyin": "dānxīn",
-  "english": "to worry",
-  "pronunciation": "dahn-sheen (1st, 1st)",
-  "partOfSpeech": "verb",
-  "exampleZh": "妈妈总是担心我。",
-  "exampleEn": "Mom always worries about me.",
+  "chinese": "来源",
+  "characters": "来源",
+  "pinyin": "lái yuán",
+  "english": "source",
+  "pronunciation": "lai-yuan",
+  "partOfSpeech": "noun",
+  "exampleZh": "这个来源很重要。",
+  "exampleEn": "This source is important.",
   "group": "confident-350",
-  "topic": "emotions"
+  "topic": "basics"
 }

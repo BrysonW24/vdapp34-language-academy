@@ -45,6 +45,9 @@
   }
 
   html {
+    /* Global density lever: rem-based text AND spacing scale from this.
+       14.5px (vs the 16px default) compacts the whole app to fit more in. */
+    font-size: 14.5px;
     min-height: 100%;
     background:
       radial-gradient(circle at top left, rgba(233, 220, 184, 0.55), transparent 32%),
@@ -56,6 +59,7 @@
     @apply text-foreground antialiased;
     font-family: "Avenir Next", "Segoe UI", "Helvetica Neue", Inter, system-ui, sans-serif;
     letter-spacing: -0.01em;
+    line-height: 1.45;
     background:
       linear-gradient(135deg, rgba(255, 255, 255, 0.4), transparent 40%),
       linear-gradient(180deg, rgba(255, 255, 255, 0.35), transparent 30%);

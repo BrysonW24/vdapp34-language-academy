@@ -1,13 +1,13 @@
 {
   "rank": 406,
-  "chinese": "生气",
-  "characters": "生气",
-  "pinyin": "shēngqì",
-  "english": "angry, to get angry",
-  "pronunciation": "shung-chee (1st, 4th)",
-  "partOfSpeech": "adjective",
-  "exampleZh": "他很生气。",
-  "exampleEn": "He is very angry.",
+  "chinese": "理解",
+  "characters": "理解",
+  "pinyin": "lǐ jiě",
+  "english": "to understand",
+  "pronunciation": "li-jie",
+  "partOfSpeech": "verb",
+  "exampleZh": "我理解朋友一起去。",
+  "exampleEn": "I am going with my friend.",
   "group": "confident-350",
-  "topic": "emotions"
+  "topic": "actions"
 }

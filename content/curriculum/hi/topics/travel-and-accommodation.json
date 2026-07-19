@@ -1,0 +1,90 @@
+{
+  "slug": "travel-and-accommodation",
+  "title": "Travel & Accommodation",
+  "titleNative": "यात्रा और आवास",
+  "shortSummary": "Book a room, check in, and handle travel basics in Hindi with confidence.",
+  "level": "beginner",
+  "order": 10,
+  "icon": "🧳",
+  "color": "#0b7285",
+  "culturalNote": "India offers everything from grand heritage hotels to simple guesthouses, and a budget lodge is often called a dharamshala or a basic hotel. When you check in, you will usually need to show identification, and foreign visitors fill in a form called a 'C-form'. Hospitality runs deep; the Sanskrit saying 'atithi devo bhava' means 'the guest is like God', and hosts take pride in looking after travellers. Tipping (बख्शीश, bakhsheesh) is appreciated by porters and room staff but is not strictly required. Train travel is a classic Indian experience, and booking ahead through the railways is wise during festival seasons when everything is full. A polite 'kya kamra khaali hai?' (is a room free?) is a useful opener at any guesthouse.",
+  "keyPhrases": [
+    { "native": "क्या कमरा खाली है?", "transliteration": "kya kamra khaali hai?", "english": "Is a room free?", "pronunciation": "kyaa KUM-raa KHAA-lee hai", "context": "Asking for a room" },
+    { "native": "एक रात का कितना है?", "transliteration": "ek raat ka kitna hai?", "english": "How much for one night?", "pronunciation": "ek raat kaa KIT-naa hai", "context": "Asking the rate" },
+    { "native": "मुझे एक कमरा चाहिए", "transliteration": "mujhe ek kamra chahiye", "english": "I need a room", "pronunciation": "MOO-jhay ek KUM-raa CHAA-hi-yay", "context": "Requesting a room" },
+    { "native": "क्या नाश्ता शामिल है?", "transliteration": "kya naashta shaamil hai?", "english": "Is breakfast included?", "pronunciation": "kyaa NAASH-taa SHAA-mil hai", "context": "Asking about meals" },
+    { "native": "वाई-फाई का पासवर्ड क्या है?", "transliteration": "wi-fi ka password kya hai?", "english": "What is the wifi password?", "pronunciation": "wai-fai kaa PASS-word kyaa hai", "context": "At the hotel" },
+    { "native": "मैं दो रात रुकूँगा", "transliteration": "main do raat rukoonga", "english": "I will stay two nights (man)", "pronunciation": "main doh raat roo-KOON-gaa", "context": "Length of stay" },
+    { "native": "चेक-आउट कितने बजे है?", "transliteration": "check-out kitne baje hai?", "english": "What time is check-out?", "pronunciation": "chek-out KIT-nay BUH-jay hai", "context": "Leaving" },
+    { "native": "कृपया टैक्सी बुलाइए", "transliteration": "kripya taxi bulaiye", "english": "Please call a taxi", "pronunciation": "KRIP-yaa TAK-see boo-LAA-i-yay", "context": "Arranging transport" },
+    { "native": "मेरा सामान भारी है", "transliteration": "mera saamaan bhaari hai", "english": "My luggage is heavy", "pronunciation": "MAY-raa saa-MAAN BHAA-ree hai", "context": "At reception" },
+    { "native": "धन्यवाद, सब ठीक है", "transliteration": "dhanyavaad, sab theek hai", "english": "Thank you, everything is fine", "pronunciation": "DHUN-yuh-vaad, sub theek hai", "context": "Reassurance" }
+  ],
+  "grammar": [
+    {
+      "rule": "Future tense with -unga / -ungi",
+      "explanation": "To say what you will do, add -unga (man) or -ungi (woman) to the verb stem: rukna (to stay) becomes rukoonga, jaana (to go) becomes jaaunga. The ending carries both the future meaning and the speaker's gender.",
+      "examples": [
+        { "native": "मैं दो रात रुकूँगा। (main do raat rukoonga.)", "en": "I will stay two nights. (man)" },
+        { "native": "मैं कल जाऊँगी। (main kal jaaungi.)", "en": "I will go tomorrow. (woman)" }
+      ],
+      "commonMistake": "A woman using -unga; she should use the feminine -ungi ending."
+    },
+    {
+      "rule": "Polite requests with kripya",
+      "explanation": "Kripya (कृपया) means 'please' and is added before a polite -iye verb in formal or written requests. Kripya taxi bulaiye is a courteous 'please call a taxi'; in speech the -iye form alone is already polite.",
+      "examples": [
+        { "native": "कृपया दरवाज़ा खोलिए। (kripya darwaaza kholiye.)", "en": "Please open the door." },
+        { "native": "कृपया रुकिए। (kripya rukiye.)", "en": "Please wait." }
+      ],
+      "commonMistake": "Adding kripya to a casual command; pair it with the polite -iye form, not the bare stem."
+    }
+  ],
+  "dialogue": {
+    "setup": "Maya arrives at a guesthouse and speaks with the receptionist, Sunil.",
+    "lines": [
+      { "speaker": "Maya", "native": "नमस्ते! क्या कमरा खाली है?", "transliteration": "namaste! kya kamra khaali hai?", "english": "Hello! Is a room free?" },
+      { "speaker": "Sunil", "native": "नमस्ते! जी हाँ, एक कमरा है।", "transliteration": "namaste! ji haan, ek kamra hai.", "english": "Hello! Yes, there is one room." },
+      { "speaker": "Maya", "native": "एक रात का कितना है?", "transliteration": "ek raat ka kitna hai?", "english": "How much for one night?" },
+      { "speaker": "Sunil", "native": "एक हज़ार रुपये, नाश्ता शामिल है।", "transliteration": "ek hazaar rupaye, naashta shaamil hai.", "english": "One thousand rupees, breakfast included." },
+      { "speaker": "Maya", "native": "ठीक है। मैं दो रात रुकूँगी।", "transliteration": "theek hai. main do raat rukoongi.", "english": "Okay. I'll stay two nights." },
+      { "speaker": "Sunil", "native": "बहुत अच्छा। चेक-आउट ग्यारह बजे है।", "transliteration": "bahut achha. check-out gyaarah baje hai.", "english": "Very good. Check-out is at eleven." },
+      { "speaker": "Maya", "native": "धन्यवाद! कृपया टैक्सी भी बुलाइए।", "transliteration": "dhanyavaad! kripya taxi bhi bulaiye.", "english": "Thank you! Please also call a taxi." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you ask 'Is a room free?' in Hindi?",
+      "correctAnswer": "क्या कमरा खाली है? (kya kamra khaali hai?)",
+      "explanation": "Kya turns it into a yes/no question; khaali means 'free/empty'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "A woman saying 'I will stay two nights' should say:",
+      "options": ["मैं दो रात रुकूँगा", "मैं दो रात रुकूँगी", "मैं दो रात रुकता हूँ", "मैं दो रात रुका"],
+      "correctAnswer": "मैं दो रात रुकूँगी",
+      "explanation": "Rukoongi is the feminine future; rukoonga is for a man."
+    },
+    {
+      "type": "fill-blank",
+      "question": "क्या नाश्ता _____ है? (Is breakfast included?)",
+      "correctAnswer": "शामिल (shaamil)",
+      "explanation": "Shaamil means 'included'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does 'कृपया (kripya)' mean?",
+      "options": ["Thank you", "Sorry", "Please", "Welcome"],
+      "correctAnswer": "Please",
+      "explanation": "Kripya is the formal 'please' placed before a polite request."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: चाहिए / एक / कमरा / मुझे (I need a room)",
+      "correctAnswer": "मुझे एक कमरा चाहिए (mujhe ek kamra chahiye)",
+      "explanation": "Mujhe, the object ek kamra, then chahiye at the end."
+    }
+  ],
+  "status": "complete"
+}

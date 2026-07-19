@@ -1,11 +1,11 @@
 {
   "rank": 294,
-  "german": "zeigen",
-  "english": "to show",
-  "pronunciation": "TSY-gen",
+  "german": "sehe",
+  "english": "to see",
+  "pronunciation": "z e ə",
   "partOfSpeech": "verb",
-  "exampleDe": "Können Sie mir den Weg zeigen?",
-  "exampleEn": "Can you show me the way?",
+  "exampleDe": "Ich möchte sehen.",
+  "exampleEn": "I want to see.",
   "group": "everyday-250",
-  "topic": "communication"
+  "topic": "actions"
 }

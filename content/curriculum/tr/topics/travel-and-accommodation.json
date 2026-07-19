@@ -1,0 +1,90 @@
+{
+  "slug": "travel-and-accommodation",
+  "title": "Travel & Accommodation",
+  "titleNative": "Seyahat ve konaklama",
+  "shortSummary": "Check into a hotel, book a room, and handle travel basics in Turkish.",
+  "level": "beginner",
+  "order": 10,
+  "icon": "🧳",
+  "color": "#0c8599",
+  "culturalNote": "Turkey is a hospitable destination, and the word for guest, misafir, is treated almost sacredly; a Turkish proverb holds that a guest brings ten blessings. Accommodation ranges from large coastal hotels to small family-run pensions (pansiyon) and beautifully restored boutique hotels in historic quarters, where the owner may greet you personally with tea. At reception (resepsiyon) staff often speak some English in tourist areas, but a few Turkish phrases earn warm smiles and better service. Breakfast (kahvaltı) is usually included and can be a lavish spread. When booking, you state how many nights (kaç gece) and people, and many places still appreciate cash in Turkish lira alongside cards. A polite iyi yolculuklar (have a good journey) is a kind thing to hear or say before setting off.",
+  "keyPhrases": [
+    { "native": "Boş oda var mı?", "english": "Is there a free room?", "pronunciation": "bohsh oh-DAH vahr muh", "context": "At reception" },
+    { "native": "Bir gece için", "english": "For one night", "pronunciation": "beer geh-JEH ee-CHEEN", "context": "Stating your stay" },
+    { "native": "Rezervasyonum var", "english": "I have a reservation", "pronunciation": "reh-zehr-vahs-yoh-NOOM vahr", "context": "Checking in" },
+    { "native": "Oda ne kadar?", "english": "How much is the room?", "pronunciation": "oh-DAH neh kah-DAHR", "context": "Asking the price" },
+    { "native": "Kahvaltı dahil mi?", "english": "Is breakfast included?", "pronunciation": "kah-vahl-TUH dah-HEEL mee", "context": "Checking what's included" },
+    { "native": "Wi-Fi şifresi ne?", "english": "What's the Wi-Fi password?", "pronunciation": "wai-fai shif-reh-SEE neh", "context": "Getting online" },
+    { "native": "Anahtar, lütfen", "english": "The key, please", "pronunciation": "ah-nahh-TAHR lewt-FEHN", "context": "Asking for your key" },
+    { "native": "Bavulum nerede?", "english": "Where is my suitcase?", "pronunciation": "bah-voo-LOOM neh-reh-DEH", "context": "Luggage matters" },
+    { "native": "Saat kaçta çıkış?", "english": "What time is check-out?", "pronunciation": "sah-AHT kahch-TAH chuh-KUHSH", "context": "Planning departure" },
+    { "native": "İyi yolculuklar", "english": "Have a good journey", "pronunciation": "ee-YEE yohl-joo-look-LAHR", "context": "Wishing a traveller well" }
+  ],
+  "grammar": [
+    {
+      "rule": "için for 'for' a purpose or duration",
+      "explanation": "The postposition için means 'for' and comes after the word it relates to, not before it as in English. Bir gece için (for one night), senin için (for you), bu oda için (for this room). Unlike a suffix, için stays a separate word.",
+      "examples": [
+        { "native": "İki kişi için bir oda.", "en": "A room for two people." },
+        { "native": "Üç gece için kalıyorum.", "en": "I'm staying for three nights." }
+      ],
+      "commonMistake": "Placing için before the noun like English 'for'. It always follows: bir gece için, not için bir gece."
+    },
+    {
+      "rule": "Yes/no questions with mı plus possessive",
+      "explanation": "To ask 'is there...?' or 'is it...?' you add the harmonising particle mı/mi/mu/mü after the relevant word. Boş oda var mı? (is there a free room?), kahvaltı dahil mi? (is breakfast included?). The particle agrees in vowel with the preceding syllable.",
+      "examples": [
+        { "native": "Asansör var mı?", "en": "Is there a lift?" },
+        { "native": "Deniz manzaralı mı?", "en": "Does it have a sea view?" }
+      ],
+      "commonMistake": "Using the wrong vowel in the particle. After 'dahil' it is dahil mi, but after 'var' it is var mı."
+    }
+  ],
+  "dialogue": {
+    "setup": "A traveller arrives at a small hotel in Antalya and checks in at reception.",
+    "lines": [
+      { "speaker": "Misafir", "native": "Merhaba, boş oda var mı?", "english": "Hello, is there a free room?" },
+      { "speaker": "Resepsiyon", "native": "Hoş geldiniz. Kaç gece için?", "english": "Welcome. For how many nights?" },
+      { "speaker": "Misafir", "native": "İki gece için. Oda ne kadar?", "english": "For two nights. How much is the room?" },
+      { "speaker": "Resepsiyon", "native": "Gecesi sekiz yüz lira. Kahvaltı dahil.", "english": "Eight hundred lira a night. Breakfast is included." },
+      { "speaker": "Misafir", "native": "Güzel. Wi-Fi şifresi ne?", "english": "Nice. What's the Wi-Fi password?" },
+      { "speaker": "Resepsiyon", "native": "Anahtarın üzerinde yazıyor. Buyurun.", "english": "It's written on the key. Here you are." },
+      { "speaker": "Misafir", "native": "Teşekkürler. Saat kaçta çıkış?", "english": "Thank you. What time is check-out?" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you ask 'Is breakfast included?' in Turkish?",
+      "correctAnswer": "Kahvaltı dahil mi?",
+      "explanation": "Dahil means 'included' and mi makes it a yes/no question."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which phrase asks for a free room?",
+      "options": ["Anahtar, lütfen", "Boş oda var mı?", "Oda ne kadar?", "Bir gece için"],
+      "correctAnswer": "Boş oda var mı?",
+      "explanation": "Boş means empty/free, oda means room, var mı? asks 'is there?'"
+    },
+    {
+      "type": "fill-blank",
+      "question": "İki gece _____ kalıyorum. (I'm staying for two nights)",
+      "correctAnswer": "için",
+      "explanation": "İçin means 'for' and follows the noun: iki gece için."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does 'İyi yolculuklar' mean?",
+      "options": ["Have a good journey", "Welcome", "Good night", "Check-out time"],
+      "correctAnswer": "Have a good journey",
+      "explanation": "İyi yolculuklar wishes a traveller a good journey."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: var / oda / boş / mı",
+      "correctAnswer": "Boş oda var mı",
+      "explanation": "Boş oda var mı? means 'Is there a free room?'"
+    }
+  ],
+  "status": "complete"
+}

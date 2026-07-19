@@ -1,0 +1,90 @@
+{
+  "slug": "emotions-and-opinions",
+  "title": "Emotions & Opinions",
+  "titleNative": "감정과 의견",
+  "shortSummary": "Express how you feel and share opinions politely, with the indirectness Korean conversation prefers.",
+  "level": "pre-intermediate",
+  "order": 15,
+  "icon": "💬",
+  "color": "#5f3dc4",
+  "culturalNote": "Koreans often express emotions and opinions with a degree of indirectness that protects social harmony, a value rooted in 눈치 (nunchi), the skill of reading a room and sensing what others feel without being told. Strong disagreement is usually softened, so instead of a flat 'no' you might hear 좀 그래요 (jom geuraeyo, it's a bit much) or a gentle hesitation. Saying 글쎄요 (geulsseyo, well, I'm not sure) buys time and avoids bluntness. Positive feelings are shared more freely, and 기뻐요 (gippeoyo, I'm happy) or 재미있어요 (jaemiisseoyo, it's fun) come up often. When giving opinions, the phrase 제 생각에는 (je saenggageneun, in my opinion) frames a view modestly. Because tone and face matter so much, learners sound more natural and considerate when they hedge opinions and lead with empathy rather than stating conclusions too directly.",
+  "keyPhrases": [
+    { "native": "기분이 어때요?", "english": "How do you feel?", "transliteration": "gibuni eottaeyo?", "pronunciation": "gi-bu-ni o-ttae-yo", "context": "Asking about feelings" },
+    { "native": "기뻐요", "english": "I'm happy", "transliteration": "gippeoyo", "pronunciation": "gi-ppo-yo", "context": "Positive emotion" },
+    { "native": "슬퍼요", "english": "I'm sad", "transliteration": "seulpeoyo", "pronunciation": "seul-po-yo", "context": "Negative emotion" },
+    { "native": "화가 나요", "english": "I'm angry", "transliteration": "hwaga nayo", "pronunciation": "hwa-ga na-yo", "context": "Expressing anger" },
+    { "native": "재미있어요", "english": "It's fun / interesting", "transliteration": "jaemiisseoyo", "pronunciation": "jae-mi-i-sso-yo", "context": "Positive judgement" },
+    { "native": "제 생각에는", "english": "In my opinion", "transliteration": "je saenggageneun", "pronunciation": "je saeng-ga-ge-neun", "context": "Framing an opinion modestly" },
+    { "native": "맞아요", "english": "That's right / I agree", "transliteration": "majayo", "pronunciation": "ma-ja-yo", "context": "Agreeing" },
+    { "native": "글쎄요", "english": "Well, I'm not sure", "transliteration": "geulsseyo", "pronunciation": "geul-sse-yo", "context": "Hedging or softening" },
+    { "native": "좀 그래요", "english": "It's a bit much (softened no)", "transliteration": "jom geuraeyo", "pronunciation": "jom geu-rae-yo", "context": "Polite disagreement" },
+    { "native": "걱정하지 마세요", "english": "Don't worry", "transliteration": "geokjeonghaji maseyo", "pronunciation": "gok-jong-ha-ji ma-se-yo", "context": "Reassuring someone" }
+  ],
+  "grammar": [
+    {
+      "rule": "Giving reasons with -아서/어서",
+      "explanation": "To connect a cause and a feeling, attach 아서 or 어서 to a verb or adjective stem, meaning 'because / so'. 기쁘다 (gippeuda, happy) plus a reason: 시험에 붙어서 기뻐요 (because I passed the exam, I'm happy).",
+      "examples": [
+        { "native": "친구를 만나서 기뻐요. (chingureul mannaseo gippeoyo.)", "en": "I'm happy because I met a friend." },
+        { "native": "비가 와서 슬퍼요. (biga waseo seulpeoyo.)", "en": "I'm sad because it's raining." }
+      ],
+      "commonMistake": "Adding a tense to the first verb; -아서/어서 stays in plain form and the tense goes on the final verb."
+    },
+    {
+      "rule": "Softening opinions with 것 같아요",
+      "explanation": "To state an opinion gently, end with 것 같아요 (geot gatayo, it seems / I think). It makes a claim less direct, which Korean conversation prefers. 좋다 (jota, good) becomes 좋은 것 같아요 (it seems good).",
+      "examples": [
+        { "native": "이게 더 좋은 것 같아요. (ige deo joeun geot gatayo.)", "en": "I think this one is better." },
+        { "native": "맞는 것 같아요. (manneun geot gatayo.)", "en": "I think that's right." }
+      ],
+      "commonMistake": "Stating opinions too bluntly without 것 같아요, which can sound abrupt or overbearing in Korean."
+    }
+  ],
+  "dialogue": {
+    "setup": "Two colleagues, Hyun and Olivia, discuss a new project plan.",
+    "lines": [
+      { "speaker": "현", "native": "올리비아 씨, 새 계획이 어때요?", "transliteration": "ollibia ssi, sae gyehoegi eottaeyo?", "english": "Olivia, what do you think of the new plan?" },
+      { "speaker": "올리비아", "native": "음, 제 생각에는 조금 어려운 것 같아요.", "transliteration": "eum, je saenggageneun jogeum eoryeoun geot gatayo.", "english": "Hmm, in my opinion it seems a bit difficult." },
+      { "speaker": "현", "native": "맞아요. 시간이 부족해서 걱정이에요.", "transliteration": "majayo. sigani bujokhaeseo geokjeongieyo.", "english": "That's right. I'm worried because there isn't enough time." },
+      { "speaker": "올리비아", "native": "그래도 같이 하면 될 것 같아요.", "transliteration": "geuraedo gachi hamyeon doel geot gatayo.", "english": "Still, I think we can do it if we work together." },
+      { "speaker": "현", "native": "그 말 들으니까 기뻐요.", "transliteration": "geu mal deureunikka gippeoyo.", "english": "Hearing that makes me happy." },
+      { "speaker": "올리비아", "native": "걱정하지 마세요. 잘될 거예요.", "transliteration": "geokjeonghaji maseyo. jaldoel geoyeyo.", "english": "Don't worry. It'll go well." },
+      { "speaker": "현", "native": "고마워요. 힘이 나요.", "transliteration": "gomawoyo. himi nayo.", "english": "Thank you. I feel encouraged." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'In my opinion' in Korean?",
+      "correctAnswer": "제 생각에는",
+      "explanation": "제 생각에는 (je saenggageneun) frames an opinion modestly, meaning 'in my opinion'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which phrase softly signals 'I'm not sure' to avoid a blunt answer?",
+      "options": ["맞아요", "기뻐요", "글쎄요", "화가 나요"],
+      "correctAnswer": "글쎄요",
+      "explanation": "글쎄요 (geulsseyo) hedges politely, buying time instead of saying a flat yes or no."
+    },
+    {
+      "type": "fill-blank",
+      "question": "이게 더 좋은 것 _____. (it seems / I think)",
+      "correctAnswer": "같아요",
+      "explanation": "것 같아요 (geot gatayo) softens an opinion, so 좋은 것 같아요 means 'I think it's good'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does the cultural concept 눈치 (nunchi) describe?",
+      "options": ["A type of food", "Reading a room and sensing others' feelings", "A bus route", "A grammar tense"],
+      "correctAnswer": "Reading a room and sensing others' feelings",
+      "explanation": "눈치 (nunchi) is the social skill of sensing what others feel without being told."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: 기뻐요 / 만나서 / 친구를 (I'm happy because I met a friend)",
+      "correctAnswer": "친구를 만나서 기뻐요",
+      "explanation": "Object, then reason with -아서/어서, then the feeling: 친구를 만나서 기뻐요."
+    }
+  ],
+  "status": "complete"
+}

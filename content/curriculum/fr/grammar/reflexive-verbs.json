@@ -1,0 +1,34 @@
+{
+  "slug": "reflexive-verbs",
+  "name": "Reflexive Verbs",
+  "nameNative": "Les verbes pronominaux",
+  "summary": "Daily-routine verbs that take a reflexive pronoun, like se laver (to wash oneself).",
+  "level": "elementary",
+  "order": 10,
+  "explanation": "Reflexive verbs describe an action done to oneself and carry a reflexive pronoun that matches the subject. Se laver (to wash) becomes je me lave (I wash myself), tu te laves, il se lave.\n\nThe pronouns are: me, te, se, nous, vous, se. They sit directly before the verb: nous nous levons (we get up). Before a vowel, me, te, se shorten to m', t', s': je m'appelle (my name is, literally 'I call myself').\n\nMany everyday routine verbs are reflexive: se lever (to get up), se coucher (to go to bed), se reposer (to rest), s'habiller (to get dressed).",
+  "pattern": "Subject + reflexive pronoun (me/te/se/nous/vous/se) + verb",
+  "conjugation": {
+    "je": "me lave",
+    "tu": "te laves",
+    "il/elle": "se lave",
+    "nous": "nous lavons",
+    "vous": "vous lavez",
+    "ils/elles": "se lavent"
+  },
+  "examples": [
+    { "native": "Je me lève à sept heures.", "en": "I get up at seven o'clock." },
+    { "native": "Comment tu t'appelles ?", "en": "What's your name? (you call yourself)" },
+    { "native": "Elle se repose.", "en": "She is resting." },
+    { "native": "Nous nous couchons tard.", "en": "We go to bed late." },
+    { "native": "Vous vous habillez vite.", "en": "You get dressed quickly." },
+    { "native": "Ils se promènent dans le parc.", "en": "They walk in the park." }
+  ],
+  "commonMistakes": [
+    "Dropping the reflexive pronoun: it is je me lave, not je lave (which means 'I wash something else').",
+    "Not matching the pronoun to the subject: it is nous nous levons, not nous se levons.",
+    "Forgetting to elide before a vowel: it is je m'appelle, not je me appelle.",
+    "Placing the pronoun after the verb. It comes directly before the conjugated verb.",
+    "Treating every routine verb as reflexive. Only certain verbs carry the pronoun."
+  ],
+  "tip": "If the action loops back onto the subject, you need a reflexive pronoun. Match me, te, se to the subject every time."
+}

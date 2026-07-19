@@ -1,0 +1,33 @@
+{
+  "slug": "negation",
+  "name": "Negation",
+  "nameNative": "A negação",
+  "summary": "Make any Portuguese sentence negative by placing não before the verb.",
+  "level": "beginner",
+  "order": 7,
+  "explanation": "To make a sentence negative, put não directly before the verb. Eu falo português (I speak Portuguese) becomes eu não falo português (I don't speak Portuguese). The word não means both 'no' and 'not'.\n\nPortuguese uses double negatives, which are correct. Não tenho nada means 'I don't have anything' (literally 'I don't have nothing'). The não stays even with another negative word like nada (nothing), ninguém (nobody), or nunca (never).\n\nIn casual Brazilian speech you may hear a second não at the end for emphasis: não sei não (I really don't know).",
+  "pattern": "não + verb (+ nada / nunca / ninguém)",
+  "conjugation": {
+    "não": "no / not",
+    "não ... nada": "not ... anything",
+    "não ... nunca": "never",
+    "não ... ninguém": "nobody",
+    "não ... mais": "no longer"
+  },
+  "examples": [
+    { "native": "Eu não falo francês.", "en": "I don't speak French." },
+    { "native": "Não tenho nada.", "en": "I don't have anything." },
+    { "native": "Nunca fui ao Rio.", "en": "I've never been to Rio." },
+    { "native": "Não tem ninguém aqui.", "en": "There's nobody here." },
+    { "native": "Não moro mais aqui.", "en": "I don't live here anymore." },
+    { "native": "Não sei não.", "en": "I really don't know." }
+  ],
+  "commonMistakes": [
+    "Dropping não with nada or ninguém when they follow the verb.",
+    "Treating double negatives as wrong; in Portuguese they are required.",
+    "Placing não after the verb. It comes immediately before it.",
+    "Forgetting mais for 'no longer': não ... mais.",
+    "Over-using the emphatic final não in formal writing, where it sounds too casual."
+  ],
+  "tip": "Think of não as a switch that flips the verb negative, then add nada, nunca, or ninguém for detail."
+}

@@ -1,13 +1,11 @@
 {
   "rank": 532,
-  "german": "Erfahrung",
-  "english": "experience",
-  "pronunciation": "air-FAH-roong",
-  "partOfSpeech": "noun",
-  "gender": "feminine",
-  "article": "die",
-  "exampleDe": "Sie hat viel Erfahrung.",
-  "exampleEn": "She has a lot of experience.",
+  "german": "ausser",
+  "english": "except",
+  "pronunciation": "a ʊ s ɐ",
+  "partOfSpeech": "adjective",
+  "exampleDe": "Dieser Ort ist sehr außergewöhnlich.",
+  "exampleEn": "This place is very except.",
   "group": "confident-350",
-  "topic": "work"
+  "topic": "descriptions"
 }

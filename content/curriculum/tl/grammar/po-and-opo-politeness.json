@@ -1,0 +1,34 @@
+{
+  "slug": "po-and-opo-politeness",
+  "name": "Politeness with po and opo",
+  "nameNative": "Paggalang gamit ang po at opo",
+  "summary": "Use po, opo, and ho to show the respect that sits at the heart of Filipino culture.",
+  "level": "beginner",
+  "order": 4,
+  "explanation": "Respect is central to Filipino interaction, and the small words po and opo carry it. Po is a politeness particle you slot into a sentence when speaking to elders, strangers, customers, or anyone you wish to honour. It has no direct English translation; it simply makes your whole sentence respectful (Salamat po, thank you).\n\nOpo is the polite way to say yes, replacing a plain oo. Likewise, a polite no is hindi po. You will also hear ho and oho, softer and more casual cousins of po and opo, common in everyday city speech.\n\nPo usually sits early in the sentence, right after the first word or the verb (Kumusta po kayo?). When in doubt, add po. Using it with someone younger or a close friend can sound overly formal, but with elders and strangers it is never wrong and always appreciated. Filipinos notice and warm to anyone who uses po naturally.",
+  "pattern": "[first word/verb] + po + [rest] | yes = opo | no = hindi po",
+  "conjugation": {
+    "plain yes": "oo",
+    "polite yes": "opo (or oho)",
+    "plain no": "hindi",
+    "polite no": "hindi po",
+    "plain thanks": "salamat",
+    "polite thanks": "salamat po"
+  },
+  "examples": [
+    { "native": "Salamat po.", "en": "Thank you (respectful)." },
+    { "native": "Opo, gusto ko po.", "en": "Yes, I would like it (respectful)." },
+    { "native": "Hindi po ako sigurado.", "en": "I am not sure (respectful)." },
+    { "native": "Kumusta po kayo?", "en": "How are you? (respectful)" },
+    { "native": "Pasensya na po.", "en": "I'm sorry (respectful)." },
+    { "native": "Tuloy po kayo.", "en": "Please come in (respectful)." }
+  ],
+  "commonMistakes": [
+    "Answering an elder with plain oo instead of the respectful opo.",
+    "Placing po at the very end as an afterthought. It usually sits early, after the first word.",
+    "Pairing po with the singular ka for an elder. Use the polite kayo with po.",
+    "Overusing po with a close friend your own age, which can sound stiff.",
+    "Confusing po (respect particle) with the unrelated word ako (I)."
+  ],
+  "tip": "When unsure how formal to be, add po. With elders and strangers it is always safe and always welcome."
+}

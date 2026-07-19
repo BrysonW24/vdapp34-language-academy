@@ -1,0 +1,25 @@
+{
+  "slug": "spanish-basics",
+  "title": "Spanish Basics",
+  "shortSummary": "Your first steps into Spanish — the alphabet, pronunciation rules, basic sentence structure, and how Spanish works as a language. This module gives you the foundation to start reading, hearing, and speaking Spanish from day one.",
+  "level": "beginner",
+  "category": "foundation",
+  "whyItMatters": "Every language journey starts here. Understanding how Spanish pronunciation works, how letters sound different from English, and how basic sentences are structured means you will not develop bad habits that slow you down later. Spanish is phonetic — once you learn the rules, you can pronounce any word. That is a massive advantage over English.",
+  "coreConcepts": [
+    "The Spanish alphabet and how each letter sounds",
+    "Vowel sounds — the five pure vowels that never change",
+    "Basic sentence structure: Subject-Verb-Object",
+    "Gendered nouns — every noun is masculine or feminine",
+    "Articles: el, la, los, las, un, una",
+    "How Spanish pronunciation differs from English",
+    "Stress rules and accent marks",
+    "The concept of formal vs informal speech (tú vs usted)"
+  ],
+  "lessons": ["introduction-to-spanish"],
+  "frameworks": ["cefr-framework", "eighty-twenty-vocab"],
+  "visualType": "diagram",
+  "relatedModules": ["greetings-introductions", "numbers-time-dates", "everyday-vocabulary"],
+  "status": "complete",
+  "order": 1,
+  "levelNumber": 1
+}

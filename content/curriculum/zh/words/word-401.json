@@ -1,13 +1,13 @@
 {
   "rank": 401,
-  "chinese": "觉得",
-  "characters": "觉得",
-  "pinyin": "juéde",
-  "english": "to feel, to think",
-  "pronunciation": "jweh-duh (2nd, neutral)",
+  "chinese": "抓",
+  "characters": "抓",
+  "pinyin": "zhuā",
+  "english": "to Grasp",
+  "pronunciation": "zhua",
   "partOfSpeech": "verb",
-  "exampleZh": "我觉得这个主意很好。",
-  "exampleEn": "I think this idea is great.",
+  "exampleZh": "我想抓住。",
+  "exampleEn": "I want to Grasp.",
   "group": "confident-350",
-  "topic": "emotions"
+  "topic": "actions"
 }

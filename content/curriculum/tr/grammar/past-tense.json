@@ -1,0 +1,34 @@
+{
+  "slug": "past-tense",
+  "name": "Past Tense (-di)",
+  "nameNative": "Görülen geçmiş zaman (-di)",
+  "summary": "The witnessed past tense, used for completed actions you know happened: -di and its hard variant -ti.",
+  "level": "elementary",
+  "order": 11,
+  "explanation": "The -di past tense is the everyday way to talk about finished actions you witnessed or know for certain happened. It is called the definite or seen past. Gel- (come) becomes geldi (he came), and yaz- (write) becomes yazdı (he wrote). The personal endings follow.\n\nThe suffix harmonises four ways in its vowel (-di, -dı, -du, -dü) and also changes its first consonant. After a voiceless consonant (p, ç, t, k, s, ş, h, f) the d hardens to t, so git- (go) becomes gitti (he went) and iç- (drink) becomes içti (he drank). After voiced sounds it stays -di.\n\nThe personal endings are -m (ben), -n (sen), nothing (o), -k (biz), -niz (siz), and -ler (onlar): geldim, geldin, geldi, geldik, geldiniz, geldiler. These same endings, with harmony, attach after every -di form, so once you know one verb the pattern repeats.",
+  "pattern": "stem + di/dı/du/dü (or ti/tı/tu/tü) + personal ending",
+  "conjugation": {
+    "ben": "geldim",
+    "sen": "geldin",
+    "o": "geldi",
+    "biz": "geldik",
+    "siz": "geldiniz",
+    "onlar": "geldiler"
+  },
+  "examples": [
+    { "native": "Dün İstanbul'a geldim.", "en": "I came to Istanbul yesterday." },
+    { "native": "Mektubu yazdın mı?", "en": "Did you write the letter?" },
+    { "native": "Otobüs gitti.", "en": "The bus left." },
+    { "native": "Çayı içtik.", "en": "We drank the tea." },
+    { "native": "Filmi gördünüz mü?", "en": "Did you see the film?" },
+    { "native": "Çocuklar uyudular.", "en": "The children slept." }
+  ],
+  "commonMistakes": [
+    "Keeping -di after a voiceless consonant, saying gitdi instead of gitti.",
+    "Ignoring vowel harmony, saying geldim fine but yazdim instead of yazdım.",
+    "Confusing the witnessed past -di with the reported past -miş, which means 'apparently' happened.",
+    "Forgetting the personal ending, saying ben geldi instead of ben geldim.",
+    "Adding an extra buffer where none is needed, since -di attaches directly to the stem."
+  ],
+  "tip": "Listen to the last consonant of the stem. If it is one of the eight voiceless ones (think of the word 'fıstıkçı şahap'), the d turns into t: gitti, içti, yaptı."
+}

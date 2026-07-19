@@ -1,13 +1,11 @@
 {
   "rank": 561,
-  "german": "Blume",
-  "english": "flower",
-  "pronunciation": "BLOO-meh",
-  "partOfSpeech": "noun",
-  "gender": "feminine",
-  "article": "die",
-  "exampleDe": "Die Blumen sind schön.",
-  "exampleEn": "The flowers are beautiful.",
+  "german": "anderes",
+  "english": "other",
+  "pronunciation": "a n d ə ʀ ə s",
+  "partOfSpeech": "adjective",
+  "exampleDe": "Das ist sehr anderes.",
+  "exampleEn": "That is very other.",
   "group": "confident-350",
-  "topic": "home"
+  "topic": "descriptions"
 }

@@ -1,0 +1,32 @@
+{
+  "slug": "object-particle",
+  "name": "Object Particle (을/를)",
+  "nameNative": "목적격 조사 을/를",
+  "summary": "Mark the direct object of a verb with 을 or 를, the particle that says what the action is done to.",
+  "level": "beginner",
+  "order": 2,
+  "explanation": "The object particle 을/를 attaches to the noun that receives the action of a verb. In 'I eat an apple', the apple is the object, so it takes 을/를: 사과를 먹어요 (sagwareul meogeoyo).\n\nThe choice follows the final sound of the noun. Use 을 after a consonant and 를 after a vowel: 밥을 (babeul, rice), 우유를 (uyureul, milk). It works exactly like the topic and subject particles, just for objects.\n\nKorean word order is subject-object-verb, so the object plus 을/를 sits right before the verb: 저는 한국어를 공부해요 (I study Korean). In casual speech the particle is often dropped, but keep it while learning so the sentence structure stays clear.",
+  "pattern": "object noun + 을/를 + verb",
+  "conjugation": {
+    "after consonant": "밥 + 을 = 밥을",
+    "after vowel": "우유 + 를 = 우유를",
+    "consonant example": "책 + 을 = 책을",
+    "vowel example": "커피 + 를 = 커피를"
+  },
+  "examples": [
+    { "native": "사과를 먹어요. (sagwareul meogeoyo.)", "en": "I eat an apple." },
+    { "native": "물을 마셔요. (mureul masyeoyo.)", "en": "I drink water." },
+    { "native": "한국어를 공부해요. (hangugeoreul gongbuhaeyo.)", "en": "I study Korean." },
+    { "native": "영화를 봐요. (yeonghwareul bwayo.)", "en": "I watch a movie." },
+    { "native": "책을 읽어요. (chaegeul ilgeoyo.)", "en": "I read a book." },
+    { "native": "친구를 만나요. (chingureul mannayo.)", "en": "I meet a friend." }
+  ],
+  "commonMistakes": [
+    "Using 를 after a consonant or 을 after a vowel. The form depends on the final sound: 밥을 but 우유를.",
+    "Putting the object after the verb. Korean is subject-object-verb, so the object comes first: 밥을 먹어요.",
+    "Confusing 을/를 (object) with 이/가 (subject). The object receives the action; the subject performs it.",
+    "Adding 을/를 to a noun used with 이다 (to be). 'I am a student' uses 이에요, not an object particle.",
+    "Forgetting that some verbs like 만나다 (to meet) take an object in Korean even when English uses 'with'."
+  ],
+  "tip": "Spot the object by asking 'what?' after the verb: eat what? rice. That noun takes 을/를."
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "survival",
+  "title": "Survival Korean",
+  "description": "The essential phrases to get by anywhere in Korea. Learn these first.",
+  "situation": "Absolute basics: greetings, please, thank you, help, and signalling when you do not understand.",
+  "order": 1,
+  "phrases": [
+    { "native": "안녕하세요", "transliteration": "annyeonghaseyo", "english": "Hello", "pronunciation": "ahn-nyong-hah-seh-yo", "formality": "neutral", "tip": "The all-purpose polite greeting; works any time of day, on the phone, in shops." },
+    { "native": "감사합니다", "transliteration": "gamsahamnida", "english": "Thank you", "pronunciation": "gahm-sah-hahm-nee-dah", "formality": "formal", "tip": "Slightly more casual: 고마워요 (gomawoyo)." },
+    { "native": "주세요", "transliteration": "juseyo", "english": "Please (give me)", "pronunciation": "joo-seh-yo", "formality": "neutral", "tip": "Add it after a noun: 물 주세요 (mul juseyo) means 'water, please'." },
+    { "native": "죄송합니다", "transliteration": "joesonghamnida", "english": "I'm sorry / Excuse me", "pronunciation": "jweh-song-hahm-nee-dah", "formality": "formal", "tip": "Use 실례합니다 (sillyehamnida) to get past someone or get attention." },
+    { "native": "네 / 아니요", "transliteration": "ne / aniyo", "english": "Yes / No", "pronunciation": "neh / ah-nee-yo", "formality": "neutral" },
+    { "native": "잘 모르겠어요", "transliteration": "jal moreugesseoyo", "english": "I don't understand", "pronunciation": "jahl moh-reu-geh-sso-yo", "formality": "neutral", "tip": "The single most useful survival phrase." },
+    { "native": "영어 할 수 있어요?", "transliteration": "yeongeo hal su isseoyo?", "english": "Do you speak English?", "pronunciation": "yong-oh hahl soo ee-sso-yo", "formality": "neutral" },
+    { "native": "다시 말해 주세요", "transliteration": "dasi malhae juseyo", "english": "Please say that again", "pronunciation": "dah-shee mahl-heh joo-seh-yo", "formality": "neutral", "tip": "Slow it down with 천천히 (cheoncheonhi), meaning 'slowly'." },
+    { "native": "얼마예요?", "transliteration": "eolmayeyo?", "english": "How much is it?", "pronunciation": "ol-mah-yeh-yo", "formality": "neutral" },
+    { "native": "화장실 어디예요?", "transliteration": "hwajangsil eodiyeyo?", "english": "Where is the toilet?", "pronunciation": "hwah-jahng-shil oh-dee-yeh-yo", "formality": "neutral" },
+    { "native": "도와주세요", "transliteration": "dowajuseyo", "english": "Please help me", "pronunciation": "doh-wah-joo-seh-yo", "formality": "neutral", "tip": "In a real emergency, shout 도와주세요 to draw attention." },
+    { "native": "안녕히 가세요", "transliteration": "annyeonghi gaseyo", "english": "Goodbye (to someone leaving)", "pronunciation": "ahn-nyong-hee gah-seh-yo", "formality": "neutral", "tip": "Say 안녕히 계세요 (annyeonghi gyeseyo) to someone who stays." }
+  ]
+}

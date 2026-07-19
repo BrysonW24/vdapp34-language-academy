@@ -1,0 +1,90 @@
+{
+  "slug": "greetings",
+  "title": "Greetings & Goodbyes",
+  "titleNative": "अभिवादन और विदाई",
+  "shortSummary": "Greet people, introduce yourself, and say goodbye in Hindi, the foundation of every conversation.",
+  "level": "beginner",
+  "order": 1,
+  "icon": "🙏",
+  "color": "#e8590c",
+  "culturalNote": "The all-purpose Hindi greeting is namaste (नमस्ते), said with palms pressed together at the chest and a slight bow. It works morning, noon, and night, with strangers and elders alike, and it doubles as a goodbye. For Hindus, namaskar (नमस्कार) is a slightly more respectful variant; Muslims often greet with adaab or assalam alaikum, and Sikhs with sat sri akal, so listen for community cues. The biggest social choice is the word for 'you': aap (आप) is polite and respectful, tum (तुम) is friendly and informal, and tu (तू) is intimate or, with the wrong person, rude. As a learner you should default to aap with everyone until you are clearly invited to be casual. Touching an elder's feet (पैर छूना) is a deep mark of respect at family gatherings and festivals.",
+  "keyPhrases": [
+    { "native": "नमस्ते", "transliteration": "namaste", "english": "Hello / Goodbye", "pronunciation": "nuh-muh-STAY", "context": "Polite all-day greeting" },
+    { "native": "नमस्कार", "transliteration": "namaskar", "english": "Greetings (respectful)", "pronunciation": "nuh-muh-SKAAR", "context": "Slightly more formal" },
+    { "native": "आप कैसे हैं?", "transliteration": "aap kaise hain?", "english": "How are you? (to a man, polite)", "pronunciation": "aap KAI-say hain", "context": "Polite, asking a man" },
+    { "native": "आप कैसी हैं?", "transliteration": "aap kaisi hain?", "english": "How are you? (to a woman, polite)", "pronunciation": "aap KAI-see hain", "context": "Polite, asking a woman" },
+    { "native": "मैं ठीक हूँ, धन्यवाद", "transliteration": "main theek hoon, dhanyavaad", "english": "I'm fine, thank you", "pronunciation": "main THEEK hoon, DHUN-yuh-vaad", "context": "Standard reply" },
+    { "native": "आपका नाम क्या है?", "transliteration": "aapka naam kya hai?", "english": "What is your name?", "pronunciation": "AAP-kaa naam kyaa hai", "context": "Asking someone's name" },
+    { "native": "आपसे मिलकर खुशी हुई", "transliteration": "aapse milkar khushi hui", "english": "Nice to meet you", "pronunciation": "AAP-say MIL-kar KHU-shee hoo-ee", "context": "First meeting" },
+    { "native": "फिर मिलेंगे", "transliteration": "phir milenge", "english": "See you again", "pronunciation": "fir mi-LEN-gay", "context": "Friendly farewell" },
+    { "native": "अलविदा", "transliteration": "alvida", "english": "Goodbye (final)", "pronunciation": "ul-vi-DAA", "context": "A more lasting farewell" },
+    { "native": "शुभ दिन", "transliteration": "shubh din", "english": "Have a good day", "pronunciation": "shoobh din", "context": "Warm sign-off" }
+  ],
+  "grammar": [
+    {
+      "rule": "Aap vs tum vs tu (respect levels)",
+      "explanation": "Hindi has three words for 'you'. Aap (आप) is polite and takes plural verb forms; tum (तुम) is informal and friendly; tu (तू) is intimate or for children, and can be rude with adults. As a learner, use aap with everyone you do not know well.",
+      "examples": [
+        { "native": "आप कैसे हैं? (aap kaise hain?)", "en": "How are you? (polite)" },
+        { "native": "तुम कैसे हो? (tum kaise ho?)", "en": "How are you? (informal)" }
+      ],
+      "commonMistake": "Using tu with an elder or stranger, which sounds disrespectful."
+    },
+    {
+      "rule": "Gender agreement in greetings",
+      "explanation": "Adjectives and some question words change for the gender of the person spoken to. Kaise (कैसे) is used for a man and kaisi (कैसी) for a woman, even though both mean 'how'.",
+      "examples": [
+        { "native": "आप कैसे हैं? (aap kaise hain?)", "en": "How are you? (to a man)" },
+        { "native": "आप कैसी हैं? (aap kaisi hain?)", "en": "How are you? (to a woman)" }
+      ],
+      "commonMistake": "Using kaise for a woman; the ending should change to kaisi."
+    }
+  ],
+  "dialogue": {
+    "setup": "Riya meets her new colleague Mr. Sharma at the office in the morning.",
+    "lines": [
+      { "speaker": "Riya", "native": "नमस्ते! आप कैसे हैं?", "transliteration": "namaste! aap kaise hain?", "english": "Hello! How are you?" },
+      { "speaker": "Mr. Sharma", "native": "नमस्ते! मैं ठीक हूँ, धन्यवाद। और आप?", "transliteration": "namaste! main theek hoon, dhanyavaad. aur aap?", "english": "Hello! I'm fine, thank you. And you?" },
+      { "speaker": "Riya", "native": "मैं भी ठीक हूँ। मेरा नाम रिया है।", "transliteration": "main bhi theek hoon. mera naam Riya hai.", "english": "I'm fine too. My name is Riya." },
+      { "speaker": "Mr. Sharma", "native": "आपसे मिलकर खुशी हुई। मैं शर्मा हूँ।", "transliteration": "aapse milkar khushi hui. main Sharma hoon.", "english": "Nice to meet you. I am Sharma." },
+      { "speaker": "Riya", "native": "मुझे भी खुशी हुई। टीम में आपका स्वागत है।", "transliteration": "mujhe bhi khushi hui. team mein aapka swaagat hai.", "english": "I'm pleased too. Welcome to the team." },
+      { "speaker": "Mr. Sharma", "native": "बहुत धन्यवाद। फिर मिलेंगे।", "transliteration": "bahut dhanyavaad. phir milenge.", "english": "Thank you very much. See you again." },
+      { "speaker": "Riya", "native": "जी हाँ, शुभ दिन!", "transliteration": "ji haan, shubh din!", "english": "Yes, have a good day!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'Hello' in Hindi (the all-purpose polite greeting)?",
+      "correctAnswer": "नमस्ते (namaste)",
+      "explanation": "Namaste works at any time of day and also means goodbye."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which word for 'you' is the polite, respectful one?",
+      "options": ["तू (tu)", "तुम (tum)", "आप (aap)", "वह (vah)"],
+      "correctAnswer": "आप (aap)",
+      "explanation": "Aap is polite and takes plural verb forms; learners should default to it."
+    },
+    {
+      "type": "fill-blank",
+      "question": "आप _____ हैं? (How are you, asking a woman)",
+      "correctAnswer": "कैसी (kaisi)",
+      "explanation": "Kaisi is the feminine form; kaise is used for a man."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does 'धन्यवाद (dhanyavaad)' mean?",
+      "options": ["Sorry", "Thank you", "Please", "Goodbye"],
+      "correctAnswer": "Thank you",
+      "explanation": "Dhanyavaad is the standard polite 'thank you'."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: हूँ / मैं / ठीक (I am fine)",
+      "correctAnswer": "मैं ठीक हूँ (main theek hoon)",
+      "explanation": "Hindi word order is Subject-Object-Verb, so the verb hoon comes last."
+    }
+  ],
+  "status": "complete"
+}

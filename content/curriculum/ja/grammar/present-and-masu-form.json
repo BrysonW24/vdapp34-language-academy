@@ -1,0 +1,34 @@
+{
+  "slug": "present-and-masu-form",
+  "name": "Present Tense and the masu Form",
+  "nameNative": "現在形と「ます形」",
+  "summary": "The polite -ます form covers both present and future. Learn how dictionary verbs become polite -ます verbs.",
+  "level": "elementary",
+  "order": 6,
+  "explanation": "The polite present tense in Japanese is the -ます (masu) form. It expresses both habits and the future: 食べます (tabemasu) means both 'I eat' and 'I will eat', with context deciding which. There is no separate future tense to learn.\n\nVerbs come in groups. Ichidan (ru-verbs) like 食べる (taberu) simply drop る and add ます: 食べます. Godan (u-verbs) like 飲む (nomu) change the final -u sound to its -i row and add ます: 飲む becomes 飲みます (nomimasu). The two irregular verbs are する (suru) - し ます = します (shimasu), and 来る (kuru) - き ます = 来ます (kimasu).\n\nOnce you can build the -ます form, the rest of the polite endings follow a fixed pattern: negative ません, past ました, past negative ませんでした. So learning to reach the -ます stem unlocks a whole family of polite conjugations from one move.",
+  "pattern": "[verb stem (-i row)] + ます",
+  "conjugation": {
+    "ichidan: taberu": "食べます (tabemasu) - eat",
+    "godan: nomu": "飲みます (nomimasu) - drink",
+    "godan: kaku": "書きます (kakimasu) - write",
+    "godan: iku": "行きます (ikimasu) - go",
+    "irregular: suru": "します (shimasu) - do",
+    "irregular: kuru": "来ます (kimasu) - come"
+  },
+  "examples": [
+    { "native": "毎日日本語を勉強します。(mainichi nihongo o benkyou shimasu.)", "en": "I study Japanese every day." },
+    { "native": "明日友達に会います。(ashita tomodachi ni aimasu.)", "en": "I will meet a friend tomorrow." },
+    { "native": "私はコーヒーを飲みます。(watashi wa koohii o nomimasu.)", "en": "I drink coffee." },
+    { "native": "彼は朝六時に起きます。(kare wa asa rokuji ni okimasu.)", "en": "He gets up at six in the morning." },
+    { "native": "週末に映画を見ます。(shuumatsu ni eiga o mimasu.)", "en": "I watch a movie on the weekend." },
+    { "native": "来週東京へ行きます。(raishuu Toukyou e ikimasu.)", "en": "I will go to Tokyo next week." }
+  ],
+  "commonMistakes": [
+    "Looking for a separate future tense. The -ます form already covers the future.",
+    "Conjugating godan verbs like ichidan verbs. 飲む becomes 飲みます, not 飲ます.",
+    "Forgetting the irregulars. する and 来る do not follow the regular rules.",
+    "Changing the wrong vowel row. Godan verbs move to the -i row before ます (nomu - nomi).",
+    "Adding ます to an already-polite form, producing a double ending."
+  ],
+  "tip": "Reach the -ます stem first; every other polite ending (ません, ました) hangs off that same stem."
+}

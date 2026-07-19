@@ -1,13 +1,13 @@
 {
   "rank": 137,
-  "chinese": "最",
-  "characters": "最",
-  "pinyin": "zuì",
-  "english": "most; -est (superlative)",
-  "pronunciation": "dzway (4th tone, sharp falling)",
-  "partOfSpeech": "adverb",
-  "exampleZh": "她是最好的朋友。",
-  "exampleEn": "She is the best friend.",
+  "chinese": "少",
+  "characters": "少",
+  "pinyin": "shǎo",
+  "english": "few",
+  "pronunciation": "shao",
+  "partOfSpeech": "adjective",
+  "exampleZh": "这个地方人很少。",
+  "exampleEn": "This place is very few.",
   "group": "core-100",
-  "topic": "comparisons"
+  "topic": "descriptions"
 }

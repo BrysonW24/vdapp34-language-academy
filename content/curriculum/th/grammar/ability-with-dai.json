@@ -1,0 +1,26 @@
+{
+  "slug": "ability-with-dai",
+  "name": "Ability with ได้",
+  "nameTh": "ความสามารถด้วยได้",
+  "summary": "Put ได้ after a verb to mean 'can' or 'be able to', and turn it into a question with ไหม.",
+  "level": "elementary",
+  "order": 12,
+  "explanation": "To say you can do something, Thai places ได้ (dai) after the verb (and its object): พูดไทยได้ (phuut thai dai) = (I) can speak Thai. ได้ sits at the end and means 'able to / can / it works'.\n\nTo make a question, add ไหม after ได้: กินเผ็ดได้ไหม (kin phet dai mai?) = can you eat spicy food? To answer, say ได้ (yes, can) or ไม่ได้ (no, cannot).\n\nFor a learned skill, Thai also uses เป็น (pen) after the verb: ว่ายน้ำเป็น (can swim, know how to swim). ได้ is about being able to in general, while เป็น is about having learned the skill.",
+  "pattern": "Verb (+ object) + ได้  |  ... ได้ไหม? (can you ...?)",
+  "examples": [
+    { "th": "ผมพูดภาษาไทยได้", "en": "I can speak Thai." },
+    { "th": "คุณกินเผ็ดได้ไหม", "en": "Can you eat spicy food?" },
+    { "th": "ได้", "en": "Yes, (I) can." },
+    { "th": "ไม่ได้", "en": "No, (I) can't." },
+    { "th": "ช่วยได้ไหม", "en": "Can you help?" },
+    { "th": "ผมว่ายน้ำเป็น", "en": "I can swim (know how, with เป็น)." }
+  ],
+  "commonMistakes": [
+    "Putting ได้ before the verb. It comes at the end: พูดไทยได้, not ได้พูดไทย.",
+    "Using ได้ for a learned skill. Skills like swimming use เป็น: ว่ายน้ำเป็น.",
+    "Forgetting to negate as ไม่ได้ for 'cannot'.",
+    "Dropping ได้ in the question. The 'can' question is verb + ได้ + ไหม.",
+    "Mixing up ได้ (able/can) with the past marker ไม่ได้ (did not), which depends on position."
+  ],
+  "tip": "Tag ได้ on the end to say you can do something, and add ไหม to ask. Answer simply: ได้ or ไม่ได้."
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "emergencies",
+  "title": "Emergencies",
+  "description": "Get help fast, describe a problem, and stay safe in Portuguese.",
+  "situation": "Urgent situations: asking for help, medical needs, and reporting problems.",
+  "order": 7,
+  "phrases": [
+    { "native": "Socorro!", "english": "Help!", "pronunciation": "soh-KOH-hoo", "formality": "neutral" },
+    { "native": "Chame uma ambulância", "english": "Call an ambulance", "pronunciation": "SHAH-mee OO-mah am-boo-LAN-see-ah", "formality": "neutral" },
+    { "native": "Chame a polícia", "english": "Call the police", "pronunciation": "SHAH-mee ah poh-LEE-see-ah", "formality": "neutral" },
+    { "native": "Eu me machuquei", "english": "I'm hurt", "pronunciation": "EH-oo mee mah-shoo-KAY", "formality": "neutral" },
+    { "native": "Preciso de um médico", "english": "I need a doctor", "pronunciation": "preh-SEE-zoo jee oon MEH-jee-koo", "formality": "neutral" },
+    { "native": "Onde fica o hospital?", "english": "Where is the hospital?", "pronunciation": "ON-jee FEE-kah oo os-pee-TOW", "formality": "neutral" },
+    { "native": "É uma emergência", "english": "It's an emergency", "pronunciation": "eh OO-mah eh-mer-ZHEN-see-ah", "formality": "neutral" },
+    { "native": "Perdi o meu passaporte", "english": "I've lost my passport", "pronunciation": "per-JEE oo MEH-oo pah-sah-POR-tee", "formality": "neutral" },
+    { "native": "Roubaram a minha bolsa", "english": "My bag was stolen", "pronunciation": "hoh-BAH-rown ah MEE-nyah BOL-sah", "formality": "neutral" },
+    { "native": "Sou alérgico", "english": "I'm allergic", "pronunciation": "soh ah-LEHR-zhee-koo", "formality": "neutral", "tip": "Women say alérgica." },
+    { "native": "Não estou me sentindo bem", "english": "I don't feel well", "pronunciation": "nown es-TOH mee sen-TEEN-doo bayn", "formality": "neutral" },
+    { "native": "Pode me ajudar?", "english": "Can you help me?", "pronunciation": "POH-jee mee ah-zhoo-DAR", "formality": "neutral" }
+  ]
+}

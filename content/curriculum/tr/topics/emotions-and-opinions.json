@@ -1,0 +1,90 @@
+{
+  "slug": "emotions-and-opinions",
+  "title": "Emotions & Opinions",
+  "titleNative": "Duygular ve fikirler",
+  "shortSummary": "Express how you feel, give your opinion, and agree or disagree politely in Turkish.",
+  "level": "pre-intermediate",
+  "order": 15,
+  "icon": "💬",
+  "color": "#7048e8",
+  "culturalNote": "Turks are warm and expressive, and feelings are shared openly with friends and family, though directness is softened with politeness when speaking to elders or strangers. To state an opinion, the phrase bence (in my opinion / I think) is everywhere, and disagreement is usually wrapped in courtesy: katılmıyorum (I disagree) is fine among peers but is gently cushioned with respect for older people. Emotions are described with the 'to be' suffix on an adjective, so mutluyum means 'I am happy' and üzgünüm means 'I am sad'. Expressive idioms abound: çok güzel (how lovely) and inanılmaz (unbelievable) pepper enthusiastic speech, while a sympathetic ya (oh dear) signals shared feeling. Conversations often value warmth and connection over winning an argument, so even strong opinions are typically delivered with a smile, eye contact, and an invitation for the other person to respond.",
+  "keyPhrases": [
+    { "native": "Çok mutluyum", "english": "I'm very happy", "pronunciation": "chohk moot-loo-YOOM", "context": "Expressing joy" },
+    { "native": "Üzgünüm", "english": "I'm sad", "pronunciation": "ewz-gew-NEWM", "context": "Expressing sadness" },
+    { "native": "Bence çok güzel", "english": "I think it's very nice", "pronunciation": "behn-JEH chohk gew-ZEHL", "context": "Giving a positive opinion" },
+    { "native": "Katılıyorum", "english": "I agree", "pronunciation": "kah-tuh-luh-YOH-room", "context": "Agreeing" },
+    { "native": "Katılmıyorum", "english": "I disagree", "pronunciation": "kah-tuhl-muh-YOH-room", "context": "Disagreeing politely" },
+    { "native": "Ne düşünüyorsun?", "english": "What do you think? (informal)", "pronunciation": "neh dew-shew-new-yohr-SOON", "context": "Asking an opinion" },
+    { "native": "Bana göre", "english": "According to me", "pronunciation": "bah-NAH gur-REH", "context": "Introducing your view" },
+    { "native": "Korkuyorum", "english": "I'm afraid", "pronunciation": "kohr-koo-YOH-room", "context": "Expressing fear" },
+    { "native": "Çok heyecanlıyım", "english": "I'm very excited", "pronunciation": "chohk heh-yeh-jahn-luh-YUHM", "context": "Expressing excitement" },
+    { "native": "Haklısın", "english": "You're right", "pronunciation": "hahk-luh-SUHN", "context": "Acknowledging someone" }
+  ],
+  "grammar": [
+    {
+      "rule": "Emotions with the 'to be' suffix on adjectives",
+      "explanation": "Feelings are expressed by adding the personal 'to be' ending to an adjective. The -(y)Im ending follows vowel harmony: mutluyum (I am happy), üzgünüm (I am sad), yorgunum (I am tired), heyecanlıyım (I am excited). The buffer y appears after a vowel, as in mutlu-y-um.",
+      "examples": [
+        { "native": "Bugün çok mutluyum.", "en": "Today I'm very happy." },
+        { "native": "Biraz üzgünüm.", "en": "I'm a little sad." }
+      ],
+      "commonMistake": "Forgetting the buffer y after a vowel-final adjective: it is mutluyum, not mutluum."
+    },
+    {
+      "rule": "Giving opinions with bence and the conditional -se",
+      "explanation": "Bence (a contraction of ben + -ce) means 'in my opinion' and starts an opinion neatly: bence doğru (I think it's right). To soften a suggestion or hypothesis, the conditional -se/-sa is used: gitsek iyi olur (it would be good if we went), bence gitmelisin (I think you should go) blends opinion with advice.",
+      "examples": [
+        { "native": "Bence bu film çok güzel.", "en": "I think this film is very good." },
+        { "native": "Bana göre haklısın.", "en": "In my view, you're right." }
+      ],
+      "commonMistake": "Adding a separate 'I think' verb. Bence already means 'in my opinion'; you do not also need düşünüyorum."
+    }
+  ],
+  "dialogue": {
+    "setup": "Friends Naz and Emre share their opinions about a film they just watched.",
+    "lines": [
+      { "speaker": "Naz", "native": "Film bitti! Ne düşünüyorsun?", "english": "The film is over! What do you think?" },
+      { "speaker": "Emre", "native": "Bence çok güzeldi. Çok heyecanlıydım.", "english": "I think it was very good. I was very excited." },
+      { "speaker": "Naz", "native": "Gerçekten mi? Ben biraz üzgünüm, sonu çok hüzünlü.", "english": "Really? I'm a bit sad, the ending is very melancholic." },
+      { "speaker": "Emre", "native": "Haklısın, son sahne çok dokunaklıydı.", "english": "You're right, the last scene was very touching." },
+      { "speaker": "Naz", "native": "Yine de güzeldi. Bence yönetmen çok yetenekli.", "english": "Still it was lovely. I think the director is very talented." },
+      { "speaker": "Emre", "native": "Katılıyorum. Bir dahaki filme de gidelim mi?", "english": "I agree. Shall we go to the next film too?" },
+      { "speaker": "Naz", "native": "Tabii, çok mutlu olurum!", "english": "Of course, I'd be very happy!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'I'm very happy' in Turkish?",
+      "correctAnswer": "Çok mutluyum",
+      "explanation": "Mutlu (happy) plus the buffer y and -um gives mutluyum; çok means 'very'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which phrase means 'I disagree'?",
+      "options": ["Katılıyorum", "Katılmıyorum", "Haklısın", "Bence güzel"],
+      "correctAnswer": "Katılmıyorum",
+      "explanation": "The negative -mı in katılmıyorum turns 'I agree' into 'I disagree'."
+    },
+    {
+      "type": "fill-blank",
+      "question": "_____ bu film çok güzel. (I think this film is very good)",
+      "correctAnswer": "Bence",
+      "explanation": "Bence means 'in my opinion' and opens the statement."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does 'Haklısın' mean?",
+      "options": ["You're right", "I'm afraid", "I'm sad", "I agree"],
+      "correctAnswer": "You're right",
+      "explanation": "Haklı means 'right/correct'; the -sın ending means 'you are'."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: düşünüyorsun / ne",
+      "correctAnswer": "Ne düşünüyorsun",
+      "explanation": "Ne düşünüyorsun? means 'What do you think?', verb at the end."
+    }
+  ],
+  "status": "complete"
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "possessives",
+  "name": "Possessive Adjectives",
+  "nameNative": "Les adjectifs possessifs",
+  "summary": "Say my, your, his, and her with words that agree with the thing owned, not the owner.",
+  "level": "elementary",
+  "order": 7,
+  "explanation": "Possessive adjectives show ownership and agree with the noun that follows them, not with the owner. For 'my' you use mon (m), ma (f), or mes (plural): mon frère, ma sœur, mes parents.\n\nThe full set is: mon/ma/mes (my), ton/ta/tes (your, informal), son/sa/ses (his/her/its), notre/nos (our), votre/vos (your, formal/plural), leur/leurs (their).\n\nA tricky point: son and sa mean both 'his' and 'her', because they agree with the object, not the owner. So sa voiture is 'his car' or 'her car' depending on context. Before a feminine noun starting with a vowel, use mon/ton/son for sound: mon amie.",
+  "pattern": "mon/ma/mes, ton/ta/tes, son/sa/ses, notre/nos, votre/vos, leur/leurs",
+  "conjugation": {
+    "my": "mon / ma / mes",
+    "your (informal)": "ton / ta / tes",
+    "his / her / its": "son / sa / ses",
+    "our": "notre / nos",
+    "your (formal)": "votre / vos",
+    "their": "leur / leurs"
+  },
+  "examples": [
+    { "native": "C'est mon frère.", "en": "This is my brother. (masculine)" },
+    { "native": "Ma sœur s'appelle Anna.", "en": "My sister is called Anna. (feminine)" },
+    { "native": "Mes parents habitent ici.", "en": "My parents live here. (plural)" },
+    { "native": "Il cherche sa clé.", "en": "He is looking for his key. (sa agrees with clé)" },
+    { "native": "Notre maison est petite.", "en": "Our house is small." },
+    { "native": "Mon amie arrive.", "en": "My friend is arriving. (mon before a feminine vowel)" }
+  ],
+  "commonMistakes": [
+    "Matching the possessive to the owner instead of the owned noun: it is ma sœur because sœur is feminine.",
+    "Using sa for 'her' and son for 'his' as a fixed rule. Both depend on the noun's gender.",
+    "Using ma before a feminine noun starting with a vowel: it is mon amie, not ma amie.",
+    "Forgetting the plural forms mes, tes, ses, nos, vos, leurs.",
+    "Confusing leur (their, possessive) with leur (to them, pronoun)."
+  ],
+  "tip": "Ask what gender the owned noun is, not who owns it. Son livre is 'his or her book' because livre is masculine."
+}

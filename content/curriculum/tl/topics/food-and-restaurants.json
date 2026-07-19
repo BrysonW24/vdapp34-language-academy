@@ -1,0 +1,90 @@
+{
+  "slug": "food-and-restaurants",
+  "title": "Food & Restaurants",
+  "titleNative": "Pagkain at mga Restawran",
+  "shortSummary": "Order food, ask for the bill, and talk about Filipino dishes from carinderia to fancy restaurant.",
+  "level": "beginner",
+  "order": 4,
+  "icon": "🍲",
+  "color": "#e8590c",
+  "culturalNote": "Food is at the heart of Filipino hospitality. The standing invitation Kain tayo! (Let's eat!) is offered to anyone within earshot, and refusing politely is normal but the warmth is sincere. Rice (kanin) anchors almost every meal, paired with dishes like adobo, sinigang, and lechon, and Filipinos famously eat merienda, a snack between meals. Cheap, home-style meals come from a carinderia or turo-turo, where you literally point (turo) at dishes behind glass. Sharing is the default: plates go in the middle and everyone digs in, sometimes by hand in a festive boodle fight. Saying salamat sa pagkain (thanks for the food) honours the cook and the gathering.",
+  "keyPhrases": [
+    { "native": "Gutom na ako.", "english": "I am hungry now.", "pronunciation": "GU-tom na a-KO", "context": "Saying you are hungry" },
+    { "native": "Kain tayo!", "english": "Let's eat!", "pronunciation": "ka-IN ta-YO", "context": "Warm invitation" },
+    { "native": "Ano ang masarap dito?", "english": "What is delicious here?", "pronunciation": "a-NO ang ma-sa-RAP di-TO", "context": "Asking for a recommendation" },
+    { "native": "Gusto ko ng adobo.", "english": "I want adobo.", "pronunciation": "GUS-to ko nang a-DO-bo", "context": "Ordering a dish" },
+    { "native": "Isang kanin po, paki.", "english": "One rice, please.", "pronunciation": "i-SANG ka-NIN po pa-KI", "context": "Polite order" },
+    { "native": "Tubig lang po.", "english": "Just water, please.", "pronunciation": "TU-big lang po", "context": "Ordering a drink" },
+    { "native": "Ang sarap!", "english": "So delicious!", "pronunciation": "ang sa-RAP", "context": "Praising the food" },
+    { "native": "Busog na ako.", "english": "I am full now.", "pronunciation": "bu-SOG na a-KO", "context": "After eating" },
+    { "native": "Pakihingi ng bill.", "english": "Please bring the bill.", "pronunciation": "pa-ki-hi-NGI nang bill", "context": "Asking to pay" },
+    { "native": "Salamat sa pagkain.", "english": "Thank you for the food.", "pronunciation": "sa-LA-mat sa pag-ka-IN", "context": "Polite closing" }
+  ],
+  "grammar": [
+    {
+      "rule": "Saying what you want with gusto ko ng",
+      "explanation": "To order or express a want, use gusto ko (I want / I like) followed by ng before the food. Ng marks the object you want. The pattern is Gusto ko ng + food.",
+      "examples": [
+        { "native": "Gusto ko ng sinigang.", "en": "I want sinigang." },
+        { "native": "Gusto ko ng kape.", "en": "I want coffee." }
+      ],
+      "commonMistake": "Forgetting ng and saying Gusto ko sinigang, which sounds incomplete."
+    },
+    {
+      "rule": "The polite request word paki-",
+      "explanation": "Attach paki- to a verb to make a polite request, like paki-abot (please pass) or pakihingi (please give). It is the friendly Filipino way to ask for things without sounding demanding.",
+      "examples": [
+        { "native": "Pakiabot ng asin.", "en": "Please pass the salt." },
+        { "native": "Pakihingi ng tubig.", "en": "Please give some water." }
+      ],
+      "commonMistake": "Dropping paki- and giving a bare command, which can sound bossy in a service setting."
+    }
+  ],
+  "dialogue": {
+    "setup": "Jun and a friend sit down at a carinderia for lunch.",
+    "lines": [
+      { "speaker": "Waiter", "native": "Magandang tanghali po! Ano pong gusto ninyo?", "english": "Good afternoon! What would you like?" },
+      { "speaker": "Jun", "native": "Ano po ang masarap dito ngayon?", "english": "What is delicious here today?" },
+      { "speaker": "Waiter", "native": "Bagong luto po ang adobo at sinigang.", "english": "The adobo and sinigang are freshly cooked." },
+      { "speaker": "Jun", "native": "Sige po, isang adobo at dalawang kanin. Tubig lang po.", "english": "Okay, one adobo and two rice. Just water, please." },
+      { "speaker": "Waiter", "native": "Sandali lang po, ihahanda ko na.", "english": "Just a moment, I'll prepare it now." },
+      { "speaker": "Jun", "native": "Salamat po. Ang sarap ng amoy!", "english": "Thank you. The smell is wonderful!" },
+      { "speaker": "Waiter", "native": "Kain na po kayo! Pakihingi lang kung kulang.", "english": "Please eat! Just ask if anything is missing." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'I am full now' in Filipino?",
+      "correctAnswer": "Busog na ako",
+      "explanation": "Busog na ako means you have eaten enough."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which word makes a polite request, as in 'please pass'?",
+      "options": ["paki-", "na-", "mga-", "ka-"],
+      "correctAnswer": "paki-",
+      "explanation": "The prefix paki- turns a verb into a polite request."
+    },
+    {
+      "type": "fill-blank",
+      "question": "Gusto ko _____ adobo. (the object marker before the food)",
+      "correctAnswer": "ng",
+      "explanation": "Ng marks the object you want: Gusto ko ng adobo."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is a carinderia?",
+      "options": ["A bank", "A cheap home-style eatery", "A church", "A bus stop"],
+      "correctAnswer": "A cheap home-style eatery",
+      "explanation": "A carinderia (turo-turo) is a casual eatery where you point at dishes."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: tayo / kain",
+      "correctAnswer": "Kain tayo",
+      "explanation": "Kain tayo! means 'Let's eat!', the classic Filipino invitation."
+    }
+  ],
+  "status": "complete"
+}

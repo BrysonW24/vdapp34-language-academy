@@ -1,0 +1,90 @@
+{
+  "slug": "weather-and-seasons",
+  "title": "Weather & Seasons",
+  "titleNative": "मौसम और ऋतुएँ",
+  "shortSummary": "Talk about hot days, the monsoon, and the seasons of India in Hindi.",
+  "level": "beginner",
+  "order": 12,
+  "icon": "🌦️",
+  "color": "#1098ad",
+  "culturalNote": "India's weather (मौसम) is dramatic and shapes daily life. Traditionally the year has six seasons, but in everyday speech people talk mainly of garmi (गर्मी, summer), barsaat or the monsoon (बरसात), and sardi (सर्दी, winter). The monsoon, arriving around June, is greeted with joy and relief after the intense summer heat, and the first rains are a beloved cultural moment celebrated in songs and poetry. Summers in the north can be searingly hot, so people rest indoors at midday, while the hill stations offer cool escapes. Festivals follow the seasons too: Holi welcomes spring with colour, and Makar Sankranti marks the sun's northward turn in winter. Commenting on the weather, like 'aaj bahut garmi hai' (it's very hot today), is a friendly way to start any conversation.",
+  "keyPhrases": [
+    { "native": "आज मौसम कैसा है?", "transliteration": "aaj mausam kaisa hai?", "english": "How is the weather today?", "pronunciation": "aaj MOW-sum KAI-saa hai", "context": "Asking about weather" },
+    { "native": "आज बहुत गर्मी है", "transliteration": "aaj bahut garmi hai", "english": "It is very hot today", "pronunciation": "aaj buh-HOOT GUR-mee hai", "context": "Hot weather" },
+    { "native": "आज ठंड है", "transliteration": "aaj thand hai", "english": "It is cold today", "pronunciation": "aaj thund hai", "context": "Cold weather" },
+    { "native": "बारिश हो रही है", "transliteration": "baarish ho rahi hai", "english": "It is raining", "pronunciation": "BAA-rish hoh ruh-HEE hai", "context": "During rain" },
+    { "native": "आसमान साफ़ है", "transliteration": "aasmaan saaf hai", "english": "The sky is clear", "pronunciation": "aas-MAAN saaf hai", "context": "Clear day" },
+    { "native": "हवा चल रही है", "transliteration": "hawa chal rahi hai", "english": "The wind is blowing", "pronunciation": "huh-WAA chull ruh-HEE hai", "context": "Windy day" },
+    { "native": "मुझे सर्दी पसंद है", "transliteration": "mujhe sardi pasand hai", "english": "I like winter", "pronunciation": "MOO-jhay SUR-dee puh-SUND hai", "context": "Favourite season" },
+    { "native": "छाता ले जाइए", "transliteration": "chhaata le jaiye", "english": "Please take an umbrella", "pronunciation": "CHHAA-taa lay JAA-i-yay", "context": "Advice in rain" },
+    { "native": "कल बारिश होगी", "transliteration": "kal baarish hogi", "english": "It will rain tomorrow", "pronunciation": "kul BAA-rish HOH-gee", "context": "Forecast" },
+    { "native": "मौसम सुहाना है", "transliteration": "mausam suhaana hai", "english": "The weather is pleasant", "pronunciation": "MOW-sum soo-HAA-naa hai", "context": "Nice day" }
+  ],
+  "grammar": [
+    {
+      "rule": "Present continuous (ho raha hai)",
+      "explanation": "To say something is happening right now, use the verb stem plus raha (man/masculine), rahi (woman/feminine), or rahe (plural) plus hai/hain. Baarish ho rahi hai means 'rain is happening', because baarish is feminine.",
+      "examples": [
+        { "native": "बारिश हो रही है। (baarish ho rahi hai.)", "en": "It is raining." },
+        { "native": "हवा चल रही है। (hawa chal rahi hai.)", "en": "The wind is blowing." }
+      ],
+      "commonMistake": "Using raha with the feminine baarish; the form must be rahi to agree."
+    },
+    {
+      "rule": "Garmi and sardi as nouns",
+      "explanation": "Hindi often expresses 'it is hot/cold' with a noun plus hai: garmi hai (there is heat = it's hot), thand hai (there is cold = it's cold). To say a person feels cold, mujhe thand lag rahi hai (cold is striking me) is used.",
+      "examples": [
+        { "native": "आज बहुत गर्मी है। (aaj bahut garmi hai.)", "en": "It is very hot today." },
+        { "native": "मुझे ठंड लग रही है। (mujhe thand lag rahi hai.)", "en": "I am feeling cold." }
+      ],
+      "commonMistake": "Using an adjective like 'hot' directly; Hindi prefers the noun garmi with hai."
+    }
+  ],
+  "dialogue": {
+    "setup": "Kate and her friend Rohan plan an outing and discuss the weather.",
+    "lines": [
+      { "speaker": "Kate", "native": "रोहन, आज मौसम कैसा है?", "transliteration": "Rohan, aaj mausam kaisa hai?", "english": "Rohan, how is the weather today?" },
+      { "speaker": "Rohan", "native": "आज बहुत गर्मी है। आसमान साफ़ है।", "transliteration": "aaj bahut garmi hai. aasmaan saaf hai.", "english": "It's very hot today. The sky is clear." },
+      { "speaker": "Kate", "native": "अच्छा। क्या कल भी ऐसा ही होगा?", "transliteration": "achha. kya kal bhi aisa hi hoga?", "english": "Okay. Will it be the same tomorrow too?" },
+      { "speaker": "Rohan", "native": "नहीं, कल बारिश होगी।", "transliteration": "nahin, kal baarish hogi.", "english": "No, it will rain tomorrow." },
+      { "speaker": "Kate", "native": "तो हमें छाता ले जाना चाहिए।", "transliteration": "to hamein chhaata le jaana chahiye.", "english": "Then we should take an umbrella." },
+      { "speaker": "Rohan", "native": "हाँ। मुझे बारिश का मौसम पसंद है।", "transliteration": "haan. mujhe baarish ka mausam pasand hai.", "english": "Yes. I like the rainy season." },
+      { "speaker": "Kate", "native": "मुझे भी! मौसम सुहाना हो जाता है।", "transliteration": "mujhe bhi! mausam suhaana ho jaata hai.", "english": "Me too! The weather becomes pleasant." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you ask 'How is the weather today?' in Hindi?",
+      "correctAnswer": "आज मौसम कैसा है? (aaj mausam kaisa hai?)",
+      "explanation": "Mausam means 'weather' and kaisa hai asks 'how is it'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which sentence means 'It is raining'?",
+      "options": ["आज गर्मी है", "बारिश हो रही है", "आसमान साफ़ है", "हवा चल रही है"],
+      "correctAnswer": "बारिश हो रही है",
+      "explanation": "Baarish ho rahi hai is the present continuous 'it is raining'."
+    },
+    {
+      "type": "fill-blank",
+      "question": "हवा चल _____ है। (The wind is blowing)",
+      "correctAnswer": "रही (rahi)",
+      "explanation": "Hawa is feminine, so the continuous form takes rahi."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does 'आज बहुत गर्मी है' mean?",
+      "options": ["It is cold today", "It is windy today", "It is very hot today", "It is raining today"],
+      "correctAnswer": "It is very hot today",
+      "explanation": "Garmi means 'heat', so this says it is very hot."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: होगी / कल / बारिश (It will rain tomorrow)",
+      "correctAnswer": "कल बारिश होगी (kal baarish hogi)",
+      "explanation": "Time word, subject, then the future verb hogi at the end."
+    }
+  ],
+  "status": "complete"
+}

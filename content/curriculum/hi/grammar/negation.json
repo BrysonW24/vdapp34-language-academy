@@ -1,0 +1,34 @@
+{
+  "slug": "negation",
+  "name": "Negation (नहीं / मत / न)",
+  "nameNative": "निषेध (nishedh)",
+  "summary": "Hindi has three negators - नहीं for statements, मत for commands, and न as a softer alternative.",
+  "level": "elementary",
+  "order": 7,
+  "explanation": "Hindi negates sentences with three small but distinct words. नहीं (nahin) is the everyday 'not' or 'no', used for ordinary statements and questions: मैं नहीं जानता (main nahin jaanta, I do not know). It usually sits just before the verb.\n\nमत (mat) is reserved for negative commands, telling someone not to do something: मत जाओ (mat jaao, do not go), यहाँ मत बैठिए (yahaan mat baithiye, please do not sit here). Using नहीं in a command would sound wrong; commands take मत. न (na) is a third, softer negator that can replace नहीं in some statements and मत in gentle requests, and it also appears in tag questions like ठीक है ना? (theek hai na?, it's okay, right?).\n\nIn the present tense, नहीं often lets you drop the होना helper. So instead of मैं डॉक्टर नहीं हूँ you may simply hear मैं डॉक्टर नहीं, though keeping हूँ is also correct and clear for learners. The key habit to build is matching the right negator to the sentence type: नहीं for statements, मत for commands.",
+  "pattern": "statement: ... nahin + verb; command: mat + verb; soft: na",
+  "conjugation": {
+    "नहीं (nahin)": "statement 'not' - मैं नहीं जानता (main nahin jaanta, I don't know)",
+    "मत (mat)": "negative command - मत जाओ (mat jaao, don't go)",
+    "न (na)": "softer 'not' / tag - ठीक है ना? (theek hai na?, right?)",
+    "नहीं है (nahin hai)": "is not - यह सही नहीं है (yeh sahi nahin hai)",
+    "मत करो (mat karo)": "don't do (familiar) - ऐसा मत करो (aisa mat karo)",
+    "मत कीजिए (mat kijiye)": "please don't do (polite) - चिंता मत कीजिए (chinta mat kijiye)"
+  },
+  "examples": [
+    { "native": "मुझे चाय नहीं चाहिए। (mujhe chai nahin chahiye.)", "en": "I do not want tea." },
+    { "native": "वह यहाँ नहीं रहता। (voh yahaan nahin rahta.)", "en": "He does not live here." },
+    { "native": "दरवाज़ा मत खोलो। (darwaaza mat kholo.)", "en": "Don't open the door." },
+    { "native": "कृपया चिंता मत कीजिए। (kripya chinta mat kijiye.)", "en": "Please do not worry." },
+    { "native": "तुम आ रहे हो ना? (tum aa rahe ho na?)", "en": "You are coming, right?" },
+    { "native": "यह मेरा नहीं है। (yeh mera nahin hai.)", "en": "This is not mine." }
+  ],
+  "commonMistakes": [
+    "Using नहीं (nahin) for a command: saying nahin jaao instead of mat jaao.",
+    "Using मत (mat) in an ordinary statement, which is incorrect; statements take नहीं.",
+    "Placing नहीं after the verb; it normally comes just before the verb.",
+    "Forgetting that मत must match the command politeness: mat karo (familiar) vs mat kijiye (polite).",
+    "Overusing न (na) as a full negator; for clear statements नहीं is safer for learners."
+  ],
+  "tip": "Tie the negator to the mood: statements take नहीं, commands take मत. Get that pairing right and your negatives will sound natural."
+}

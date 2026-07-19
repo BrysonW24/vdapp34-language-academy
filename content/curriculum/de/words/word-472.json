@@ -1,13 +1,13 @@
 {
   "rank": 472,
-  "german": "Kopf",
-  "english": "head",
-  "pronunciation": "KOPF",
+  "german": "September",
+  "english": "September",
+  "pronunciation": "z ɛ p t ɛ m b ɐ",
   "partOfSpeech": "noun",
-  "gender": "masculine",
-  "article": "der",
-  "exampleDe": "Mir tut der Kopf weh.",
-  "exampleEn": "My head hurts.",
+  "exampleDe": "Ich mag den September.",
+  "exampleEn": "I like September.",
   "group": "confident-350",
-  "topic": "health"
+  "topic": "basics",
+  "article": "der",
+  "gender": "masculine"
 }

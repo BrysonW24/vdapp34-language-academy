@@ -1,13 +1,11 @@
 {
   "rank": 176,
-  "german": "Schule",
-  "english": "school",
-  "pronunciation": "SHOO-le",
-  "partOfSpeech": "noun",
-  "gender": "feminine",
-  "article": "die",
-  "exampleDe": "Die Kinder gehen in die Schule.",
-  "exampleEn": "The children go to school.",
+  "german": "form",
+  "english": "shape",
+  "pronunciation": "f ɔ ʀ m",
+  "partOfSpeech": "adjective",
+  "exampleDe": "Dieser Ort ist sehr formschön.",
+  "exampleEn": "This place is very shape.",
   "group": "everyday-250",
-  "topic": "education"
+  "topic": "descriptions"
 }

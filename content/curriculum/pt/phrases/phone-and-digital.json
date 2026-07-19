@@ -1,0 +1,21 @@
+{
+  "slug": "phone-and-digital",
+  "title": "Phone and Digital",
+  "description": "Handle calls, wifi, and everyday digital life in Portuguese.",
+  "situation": "Staying connected: phone calls, internet, messaging, and tech basics.",
+  "order": 8,
+  "phrases": [
+    { "native": "Alô?", "english": "Hello? (on the phone)", "pronunciation": "ah-LOH", "formality": "neutral", "tip": "Brazilians answer the phone with alô." },
+    { "native": "Posso pegar o seu número?", "english": "Can I have your number?", "pronunciation": "POH-soo peh-GAR oo SEH-oo NOO-meh-roo", "formality": "neutral" },
+    { "native": "Vou te mandar uma mensagem", "english": "I'll send you a message", "pronunciation": "voh chee man-DAR OO-mah men-SAH-zhayn", "formality": "informal" },
+    { "native": "Qual é a senha do wifi?", "english": "What's the wifi password?", "pronunciation": "kwow eh ah SEH-nyah doo WEE-fee", "formality": "neutral" },
+    { "native": "Estou sem sinal", "english": "I have no signal", "pronunciation": "es-TOH sayn see-NOW", "formality": "neutral" },
+    { "native": "A bateria acabou", "english": "The battery is dead", "pronunciation": "ah bah-teh-REE-ah ah-kah-BOH", "formality": "neutral" },
+    { "native": "Posso carregar o celular?", "english": "Can I charge my phone?", "pronunciation": "POH-soo kah-heh-GAR oo seh-loo-LAR", "formality": "neutral" },
+    { "native": "Te ligo mais tarde", "english": "I'll call you later", "pronunciation": "chee LEE-goo mais TAR-jee", "formality": "informal" },
+    { "native": "Pode me mandar o link?", "english": "Can you send me the link?", "pronunciation": "POH-jee mee man-DAR oo link", "formality": "neutral" },
+    { "native": "A gente se fala depois", "english": "We'll talk later", "pronunciation": "ah ZHEN-chee see FAH-lah deh-POYS", "formality": "informal" },
+    { "native": "Me adiciona nas redes", "english": "Add me on social media", "pronunciation": "mee ah-jee-see-OH-nah nahs HEH-jees", "formality": "informal" },
+    { "native": "Você recebeu a minha mensagem?", "english": "Did you get my message?", "pronunciation": "voh-SEH heh-seh-BEH-oo ah MEE-nyah men-SAH-zhayn", "formality": "neutral" }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "slug": "personal-info",
+  "title": "Personal Information",
+  "titleZh": "个人信息",
+  "shortSummary": "Talk about who you are: your name, nationality, job, and where you live.",
+  "level": "beginner",
+  "order": 3,
+  "icon": "🪪",
+  "color": "#386a58",
+  "culturalNote": "In Chinese, the family name comes first and the given name second, so 王小明 is Mr Wang (family) Xiaoming (given). When meeting someone politely, you can ask 您贵姓？(your honourable surname?), to which the reply is 我姓... (my surname is...). Asking someone's age or job is normal small talk and not considered intrusive the way it might be elsewhere.",
+  "keyPhrases": [
+    { "chinese": "我叫...", "pinyin": "wǒ jiào...", "english": "My name is...", "context": "Giving your full name" },
+    { "chinese": "我姓...", "pinyin": "wǒ xìng...", "english": "My surname is...", "context": "Giving just the family name" },
+    { "chinese": "您贵姓？", "pinyin": "nín guìxìng?", "english": "What is your surname? (polite)", "context": "Formal question" },
+    { "chinese": "我是...人", "pinyin": "wǒ shì... rén", "english": "I'm from... (a country)", "context": "Add 人 after a country" },
+    { "chinese": "我住在...", "pinyin": "wǒ zhù zài...", "english": "I live in...", "context": "Where you live" },
+    { "chinese": "我是学生", "pinyin": "wǒ shì xuésheng", "english": "I'm a student", "context": "Stating your role" },
+    { "chinese": "我做...工作", "pinyin": "wǒ zuò... gōngzuò", "english": "I do ... work", "context": "Talking about your job" },
+    { "chinese": "我会说一点中文", "pinyin": "wǒ huì shuō yìdiǎn Zhōngwén", "english": "I can speak a little Chinese", "context": "Useful early on" },
+    { "chinese": "我今年三十岁", "pinyin": "wǒ jīnnián sānshí suì", "english": "I'm thirty years old", "context": "岁 marks age" },
+    { "chinese": "认识你很高兴", "pinyin": "rènshi nǐ hěn gāoxìng", "english": "Nice to meet you", "context": "Polite closing" }
+  ],
+  "grammar": [
+    {
+      "rule": "是 for identity, not adjectives",
+      "explanation": "Use 是 (shì) to link a noun to who or what someone is: 我是老师 (I am a teacher). Remember adjectives do not use 是; they use 很.",
+      "examples": [
+        { "zh": "我是中国人。", "en": "I am Chinese." },
+        { "zh": "他是医生。", "en": "He is a doctor." }
+      ],
+      "commonMistake": "Using 是 before an adjective, as in 我是高. Use 很: 我很高."
+    },
+    {
+      "rule": "Stating age with 岁",
+      "explanation": "Age uses 岁 (suì) and, like adjectives, drops 是: 我二十岁 (I am twenty). For 'this year', add 今年: 我今年二十岁.",
+      "examples": [
+        { "zh": "我今年二十五岁。", "en": "I am twenty-five this year." },
+        { "zh": "他十岁。", "en": "He is ten years old." }
+      ],
+      "commonMistake": "Saying 我是二十岁. Age drops 是: 我二十岁."
+    }
+  ],
+  "dialogue": {
+    "setup": "At a language exchange, Tom introduces himself to Li Na.",
+    "lines": [
+      { "speaker": "Tom", "chinese": "你好，我叫汤姆。你叫什么名字？", "pinyin": "Nǐ hǎo, wǒ jiào Tāngmǔ. Nǐ jiào shénme míngzi?", "english": "Hi, my name is Tom. What's your name?" },
+      { "speaker": "李娜", "chinese": "我叫李娜。认识你很高兴。", "pinyin": "Wǒ jiào Lǐ Nà. Rènshi nǐ hěn gāoxìng.", "english": "I'm Li Na. Nice to meet you." },
+      { "speaker": "Tom", "chinese": "你是哪国人？", "pinyin": "Nǐ shì nǎ guó rén?", "english": "What country are you from?" },
+      { "speaker": "李娜", "chinese": "我是中国人，住在上海。你呢？", "pinyin": "Wǒ shì Zhōngguó rén, zhù zài Shànghǎi. Nǐ ne?", "english": "I'm Chinese, I live in Shanghai. And you?" },
+      { "speaker": "Tom", "chinese": "我是澳大利亚人。我是学生。", "pinyin": "Wǒ shì Àodàlìyà rén. Wǒ shì xuésheng.", "english": "I'm Australian. I'm a student." },
+      { "speaker": "李娜", "chinese": "你的中文很好！", "pinyin": "Nǐ de Zhōngwén hěn hǎo!", "english": "Your Chinese is very good!" },
+      { "speaker": "Tom", "chinese": "谢谢，我会说一点。", "pinyin": "Xièxie, wǒ huì shuō yìdiǎn.", "english": "Thanks, I can speak a little." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'I'm a student'?",
+      "correctAnswer": "我是学生",
+      "explanation": "是 links you to the noun 学生 (student)."
+    },
+    {
+      "type": "fill-blank",
+      "question": "我_____中国人。 (I am Chinese)",
+      "correctAnswer": "是",
+      "explanation": "是 is used for identity with a noun."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which is correct for age?",
+      "options": ["我是二十岁", "我二十岁", "我很二十岁", "我有二十岁"],
+      "correctAnswer": "我二十岁",
+      "explanation": "Age drops 是: 我二十岁."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does 您贵姓？ask?",
+      "options": ["Your age", "Your surname (polite)", "Your job", "Your country"],
+      "correctAnswer": "Your surname (polite)",
+      "explanation": "It politely asks for someone's family name."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: 上海 / 在 / 住 / 我",
+      "correctAnswer": "我住在上海",
+      "explanation": "Subject 我, verb 住, 在 plus the place 上海."
+    }
+  ],
+  "status": "complete"
+}

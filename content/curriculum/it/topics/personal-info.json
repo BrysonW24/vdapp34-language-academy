@@ -1,0 +1,90 @@
+{
+  "slug": "personal-info",
+  "title": "Personal Information",
+  "titleNative": "Informazioni personali",
+  "shortSummary": "Say your name, age, nationality, and where you live so people can get to know you.",
+  "level": "beginner",
+  "order": 2,
+  "icon": "🪪",
+  "color": "#7a3fa0",
+  "culturalNote": "Italians are curious and friendly, and small talk about where you are from quickly turns warm once they hear you are a foreigner making the effort. Note that Italian uses avere (to have) for age: you literally 'have' your years, so ho trent'anni means 'I am thirty'. Nationalities are adjectives and agree with gender: a man is australiano, a woman australiana, and they are not capitalised in Italian. Sharing that you are imparando l'italiano (learning Italian) almost always earns a smile and patience.",
+  "keyPhrases": [
+    { "native": "Mi chiamo...", "english": "My name is...", "pronunciation": "mee kee-AH-moh", "context": "Introducing yourself" },
+    { "native": "Come ti chiami?", "english": "What's your name?", "pronunciation": "KOH-meh tee kee-AH-mee", "context": "Asking informally" },
+    { "native": "Sono australiano", "english": "I'm Australian", "pronunciation": "SOH-noh ows-trah-lee-AH-noh", "context": "Stating nationality" },
+    { "native": "Ho trent'anni", "english": "I'm thirty years old", "pronunciation": "oh tren-TAN-nee", "context": "Using avere for age" },
+    { "native": "Quanti anni hai?", "english": "How old are you?", "pronunciation": "KWAN-tee AN-nee ai", "context": "Asking age" },
+    { "native": "Abito a Sydney", "english": "I live in Sydney", "pronunciation": "AH-bee-toh ah SID-nee", "context": "Where you live" },
+    { "native": "Di dove sei?", "english": "Where are you from?", "pronunciation": "dee DOH-veh say", "context": "Asking origin" },
+    { "native": "Parlo un po' di italiano", "english": "I speak a little Italian", "pronunciation": "PAR-loh oon poh dee ee-tah-lee-AH-noh", "context": "Managing expectations" },
+    { "native": "Sono sposato", "english": "I'm married", "pronunciation": "SOH-noh spoh-ZAH-toh", "context": "Marital status" },
+    { "native": "Lavoro come insegnante", "english": "I work as a teacher", "pronunciation": "lah-VOH-roh KOH-meh een-seh-NYAN-teh", "context": "Saying your job" }
+  ],
+  "grammar": [
+    {
+      "rule": "Avere for age",
+      "explanation": "Italian uses avere (to have), not essere (to be), for age. You say how many years you 'have'. Ho venti anni literally means 'I have twenty years'.",
+      "examples": [
+        { "native": "Ho venticinque anni.", "en": "I'm twenty-five." },
+        { "native": "Mia figlia ha cinque anni.", "en": "My daughter is five." }
+      ],
+      "commonMistake": "Saying sono venti anni with essere. Age always uses ho with avere."
+    },
+    {
+      "rule": "Nationality adjectives agree",
+      "explanation": "Nationality words are adjectives and change with gender. A man is italiano or australiano, a woman is italiana or australiana. They are written in lowercase.",
+      "examples": [
+        { "native": "Marco è italiano.", "en": "Marco is Italian." },
+        { "native": "Anna è italiana.", "en": "Anna is Italian." }
+      ],
+      "commonMistake": "Capitalising nationalities or leaving them in the masculine form for a woman."
+    }
+  ],
+  "dialogue": {
+    "setup": "Giulia chats with Tom, a traveller she meets at a language exchange.",
+    "lines": [
+      { "speaker": "Giulia", "native": "Ciao! Come ti chiami?", "english": "Hi! What's your name?" },
+      { "speaker": "Tom", "native": "Mi chiamo Tom. E tu?", "english": "My name is Tom. And you?" },
+      { "speaker": "Giulia", "native": "Sono Giulia. Di dove sei?", "english": "I'm Giulia. Where are you from?" },
+      { "speaker": "Tom", "native": "Sono australiano, di Sydney.", "english": "I'm Australian, from Sydney." },
+      { "speaker": "Giulia", "native": "Che bello! Quanti anni hai?", "english": "How nice! How old are you?" },
+      { "speaker": "Tom", "native": "Ho ventotto anni. Sto imparando l'italiano.", "english": "I'm twenty-eight. I'm learning Italian." },
+      { "speaker": "Giulia", "native": "Parli benissimo! Piacere, Tom.", "english": "You speak really well! Nice to meet you, Tom." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'My name is Anna' in Italian?",
+      "correctAnswer": "Mi chiamo Anna",
+      "explanation": "Mi chiamo literally means 'I call myself'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which verb does Italian use for age?",
+      "options": ["essere", "avere", "stare", "fare"],
+      "correctAnswer": "avere",
+      "explanation": "Ho trent'anni uses avere, not essere."
+    },
+    {
+      "type": "fill-blank",
+      "question": "_____ a Roma. (I live)",
+      "correctAnswer": "Abito",
+      "explanation": "Abitare means to live; the io form is abito."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "How would a woman say 'I'm Italian'?",
+      "options": ["Sono italiano", "Sono italiana", "Sono italiani", "Ho italiana"],
+      "correctAnswer": "Sono italiana",
+      "explanation": "Nationality adjectives agree; a woman uses italiana."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: sei / dove / di",
+      "correctAnswer": "Di dove sei",
+      "explanation": "Di dove sei? means 'Where are you from?'"
+    }
+  ],
+  "status": "complete"
+}

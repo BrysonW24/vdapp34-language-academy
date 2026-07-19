@@ -1,0 +1,34 @@
+{
+  "slug": "nouns-and-da-desu",
+  "name": "Nouns with da and desu",
+  "nameNative": "名詞と「だ・です」",
+  "summary": "To say 'X is Y' with nouns, Japanese uses だ (da, plain) or です (desu, polite). There are no articles and no plural endings.",
+  "level": "beginner",
+  "order": 5,
+  "explanation": "Japanese nouns are wonderfully simple: there is no 'a' or 'the', and nouns do not change for singular or plural. 本 (hon) can mean 'book' or 'books' depending on context. To link two nouns or describe something - 'this is a book' - you add です (polite) or だ (plain casual) after the noun: これは本です (kore wa hon desu).\n\nです and だ act like the verb 'to be' but only with nouns and adjectives that behave like nouns. The polite です is your default; だ is casual and often dropped in speech among friends. To make it negative, です becomes ではありません (dewa arimasen) or the softer じゃありません (ja arimasen).\n\nBecause there are no articles or plurals, you focus on the noun itself and let particles and context do the rest. If you need to be specific about number, you add a counter phrase, but the bare noun is always grammatically complete on its own.",
+  "pattern": "[noun] + です (polite)  /  [noun] + だ (plain)",
+  "conjugation": {
+    "polite affirmative": "学生です (gakusei desu) - is a student",
+    "polite negative": "学生ではありません (gakusei dewa arimasen) - is not a student",
+    "polite past": "学生でした (gakusei deshita) - was a student",
+    "polite past negative": "学生ではありませんでした (gakusei dewa arimasen deshita) - was not a student",
+    "plain affirmative": "学生だ (gakusei da) - is a student (casual)",
+    "plain negative": "学生じゃない (gakusei ja nai) - is not a student (casual)"
+  },
+  "examples": [
+    { "native": "これは水です。(kore wa mizu desu.)", "en": "This is water." },
+    { "native": "私は日本人です。(watashi wa nihonjin desu.)", "en": "I am Japanese." },
+    { "native": "それは私の鞄ではありません。(sore wa watashi no kaban dewa arimasen.)", "en": "That is not my bag." },
+    { "native": "彼は医者でした。(kare wa isha deshita.)", "en": "He was a doctor." },
+    { "native": "あれは学校です。(are wa gakkou desu.)", "en": "That over there is a school." },
+    { "native": "今日は休みです。(kyou wa yasumi desu.)", "en": "Today is a day off." }
+  ],
+  "commonMistakes": [
+    "Adding 'a' or 'the' by translating articles into Japanese. Japanese has no articles.",
+    "Trying to make nouns plural with an ending. Nouns do not change for number.",
+    "Using です with a verb. です is for nouns and na-adjectives, not for -ます verbs.",
+    "Making the negative as ですない. The polite negative is ではありません or じゃありません.",
+    "Mixing だ and です in the same sentence, which clashes the casual and polite registers."
+  ],
+  "tip": "Noun plus です is a complete polite sentence. No articles, no plurals - just the noun and です."
+}

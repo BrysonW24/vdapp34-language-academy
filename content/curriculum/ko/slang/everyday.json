@@ -1,0 +1,25 @@
+{
+  "slug": "everyday",
+  "title": "Everyday Slang",
+  "description": "The casual Korean that real people text and say to friends every day - the stuff textbooks skip.",
+  "situation": "Hanging out with friends: reacting, hyping things up, complaining, and sounding natural rather than stiff.",
+  "order": 1,
+  "phrases": [
+    { "native": "대박", "transliteration": "daebak", "english": "Awesome! / No way!", "pronunciation": "deh-bahk", "formality": "informal", "tip": "The all-purpose hype word - good for amazing news OR shocking news. Literally 'jackpot'." },
+    { "native": "헐", "transliteration": "heol", "english": "Whoa / OMG / What?!", "pronunciation": "huhl", "formality": "informal", "tip": "A gasp turned into a word - reacting to something shocking, weird, or unbelievable. Very common in texts." },
+    { "native": "짱", "transliteration": "jjang", "english": "The best / awesome", "pronunciation": "jjang", "formality": "informal", "tip": "Stick it on anything: 너 짱이야 (neo jjangiya) means 'you're the best'. Slightly older slang but still everywhere." },
+    { "native": "꿀잼", "transliteration": "kkuljaem", "english": "So much fun / hilarious", "pronunciation": "kkool-jem", "formality": "informal", "tip": "Mashup of 꿀 (honey) + 재미 (fun) = 'honey-fun'. The opposite is 노잼 (nojaem), 'no fun / boring'." },
+    { "native": "파이팅", "transliteration": "paiting", "english": "You got this! / Go for it!", "pronunciation": "pah-ee-ting", "formality": "neutral", "tip": "From English 'fighting' but means encouragement, not violence. Shout it before exams, games, anything tough." },
+    { "native": "진짜", "transliteration": "jinjja", "english": "Really / for real / seriously", "pronunciation": "jin-jja", "formality": "informal", "tip": "Filler and intensifier in one. 진짜? on its own = 'for real?'. Used constantly in casual speech." },
+    { "native": "완전", "transliteration": "wanjeon", "english": "Totally / super / completely", "pronunciation": "wahn-juhn", "formality": "informal", "tip": "Stack it before adjectives for emphasis: 완전 맛있어 (wanjeon masisseo), 'it's totally delicious'." },
+    { "native": "그냥", "transliteration": "geunyang", "english": "Just / no reason / whatever", "pronunciation": "geu-nyang", "formality": "informal", "tip": "The classic shrug answer. 'Why?' '그냥.' = 'just because'. Also a soft filler word." },
+    { "native": "야", "transliteration": "ya", "english": "Hey! (to get attention)", "pronunciation": "yah", "formality": "informal", "tip": "Very casual - only with close friends or people younger than you. Rude to elders or strangers." },
+    { "native": "맞아 맞아", "transliteration": "maja maja", "english": "Right, right! / exactly!", "pronunciation": "mah-jah mah-jah", "formality": "informal", "tip": "Agreeing enthusiastically. Doubling it up adds energy, like nodding hard while someone talks." },
+    { "native": "꿀팁", "transliteration": "kkultip", "english": "A great tip / life hack", "pronunciation": "kkool-tip", "formality": "informal", "tip": "꿀 (honey) + tip = a genuinely useful tip. Common in videos and posts sharing handy advice." },
+    { "native": "심쿵", "transliteration": "simkung", "english": "Heart-fluttering / so cute it gets me", "pronunciation": "shim-koong", "formality": "informal", "tip": "심장 (heart) + 쿵 (thump) - that heart-skip when something or someone is adorable or charming." },
+    { "native": "노잼", "transliteration": "nojaem", "english": "Boring / no fun", "pronunciation": "noh-jem", "formality": "informal", "tip": "English 'no' + 재미 (fun). The flat verdict on a dull movie, party, or person. Pairs with 꿀잼 as its opposite." },
+    { "native": "힘들어 죽겠어", "transliteration": "himdeureo jukgesseo", "english": "I'm exhausted / I'm dying here", "pronunciation": "him-deu-ro jook-geh-sso", "formality": "informal", "tip": "Literally 'so hard I could die' - playful overstatement for being worn out, not a real complaint about life." },
+    { "native": "가즈아", "transliteration": "gajua", "english": "Let's gooo! / here we go!", "pronunciation": "gah-joo-ah", "formality": "informal", "tip": "A stretched-out, hyped version of 가자 (gaja, 'let's go'). Born online - shout it when you're pumped." },
+    { "native": "현타", "transliteration": "hyeonta", "english": "A sudden reality check / deflated feeling", "pronunciation": "hyun-tah", "formality": "informal", "tip": "Short for 현실 자각 타임 ('reality-realisation time') - that hollow moment when reality crashes back in after a high." }
+  ]
+}

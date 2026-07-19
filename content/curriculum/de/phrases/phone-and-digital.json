@@ -1,0 +1,21 @@
+{
+  "slug": "phone-and-digital",
+  "title": "Phone & Digital",
+  "description": "Stay connected in German: phone calls, Wi-Fi, SIM cards, and messaging.",
+  "situation": "Staying connected: making calls, getting online, buying a SIM, and basic tech vocabulary.",
+  "order": 8,
+  "phrases": [
+    { "german": "Wie ist das WLAN-Passwort?", "english": "What's the Wi-Fi password?", "pronunciation": "vee ist dahs VAY-lahn-PAHS-vort", "formality": "neutral" },
+    { "german": "Mein Akku ist leer", "english": "My battery is dead", "pronunciation": "mine AH-koo ist lair", "formality": "neutral" },
+    { "german": "Kann ich mein Handy hier aufladen?", "english": "Can I charge my phone here?", "pronunciation": "kahn ikh mine HEN-dee heer OWF-lah-den", "formality": "neutral", "tip": "Germans call a mobile phone a 'Handy'." },
+    { "german": "Ich brauche eine SIM-Karte", "english": "I need a SIM card", "pronunciation": "ikh BROW-khuh EYE-nuh ZIM-kar-tuh", "formality": "neutral" },
+    { "german": "Haben Sie eine Ladekabel?", "english": "Do you have a charging cable?", "pronunciation": "HAH-ben zee ine LAH-duh-kah-bel", "formality": "formal" },
+    { "german": "Können Sie mir Ihre Nummer geben?", "english": "Can you give me your number?", "pronunciation": "KUR-nen zee meer EE-ruh NOO-mer GAY-ben", "formality": "formal" },
+    { "german": "Ich rufe Sie später an", "english": "I'll call you later", "pronunciation": "ikh ROO-fuh zee SHPAY-ter ahn", "formality": "formal", "tip": "'anrufen' splits: the 'an' jumps to the end of the sentence." },
+    { "german": "Schreiben Sie mir eine Nachricht", "english": "Send me a message", "pronunciation": "SHRY-ben zee meer EYE-nuh NAHKH-rikht", "formality": "formal" },
+    { "german": "Das Internet ist langsam", "english": "The internet is slow", "pronunciation": "dahs IN-ter-net ist LAHNG-zahm", "formality": "neutral" },
+    { "german": "Welche App benutzen Sie?", "english": "Which app do you use?", "pronunciation": "VEL-khuh ep buh-NOO-tsen zee", "formality": "formal" },
+    { "german": "Können wir per WhatsApp schreiben?", "english": "Can we message on WhatsApp?", "pronunciation": "KUR-nen veer per VOTS-ep SHRY-ben", "formality": "neutral", "tip": "WhatsApp is by far the most common messaging app in Germany." },
+    { "german": "Ich habe kein Netz", "english": "I have no signal", "pronunciation": "ikh HAH-buh kine nets", "formality": "neutral" }
+  ]
+}

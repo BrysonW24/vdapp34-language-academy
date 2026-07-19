@@ -1,0 +1,21 @@
+{
+  "slug": "directions",
+  "title": "Asking for Directions",
+  "description": "Find your way around an Indian city: ask the way, understand turns, and use transport.",
+  "situation": "Getting around: asking where places are, left and right, near and far, and taking an auto or taxi.",
+  "order": 5,
+  "phrases": [
+    { "native": "स्टेशन कहाँ है?", "transliteration": "station kahaan hai?", "english": "Where is the station?", "pronunciation": "station kuh-HAAN hai", "formality": "neutral", "tip": "Swap in any place name: bank kahaan hai, hospital kahaan hai." },
+    { "native": "यह जगह कितनी दूर है?", "transliteration": "yeh jagah kitni door hai?", "english": "How far is this place?", "pronunciation": "yeh JUH-gah KIT-nee door hai", "formality": "neutral" },
+    { "native": "सीधे जाइए", "transliteration": "seedhe jaaiye", "english": "Go straight", "pronunciation": "SEE-dheh JAA-ee-yeh", "formality": "formal" },
+    { "native": "दाएँ मुड़िए", "transliteration": "daayen mudiye", "english": "Turn right", "pronunciation": "DAA-yen MOO-ree-yeh", "formality": "formal" },
+    { "native": "बाएँ मुड़िए", "transliteration": "baayen mudiye", "english": "Turn left", "pronunciation": "BAA-yen MOO-ree-yeh", "formality": "formal" },
+    { "native": "यह यहाँ से पास है", "transliteration": "yeh yahaan se paas hai", "english": "It is near from here", "pronunciation": "yeh yuh-HAAN seh paas hai", "formality": "neutral", "tip": "Paas means near; door means far." },
+    { "native": "मुझे रास्ता नहीं पता", "transliteration": "mujhe raasta nahin pata", "english": "I don't know the way", "pronunciation": "MOO-jheh RAAS-taa nuh-HEEN PUH-taa", "formality": "neutral" },
+    { "native": "क्या आप मुझे रास्ता दिखा सकते हैं?", "transliteration": "kya aap mujhe raasta dikha sakte hain?", "english": "Can you show me the way?", "pronunciation": "kyaa aap MOO-jheh RAAS-taa di-KHAA SUK-teh hain", "formality": "formal" },
+    { "native": "ऑटो रोकिए", "transliteration": "auto rokiye", "english": "Stop the auto-rickshaw", "pronunciation": "AW-toh ROH-kee-yeh", "formality": "formal", "tip": "Auto means the three-wheeled auto-rickshaw, very common in India." },
+    { "native": "मीटर से चलिए", "transliteration": "meter se chaliye", "english": "Please go by the meter", "pronunciation": "MEE-tar seh CHUH-lee-yeh", "formality": "formal", "tip": "Useful with taxis and autos to get a fair fare." },
+    { "native": "यहीं रुकिए", "transliteration": "yaheen rukiye", "english": "Stop right here", "pronunciation": "yuh-HEEN ROO-kee-yeh", "formality": "formal" },
+    { "native": "मुझे यहाँ उतरना है", "transliteration": "mujhe yahaan utarna hai", "english": "I need to get off here", "pronunciation": "MOO-jheh yuh-HAAN OO-tar-naa hai", "formality": "neutral" }
+  ]
+}

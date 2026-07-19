@@ -1,0 +1,90 @@
+{
+  "slug": "transport",
+  "title": "Transport",
+  "titleNative": "Os transportes",
+  "shortSummary": "Buy tickets, catch buses and the metro, and get around Brazil by public transport.",
+  "level": "beginner",
+  "order": 11,
+  "icon": "🚌",
+  "color": "#2c6e49",
+  "culturalNote": "City transport in Brazil leans heavily on the ônibus (bus), and big cities like São Paulo and Rio also have a metrô (metro). For long distances between cities, comfortable long-distance buses leave from the rodoviária (bus terminal). You usually pay with a rechargeable transit card or cash on the bus. Ride apps like Uber are widely used and often cheaper than taxis. A useful word is a passagem (the fare or ticket), and pegar is the everyday verb for 'to catch' transport: vou pegar o ônibus.",
+  "keyPhrases": [
+    { "native": "Uma passagem para o centro", "english": "A ticket to the centre", "pronunciation": "OO-mah pah-SAH-zhayn PAH-rah oo SEN-troo", "context": "Buying a ticket" },
+    { "native": "ida e volta", "english": "return (round trip)", "pronunciation": "EE-dah ee VOL-tah", "context": "Ticket type" },
+    { "native": "Que horas sai o ônibus?", "english": "What time does the bus leave?", "pronunciation": "kee OH-rahs sai oo OH-nee-boos", "context": "Timetable" },
+    { "native": "De qual plataforma?", "english": "From which platform?", "pronunciation": "jee kwow plah-tah-FOR-mah", "context": "Finding the platform" },
+    { "native": "Este ônibus vai ao centro?", "english": "Does this bus go to the centre?", "pronunciation": "ES-tee OH-nee-boos vai ow SEN-troo", "context": "Checking the route" },
+    { "native": "Onde fica o ponto de ônibus?", "english": "Where is the bus stop?", "pronunciation": "ON-jee FEE-kah oo PON-too jee OH-nee-boos", "context": "Bus stops" },
+    { "native": "Quanto tempo dura a viagem?", "english": "How long is the journey?", "pronunciation": "KWAN-too TEM-poo DOO-rah ah vee-AH-zhayn", "context": "Trip length" },
+    { "native": "Vou pegar um Uber", "english": "I'll take an Uber", "pronunciation": "voh peh-GAR oon OO-ber", "context": "Ride apps" },
+    { "native": "Onde fica a estação de metrô?", "english": "Where is the metro station?", "pronunciation": "ON-jee FEE-kah ah es-tah-SOWN jee meh-TROH", "context": "Metro" },
+    { "native": "O ônibus está atrasado", "english": "The bus is late", "pronunciation": "oo OH-nee-boos es-TAH ah-trah-ZAH-doo", "context": "Delays" }
+  ],
+  "grammar": [
+    {
+      "rule": "Ir with a and para",
+      "explanation": "Ir (to go) pairs with a for short trips and para for a more lasting destination, both meaning 'to'. In speech para is often shortened to pra: vou pra escola. With transport you use de: vou de ônibus.",
+      "examples": [
+        { "native": "Vou para o Rio de avião.", "en": "I'm going to Rio by plane." },
+        { "native": "Vamos de ônibus.", "en": "We're going by bus." }
+      ],
+      "commonMistake": "Using em for transport. The means of transport takes de: de carro, de metrô."
+    },
+    {
+      "rule": "Pegar for catching transport",
+      "explanation": "The everyday verb for catching or taking transport is pegar: pego o ônibus (I catch the bus), vou pegar o metrô (I'm going to take the metro). It is more natural than using tomar in Brazil.",
+      "examples": [
+        { "native": "Pego o ônibus às oito.", "en": "I catch the bus at eight." },
+        { "native": "Você vai pegar um táxi?", "en": "Are you going to take a taxi?" }
+      ],
+      "commonMistake": "Translating 'take' literally with levar; for transport it is pegar."
+    }
+  ],
+  "dialogue": {
+    "setup": "A traveller buys a bus ticket at the terminal.",
+    "lines": [
+      { "speaker": "Viajante", "native": "Bom dia, uma passagem para Curitiba.", "english": "Good morning, a ticket to Curitiba." },
+      { "speaker": "Atendente", "native": "Só ida ou ida e volta?", "english": "One way or return?" },
+      { "speaker": "Viajante", "native": "Ida e volta, por favor.", "english": "Return, please." },
+      { "speaker": "Atendente", "native": "São cento e vinte reais.", "english": "That's one hundred and twenty reais." },
+      { "speaker": "Viajante", "native": "De qual plataforma sai?", "english": "Which platform does it leave from?" },
+      { "speaker": "Atendente", "native": "Plataforma cinco, em quinze minutos.", "english": "Platform five, in fifteen minutes." },
+      { "speaker": "Viajante", "native": "Obrigado!", "english": "Thank you!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'A ticket to the centre' in Portuguese?",
+      "correctAnswer": "Uma passagem para o centro",
+      "explanation": "Passagem is the fare or ticket; para marks the destination."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does ida e volta mean?",
+      "options": ["one way", "return (round trip)", "first class", "platform"],
+      "correctAnswer": "return (round trip)",
+      "explanation": "Ida e volta is a return ticket."
+    },
+    {
+      "type": "fill-blank",
+      "question": "Vamos _____ ônibus. (by)",
+      "correctAnswer": "de",
+      "explanation": "Means of transport take de: de ônibus, de carro."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which verb means 'to catch' a bus in Brazil?",
+      "options": ["levar", "pegar", "deixar", "ficar"],
+      "correctAnswer": "pegar",
+      "explanation": "Pegar is the natural verb for catching transport."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: plataforma / qual / de",
+      "correctAnswer": "De qual plataforma",
+      "explanation": "De qual plataforma? means 'from which platform?'"
+    }
+  ],
+  "status": "complete"
+}

@@ -1,0 +1,84 @@
+{
+  "slug": "meeting-people",
+  "title": "Meeting People",
+  "description": "Introduce yourself, ask someone's name, and make a warm first impression in French.",
+  "situation": "First introductions: names, where you are from, and polite small talk when meeting someone new.",
+  "order": 2,
+  "phrases": [
+    {
+      "native": "Comment vous appelez-vous ?",
+      "english": "What's your name? (formal)",
+      "pronunciation": "koh-mon voo zah-play VOO",
+      "formality": "formal",
+      "tip": "Informal: comment tu t'appelles ?"
+    },
+    {
+      "native": "Je m'appelle...",
+      "english": "My name is...",
+      "pronunciation": "zhuh mah-PEL",
+      "formality": "neutral"
+    },
+    {
+      "native": "Enchanté",
+      "english": "Nice to meet you",
+      "pronunciation": "on-shon-TAY",
+      "formality": "neutral",
+      "tip": "Women may write 'enchantee'; it sounds the same."
+    },
+    {
+      "native": "D'où venez-vous ?",
+      "english": "Where are you from? (formal)",
+      "pronunciation": "doo vuh-nay VOO",
+      "formality": "formal"
+    },
+    {
+      "native": "Je viens d'Australie",
+      "english": "I'm from Australia",
+      "pronunciation": "zhuh vee-AN dos-trah-LEE",
+      "formality": "neutral"
+    },
+    {
+      "native": "Comment allez-vous ?",
+      "english": "How are you? (formal)",
+      "pronunciation": "koh-mon tah-lay VOO",
+      "formality": "formal",
+      "tip": "Informal: comment ça va ?"
+    },
+    {
+      "native": "Très bien, merci",
+      "english": "Very well, thank you",
+      "pronunciation": "treh bee-AN mehr-SEE",
+      "formality": "neutral"
+    },
+    {
+      "native": "Que faites-vous dans la vie ?",
+      "english": "What do you do for work?",
+      "pronunciation": "kuh fet VOO don lah VEE",
+      "formality": "formal"
+    },
+    {
+      "native": "Je parle un peu français",
+      "english": "I speak a little French",
+      "pronunciation": "zhuh parl un puh fron-SEH",
+      "formality": "neutral"
+    },
+    {
+      "native": "J'apprends le français",
+      "english": "I'm learning French",
+      "pronunciation": "zhah-PRON luh fron-SEH",
+      "formality": "neutral"
+    },
+    {
+      "native": "À bientôt",
+      "english": "See you soon",
+      "pronunciation": "ah bee-an-TOH",
+      "formality": "neutral"
+    },
+    {
+      "native": "Bonne journée",
+      "english": "Have a nice day",
+      "pronunciation": "bon zhoor-NAY",
+      "formality": "neutral"
+    }
+  ]
+}

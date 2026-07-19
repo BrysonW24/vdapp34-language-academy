@@ -1,0 +1,25 @@
+{
+  "slug": "spanish-literature",
+  "title": "Spanish Literature",
+  "shortSummary": "Read and appreciate Spanish literature — from Don Quijote to García Márquez, Borges to Isabel Allende. Develop reading comprehension and cultural literacy through the greatest works in Spanish.",
+  "level": "advanced",
+  "category": "advanced",
+  "whyItMatters": "Literature is the highest expression of a language. Reading in Spanish develops vocabulary, grammatical intuition, and cultural understanding that no textbook can provide. It also opens up one of the world's richest literary traditions.",
+  "coreConcepts": [
+    "Reading strategies for literature in Spanish",
+    "Key authors: Cervantes, García Márquez, Borges, Allende, Neruda",
+    "Literary movements: Siglo de Oro, Boom Latinoamericano, Realismo Mágico",
+    "Poetry in Spanish: rhythm, rhyme, and metre",
+    "Short stories as learning tools",
+    "Analysing literary devices in Spanish",
+    "Building vocabulary through context",
+    "The relationship between literature and cultural identity"
+  ],
+  "lessons": [],
+  "frameworks": ["comprehensible-input"],
+  "visualType": "bookshelf",
+  "relatedModules": ["advanced-grammar", "spanish-culture", "regional-dialects"],
+  "status": "coming-soon",
+  "order": 17,
+  "levelNumber": 4
+}

@@ -1,0 +1,12 @@
+{
+  "rank": 70,
+  "thai": "ถ้า",
+  "transliteration": "tha",
+  "english": "if",
+  "pronunciation": "tha",
+  "partOfSpeech": "conjunction",
+  "exampleTh": "ถ้าคุณมีเวลา เราไปด้วยกัน",
+  "exampleEn": "If you have time, we can go together.",
+  "group": "core-100",
+  "topic": "basics"
+}

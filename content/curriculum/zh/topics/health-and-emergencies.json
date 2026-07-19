@@ -1,0 +1,90 @@
+{
+  "slug": "health-and-emergencies",
+  "title": "Health & Emergencies",
+  "titleZh": "健康与紧急情况",
+  "shortSummary": "Describe symptoms, see a doctor, and get help fast in an emergency.",
+  "level": "pre-intermediate",
+  "order": 11,
+  "icon": "🩺",
+  "color": "#a0453f",
+  "culturalNote": "Traditional Chinese medicine (中医) sits alongside Western medicine, and many people use both. Pharmacies (药店) are common and pharmacists can advise on minor problems. In an emergency, the ambulance number is 120, the police is 110, and fire is 119. Hospitals can be busy, so having your symptoms written in Chinese on your phone helps a lot.",
+  "keyPhrases": [
+    { "chinese": "我不舒服", "pinyin": "wǒ bù shūfu", "english": "I don't feel well", "context": "General complaint" },
+    { "chinese": "我头疼", "pinyin": "wǒ tóu téng", "english": "I have a headache", "context": "疼 means it hurts" },
+    { "chinese": "我发烧了", "pinyin": "wǒ fāshāo le", "english": "I have a fever", "context": "A common symptom" },
+    { "chinese": "我需要看医生", "pinyin": "wǒ xūyào kàn yīshēng", "english": "I need to see a doctor", "context": "Seeking help" },
+    { "chinese": "叫救护车", "pinyin": "jiào jiùhùchē", "english": "Call an ambulance", "context": "Dial 120" },
+    { "chinese": "这是紧急情况", "pinyin": "zhè shì jǐnjí qíngkuàng", "english": "This is an emergency", "context": "Urgent" },
+    { "chinese": "我对...过敏", "pinyin": "wǒ duì... guòmǐn", "english": "I'm allergic to...", "context": "Important info" },
+    { "chinese": "药店在哪里？", "pinyin": "yàodiàn zài nǎlǐ?", "english": "Where is the pharmacy?", "context": "Finding medicine" },
+    { "chinese": "这里疼", "pinyin": "zhèlǐ téng", "english": "It hurts here", "context": "Point as you say it" },
+    { "chinese": "多休息", "pinyin": "duō xiūxi", "english": "rest more", "context": "Common advice" }
+  ],
+  "grammar": [
+    {
+      "rule": "Body part + 疼 for pain",
+      "explanation": "To say something hurts, name the body part and add 疼 (téng) or 痛 (tòng): 头疼 (headache), 肚子疼 (stomach ache). No verb 'have' is needed.",
+      "examples": [
+        { "zh": "我嗓子疼。", "en": "My throat hurts." },
+        { "zh": "他牙疼。", "en": "He has a toothache." }
+      ],
+      "commonMistake": "Adding 有: it is 我头疼, not 我有头疼."
+    },
+    {
+      "rule": "对...过敏 for allergies",
+      "explanation": "To say you are allergic to something, use 对 (duì, toward) plus the thing plus 过敏: 我对海鲜过敏 (I'm allergic to seafood).",
+      "examples": [
+        { "zh": "我对花生过敏。", "en": "I'm allergic to peanuts." },
+        { "zh": "他对猫过敏。", "en": "He's allergic to cats." }
+      ],
+      "commonMistake": "Dropping 对: the frame is 对 ... 过敏."
+    }
+  ],
+  "dialogue": {
+    "setup": "Mei visits a pharmacy because she is not feeling well.",
+    "lines": [
+      { "speaker": "药剂师", "chinese": "你好，哪里不舒服？", "pinyin": "Nǐ hǎo, nǎlǐ bù shūfu?", "english": "Hello, where do you feel unwell?" },
+      { "speaker": "小美", "chinese": "我头疼，还发烧了。", "pinyin": "Wǒ tóu téng, hái fāshāo le.", "english": "I have a headache and a fever too." },
+      { "speaker": "药剂师", "chinese": "从什么时候开始的？", "pinyin": "Cóng shénme shíhou kāishǐ de?", "english": "Since when?" },
+      { "speaker": "小美", "chinese": "从昨天晚上。", "pinyin": "Cóng zuótiān wǎnshang.", "english": "Since yesterday evening." },
+      { "speaker": "药剂师", "chinese": "你对什么药过敏吗？", "pinyin": "Nǐ duì shénme yào guòmǐn ma?", "english": "Are you allergic to any medicine?" },
+      { "speaker": "小美", "chinese": "没有。", "pinyin": "Méiyǒu.", "english": "No." },
+      { "speaker": "药剂师", "chinese": "吃这个药，多休息，多喝水。", "pinyin": "Chī zhège yào, duō xiūxi, duō hē shuǐ.", "english": "Take this medicine, rest more, drink more water." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'I have a headache'?",
+      "correctAnswer": "我头疼",
+      "explanation": "头 (head) + 疼 (hurts)."
+    },
+    {
+      "type": "fill-blank",
+      "question": "我对花生_____。 (allergic)",
+      "correctAnswer": "过敏",
+      "explanation": "对 ... 过敏 means 'allergic to'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the ambulance number in China?",
+      "options": ["110", "119", "120", "112"],
+      "correctAnswer": "120",
+      "explanation": "120 is the ambulance; 110 is police, 119 is fire."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which means 'I don't feel well'?",
+      "options": ["我很好", "我不舒服", "我饱了", "我很忙"],
+      "correctAnswer": "我不舒服",
+      "explanation": "我不舒服 means 'I don't feel well'."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: 救护车 / 叫",
+      "correctAnswer": "叫救护车",
+      "explanation": "叫 (call) + 救护车 (ambulance)."
+    }
+  ],
+  "status": "complete"
+}

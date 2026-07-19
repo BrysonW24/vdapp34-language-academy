@@ -1,0 +1,90 @@
+{
+  "slug": "numbers-and-time",
+  "title": "Numbers & Time",
+  "titleNative": "Sayılar ve zaman",
+  "shortSummary": "Count, tell the time, and talk about days and dates in Turkish.",
+  "level": "beginner",
+  "order": 3,
+  "icon": "🕐",
+  "color": "#e8590c",
+  "culturalNote": "Turkish numbers are wonderfully regular: once you know one to ten plus the tens, hundreds, and thousands, you simply chain them together, so otuz beş is 'thirty five' with no irregular forms. Turkey uses the 24-hour clock in writing, timetables, and official contexts (the train leaves at 18:40), but in conversation people often say the hour casually. To tell the time, Turks use saat (hour, also 'o'clock') and special forms like buçuk for 'half past'. The week starts on Monday (Pazartesi), and the two weekend days, Cumartesi and Pazar, literally relate to Saturday and Sunday markets and the older bazaar tradition. Punctuality is appreciated in business, while social gatherings, especially over tea, are far more relaxed about exact times.",
+  "keyPhrases": [
+    { "native": "bir, iki, üç", "english": "one, two, three", "pronunciation": "beer, ee-KEE, ewch", "context": "The first numbers" },
+    { "native": "on, yirmi, otuz", "english": "ten, twenty, thirty", "pronunciation": "ohn, yeer-MEE, oh-TOOZ", "context": "Counting by tens" },
+    { "native": "yüz, bin", "english": "hundred, thousand", "pronunciation": "yewz, been", "context": "Larger numbers" },
+    { "native": "Saat kaç?", "english": "What time is it?", "pronunciation": "sah-AHT kahch", "context": "Asking the time" },
+    { "native": "Saat üç", "english": "It's three o'clock", "pronunciation": "sah-AHT ewch", "context": "Telling the hour" },
+    { "native": "Saat üç buçuk", "english": "It's half past three", "pronunciation": "sah-AHT ewch boo-CHOOK", "context": "Half past the hour" },
+    { "native": "Saat kaçta?", "english": "At what time?", "pronunciation": "sah-AHT kahch-TAH", "context": "Asking when something happens" },
+    { "native": "bugün", "english": "today", "pronunciation": "boo-GEWN", "context": "Talking about days" },
+    { "native": "yarın", "english": "tomorrow", "pronunciation": "yah-RUHN", "context": "Future plans" },
+    { "native": "Pazartesi", "english": "Monday", "pronunciation": "pah-zahr-teh-SEE", "context": "First day of the week" }
+  ],
+  "grammar": [
+    {
+      "rule": "Building numbers by chaining",
+      "explanation": "Turkish numbers stack with no joining words. For tens plus units you just say the ten then the unit: yirmi bir (twenty one), otuz beş (thirty five). Hundreds and thousands work the same way: yüz elli (one hundred fifty), iki bin (two thousand). There are no irregular teen forms to memorise.",
+      "examples": [
+        { "native": "kırk dört", "en": "forty four" },
+        { "native": "üç yüz yirmi", "en": "three hundred twenty" }
+      ],
+      "commonMistake": "Inserting a word like 've' (and) between parts. It is just otuz beş, never otuz ve beş."
+    },
+    {
+      "rule": "Telling time with -de/-da (at)",
+      "explanation": "To say 'at' a time, add the locative ending -de or -da to the hour: saat üçte (at three), saat yedide (at seven). For minutes past, Turkish uses the accusative for the hour plus geçiyor (passing); for half past, just add buçuk: saat dört buçukta (at half past four).",
+      "examples": [
+        { "native": "Toplantı saat onda.", "en": "The meeting is at ten." },
+        { "native": "Saat beş buçukta buluşalım.", "en": "Let's meet at half past five." }
+      ],
+      "commonMistake": "Forgetting the locative ending when saying 'at' a time. Saat onda, not saat on, for 'at ten'."
+    }
+  ],
+  "dialogue": {
+    "setup": "Burak calls his friend Seda to arrange a meeting time for the next day.",
+    "lines": [
+      { "speaker": "Burak", "native": "Seda, yarın buluşalım mı?", "english": "Seda, shall we meet tomorrow?" },
+      { "speaker": "Seda", "native": "Olur. Saat kaçta?", "english": "Sure. At what time?" },
+      { "speaker": "Burak", "native": "Saat üçte uygun mu?", "english": "Is three o'clock okay?" },
+      { "speaker": "Seda", "native": "Üçte işim var. Üç buçukta olur mu?", "english": "I have work at three. Would half past three work?" },
+      { "speaker": "Burak", "native": "Tabii, üç buçukta görüşürüz.", "english": "Of course, see you at half past three." },
+      { "speaker": "Seda", "native": "Nerede buluşalım?", "english": "Where shall we meet?" },
+      { "speaker": "Burak", "native": "Meydandaki kafede. Pazartesi günü güzel olur.", "english": "At the cafe on the square. Monday will be nice." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'What time is it?' in Turkish?",
+      "correctAnswer": "Saat kaç?",
+      "explanation": "Saat means both 'hour' and 'o'clock'; kaç means 'how many'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which means 'half past three'?",
+      "options": ["Saat üç", "Saat üç buçuk", "Saat üçte", "Üç yüz"],
+      "correctAnswer": "Saat üç buçuk",
+      "explanation": "Buçuk means 'half', so üç buçuk is half past three."
+    },
+    {
+      "type": "fill-blank",
+      "question": "Toplantı saat on_____. (The meeting is at ten)",
+      "correctAnswer": "da",
+      "explanation": "The locative -da on 'on' (ten) gives onda, meaning 'at ten'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is 'thirty five' in Turkish?",
+      "options": ["otuz beş", "üç beş", "yirmi beş", "otuz ve beş"],
+      "correctAnswer": "otuz beş",
+      "explanation": "You chain the ten and the unit with no joining word: otuz beş."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: buçukta / üç / buluşalım",
+      "correctAnswer": "Üç buçukta buluşalım",
+      "explanation": "Üç buçukta buluşalım means 'Let's meet at half past three'."
+    }
+  ],
+  "status": "complete"
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "survival",
+  "title": "Survival Japanese",
+  "description": "The essential phrases to get by anywhere in Japan. Learn these first.",
+  "situation": "Absolute basics: greetings, please, thank you, help, and signalling when you do not understand.",
+  "order": 1,
+  "phrases": [
+    { "native": "こんにちは", "transliteration": "konnichiwa", "english": "Hello / Good afternoon", "pronunciation": "kon-nee-chee-wah", "formality": "neutral", "tip": "Use おはようございます (ohayou gozaimasu) in the morning instead." },
+    { "native": "お願いします", "transliteration": "onegai shimasu", "english": "Please", "pronunciation": "oh-neh-gai shee-mahs", "formality": "formal", "tip": "Use this when requesting something or asking for help." },
+    { "native": "ありがとうございます", "transliteration": "arigatou gozaimasu", "english": "Thank you", "pronunciation": "ah-ree-gah-toh goh-zai-mahs", "formality": "formal", "tip": "Drop ございます among close friends for casual ありがとう." },
+    { "native": "すみません", "transliteration": "sumimasen", "english": "Excuse me / Sorry", "pronunciation": "soo-mee-mah-sen", "formality": "neutral", "tip": "The single most useful word: it apologises, gets attention, and thanks." },
+    { "native": "はい / いいえ", "transliteration": "hai / iie", "english": "Yes / No", "pronunciation": "hai / ee-eh", "formality": "neutral" },
+    { "native": "わかりません", "transliteration": "wakarimasen", "english": "I don't understand", "pronunciation": "wah-kah-ree-mah-sen", "formality": "formal", "tip": "Add 日本語が (nihongo ga) in front to say you don't understand Japanese." },
+    { "native": "英語を話せますか", "transliteration": "eigo o hanasemasu ka", "english": "Do you speak English?", "pronunciation": "ay-goh oh hah-nah-seh-mahs kah", "formality": "formal" },
+    { "native": "もう一度お願いします", "transliteration": "mou ichido onegai shimasu", "english": "Once more, please (can you repeat?)", "pronunciation": "moh ee-chee-doh oh-neh-gai shee-mahs", "formality": "formal" },
+    { "native": "いくらですか", "transliteration": "ikura desu ka", "english": "How much is it?", "pronunciation": "ee-koo-rah dess kah", "formality": "neutral" },
+    { "native": "トイレはどこですか", "transliteration": "toire wa doko desu ka", "english": "Where is the toilet?", "pronunciation": "toy-reh wah doh-koh dess kah", "formality": "neutral" },
+    { "native": "助けてください", "transliteration": "tasukete kudasai", "english": "Please help me", "pronunciation": "tah-soo-keh-teh koo-dah-sai", "formality": "formal", "tip": "ください (kudasai) softens any request into a polite please." },
+    { "native": "さようなら", "transliteration": "sayounara", "english": "Goodbye", "pronunciation": "sah-yoh-nah-rah", "formality": "neutral", "tip": "For casual goodbyes friends say じゃあね (jaa ne) or またね (mata ne)." }
+  ]
+}

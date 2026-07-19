@@ -1,0 +1,34 @@
+{
+  "slug": "present-tense-verbs",
+  "name": "Present Tense Verbs",
+  "nameNative": "현재 시제 동사",
+  "summary": "Conjugate Korean verbs in the polite present tense by adding 아요, 어요, or 해요 to the stem.",
+  "level": "beginner",
+  "order": 6,
+  "explanation": "Every Korean verb in the dictionary ends in 다, such as 가다 (gada, to go) or 먹다 (meokda, to eat). To make the polite present tense, drop the 다 to get the stem, then add an ending based on the stem's last vowel.\n\nIf the stem's final vowel is 아 or 오 (a bright vowel), add 아요: 가다 becomes 가요 (gayo). For all other vowels, add 어요: 먹다 becomes 먹어요 (meogeoyo). Verbs ending in 하다 become 해요: 공부하다 becomes 공부해요 (gongbuhaeyo, study).\n\nVowels often contract when they meet. 가 + 아요 becomes 가요, not 가아요, and 오다 + 아요 becomes 와요 (wayo). The same polite present-tense form covers both 'I go' and 'I am going', so 가요 means both depending on context.",
+  "pattern": "stem + 아요 (bright vowel) / 어요 (other) / 해요 (하다 verbs)",
+  "conjugation": {
+    "가다 (to go)": "가요",
+    "먹다 (to eat)": "먹어요",
+    "마시다 (to drink)": "마셔요",
+    "오다 (to come)": "와요",
+    "공부하다 (to study)": "공부해요",
+    "보다 (to see)": "봐요"
+  },
+  "examples": [
+    { "native": "저는 학교에 가요. (jeoneun hakgyoe gayo.)", "en": "I go to school." },
+    { "native": "동생이 밥을 먹어요. (dongsaengi babeul meogeoyo.)", "en": "My younger sibling eats." },
+    { "native": "우리는 커피를 마셔요. (urineun keopireul masyeoyo.)", "en": "We drink coffee." },
+    { "native": "친구가 집에 와요. (chinguga jibe wayo.)", "en": "My friend comes home." },
+    { "native": "저는 한국어를 공부해요. (jeoneun hangugeoreul gongbuhaeyo.)", "en": "I study Korean." },
+    { "native": "그 사람은 텔레비전을 봐요. (geu sarameun tellebijeoneul bwayo.)", "en": "That person watches television." }
+  ],
+  "commonMistakes": [
+    "Keeping the 다 ending in normal speech. 먹다 is the dictionary form; the polite present is 먹어요.",
+    "Adding 아요 to a dark-vowel stem. 먹다 takes 어요 (먹어요), not 아요.",
+    "Forgetting to contract vowels. 가 + 아요 is 가요, and 오 + 아요 is 와요, never 가아요 or 오아요.",
+    "Treating 하다 verbs like regular ones. 공부하다 becomes 공부해요, an irregular but very common pattern.",
+    "Trying to build a separate continuous tense. Korean present already covers 'I eat' and 'I am eating'."
+  ],
+  "tip": "Drop 다, check the last stem vowel, and add 아요 for 아/오 or 어요 for everything else. 하다 verbs always go to 해요."
+}

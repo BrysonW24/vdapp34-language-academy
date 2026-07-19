@@ -1,0 +1,90 @@
+{
+  "slug": "numbers-and-time",
+  "title": "Numbers & Time",
+  "titleNative": "Mga Numero at Oras",
+  "shortSummary": "Count, tell the time, and talk about days in Filipino, mixing native and borrowed numbers as locals do.",
+  "level": "beginner",
+  "order": 3,
+  "icon": "🔢",
+  "color": "#f08c00",
+  "culturalNote": "Everyday Filipino blends two number systems. Native Tagalog numbers (isa, dalawa, tatlo) are used for counting things and for ages, but when telling time and counting money many Filipinos switch to Spanish-derived numbers (alas-dos, singko, diyes). At the market a vendor may quote a price in Spanish numbers, so it pays to recognise both. Time itself is famously flexible: Filipino time often means people arrive a little late to casual gatherings, though work, church, and formal appointments are taken seriously. Asking Anong oras na? (What time is it?) is part of daily small talk, and the days of the week (Lunes to Linggo) also come from Spanish.",
+  "keyPhrases": [
+    { "native": "isa, dalawa, tatlo", "english": "one, two, three", "pronunciation": "i-SA, da-la-WA, tat-LO", "context": "Native counting" },
+    { "native": "apat, lima, anim", "english": "four, five, six", "pronunciation": "A-pat, li-MA, A-nim", "context": "Native counting" },
+    { "native": "pito, walo, siyam, sampu", "english": "seven, eight, nine, ten", "pronunciation": "pi-TO, wa-LO, si-YAM, sam-PU", "context": "Native counting" },
+    { "native": "Anong oras na?", "english": "What time is it?", "pronunciation": "a-NONG O-ras na", "context": "Asking the time" },
+    { "native": "Alas-dos na.", "english": "It is two o'clock.", "pronunciation": "a-las-DOS na", "context": "Telling time (Spanish style)" },
+    { "native": "Magkano ito?", "english": "How much is this?", "pronunciation": "mag-KA-no i-TO", "context": "Asking a price" },
+    { "native": "Singkuwenta pesos.", "english": "Fifty pesos.", "pronunciation": "sing-ku-WEN-ta PE-sos", "context": "A market price" },
+    { "native": "Anong araw ngayon?", "english": "What day is it today?", "pronunciation": "a-NONG A-raw nga-YON", "context": "Asking the day" },
+    { "native": "Lunes ngayon.", "english": "Today is Monday.", "pronunciation": "LU-nes nga-YON", "context": "Stating the day" },
+    { "native": "umaga, tanghali, hapon, gabi", "english": "morning, noon, afternoon, evening", "pronunciation": "u-MA-ga, tang-HA-li, HA-pon, ga-BI", "context": "Parts of the day" }
+  ],
+  "grammar": [
+    {
+      "rule": "Native versus Spanish-derived numbers",
+      "explanation": "Filipino uses native numbers (isa, dalawa, tatlo) for counting objects and ages, but commonly uses Spanish-derived numbers (uno, dos, tres; singko, diyes) for time and money. Both are correct; the context tells you which to choose.",
+      "examples": [
+        { "native": "Tatlong mansanas.", "en": "Three apples." },
+        { "native": "Alas-tres na.", "en": "It is three o'clock." }
+      ],
+      "commonMistake": "Using native numbers for clock time, such as saying alas-tatlo instead of alas-tres."
+    },
+    {
+      "rule": "Telling the time with alas",
+      "explanation": "To say the hour, use alas plus the Spanish number: alas-dos (two), alas-tres (three). One o'clock is the exception, ala-una. Add na to mean 'it is now'.",
+      "examples": [
+        { "native": "Ala-una na.", "en": "It is one o'clock." },
+        { "native": "Alas-singko na.", "en": "It is five o'clock." }
+      ],
+      "commonMistake": "Saying alas-una instead of the correct ala-una for one o'clock."
+    }
+  ],
+  "dialogue": {
+    "setup": "Nena buys mangoes at the palengke (wet market) and checks the time before her bus.",
+    "lines": [
+      { "speaker": "Nena", "native": "Magkano po ang mangga?", "english": "How much are the mangoes?" },
+      { "speaker": "Tindera", "native": "Singkuwenta pesos po ang tatlo.", "english": "Fifty pesos for three." },
+      { "speaker": "Nena", "native": "Sige po, bibili ako ng anim. Magkano lahat?", "english": "Okay, I'll buy six. How much in total?" },
+      { "speaker": "Tindera", "native": "Isang daang pesos po lahat.", "english": "One hundred pesos altogether." },
+      { "speaker": "Nena", "native": "Heto po. Pala, anong oras na po?", "english": "Here you go. By the way, what time is it?" },
+      { "speaker": "Tindera", "native": "Alas-dos na po. May byahe ka ba?", "english": "It is two o'clock. Do you have a trip?" },
+      { "speaker": "Nena", "native": "Opo, alas-tres ang bus ko. Salamat po, ingat!", "english": "Yes, my bus is at three. Thank you, take care!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you ask 'What time is it?' in Filipino?",
+      "correctAnswer": "Anong oras na?",
+      "explanation": "Anong oras na? is the everyday way to ask the time."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which is the correct way to say 'one o'clock'?",
+      "options": ["alas-una", "alas-isa", "ala-una", "uno na"],
+      "correctAnswer": "ala-una",
+      "explanation": "One o'clock is the exception: ala-una, not alas-una."
+    },
+    {
+      "type": "fill-blank",
+      "question": "Native numbers: isa, dalawa, _____, apat (the word for 'three').",
+      "correctAnswer": "tatlo",
+      "explanation": "The native word for three is tatlo."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which number system do Filipinos usually use for telling clock time?",
+      "options": ["Native Tagalog numbers", "Spanish-derived numbers", "English only", "No numbers at all"],
+      "correctAnswer": "Spanish-derived numbers",
+      "explanation": "Time is usually told with Spanish-derived numbers like alas-dos."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: ito / magkano",
+      "correctAnswer": "Magkano ito",
+      "explanation": "Magkano ito? means 'How much is this?'"
+    }
+  ],
+  "status": "complete"
+}

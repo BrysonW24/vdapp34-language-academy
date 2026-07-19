@@ -1,0 +1,21 @@
+{
+  "slug": "phone-and-digital",
+  "title": "Phone and Digital",
+  "description": "Handle calls, wifi, and everyday digital life in Turkish.",
+  "situation": "Staying connected: phone calls, internet, messaging, and tech basics.",
+  "order": 8,
+  "phrases": [
+    { "native": "Alo?", "english": "Hello? (on the phone)", "pronunciation": "ah-LOH", "formality": "neutral", "tip": "Turks answer the phone with alo." },
+    { "native": "Numaranı alabilir miyim?", "english": "Can I have your number?", "pronunciation": "noo-mah-rah-NUH ah-lah-bee-LEER mee-yeem", "formality": "informal" },
+    { "native": "Sana mesaj atarım", "english": "I'll send you a message", "pronunciation": "sah-NAH meh-SAHZH ah-tah-ruhm", "formality": "informal" },
+    { "native": "Wifi şifresi ne?", "english": "What's the wifi password?", "pronunciation": "WEE-fee sheef-reh-SEE neh", "formality": "neutral" },
+    { "native": "Sinyalim yok", "english": "I have no signal", "pronunciation": "seen-yah-LEEM yok", "formality": "neutral" },
+    { "native": "Şarjım bitti", "english": "My battery is dead", "pronunciation": "shar-ZHUHM beet-tee", "formality": "neutral" },
+    { "native": "Telefonumu şarj edebilir miyim?", "english": "Can I charge my phone?", "pronunciation": "teh-leh-foh-noo-MOO sharzh eh-deh-bee-LEER mee-yeem", "formality": "neutral" },
+    { "native": "Seni sonra ararım", "english": "I'll call you later", "pronunciation": "seh-NEE son-RAH ah-rah-ruhm", "formality": "informal" },
+    { "native": "Bana linki gönderebilir misin?", "english": "Can you send me the link?", "pronunciation": "bah-NAH leen-KEE gern-deh-reh-bee-LEER mee-seen", "formality": "informal" },
+    { "native": "Sonra konuşuruz", "english": "We'll talk later", "pronunciation": "son-RAH koh-noo-shoo-rooz", "formality": "neutral" },
+    { "native": "Beni sosyal medyadan ekle", "english": "Add me on social media", "pronunciation": "beh-NEE sos-YAL med-yah-DAN ek-leh", "formality": "informal" },
+    { "native": "Mesajımı aldın mı?", "english": "Did you get my message?", "pronunciation": "meh-sah-juh-MUH al-DUHN muh", "formality": "informal" }
+  ]
+}

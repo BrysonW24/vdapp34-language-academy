@@ -1,0 +1,21 @@
+{
+  "slug": "hotel",
+  "title": "At the Hotel",
+  "description": "Check in, ask about your room, and handle hotel basics in Thai.",
+  "situation": "Accommodation: checking in and out, room questions, breakfast, and requests.",
+  "order": 6,
+  "phrases": [
+    { "thai": "ผมจองห้องไว้", "pronunciation": "phom jong hong wai", "english": "I have a reservation", "formality": "neutral" },
+    { "thai": "มีห้องว่างไหม", "pronunciation": "mii hong waang mai", "english": "Do you have a room available?", "formality": "neutral" },
+    { "thai": "ห้องเตียงเดี่ยว", "pronunciation": "hong tiang diao", "english": "a single room", "formality": "neutral", "tip": "ห้องเตียงคู่ (hong tiang khuu) is a double room." },
+    { "thai": "พักกี่คืน", "pronunciation": "phak kii khuun", "english": "How many nights?", "formality": "neutral" },
+    { "thai": "รวมอาหารเช้าไหม", "pronunciation": "ruam aahaan chao mai", "english": "Is breakfast included?", "formality": "neutral" },
+    { "thai": "อาหารเช้ากี่โมง", "pronunciation": "aahaan chao kii moong", "english": "What time is breakfast?", "formality": "neutral" },
+    { "thai": "มีไวไฟไหม", "pronunciation": "mii wifi mai", "english": "Is there Wi-Fi?", "formality": "neutral" },
+    { "thai": "แอร์เสีย", "pronunciation": "ae sia", "english": "The air conditioning is broken", "formality": "neutral" },
+    { "thai": "ขอผ้าเช็ดตัวเพิ่ม", "pronunciation": "kho phaa chet tua phoem", "english": "May I have another towel?", "formality": "neutral" },
+    { "thai": "เช็คเอาท์กี่โมง", "pronunciation": "check-out kii moong", "english": "What time is check-out?", "formality": "neutral" },
+    { "thai": "ฝากกระเป๋าได้ไหม", "pronunciation": "faak kra-pao dai mai", "english": "Can I leave my luggage?", "formality": "neutral" },
+    { "thai": "ห้องเบอร์อะไร", "pronunciation": "hong ber a-rai", "english": "What is the room number?", "formality": "neutral" }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "shopping",
+  "title": "Shopping",
+  "description": "Ask for sizes, prices, and payment options while shopping in German.",
+  "situation": "Shops and markets: finding items, asking prices, trying things on, and paying.",
+  "order": 4,
+  "phrases": [
+    { "german": "Kann ich Ihnen helfen?", "english": "Can I help you?", "pronunciation": "kahn ikh EE-nen HEL-fen", "formality": "formal", "tip": "What staff will say to you. Reply 'Ich schaue nur' (I'm just looking)." },
+    { "german": "Ich suche...", "english": "I'm looking for...", "pronunciation": "ikh ZOO-khuh", "formality": "neutral" },
+    { "german": "Haben Sie das in einer anderen Größe?", "english": "Do you have this in another size?", "pronunciation": "HAH-ben zee dahs in EYE-ner AHN-der-en GRUR-suh", "formality": "formal" },
+    { "german": "Kann ich das anprobieren?", "english": "Can I try this on?", "pronunciation": "kahn ikh dahs AHN-proh-bee-ren", "formality": "neutral" },
+    { "german": "Wie viel kostet das?", "english": "How much does this cost?", "pronunciation": "vee feel KOS-tet dahs", "formality": "neutral" },
+    { "german": "Das ist zu teuer", "english": "That's too expensive", "pronunciation": "dahs ist tsoo TOY-er", "formality": "neutral" },
+    { "german": "Haben Sie etwas Günstigeres?", "english": "Do you have something cheaper?", "pronunciation": "HAH-ben zee ET-vahs GOONS-ti-ger-es", "formality": "formal" },
+    { "german": "Nehmen Sie Karte?", "english": "Do you take card?", "pronunciation": "NAY-men zee KAR-tuh", "formality": "formal", "tip": "Many German shops still prefer cash, so always ask." },
+    { "german": "Ich zahle bar", "english": "I'll pay cash", "pronunciation": "ikh TSAH-luh bar", "formality": "neutral" },
+    { "german": "Eine Tüte, bitte", "english": "A bag, please", "pronunciation": "EYE-nuh TOO-tuh BIT-tuh", "formality": "neutral", "tip": "Bags usually cost extra; many bring their own." },
+    { "german": "Ich nehme es", "english": "I'll take it", "pronunciation": "ikh NAY-muh es", "formality": "neutral" },
+    { "german": "Nur schauen, danke", "english": "Just looking, thanks", "pronunciation": "noor SHOW-en DAHN-kuh", "formality": "neutral" }
+  ]
+}

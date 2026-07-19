@@ -1,0 +1,25 @@
+{
+  "slug": "everyday",
+  "title": "Everyday Slang",
+  "description": "Real, current Mandarin slang that young native speakers actually use online and with friends.",
+  "situation": "Casual chats with friends, group messages, and social media - the colloquial Chinese textbooks skip.",
+  "order": 1,
+  "phrases": [
+    { "chinese": "哈喽", "pinyin": "hā lóu", "english": "Hey / Hi", "pronunciation": "HAH-loh", "formality": "informal", "tip": "A breezy loanword from English 'hello'. Warmer and more playful than the standard 你好." },
+    { "chinese": "牛", "pinyin": "niú", "english": "Awesome / Badass", "pronunciation": "nyoh", "formality": "informal", "tip": "Literally means 'cow'. Say 你太牛了 (nǐ tài niú le) to call someone seriously impressive. The fuller, slightly cruder version is 牛逼 - keep it light." },
+    { "chinese": "厉害", "pinyin": "lì hai", "english": "Impressive / You're so good", "pronunciation": "LEE-hye", "formality": "neutral", "tip": "Widely acceptable everywhere. 你真厉害 (nǐ zhēn lìhai) is a genuine compliment to skill or guts." },
+    { "chinese": "加油", "pinyin": "jiā yóu", "english": "You got this / Go for it", "pronunciation": "jyah-yoh", "formality": "neutral", "tip": "Literally 'add oil' (like stepping on the gas). The universal cheer for encouragement before an exam, a game, or a hard day." },
+    { "chinese": "没事", "pinyin": "méi shì", "english": "It's all good / No worries", "pronunciation": "may-shr", "formality": "informal", "tip": "Literally 'no matter'. Use it to wave off a thank-you or an apology, or to say you're fine." },
+    { "chinese": "靠谱", "pinyin": "kào pǔ", "english": "Reliable / Legit", "pronunciation": "kow-poo", "formality": "informal", "tip": "Calls a person or plan trustworthy and solid. The opposite, 不靠谱 (bú kàopǔ), means flaky or sketchy." },
+    { "chinese": "随便", "pinyin": "suí biàn", "english": "Whatever / Up to you", "pronunciation": "sway-byen", "formality": "informal", "tip": "Handy when picking a restaurant. Friendly between mates, but a flat 随便 to a host can sound a bit careless." },
+    { "chinese": "走起", "pinyin": "zǒu qǐ", "english": "Let's go / Let's do it", "pronunciation": "dzoh-chee", "formality": "informal", "tip": "Punchy call to action when heading out or kicking something off. Very casual, mostly with friends." },
+    { "chinese": "真的假的", "pinyin": "zhēn de jiǎ de", "english": "No way / Seriously?", "pronunciation": "jen-duh jyah-duh", "formality": "informal", "tip": "Literally 'real or fake?'. The go-to reaction to surprising gossip or news." },
+    { "chinese": "我服了", "pinyin": "wǒ fú le", "english": "I'm done / I give up (in disbelief)", "pronunciation": "waw foo-luh", "formality": "informal", "tip": "Literally 'I submit'. Half admiration, half exasperation - said when something is so over-the-top you can only throw your hands up." },
+    { "chinese": "躺平", "pinyin": "tǎng píng", "english": "To just chill and stop grinding", "pronunciation": "tahng-ping", "formality": "informal", "tip": "Literally 'lie flat'. A young-generation buzzword for opting out of the hustle and refusing to overwork. Playfully self-aware." },
+    { "chinese": "我太难了", "pinyin": "wǒ tài nán le", "english": "My life is so hard right now", "pronunciation": "waw tye nahn-luh", "formality": "informal", "tip": "A meme-y, half-joking groan about everyday stress. Drag out the 难 for comic effect." },
+    { "chinese": "绝了", "pinyin": "jué le", "english": "That's amazing / Insane (good)", "pronunciation": "jweh-luh", "formality": "informal", "tip": "Reacts to something fantastic - a dish, a song, a clutch play. Like saying 'that's next level'." },
+    { "chinese": "累死了", "pinyin": "lèi sǐ le", "english": "I'm dead tired / Exhausted", "pronunciation": "lay-sz-luh", "formality": "informal", "tip": "Literally 'tired to death'. The 死了 (to death) tag bolts onto loads of adjectives: 饿死了 starving, 热死了 boiling hot." },
+    { "chinese": "哥们儿", "pinyin": "gē menr", "english": "Bro / Buddy", "pronunciation": "guh-merr", "formality": "informal", "tip": "A friendly term for a male mate, with a northern er-sound flourish. Use it between guys who are close, not with strangers." },
+    { "chinese": "拜拜", "pinyin": "bài bai", "english": "Bye-bye", "pronunciation": "bye-bye", "formality": "informal", "tip": "Borrowed straight from English 'bye-bye'. The casual, cheerful sign-off in chats and calls instead of the more formal 再见." }
+  ]
+}

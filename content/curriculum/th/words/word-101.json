@@ -1,0 +1,12 @@
+{
+  "rank": 101,
+  "thai": "จน",
+  "transliteration": "chon",
+  "english": "until",
+  "pronunciation": "chon",
+  "partOfSpeech": "conjunction",
+  "exampleTh": "ฉันอยากไปจนวันนี้ยุ่ง",
+  "exampleEn": "I want to go, but I am busy today.",
+  "group": "core-100",
+  "topic": "basics"
+}

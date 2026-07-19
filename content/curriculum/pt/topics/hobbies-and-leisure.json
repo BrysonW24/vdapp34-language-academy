@@ -1,0 +1,90 @@
+{
+  "slug": "hobbies-and-leisure",
+  "title": "Hobbies & Leisure",
+  "titleNative": "Hobbies e lazer",
+  "shortSummary": "Talk about what you like to do, your free time, and making plans with friends.",
+  "level": "beginner",
+  "order": 14,
+  "icon": "🎨",
+  "color": "#8e44ad",
+  "culturalNote": "Free time (o tempo livre) in Brazil is deeply social and often outdoors. Football (o futebol) is a national passion, the beach (a praia) is a way of life on the coast, and music and dance, from samba to forró, bring people together. To say what you like, Portuguese uses gostar de: gosto de música (I like music). The verb always needs de. Making plans is casual and warm, and an invitation like vamos? (shall we go?) is common. Brazilians value good company, so leisure is usually about being together.",
+  "keyPhrases": [
+    { "native": "O que você gosta de fazer?", "english": "What do you like to do?", "pronunciation": "oo kee voh-SEH GOS-tah jee fah-ZEHR", "context": "Asking interests" },
+    { "native": "Gosto de ler", "english": "I like reading", "pronunciation": "GOS-too jee ler", "context": "Stating a hobby" },
+    { "native": "Gosto de música", "english": "I like music", "pronunciation": "GOS-too jee MOO-zee-kah", "context": "Interests" },
+    { "native": "Jogo futebol", "english": "I play football", "pronunciation": "ZHOH-goo foo-teh-BOW", "context": "Sports" },
+    { "native": "Toco violão", "english": "I play the guitar", "pronunciation": "TOH-koo vee-oh-LOWN", "context": "Music" },
+    { "native": "No meu tempo livre", "english": "In my free time", "pronunciation": "noo MEH-oo TEM-poo LEE-vree", "context": "Setting the scene" },
+    { "native": "Vamos ao cinema?", "english": "Shall we go to the cinema?", "pronunciation": "VAH-moos ow see-NEH-mah", "context": "Making plans" },
+    { "native": "Eu adoraria", "english": "I would love to", "pronunciation": "EH-oo ah-doh-rah-REE-ah", "context": "Enthusiastic yes" },
+    { "native": "Não gosto muito", "english": "I don't like it much", "pronunciation": "nown GOS-too MOON-too", "context": "Mild dislike" },
+    { "native": "O que você acha?", "english": "What do you think?", "pronunciation": "oo kee voh-SEH AH-shah", "context": "Inviting an opinion" }
+  ],
+  "grammar": [
+    {
+      "rule": "Gostar de for likes",
+      "explanation": "Gostar always needs de before what you like, whether a noun or a verb: gosto de café (I like coffee), gosto de viajar (I like to travel). The de contracts with articles: gosto do cinema.",
+      "examples": [
+        { "native": "Gosto de praia.", "en": "I like the beach." },
+        { "native": "Eles gostam de dançar.", "en": "They like to dance." }
+      ],
+      "commonMistake": "Dropping de. It is gosto de música, never gosto música."
+    },
+    {
+      "rule": "Jogar vs tocar",
+      "explanation": "Portuguese uses two verbs for 'play'. Jogar is for games and sports (jogo tênis), while tocar is for musical instruments (toco piano).",
+      "examples": [
+        { "native": "Jogamos cartas.", "en": "We play cards." },
+        { "native": "Ela toca violino.", "en": "She plays the violin." }
+      ],
+      "commonMistake": "Using jogar for an instrument. Music takes tocar."
+    }
+  ],
+  "dialogue": {
+    "setup": "Marcos and Sara talk about their weekend plans.",
+    "lines": [
+      { "speaker": "Marcos", "native": "O que você gosta de fazer no tempo livre?", "english": "What do you like to do in your free time?" },
+      { "speaker": "Sara", "native": "Gosto de ler e ir ao cinema.", "english": "I like reading and going to the cinema." },
+      { "speaker": "Marcos", "native": "Eu também! Vamos ao cinema hoje?", "english": "Me too! Shall we go to the cinema today?" },
+      { "speaker": "Sara", "native": "Eu adoraria! Qual filme?", "english": "I'd love to! Which film?" },
+      { "speaker": "Marcos", "native": "Uma comédia brasileira. O que você acha?", "english": "A Brazilian comedy. What do you think?" },
+      { "speaker": "Sara", "native": "Perfeito, gosto de comédia.", "english": "Perfect, I like comedy." },
+      { "speaker": "Marcos", "native": "Então a gente se encontra às oito.", "english": "Then we'll meet at eight." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'I like reading' in Portuguese?",
+      "correctAnswer": "Gosto de ler",
+      "explanation": "Gostar needs de before the verb ler."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which is correct for 'I like music'?",
+      "options": ["Gosto música", "Gosto de música", "Gosto a música", "Gosto musica de"],
+      "correctAnswer": "Gosto de música",
+      "explanation": "Gostar always takes de."
+    },
+    {
+      "type": "fill-blank",
+      "question": "Jogo _____. (football)",
+      "correctAnswer": "futebol",
+      "explanation": "Jogar is used for sports like futebol."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which verb means 'to play' an instrument?",
+      "options": ["jogar", "tocar", "cantar", "ouvir"],
+      "correctAnswer": "tocar",
+      "explanation": "Tocar is for instruments; jogar is for games."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: cinema / ao / vamos",
+      "correctAnswer": "Vamos ao cinema",
+      "explanation": "Vamos ao cinema? means 'Shall we go to the cinema?'"
+    }
+  ],
+  "status": "complete"
+}

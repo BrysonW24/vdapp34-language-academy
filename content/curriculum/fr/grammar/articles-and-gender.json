@@ -1,0 +1,32 @@
+{
+  "slug": "articles-and-gender",
+  "name": "Articles & Gender",
+  "nameNative": "Les articles et le genre",
+  "summary": "Every French noun is masculine or feminine, and the article (le, la, un, une) shows which.",
+  "level": "beginner",
+  "order": 1,
+  "explanation": "Every French noun has a gender. The definite article 'the' is le for masculine and la for feminine, becoming l' before a vowel: le livre (the book), la table (the table), l'arbre (the tree). The plural for all genders is les.\n\nThe indefinite article 'a/an' is un for masculine and une for feminine: un homme (a man), une femme (a woman). The plural 'some' is des.\n\nGender is not always predictable, so the safest habit is to learn each noun together with its article, as one unit: not 'table' but 'la table'. Many endings hint at gender: -tion, -té, and -ette words are usually feminine; -age and -ment words are usually masculine.",
+  "pattern": "le / la / les (the)  |  un / une / des (a, some)",
+  "conjugation": {
+    "masculine": "le livre / un livre",
+    "feminine": "la table / une table",
+    "before a vowel": "l'ami / l'eau",
+    "plural": "les livres / des livres"
+  },
+  "examples": [
+    { "native": "Le chien est grand.", "en": "The dog is big. (masculine)" },
+    { "native": "La maison est belle.", "en": "The house is beautiful. (feminine)" },
+    { "native": "L'ami arrive.", "en": "The friend is arriving. (before a vowel)" },
+    { "native": "J'ai un frère et une sœur.", "en": "I have a brother and a sister." },
+    { "native": "Les enfants jouent.", "en": "The children are playing. (plural)" },
+    { "native": "Je voudrais une tasse de café.", "en": "I would like a cup of coffee." }
+  ],
+  "commonMistakes": [
+    "Guessing the gender instead of learning it with the noun. Store 'le/la + noun' together.",
+    "Forgetting to elide before a vowel: it is l'ami, not le ami.",
+    "Using le or la in the plural. All plurals take les.",
+    "Assuming a noun is masculine because it looks like English: la nation, la décision are feminine.",
+    "Mixing un and une: it is une femme, not un femme."
+  ],
+  "tip": "When you learn a new noun, always say it with its article. 'La table' sticks far better than 'table' alone."
+}

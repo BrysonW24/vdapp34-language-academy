@@ -1,0 +1,26 @@
+{
+  "slug": "partitive-articles",
+  "name": "Partitive Articles (some/any)",
+  "nameNative": "Les articles partitifs",
+  "summary": "Use du, de la, and des to talk about some or an unspecified amount of something.",
+  "level": "elementary",
+  "order": 8,
+  "explanation": "When you talk about an unspecified quantity, 'some' or 'any', French uses the partitive article: du (masculine), de la (feminine), de l' (before a vowel), and des (plural). Je mange du pain (I eat some bread), je bois de l'eau (I drink some water).\n\nEnglish often leaves 'some' out, but French does not: you must say je veux du café, not je veux café.\n\nAfter a negative, the partitive becomes simply de (or d' before a vowel): je ne mange pas de pain (I don't eat bread). This change to de also happens after expressions of quantity: beaucoup de, un peu de.",
+  "pattern": "du (m) / de la (f) / de l' (vowel) / des (pl)  |  negative: de / d'",
+  "examples": [
+    { "native": "Je voudrais du pain.", "en": "I would like some bread. (masculine)" },
+    { "native": "Elle boit de la limonade.", "en": "She is drinking some lemonade. (feminine)" },
+    { "native": "Tu manges de l'ananas.", "en": "You are eating some pineapple. (before a vowel)" },
+    { "native": "Nous achetons des pommes.", "en": "We are buying some apples. (plural)" },
+    { "native": "Je ne bois pas de café.", "en": "I don't drink coffee. (de after a negative)" },
+    { "native": "Il y a beaucoup de monde.", "en": "There are a lot of people. (de after a quantity)" }
+  ],
+  "commonMistakes": [
+    "Dropping 'some' as in English: it is je veux du café, not je veux café.",
+    "Keeping du or de la after a negative: it is pas de pain, not pas du pain.",
+    "Using des after an expression of quantity: it is beaucoup de pommes, not beaucoup des pommes.",
+    "Confusing the partitive du with the contraction du (de + le, 'of the').",
+    "Forgetting de l' before a noun starting with a vowel."
+  ],
+  "tip": "If you could insert 'some' or 'any' in English, French needs a partitive. After a negative, it all collapses to de."
+}

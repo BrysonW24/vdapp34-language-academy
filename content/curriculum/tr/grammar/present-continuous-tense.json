@@ -1,0 +1,34 @@
+{
+  "slug": "present-continuous-tense",
+  "name": "Present Continuous Tense (-iyor)",
+  "nameNative": "Şimdiki zaman (-iyor)",
+  "summary": "The everyday present tense that covers what is happening now and around now, built with -iyor.",
+  "level": "beginner",
+  "order": 4,
+  "explanation": "The most common present tense in spoken Turkish is the -iyor tense. It covers both 'I am doing' and, in conversation, much of what English calls the simple present. To build it, take the verb stem (drop -mek or -mak from the infinitive) and add -iyor plus a personal ending.\n\nThe vowel in -iyor follows four-way harmony, so it is one of -ıyor, -iyor, -uyor, or -üyor depending on the last vowel of the stem (yapıyor, geliyor, okuyor, gülüyor). If the stem ends in a vowel, that vowel drops before the suffix: bekle- becomes bekliyor, not bekleiyor.\n\nThe personal endings are -um (ben), -sun (sen), nothing (o), -uz (biz), -sunuz (siz), and -lar (onlar). Because the suffix already carries the o of -yor, these endings stay rounded: geliyorum, geliyorsun, geliyor, geliyoruz, geliyorsunuz, geliyorlar.",
+  "pattern": "stem + (ı/i/u/ü)yor + personal ending",
+  "conjugation": {
+    "ben": "geliyorum",
+    "sen": "geliyorsun",
+    "o": "geliyor",
+    "biz": "geliyoruz",
+    "siz": "geliyorsunuz",
+    "onlar": "geliyorlar"
+  },
+  "examples": [
+    { "native": "Şimdi çay içiyorum.", "en": "I am drinking tea now." },
+    { "native": "Ne yapıyorsun?", "en": "What are you doing?" },
+    { "native": "Otobüs geliyor.", "en": "The bus is coming." },
+    { "native": "Türkçe öğreniyoruz.", "en": "We are learning Turkish." },
+    { "native": "Nerede oturuyorsunuz?", "en": "Where do you live?" },
+    { "native": "Çocuklar parkta oynuyorlar.", "en": "The children are playing in the park." }
+  ],
+  "commonMistakes": [
+    "Keeping the stem-final vowel before -iyor. It is bekliyor, not bekleiyor.",
+    "Using a flat -iyor for every verb instead of harmonising to -ıyor, -uyor, or -üyor.",
+    "Forgetting the rounded personal endings, saying geliyorim instead of geliyorum.",
+    "Dropping the -yor when adding -lar, saying gelilar instead of geliyorlar.",
+    "Treating this as only continuous; in speech it also covers habitual actions like her gün yürüyorum (I walk every day)."
+  ],
+  "tip": "Learn geliyorum (I am coming) as a model. Swap the stem and the four endings -um, -sun, -uz, -sunuz follow the same shape every time."
+}

@@ -1,11 +1,11 @@
 {
   "rank": 349,
-  "german": "wirklich",
-  "english": "really, truly",
-  "pronunciation": "VEERK-likh",
-  "partOfSpeech": "adverb",
-  "exampleDe": "Das ist wirklich schön.",
-  "exampleEn": "That is really beautiful.",
+  "german": "krieg",
+  "english": "war",
+  "pronunciation": "k ʀ i ç",
+  "partOfSpeech": "adjective",
+  "exampleDe": "Dieser Ort ist sehr kriegerisch.",
+  "exampleEn": "This place is very war.",
   "group": "everyday-250",
-  "topic": "basics"
+  "topic": "descriptions"
 }

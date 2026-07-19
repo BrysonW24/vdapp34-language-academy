@@ -1,0 +1,21 @@
+{
+  "slug": "emergencies",
+  "title": "Emergencies",
+  "description": "Get help fast, describe a problem, and stay safe in Turkish.",
+  "situation": "Urgent situations: asking for help, medical needs, and reporting problems.",
+  "order": 7,
+  "phrases": [
+    { "native": "İmdat!", "english": "Help!", "pronunciation": "eem-DAHT", "formality": "neutral" },
+    { "native": "Ambulans çağırın", "english": "Call an ambulance", "pronunciation": "am-boo-LANS chah-uh-ruhn", "formality": "formal" },
+    { "native": "Polis çağırın", "english": "Call the police", "pronunciation": "poh-LEES chah-uh-ruhn", "formality": "formal" },
+    { "native": "Yaralandım", "english": "I'm hurt", "pronunciation": "yah-rah-lan-duhm", "formality": "neutral" },
+    { "native": "Doktora ihtiyacım var", "english": "I need a doctor", "pronunciation": "dok-toh-RAH eeh-tee-yah-JUHM var", "formality": "neutral" },
+    { "native": "Hastane nerede?", "english": "Where is the hospital?", "pronunciation": "hahs-tah-NEH NEH-reh-deh", "formality": "neutral" },
+    { "native": "Bu bir acil durum", "english": "It's an emergency", "pronunciation": "boo beer ah-JEEL doo-room", "formality": "neutral" },
+    { "native": "Pasaportumu kaybettim", "english": "I've lost my passport", "pronunciation": "pah-sah-por-too-MOO kai-bet-teem", "formality": "neutral" },
+    { "native": "Çantam çalındı", "english": "My bag was stolen", "pronunciation": "chan-TAHM chah-luhn-duh", "formality": "neutral" },
+    { "native": "Alerjim var", "english": "I have an allergy", "pronunciation": "ah-lehr-ZHEEM var", "formality": "neutral" },
+    { "native": "Kendimi iyi hissetmiyorum", "english": "I don't feel well", "pronunciation": "ken-dee-MEE ee-YEE hees-set-mee-yor-oom", "formality": "neutral" },
+    { "native": "Bana yardım edebilir misiniz?", "english": "Can you help me?", "pronunciation": "bah-NAH yar-DUHM eh-deh-bee-LEER mee-see-neez", "formality": "formal" }
+  ]
+}

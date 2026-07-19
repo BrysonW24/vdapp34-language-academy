@@ -1,0 +1,25 @@
+{
+  "slug": "advanced-grammar",
+  "title": "Advanced Grammar",
+  "shortSummary": "Master the final grammar pieces — the subjunctive in all tenses, advanced pronoun placement, passive voice, indirect speech, and the subtle grammar points that make your Spanish sound truly natural.",
+  "level": "advanced",
+  "category": "advanced",
+  "whyItMatters": "Advanced grammar is the difference between being understood and sounding native. These structures let you express complex ideas with precision, handle formal writing, and understand literature and academic texts.",
+  "coreConcepts": [
+    "Subjunctive in all tenses: present, imperfect, future, perfect",
+    "Advanced pronoun placement with compound verbs",
+    "Passive voice: ser + past participle vs se pasiva",
+    "Indirect speech: reporting what others said",
+    "Advanced preposition usage",
+    "Verbal periphrases: ir + gerund, llevar + gerund",
+    "Nominalisation and abstract noun formation",
+    "Relative clauses with prepositions"
+  ],
+  "lessons": [],
+  "frameworks": ["grammar-spiral"],
+  "visualType": "grammar-tree",
+  "relatedModules": ["subjunctive-mood", "conditional-tense", "spanish-literature"],
+  "status": "coming-soon",
+  "order": 15,
+  "levelNumber": 4
+}

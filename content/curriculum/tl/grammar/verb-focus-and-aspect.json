@@ -1,0 +1,34 @@
+{
+  "slug": "verb-focus-and-aspect",
+  "name": "Verb Focus and Aspect (mag- and um-)",
+  "nameNative": "Pokus at aspekto ng pandiwa (mag- at um-)",
+  "summary": "Understand actor-focus verbs with mag- and um-, and the three aspects: completed, ongoing, and not-yet-begun.",
+  "level": "elementary",
+  "order": 3,
+  "explanation": "Filipino verbs do not have tense the way English does. Instead they have aspect: whether an action is completed, ongoing, or not yet started. Two common actor-focus affixes are mag- and um-, which both put the focus on the doer of the action.\n\nTake the root kain (eat), which uses the um- affix. With um- the root takes an infix: kumain (ate, completed), kumakain (is eating, ongoing), kakain (will eat, not yet begun). With mag-, the root sulat (write) gives nagsulat (wrote), nagsusulat (is writing), magsusulat (will write).\n\nThe ongoing and not-yet forms reduplicate the first syllable of the root (ka-kain, su-sulat). Choosing mag- versus um- depends on the specific verb, and many verbs only take one. Learn each common verb with its affix as a set, the way you would learn an irregular English verb.",
+  "pattern": "um-: -um- infix + reduplication | mag-: nag- / nagCV- / magCV-",
+  "conjugation": {
+    "infinitive (um-)": "kumain (to eat)",
+    "completed (um-)": "kumain (ate)",
+    "ongoing (um-)": "kumakain (is eating)",
+    "not yet (um-)": "kakain (will eat)",
+    "completed (mag-)": "nagsulat (wrote)",
+    "ongoing (mag-)": "nagsusulat (is writing)"
+  },
+  "examples": [
+    { "native": "Kumain ako kanina.", "en": "I ate earlier." },
+    { "native": "Kumakain siya ngayon.", "en": "He/She is eating now." },
+    { "native": "Kakain kami mamaya.", "en": "We will eat later." },
+    { "native": "Nagsulat ako ng liham.", "en": "I wrote a letter." },
+    { "native": "Naglalaro ang mga bata.", "en": "The children are playing." },
+    { "native": "Magtatrabaho ako bukas.", "en": "I will work tomorrow." }
+  ],
+  "commonMistakes": [
+    "Looking for a tense. Filipino marks aspect (completed/ongoing/not-yet), not past/present/future.",
+    "Forgetting to reduplicate the first syllable for ongoing and not-yet forms.",
+    "Mixing mag- and um- on the same root randomly. Each verb prefers one; learn them as sets.",
+    "Using the infinitive form alone to mean past tense. The completed form is needed.",
+    "Putting nag- on an um- verb, producing forms like nagkain instead of kumain."
+  ],
+  "tip": "Reduplication is your time signal: a doubled first syllable means the action is ongoing or still to come."
+}

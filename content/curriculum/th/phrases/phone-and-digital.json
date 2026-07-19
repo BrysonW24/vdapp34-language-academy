@@ -1,0 +1,21 @@
+{
+  "slug": "phone-and-digital",
+  "title": "Phone & Digital",
+  "description": "Stay connected in Thai: Wi-Fi, SIM cards, messaging, and mobile payment.",
+  "situation": "Staying connected: getting online, buying a SIM, messaging, and basic tech words.",
+  "order": 8,
+  "phrases": [
+    { "thai": "รหัสไวไฟอะไร", "pronunciation": "ra-hat wifi a-rai", "english": "What's the Wi-Fi password?", "formality": "neutral" },
+    { "thai": "แบตหมด", "pronunciation": "baet mot", "english": "My battery is dead", "formality": "neutral" },
+    { "thai": "ชาร์จที่นี่ได้ไหม", "pronunciation": "charge thii-nii dai mai", "english": "Can I charge here?", "formality": "neutral" },
+    { "thai": "ผมต้องการซิม", "pronunciation": "phom tong-kaan SIM", "english": "I need a SIM card", "formality": "neutral" },
+    { "thai": "มีที่ชาร์จไหม", "pronunciation": "mii thii charge mai", "english": "Do you have a charger?", "formality": "neutral" },
+    { "thai": "ขอไลน์ได้ไหม", "pronunciation": "kho LINE dai mai", "english": "Can I add you on LINE?", "formality": "neutral", "tip": "LINE is the main messaging app in Thailand." },
+    { "thai": "เดี๋ยวโทรหา", "pronunciation": "diao tho haa", "english": "I'll call you in a bit", "formality": "neutral" },
+    { "thai": "ส่งข้อความมา", "pronunciation": "song khor-khwaam maa", "english": "Send me a message", "formality": "neutral" },
+    { "thai": "เน็ตช้า", "pronunciation": "net chaa", "english": "The internet is slow", "formality": "neutral" },
+    { "thai": "สแกนคิวอาร์โค้ด", "pronunciation": "sa-kaen QR code", "english": "Scan the QR code", "formality": "neutral" },
+    { "thai": "ไม่มีสัญญาณ", "pronunciation": "mai mii san-yaan", "english": "I have no signal", "formality": "neutral" },
+    { "thai": "เบอร์โทรอะไร", "pronunciation": "ber tho a-rai", "english": "What's your phone number?", "formality": "neutral" }
+  ]
+}

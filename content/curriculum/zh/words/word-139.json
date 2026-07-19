@@ -1,13 +1,13 @@
 {
   "rank": 139,
-  "chinese": "把",
-  "characters": "把",
-  "pinyin": "bǎ",
-  "english": "particle (disposal construction); handle",
-  "pronunciation": "bah (3rd tone, dips then rises)",
-  "partOfSpeech": "particle",
-  "exampleZh": "请把门关上。",
-  "exampleEn": "Please close the door.",
+  "chinese": "所谓",
+  "characters": "所谓",
+  "pinyin": "suǒ wèi",
+  "english": "so-called",
+  "pronunciation": "suo-wei",
+  "partOfSpeech": "adjective",
+  "exampleZh": "这个地方很所谓。",
+  "exampleEn": "This place is very so-called.",
   "group": "core-100",
-  "topic": "grammar"
+  "topic": "descriptions"
 }

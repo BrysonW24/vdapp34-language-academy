@@ -1,0 +1,90 @@
+{
+  "slug": "numbers-and-time",
+  "title": "Numbers & Time",
+  "titleDe": "Zahlen und Zeit",
+  "shortSummary": "Count, tell the time, and handle dates and prices, the numbers you need every single day.",
+  "level": "beginner",
+  "order": 2,
+  "icon": "🕐",
+  "color": "#6d28d9",
+  "culturalNote": "Germans famously value punctuality. Being on time means arriving a few minutes early, and being late without warning is considered disrespectful. Note two quirks: German says numbers above twenty 'back to front', so 21 is einundzwanzig (one-and-twenty). And the 24-hour clock is standard for schedules, timetables, and appointments, so 8pm is 20 Uhr.",
+  "keyPhrases": [
+    { "german": "eins, zwei, drei", "english": "one, two, three", "pronunciation": "ines, tsvy, dry", "context": "The first counting numbers" },
+    { "german": "zehn", "english": "ten", "pronunciation": "tsayn", "context": "A key milestone number" },
+    { "german": "einundzwanzig", "english": "twenty-one", "pronunciation": "INE-oont-tsvahn-tsikh", "context": "Note the back-to-front order: one-and-twenty" },
+    { "german": "hundert", "english": "hundred", "pronunciation": "HOON-dert", "context": "Used for prices and counting" },
+    { "german": "Wie spät ist es?", "english": "What time is it?", "pronunciation": "vee shpayt ist es", "context": "Asking the time" },
+    { "german": "Es ist drei Uhr", "english": "It's three o'clock", "pronunciation": "es ist dry oor", "context": "Telling the time on the hour" },
+    { "german": "halb vier", "english": "half past three", "pronunciation": "hahlp feer", "context": "Careful: halb vier means half TO four, i.e. 3:30" },
+    { "german": "Viertel nach acht", "english": "quarter past eight", "pronunciation": "FEER-tel nahkh ahkht", "context": "Quarter past" },
+    { "german": "Um wie viel Uhr?", "english": "At what time?", "pronunciation": "oom vee feel oor", "context": "Asking when something happens" },
+    { "german": "Wie viel kostet das?", "english": "How much does that cost?", "pronunciation": "vee feel KOS-tet dahs", "context": "Asking a price" }
+  ],
+  "grammar": [
+    {
+      "rule": "Numbers above twenty are reversed",
+      "explanation": "From 21 onward, German says the units before the tens, joined by 'und' (and). So 21 is einundzwanzig, 45 is fünfundvierzig (five-and-forty).",
+      "examples": [
+        { "de": "vierundzwanzig", "en": "twenty-four (four-and-twenty)" },
+        { "de": "siebenundsechzig", "en": "sixty-seven (seven-and-sixty)" }
+      ],
+      "commonMistake": "Saying the numbers in English order: it is einundzwanzig, not zwanzigeins."
+    },
+    {
+      "rule": "halb means half TO the hour",
+      "explanation": "German counts toward the next hour. 'halb drei' means half to three, which is 2:30, not 3:30. This trips up almost every learner.",
+      "examples": [
+        { "de": "Es ist halb sieben.", "en": "It is half past six (6:30)." },
+        { "de": "Wir treffen uns um halb acht.", "en": "We meet at half past seven (7:30)." }
+      ],
+      "commonMistake": "Reading halb drei as 3:30. It actually means 2:30."
+    }
+  ],
+  "dialogue": {
+    "setup": "Lena calls the cinema to ask about a film showing this evening.",
+    "lines": [
+      { "speaker": "Lena", "german": "Guten Tag, um wie viel Uhr beginnt der Film?", "english": "Hello, at what time does the film start?" },
+      { "speaker": "Kasse", "german": "Guten Tag. Der Film beginnt um halb neun.", "english": "Hello. The film starts at half past eight (8:30)." },
+      { "speaker": "Lena", "german": "Und wie viel kostet eine Karte?", "english": "And how much does a ticket cost?" },
+      { "speaker": "Kasse", "german": "Eine Karte kostet zwölf Euro.", "english": "A ticket costs twelve euros." },
+      { "speaker": "Lena", "german": "Gut. Ich nehme zwei Karten, bitte.", "english": "Good. I'll take two tickets, please." },
+      { "speaker": "Kasse", "german": "Das macht vierundzwanzig Euro.", "english": "That's twenty-four euros." },
+      { "speaker": "Lena", "german": "Vielen Dank. Bis später!", "english": "Thank you very much. See you later!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'twenty-one' in German?",
+      "correctAnswer": "einundzwanzig",
+      "explanation": "Units come before tens: ein-und-zwanzig (one-and-twenty)."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What time is 'halb drei'?",
+      "options": ["3:30", "2:30", "3:00", "2:00"],
+      "correctAnswer": "2:30",
+      "explanation": "German counts toward the next hour, so halb drei is half to three, which is 2:30."
+    },
+    {
+      "type": "fill-blank",
+      "question": "Wie _____ ist es? (asking the time)",
+      "correctAnswer": "spät",
+      "explanation": "Wie spät ist es? literally means 'how late is it?'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which phrase asks the price?",
+      "options": ["Wie spät ist es?", "Um wie viel Uhr?", "Wie viel kostet das?", "Wie geht es?"],
+      "correctAnswer": "Wie viel kostet das?",
+      "explanation": "Wie viel kostet das? means 'how much does that cost?'."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: kostet / das / viel / wie",
+      "correctAnswer": "Wie viel kostet das",
+      "explanation": "The question word 'wie viel' starts, then the verb kostet, then das."
+    }
+  ],
+  "status": "complete"
+}

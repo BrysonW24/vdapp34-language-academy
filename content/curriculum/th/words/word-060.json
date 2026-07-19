@@ -1,0 +1,12 @@
+{
+  "rank": 60,
+  "thai": "ไทย",
+  "transliteration": "thai",
+  "english": "Thai",
+  "pronunciation": "thai",
+  "partOfSpeech": "noun",
+  "exampleTh": "ฉันชอบภาษาไทย",
+  "exampleEn": "I like Thai.",
+  "group": "core-100",
+  "topic": "basics"
+}

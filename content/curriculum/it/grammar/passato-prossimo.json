@@ -1,0 +1,34 @@
+{
+  "slug": "passato-prossimo",
+  "name": "Past Tense (passato prossimo)",
+  "nameNative": "Il passato prossimo",
+  "summary": "The everyday past tense, built with avere or essere plus a past participle.",
+  "level": "pre-intermediate",
+  "order": 11,
+  "explanation": "The passato prossimo is the main past tense for completed actions. It has two parts: a helper verb (avere or essere) in the present, plus the past participle of the main verb.\n\nRegular participles end in -ato (-are verbs), -uto (-ere verbs), and -ito (-ire verbs): parlato, venduto, finito. So ho parlato means 'I spoke' or 'I have spoken'.\n\nMost verbs use avere. But verbs of movement and change (andare, venire, essere, nascere) use essere, and then the participle agrees with the subject: lei è andata, loro sono andati.",
+  "pattern": "avere/essere (present) + past participle",
+  "conjugation": {
+    "ho parlato": "I spoke",
+    "hai mangiato": "you ate",
+    "ha finito": "he/she finished",
+    "sono andato/a": "I went",
+    "siamo venuti/e": "we came",
+    "hanno visto": "they saw"
+  },
+  "examples": [
+    { "native": "Ho mangiato la pizza.", "en": "I ate the pizza." },
+    { "native": "Hai visto il film?", "en": "Did you see the film?" },
+    { "native": "Ha comprato un regalo.", "en": "He bought a present." },
+    { "native": "Sono andata a Roma.", "en": "I went to Rome. (female speaker)" },
+    { "native": "Siamo arrivati tardi.", "en": "We arrived late." },
+    { "native": "Hanno finito il lavoro.", "en": "They finished the work." }
+  ],
+  "commonMistakes": [
+    "Using avere with movement verbs. Andare, venire, and arrivare take essere.",
+    "Forgetting participle agreement with essere. A woman says sono andata, not andato.",
+    "Leaving the helper verb out. The participle alone is not a full past tense.",
+    "Trying to make the participle agree when the helper is avere (in basic use it stays fixed: ho mangiato).",
+    "Confusing irregular participles; fare gives fatto, vedere gives visto, dire gives detto."
+  ],
+  "tip": "Memorise the short list of essere verbs (motion and change). Everything else defaults to avere."
+}

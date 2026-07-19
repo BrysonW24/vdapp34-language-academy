@@ -1,0 +1,34 @@
+{
+  "slug": "desu-masu-politeness",
+  "name": "Politeness: desu and masu",
+  "nameNative": "丁寧語「です・ます」",
+  "summary": "The polite register built on です (desu) and -ます (masu) is the safe default for learners in almost every situation.",
+  "level": "beginner",
+  "order": 3,
+  "explanation": "Japanese has different politeness levels, and the one learners should master first is the polite or 'teineigo' register. It is built on two endings: です (desu) attaches to nouns and adjectives to make polite statements, and -ます (masu) is the polite ending on verbs. 学生です (gakusei desu) means 'I am a student', and 食べます (tabemasu) means 'I eat'.\n\nThis register is polite without being stiff. You can use it with strangers, shopkeepers, colleagues, and teachers, and no one will think you rude. The casual 'plain' forms (だ da, and dictionary-form verbs) are for close friends and family, but they can sound abrupt if used too early, so polite forms are the right place to start.\n\nです and ます also make questions easy: just add the particle か (ka) at the end. 学生ですか (gakusei desu ka) is 'Are you a student?'. Because politeness is signalled by the verb ending, Japanese rarely needs to change word order to be polite.",
+  "pattern": "[noun/adjective] + です  /  [verb stem] + ます",
+  "conjugation": {
+    "noun (polite)": "学生です (gakusei desu) - is a student",
+    "verb (polite present)": "食べます (tabemasu) - eats",
+    "polite question": "食べますか (tabemasu ka) - do you eat?",
+    "polite negative": "食べません (tabemasen) - does not eat",
+    "polite past": "食べました (tabemashita) - ate",
+    "polite past negative": "食べませんでした (tabemasen deshita) - did not eat"
+  },
+  "examples": [
+    { "native": "これはペンです。(kore wa pen desu.)", "en": "This is a pen." },
+    { "native": "毎日働きます。(mainichi hatarakimasu.)", "en": "I work every day." },
+    { "native": "コーヒーを飲みますか。(koohii o nomimasu ka.)", "en": "Do you drink coffee?" },
+    { "native": "私は先生ではありません。(watashi wa sensei dewa arimasen.)", "en": "I am not a teacher." },
+    { "native": "昨日映画を見ました。(kinou eiga o mimashita.)", "en": "I watched a movie yesterday." },
+    { "native": "彼は来ませんでした。(kare wa kimasen deshita.)", "en": "He did not come." }
+  ],
+  "commonMistakes": [
+    "Mixing plain and polite forms in one sentence. Keep the whole sentence in the same register.",
+    "Adding です after a -ます verb. 食べますです is wrong; the verb is already polite.",
+    "Using だ (da) with です. They are two forms of the same idea - never stack them.",
+    "Forgetting that the negative of です is ではありません (dewa arimasen), not ですない.",
+    "Treating polite forms as formal-only. They are the everyday default, not reserved for ceremony."
+  ],
+  "tip": "When in doubt, stay polite. です and ます will never offend, while plain forms can sound too blunt."
+}

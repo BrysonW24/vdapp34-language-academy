@@ -1,13 +1,13 @@
 {
   "rank": 341,
-  "chinese": "穿",
-  "characters": "穿",
-  "pinyin": "chuān",
-  "english": "to wear; to put on",
-  "pronunciation": "chwahn (1st tone, high flat)",
-  "partOfSpeech": "verb",
-  "exampleZh": "今天穿什么衣服？",
-  "exampleEn": "What clothes should I wear today?",
+  "chinese": "事实",
+  "characters": "事实",
+  "pinyin": "shì shí",
+  "english": "fact",
+  "pronunciation": "shi-shi",
+  "partOfSpeech": "noun",
+  "exampleZh": "这个事实很重要。",
+  "exampleEn": "This fact is important.",
   "group": "everyday-250",
-  "topic": "clothing"
+  "topic": "basics"
 }

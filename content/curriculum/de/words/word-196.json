@@ -1,13 +1,11 @@
 {
   "rank": 196,
-  "german": "Wasser",
-  "english": "water",
-  "pronunciation": "VAH-ser",
-  "partOfSpeech": "noun",
-  "gender": "neuter",
-  "article": "das",
-  "exampleDe": "Kann ich ein Glas Wasser haben?",
-  "exampleEn": "Can I have a glass of water?",
+  "german": "liegen",
+  "english": "to lie",
+  "pronunciation": "l i ɡ ə n",
+  "partOfSpeech": "verb",
+  "exampleDe": "Ich möchte liegen.",
+  "exampleEn": "I want to lie.",
   "group": "everyday-250",
-  "topic": "food-drink"
+  "topic": "actions"
 }

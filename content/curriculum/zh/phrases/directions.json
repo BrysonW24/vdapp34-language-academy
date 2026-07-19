@@ -1,0 +1,21 @@
+{
+  "slug": "directions",
+  "title": "Asking for Directions",
+  "description": "Find your way around a Chinese city: ask where things are and understand the reply.",
+  "situation": "Getting around: asking for places, understanding left and right, and using the metro.",
+  "order": 5,
+  "phrases": [
+    { "chinese": "请问，...在哪里？", "pinyin": "qǐngwèn, ...zài nǎlǐ?", "english": "Excuse me, where is...?", "formality": "neutral", "tip": "请问 (qǐngwèn) politely opens a question." },
+    { "chinese": "怎么去火车站？", "pinyin": "zěnme qù huǒchēzhàn?", "english": "How do I get to the train station?", "formality": "neutral" },
+    { "chinese": "远吗？", "pinyin": "yuǎn ma?", "english": "Is it far?", "formality": "neutral" },
+    { "chinese": "一直走", "pinyin": "yìzhí zǒu", "english": "Go straight ahead", "formality": "neutral" },
+    { "chinese": "左转 / 右转", "pinyin": "zuǒ zhuǎn / yòu zhuǎn", "english": "Turn left / turn right", "formality": "neutral" },
+    { "chinese": "在那边", "pinyin": "zài nàbiān", "english": "It's over there", "formality": "neutral" },
+    { "chinese": "地铁站在哪里？", "pinyin": "dìtiězhàn zài nǎlǐ?", "english": "Where is the metro station?", "formality": "neutral" },
+    { "chinese": "我要去这个地址", "pinyin": "wǒ yào qù zhège dìzhǐ", "english": "I want to go to this address", "formality": "neutral", "tip": "Show the address on your phone to a driver." },
+    { "chinese": "坐几号线？", "pinyin": "zuò jǐ hào xiàn?", "english": "Which line do I take?", "formality": "neutral", "tip": "Metro lines are numbered: 一号线 = Line 1." },
+    { "chinese": "我迷路了", "pinyin": "wǒ mílù le", "english": "I'm lost", "formality": "neutral" },
+    { "chinese": "可以帮我吗？", "pinyin": "kěyǐ bāng wǒ ma?", "english": "Can you help me?", "formality": "neutral" },
+    { "chinese": "谢谢你的帮助", "pinyin": "xièxie nǐ de bāngzhù", "english": "Thank you for your help", "formality": "neutral" }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "negation",
+  "name": "Negation (-me / -ma and değil)",
+  "nameNative": "Olumsuzluk (-me / -ma ve değil)",
+  "summary": "Two ways to say no: the verb negator -me/-ma inside the verb, and değil for nouns and adjectives.",
+  "level": "elementary",
+  "order": 8,
+  "explanation": "Turkish negates verbs and non-verbs in two different ways, and keeping them apart is essential. For verbs, you insert the negative suffix -me or -ma right after the stem, before any tense ending. Gel- (come) becomes gelme- (not come), so gelmiyorum means 'I am not coming'.\n\nThe suffix follows two-way harmony: -ma after a back vowel, -me after a front vowel. In the -iyor tense the suffix vowel narrows, so gelme + iyorum becomes gelmiyorum, and yapma + ıyorum becomes yapmıyorum. The base negator vowel disappears into the -iyor.\n\nFor nouns and adjectives there is no verb to attach a suffix to, so you use the separate word değil (not). Bu çay (this is tea) becomes Bu çay değil (this is not tea), and hazır (ready) becomes hazır değil (not ready). Değil never changes for harmony, but it can take personal endings: hazır değilim (I am not ready).",
+  "pattern": "verb: stem + ma/me + tense ending | noun/adjective: word + değil",
+  "conjugation": {
+    "gelmek -> not coming": "gelmiyorum",
+    "yapmak -> not doing": "yapmıyorum",
+    "this is not tea": "bu çay değil",
+    "I am not ready": "hazır değilim",
+    "you are not a student": "öğrenci değilsin",
+    "it is not here": "burada değil"
+  },
+  "examples": [
+    { "native": "Bugün gelmiyorum.", "en": "I am not coming today." },
+    { "native": "Türkçe bilmiyorum.", "en": "I do not speak Turkish." },
+    { "native": "Bu çay değil, kahve.", "en": "This is not tea, it is coffee." },
+    { "native": "Hazır değilim.", "en": "I am not ready." },
+    { "native": "O öğrenci değil.", "en": "He is not a student." },
+    { "native": "Param yok.", "en": "I have no money." }
+  ],
+  "commonMistakes": [
+    "Using değil to negate a verb, saying gel değil instead of gelmiyorum.",
+    "Attaching -me to a noun, saying çayme instead of çay değil.",
+    "Keeping the full -me vowel before -iyor, saying gelmeiyorum instead of gelmiyorum.",
+    "Forgetting harmony on the negator, saying yapmeyorum instead of yapmıyorum.",
+    "Confusing yok (there is not / does not have) with değil (is not); they are not interchangeable."
+  ],
+  "tip": "Ask yourself: am I negating an action or a description? Actions take -me/-ma inside the verb; descriptions and nouns take the separate word değil."
+}

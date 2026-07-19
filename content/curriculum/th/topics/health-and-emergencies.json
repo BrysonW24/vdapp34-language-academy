@@ -1,0 +1,90 @@
+{
+  "slug": "health-and-emergencies",
+  "title": "Health & Emergencies",
+  "titleTh": "สุขภาพและเหตุฉุกเฉิน",
+  "shortSummary": "Describe symptoms, see a doctor, and get help fast in an emergency.",
+  "level": "pre-intermediate",
+  "order": 11,
+  "icon": "🩺",
+  "color": "#a0453f",
+  "culturalNote": "Thailand has good hospitals, especially in cities, and pharmacies (ร้านขายยา) are common and helpful for minor problems. Pharmacists often speak some English and can advise on basic medicine. In an emergency, the medical and rescue number is 1669, the police is 191, and the tourist police is 1155. Having your symptoms or allergies written in Thai on your phone makes a clinic visit much smoother.",
+  "keyPhrases": [
+    { "thai": "ผมไม่สบาย", "pronunciation": "phom mai sabai", "english": "I don't feel well", "context": "General complaint" },
+    { "thai": "ปวดหัว", "pronunciation": "puat hua", "english": "headache", "context": "ปวด = ache" },
+    { "thai": "ผมเป็นไข้", "pronunciation": "phom pen khai", "english": "I have a fever", "context": "A common symptom" },
+    { "thai": "ผมต้องการหมอ", "pronunciation": "phom tong-kaan mor", "english": "I need a doctor", "context": "Seeking help" },
+    { "thai": "เรียกรถพยาบาล", "pronunciation": "riak rot pha-yaa-baan", "english": "Call an ambulance", "context": "Dial 1669" },
+    { "thai": "ฉุกเฉิน", "pronunciation": "chuk-chern", "english": "emergency", "context": "Urgent" },
+    { "thai": "ผมแพ้...", "pronunciation": "phom phae...", "english": "I'm allergic to...", "context": "Important info" },
+    { "thai": "ร้านขายยาอยู่ที่ไหน", "pronunciation": "raan khaai yaa yuu thii-nai", "english": "Where is the pharmacy?", "context": "Finding medicine" },
+    { "thai": "เจ็บตรงนี้", "pronunciation": "jep trong-nii", "english": "It hurts here", "context": "Point as you say it" },
+    { "thai": "พักผ่อนเยอะๆ", "pronunciation": "phak-phon yoe-yoe", "english": "rest a lot", "context": "Common advice" }
+  ],
+  "grammar": [
+    {
+      "rule": "ปวด and เจ็บ for pain",
+      "explanation": "Use ปวด (puat) for a dull internal ache and เจ็บ (jep) for a sharp or external pain. ปวดหัว (headache), ปวดท้อง (stomach ache), เจ็บคอ (sore throat). The body part follows.",
+      "examples": [
+        { "th": "ผมปวดท้อง", "en": "I have a stomach ache." },
+        { "th": "เจ็บตรงนี้", "en": "It hurts here." }
+      ],
+      "commonMistake": "Adding 'have'. It is ผมปวดหัว, not ผมมีปวดหัว."
+    },
+    {
+      "rule": "แพ้ for allergic",
+      "explanation": "แพ้ (phae) means 'to be allergic to'. Just add the thing: ผมแพ้กุ้ง (I'm allergic to shrimp), ผมแพ้ยา (I'm allergic to medicine).",
+      "examples": [
+        { "th": "ผมแพ้ถั่ว", "en": "I'm allergic to peanuts." },
+        { "th": "ผมแพ้แมว", "en": "I'm allergic to cats." }
+      ],
+      "commonMistake": "Adding extra words. แพ้ plus the thing is enough."
+    }
+  ],
+  "dialogue": {
+    "setup": "Nan visits a pharmacy because she is not feeling well.",
+    "lines": [
+      { "speaker": "เภสัชกร", "thai": "สวัสดีค่ะ ไม่สบายตรงไหนคะ", "pronunciation": "sa-wat-dee kha, mai sabai trong-nai kha", "english": "Hello, where do you feel unwell?" },
+      { "speaker": "แนน", "thai": "ปวดหัวแล้วก็เป็นไข้ค่ะ", "pronunciation": "puat hua laeo ko pen khai kha", "english": "I have a headache and a fever." },
+      { "speaker": "เภสัชกร", "thai": "เป็นมาตั้งแต่เมื่อไหร่คะ", "pronunciation": "pen maa tang-tae muea-rai kha", "english": "Since when?" },
+      { "speaker": "แนน", "thai": "ตั้งแต่เมื่อคืนค่ะ", "pronunciation": "tang-tae muea-khuun kha", "english": "Since last night." },
+      { "speaker": "เภสัชกร", "thai": "แพ้ยาอะไรไหมคะ", "pronunciation": "phae yaa a-rai mai kha", "english": "Are you allergic to any medicine?" },
+      { "speaker": "แนน", "thai": "ไม่แพ้ค่ะ", "pronunciation": "mai phae kha", "english": "No allergies." },
+      { "speaker": "เภสัชกร", "thai": "กินยานี้แล้วพักผ่อนเยอะๆ นะคะ", "pronunciation": "kin yaa nii laeo phak-phon yoe-yoe na kha", "english": "Take this medicine and rest a lot." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'I have a headache'?",
+      "correctAnswer": "ปวดหัว",
+      "explanation": "ปวด (ache) + หัว (head)."
+    },
+    {
+      "type": "fill-blank",
+      "question": "ผม_____กุ้ง (allergic to shrimp)",
+      "correctAnswer": "แพ้",
+      "explanation": "แพ้ means 'allergic to'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the emergency/ambulance number in Thailand?",
+      "options": ["191", "1155", "1669", "911"],
+      "correctAnswer": "1669",
+      "explanation": "1669 is the medical emergency number."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which means 'I don't feel well'?",
+      "options": ["ผมสบายดี", "ผมไม่สบาย", "ผมหิว", "ผมอิ่ม"],
+      "correctAnswer": "ผมไม่สบาย",
+      "explanation": "ผมไม่สบาย means 'I'm not well'."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: รถพยาบาล / เรียก",
+      "correctAnswer": "เรียกรถพยาบาล",
+      "explanation": "เรียก (call) + รถพยาบาล (ambulance)."
+    }
+  ],
+  "status": "complete"
+}

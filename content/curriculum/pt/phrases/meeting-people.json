@@ -1,0 +1,21 @@
+{
+  "slug": "meeting-people",
+  "title": "Meeting People",
+  "description": "Introduce yourself, ask someone's name, and make a warm first impression in Portuguese.",
+  "situation": "First introductions: names, where you are from, and friendly small talk.",
+  "order": 2,
+  "phrases": [
+    { "native": "Como você se chama?", "english": "What's your name?", "pronunciation": "KOH-moo voh-SEH see SHAH-mah", "formality": "neutral" },
+    { "native": "Meu nome é...", "english": "My name is...", "pronunciation": "MEH-oo NOH-mee eh", "formality": "neutral" },
+    { "native": "Prazer", "english": "Nice to meet you", "pronunciation": "prah-ZEHR", "formality": "neutral", "tip": "Short for muito prazer." },
+    { "native": "De onde você é?", "english": "Where are you from?", "pronunciation": "jee ON-jee voh-SEH eh", "formality": "neutral" },
+    { "native": "Eu sou da Austrália", "english": "I'm from Australia", "pronunciation": "EH-oo soh dah ows-TRAH-lee-ah", "formality": "neutral" },
+    { "native": "Como você está?", "english": "How are you?", "pronunciation": "KOH-moo voh-SEH es-TAH", "formality": "neutral" },
+    { "native": "Tudo bem?", "english": "All good? / How's it going?", "pronunciation": "TOO-doo bayn", "formality": "informal", "tip": "Reply: tudo bem, e você?" },
+    { "native": "Estou bem, obrigado", "english": "I'm well, thank you", "pronunciation": "es-TOH bayn oh-bree-GAH-doo", "formality": "neutral" },
+    { "native": "O que você faz?", "english": "What do you do?", "pronunciation": "oo kee voh-SEH fahs", "formality": "neutral" },
+    { "native": "Falo um pouco de português", "english": "I speak a little Portuguese", "pronunciation": "FAH-loo oon POH-koo jee por-too-GES", "formality": "neutral" },
+    { "native": "Estou aprendendo português", "english": "I'm learning Portuguese", "pronunciation": "es-TOH ah-pren-DEN-doo por-too-GES", "formality": "neutral" },
+    { "native": "Até mais", "english": "See you later", "pronunciation": "ah-TEH mais", "formality": "neutral" }
+  ]
+}

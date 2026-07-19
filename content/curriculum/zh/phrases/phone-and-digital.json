@@ -1,0 +1,21 @@
+{
+  "slug": "phone-and-digital",
+  "title": "Phone & Digital",
+  "description": "Stay connected in Mandarin: Wi-Fi, SIM cards, messaging, and mobile payment.",
+  "situation": "Staying connected: getting online, buying a SIM, messaging on WeChat, and basic tech words.",
+  "order": 8,
+  "phrases": [
+    { "chinese": "无线网密码是多少？", "pinyin": "wúxiànwǎng mìmǎ shì duōshao?", "english": "What's the Wi-Fi password?", "formality": "neutral" },
+    { "chinese": "我的手机没电了", "pinyin": "wǒ de shǒujī méi diàn le", "english": "My phone is out of battery", "formality": "neutral" },
+    { "chinese": "可以在这里充电吗？", "pinyin": "kěyǐ zài zhèlǐ chōngdiàn ma?", "english": "Can I charge here?", "formality": "neutral" },
+    { "chinese": "我需要一张手机卡", "pinyin": "wǒ xūyào yì zhāng shǒujīkǎ", "english": "I need a SIM card", "formality": "neutral" },
+    { "chinese": "你有充电器吗？", "pinyin": "nǐ yǒu chōngdiànqì ma?", "english": "Do you have a charger?", "formality": "neutral" },
+    { "chinese": "可以加你微信吗？", "pinyin": "kěyǐ jiā nǐ Wēixìn ma?", "english": "Can I add you on WeChat?", "formality": "neutral", "tip": "WeChat is essential for daily life in China." },
+    { "chinese": "我等一下给你打电话", "pinyin": "wǒ děng yíxià gěi nǐ dǎ diànhuà", "english": "I'll call you in a moment", "formality": "neutral" },
+    { "chinese": "给我发个信息", "pinyin": "gěi wǒ fā ge xìnxī", "english": "Send me a message", "formality": "neutral" },
+    { "chinese": "网速很慢", "pinyin": "wǎngsù hěn màn", "english": "The internet is slow", "formality": "neutral" },
+    { "chinese": "扫这个二维码", "pinyin": "sǎo zhège èrwéimǎ", "english": "Scan this QR code", "formality": "neutral", "tip": "QR codes run almost everything in China, from menus to payments." },
+    { "chinese": "我没有信号", "pinyin": "wǒ méiyǒu xìnhào", "english": "I have no signal", "formality": "neutral" },
+    { "chinese": "你的电话号码是多少？", "pinyin": "nǐ de diànhuà hàomǎ shì duōshao?", "english": "What's your phone number?", "formality": "neutral" }
+  ]
+}

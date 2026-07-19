@@ -1,0 +1,90 @@
+{
+  "slug": "transport",
+  "title": "Transport",
+  "titleNative": "교통",
+  "shortSummary": "Take the subway, bus, and taxi, and ask how to get around Korean cities.",
+  "level": "beginner",
+  "order": 11,
+  "icon": "🚇",
+  "color": "#e8590c",
+  "culturalNote": "Korea has one of the world's best public transport systems, and the subway (지하철, jihacheol) is clean, cheap, and fully signed in Korean and English. Almost everyone uses a 교통카드 (gyotongkadeu, transit card) such as T-money, which you tap on subways, buses, and even in taxis and convenience stores. Buses are colour-coded by route type and you tap both when boarding and when leaving. Taxis are plentiful and metered, and many drivers use navigation apps, so showing an address on your phone works well. Priority seats on subways and buses are reserved for elders, pregnant passengers, and people with disabilities, and Koreans take this seriously, often leaving these seats empty even when the train is crowded. Offering your seat to an older passenger is a respected courtesy that fits Korea's deep regard for seniority.",
+  "keyPhrases": [
+    { "native": "지하철역이 어디예요?", "english": "Where is the subway station?", "transliteration": "jihacheoryeogi eodiyeyo?", "pronunciation": "ji-ha-cho-ryo-gi o-di-ye-yo", "context": "Finding the subway" },
+    { "native": "교통카드 있어요?", "english": "Do you have a transit card?", "transliteration": "gyotongkadeu isseoyo?", "pronunciation": "gyo-tong-ka-deu i-sso-yo", "context": "Paying for transport" },
+    { "native": "이 버스가 시청에 가요?", "english": "Does this bus go to City Hall?", "transliteration": "i beoseuga sicheonge gayo?", "pronunciation": "i bo-seu-ga si-chong-e ga-yo", "context": "Checking a bus route" },
+    { "native": "어디에서 내려요?", "english": "Where do I get off?", "transliteration": "eodieseo naeryeoyo?", "pronunciation": "o-di-e-so nae-ryo-yo", "context": "Riding a bus or train" },
+    { "native": "다음 역이 어디예요?", "english": "What is the next station?", "transliteration": "daeum yeogi eodiyeyo?", "pronunciation": "da-eum yo-gi o-di-ye-yo", "context": "On the subway" },
+    { "native": "택시 타고 싶어요", "english": "I want to take a taxi", "transliteration": "taeksi tago sipeoyo", "pronunciation": "taek-si ta-go si-po-yo", "context": "Choosing transport" },
+    { "native": "여기 세워 주세요", "english": "Please stop here", "transliteration": "yeogi sewo juseyo", "pronunciation": "yo-gi se-wo ju-se-yo", "context": "Getting out of a taxi" },
+    { "native": "얼마나 걸려요?", "english": "How long does it take?", "transliteration": "eolmana geollyeoyo?", "pronunciation": "ol-ma-na gol-lyo-yo", "context": "Asking travel time" },
+    { "native": "몇 호선이에요?", "english": "Which line is it?", "transliteration": "myeot hoseonieyo?", "pronunciation": "myot ho-so-ni-e-yo", "context": "Subway lines are numbered" },
+    { "native": "갈아타야 해요?", "english": "Do I have to transfer?", "transliteration": "garataya haeyo?", "pronunciation": "ga-ra-ta-ya hae-yo", "context": "Changing trains" }
+  ],
+  "grammar": [
+    {
+      "rule": "Taking transport with 타다 and 내리다",
+      "explanation": "타다 (tada) means 'to board / ride' and 내리다 (naerida) means 'to get off'. The vehicle takes the particle 을/를: 버스를 타다 (beoseureul tada, to take the bus), 여기에서 내리다 (yeogieseo naerida, to get off here).",
+      "examples": [
+        { "native": "지하철을 타요. (jihacheoreul tayo.)", "en": "I take the subway." },
+        { "native": "시청에서 내려요. (sicheongeseo naeryeoyo.)", "en": "I get off at City Hall." }
+      ],
+      "commonMistake": "Using 에 instead of 을/를 with 타다; you board 버스를, not 버스에."
+    },
+    {
+      "rule": "The destination particle 에",
+      "explanation": "To mark where you are going, attach 에 (e) to the destination and use a movement verb like 가다 (gada, to go). 시청 (sicheong, City Hall) becomes 시청에 가요 (sicheonge gayo, I go to City Hall).",
+      "examples": [
+        { "native": "공항에 가요. (gonghange gayo.)", "en": "I go to the airport." },
+        { "native": "이 버스가 강남에 가요? (i beoseuga gangname gayo?)", "en": "Does this bus go to Gangnam?" }
+      ],
+      "commonMistake": "Confusing 에 (destination) with 에서 (location of an action); 가다 takes 에."
+    }
+  ],
+  "dialogue": {
+    "setup": "Alex asks a station attendant how to reach Gangnam by subway.",
+    "lines": [
+      { "speaker": "알렉스", "native": "실례합니다, 강남에 어떻게 가요?", "transliteration": "sillyehamnida, gangname eotteoke gayo?", "english": "Excuse me, how do I get to Gangnam?" },
+      { "speaker": "역무원", "native": "2호선을 타세요.", "transliteration": "i-hoseoneul taseyo.", "english": "Take Line 2." },
+      { "speaker": "알렉스", "native": "갈아타야 해요?", "transliteration": "garataya haeyo?", "english": "Do I have to transfer?" },
+      { "speaker": "역무원", "native": "아니요, 한 번에 가요.", "transliteration": "aniyo, han beone gayo.", "english": "No, it goes there directly." },
+      { "speaker": "알렉스", "native": "얼마나 걸려요?", "transliteration": "eolmana geollyeoyo?", "english": "How long does it take?" },
+      { "speaker": "역무원", "native": "약 이십 분 걸려요.", "transliteration": "yak isip bun geollyeoyo.", "english": "It takes about twenty minutes." },
+      { "speaker": "알렉스", "native": "감사합니다. 교통카드로 탈게요.", "transliteration": "gamsahamnida. gyotongkadeuro talgeyo.", "english": "Thank you. I'll ride with my transit card." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'Please stop here' to a taxi driver in Korean?",
+      "correctAnswer": "여기 세워 주세요",
+      "explanation": "여기 세워 주세요 (yeogi sewo juseyo) asks the driver to stop here."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which particle does the vehicle take with 타다 (to board)?",
+      "options": ["에", "을/를", "에서", "으로"],
+      "correctAnswer": "을/를",
+      "explanation": "타다 takes the object particle 을/를, as in 버스를 타다 (to take the bus)."
+    },
+    {
+      "type": "fill-blank",
+      "question": "시청___ 가요. (destination particle)",
+      "correctAnswer": "에",
+      "explanation": "Destinations take 에 with movement verbs, giving 시청에 가요 (I go to City Hall)."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Who are the priority seats on Korean subways reserved for?",
+      "options": ["Tourists", "Elders and those who need them", "Students only", "Staff"],
+      "correctAnswer": "Elders and those who need them",
+      "explanation": "Priority seats are for elders, pregnant passengers, and people with disabilities."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: 걸려요 / 얼마나 (how long does it take)",
+      "correctAnswer": "얼마나 걸려요",
+      "explanation": "얼마나 걸려요? (eolmana geollyeoyo) asks how long something takes."
+    }
+  ],
+  "status": "complete"
+}

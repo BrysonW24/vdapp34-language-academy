@@ -1,0 +1,90 @@
+{
+  "slug": "work-and-school",
+  "title": "Work & School",
+  "titleNative": "Le travail et l'école",
+  "shortSummary": "Talk about your job, your studies, and daily working life in French.",
+  "level": "pre-intermediate",
+  "order": 12,
+  "icon": "💼",
+  "color": "#7a4fa0",
+  "culturalNote": "French working culture values a clear separation between work and private life, and the right to disconnect after hours is taken seriously. The standard working week and generous holidays are part of the rhythm. Education is highly structured, and the baccalauréat exam at the end of high school is a major milestone. Qualifications and titles carry real weight.",
+  "keyPhrases": [
+    { "native": "Que faites-vous dans la vie ?", "english": "What do you do for work?", "pronunciation": "kuh fet VOO don lah VEE", "context": "Asking about a job" },
+    { "native": "Je travaille chez...", "english": "I work at... (company)", "pronunciation": "zhuh trah-VYE shay", "context": "Naming your employer" },
+    { "native": "Je suis professeur", "english": "I'm a teacher", "pronunciation": "zhuh swee proh-feh-SUHR", "context": "Stating your role" },
+    { "native": "J'étudie à l'université", "english": "I study at university", "pronunciation": "zhay-tew-DEE ah lew-nee-vehr-see-TAY", "context": "For students" },
+    { "native": "J'ai une réunion", "english": "I have a meeting", "pronunciation": "zhay ewn ray-ew-nee-ON", "context": "Work schedule" },
+    { "native": "Je travaille de neuf heures à dix-sept heures", "english": "I work from nine to five", "pronunciation": "...duh nuhv UHR ah dee-set UHR", "context": "Working hours" },
+    { "native": "J'ai un jour de congé", "english": "I have a day off", "pronunciation": "zhay un zhoor duh kon-ZHAY", "context": "Time off" },
+    { "native": "un collègue", "english": "a colleague", "pronunciation": "un koh-LEG", "context": "People at work" },
+    { "native": "Je suis débordé", "english": "I'm swamped", "pronunciation": "zhuh swee day-bor-DAY", "context": "Very busy" },
+    { "native": "Bonne fin de journée !", "english": "Have a good rest of the day!", "pronunciation": "bon fan duh zhoor-NAY", "context": "Leaving work" }
+  ],
+  "grammar": [
+    {
+      "rule": "Verbs of profession without an article",
+      "explanation": "State your profession with être plus the job, no article: Je suis ingénieur (I'm an engineer). For where you work, use travailler chez (a company) or travailler dans (a sector).",
+      "examples": [
+        { "native": "Elle est avocate.", "en": "She is a lawyer." },
+        { "native": "Je travaille dans une banque.", "en": "I work in a bank." }
+      ],
+      "commonMistake": "Adding un: it is Je suis ingénieur, not Je suis un ingénieur."
+    },
+    {
+      "rule": "étudier vs apprendre",
+      "explanation": "étudier means to study a subject formally (j'étudie la médecine), while apprendre means to learn a skill or language (j'apprends le français). Both take a direct object.",
+      "examples": [
+        { "native": "J'étudie le droit.", "en": "I study law." },
+        { "native": "J'apprends l'espagnol.", "en": "I'm learning Spanish." }
+      ],
+      "commonMistake": "Using étudier for a language you are picking up casually. Use apprendre for learning."
+    }
+  ],
+  "dialogue": {
+    "setup": "At a party, Nora and David get to know each other and talk about work.",
+    "lines": [
+      { "speaker": "Nora", "native": "Et toi, que fais-tu dans la vie, David ?", "english": "And you, what do you do for work, David?" },
+      { "speaker": "David", "native": "Je travaille comme programmeur dans une petite entreprise.", "english": "I work as a programmer at a small company." },
+      { "speaker": "Nora", "native": "Intéressant ! Ça te plaît ?", "english": "Interesting! Do you like it?" },
+      { "speaker": "David", "native": "Oui, beaucoup. Et toi ?", "english": "Yes, a lot. And you?" },
+      { "speaker": "Nora", "native": "J'étudie encore. J'étudie la médecine à l'université.", "english": "I'm still studying. I study medicine at university." },
+      { "speaker": "David", "native": "Respect ! C'est sûrement difficile.", "english": "Respect! That's surely hard." },
+      { "speaker": "Nora", "native": "Oui, mais ça me plaît. Bonne fin de journée !", "english": "Yes, but I enjoy it. Have a good rest of the day!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you ask 'What do you do for work?' (formal)",
+      "correctAnswer": "Que faites-vous dans la vie ?",
+      "explanation": "A common, natural way to ask about someone's job."
+    },
+    {
+      "type": "fill-blank",
+      "question": "Je travaille _____ une banque. (in)",
+      "correctAnswer": "dans",
+      "explanation": "travailler dans is used for a sector or place."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which sentence is correct?",
+      "options": ["Je suis un professeur", "Je suis professeur", "Je suis le professeur", "Je professeur suis"],
+      "correctAnswer": "Je suis professeur",
+      "explanation": "French drops the article before professions."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which verb means 'to learn (a language)'?",
+      "options": ["étudier", "apprendre", "travailler", "enseigner"],
+      "correctAnswer": "apprendre",
+      "explanation": "apprendre is to learn a skill or language."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: réunion / une / j'ai",
+      "correctAnswer": "J'ai une réunion",
+      "explanation": "J'ai (I have) plus 'une réunion'."
+    }
+  ],
+  "status": "complete"
+}

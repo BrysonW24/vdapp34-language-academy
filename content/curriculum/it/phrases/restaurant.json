@@ -1,0 +1,21 @@
+{
+  "slug": "restaurant",
+  "title": "At the Restaurant",
+  "description": "Order food and drinks, ask for the bill, and enjoy a meal out in Italian.",
+  "situation": "Trattorias and cafes: getting a table, ordering, asking questions, and paying.",
+  "order": 3,
+  "phrases": [
+    { "native": "Un tavolo per due, per favore", "english": "A table for two, please", "pronunciation": "oon TAH-voh-loh per DOO-eh", "formality": "neutral" },
+    { "native": "Il menù, per favore", "english": "The menu, please", "pronunciation": "eel meh-NOO", "formality": "neutral" },
+    { "native": "Vorrei...", "english": "I would like...", "pronunciation": "vor-RAY", "formality": "formal", "tip": "The polite way to order." },
+    { "native": "Cosa mi consiglia?", "english": "What do you recommend?", "pronunciation": "KOH-zah mee kon-SEE-lyah", "formality": "formal" },
+    { "native": "Un caffè, per favore", "english": "A coffee, please", "pronunciation": "oon kahf-FEH", "formality": "neutral", "tip": "Un caffè means an espresso in Italy." },
+    { "native": "Acqua naturale", "english": "Still water", "pronunciation": "AH-kwah nah-too-RAH-leh", "formality": "neutral", "tip": "Frizzante is sparkling." },
+    { "native": "Sono vegetariano", "english": "I'm a vegetarian", "pronunciation": "SOH-noh veh-jeh-tah-ree-AH-noh", "formality": "neutral", "tip": "Women say 'vegetariana'." },
+    { "native": "È delizioso", "english": "It's delicious", "pronunciation": "eh deh-lee-tsee-OH-zoh", "formality": "neutral" },
+    { "native": "Il conto, per favore", "english": "The bill, please", "pronunciation": "eel KON-toh", "formality": "neutral" },
+    { "native": "Il coperto è incluso?", "english": "Is the cover charge included?", "pronunciation": "eel koh-PER-toh eh een-KLOO-zoh", "formality": "neutral", "tip": "Italian restaurants often add a small coperto charge." },
+    { "native": "Salute!", "english": "Cheers!", "pronunciation": "sah-LOO-teh", "formality": "neutral" },
+    { "native": "Era buonissimo", "english": "It was excellent", "pronunciation": "EH-rah bwoh-NEES-see-moh", "formality": "neutral" }
+  ]
+}

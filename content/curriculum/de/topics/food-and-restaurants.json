@@ -1,0 +1,90 @@
+{
+  "slug": "food-and-restaurants",
+  "title": "Food & Restaurants",
+  "titleDe": "Essen und Restaurants",
+  "shortSummary": "Order meals, talk about food you like, and navigate a German restaurant with confidence.",
+  "level": "elementary",
+  "order": 4,
+  "icon": "🍽️",
+  "color": "#a16a1f",
+  "culturalNote": "Bread (Brot) is a cornerstone of German food culture, with hundreds of regional varieties and a beloved tradition of Abendbrot, a simple evening meal of bread, cheese, and cold cuts. In restaurants you usually seat yourself only when told, tap water is uncommon, and you pay at the table by telling the waiter rather than waiting for the bill to arrive. Tipping around 5 to 10 percent is normal, given directly when you pay.",
+  "keyPhrases": [
+    { "german": "Ich hätte gern...", "english": "I would like...", "pronunciation": "ikh HET-tuh gairn", "context": "The polite way to order" },
+    { "german": "die Speisekarte", "english": "the menu", "pronunciation": "dee SHPY-zuh-kar-tuh", "context": "Ask for it to start" },
+    { "german": "Was empfehlen Sie?", "english": "What do you recommend?", "pronunciation": "vahs emp-FAY-len zee", "context": "Asking the waiter" },
+    { "german": "Ich nehme das Schnitzel", "english": "I'll take the schnitzel", "pronunciation": "ikh NAY-muh dahs SHNIT-tsel", "context": "Choosing a dish" },
+    { "german": "zum Mitnehmen", "english": "to take away", "pronunciation": "tsoom MIT-nay-men", "context": "For takeaway orders" },
+    { "german": "Ich bin satt", "english": "I'm full", "pronunciation": "ikh bin zaht", "context": "Politely declining more" },
+    { "german": "Es hat sehr gut geschmeckt", "english": "It tasted very good", "pronunciation": "es haht zair goot guh-SHMEKT", "context": "Praising the meal" },
+    { "german": "Die Rechnung, bitte", "english": "The bill, please", "pronunciation": "dee REKH-noong BIT-tuh", "context": "Asking to pay" },
+    { "german": "Guten Appetit!", "english": "Enjoy your meal!", "pronunciation": "GOO-ten ah-puh-TEET", "context": "Said before eating" },
+    { "german": "Ich mag keinen Fisch", "english": "I don't like fish", "pronunciation": "ikh mahk KY-nen fish", "context": "Stating a dislike" }
+  ],
+  "grammar": [
+    {
+      "rule": "mogen for likes, möchten for wishes",
+      "explanation": "Use 'mogen' to say what you like in general ('Ich mag Kaffee'), and 'möchten' (would like) to order or request politely ('Ich möchte einen Kaffee').",
+      "examples": [
+        { "de": "Ich mag Schokolade.", "en": "I like chocolate." },
+        { "de": "Ich möchte ein Bier, bitte.", "en": "I would like a beer, please." }
+      ],
+      "commonMistake": "Using 'Ich mag ein Bier' to order. Use 'Ich möchte' to request something now."
+    },
+    {
+      "rule": "Accusative after ordering verbs",
+      "explanation": "Verbs like nehmen (to take) and möchten put the food in the accusative, so masculine articles change: 'Ich nehme einen Salat' (einen, not ein).",
+      "examples": [
+        { "de": "Ich nehme einen Kaffee.", "en": "I'll take a coffee. (masculine accusative)" },
+        { "de": "Ich möchte eine Suppe.", "en": "I would like a soup. (feminine, no change)" }
+      ],
+      "commonMistake": "Leaving masculine nouns unchanged: it is 'einen Salat', not 'ein Salat', as the object."
+    }
+  ],
+  "dialogue": {
+    "setup": "Markus and a waiter at a Berlin restaurant during the lunch rush.",
+    "lines": [
+      { "speaker": "Kellner", "german": "Guten Tag! Haben Sie schon gewählt?", "english": "Hello! Have you chosen already?" },
+      { "speaker": "Markus", "german": "Ja. Was empfehlen Sie heute?", "english": "Yes. What do you recommend today?" },
+      { "speaker": "Kellner", "german": "Das Schnitzel mit Kartoffelsalat ist sehr beliebt.", "english": "The schnitzel with potato salad is very popular." },
+      { "speaker": "Markus", "german": "Gut, ich nehme das Schnitzel. Und ein Wasser, bitte.", "english": "Good, I'll take the schnitzel. And a water, please." },
+      { "speaker": "Kellner", "german": "Gerne. Möchten Sie auch einen Nachtisch?", "english": "Gladly. Would you also like a dessert?" },
+      { "speaker": "Markus", "german": "Nein danke, ich bin satt. Die Rechnung, bitte.", "english": "No thanks, I'm full. The bill, please." },
+      { "speaker": "Kellner", "german": "Natürlich. Das macht vierzehn Euro fünfzig.", "english": "Of course. That's fourteen euros fifty." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you politely say 'I would like a coffee'?",
+      "correctAnswer": "Ich möchte einen Kaffee",
+      "explanation": "möchten is the polite request form; Kaffee is masculine, so 'einen'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What do you say before eating?",
+      "options": ["Zum Wohl", "Guten Appetit", "Die Rechnung", "Auf Wiedersehen"],
+      "correctAnswer": "Guten Appetit",
+      "explanation": "Guten Appetit is the standard 'enjoy your meal'."
+    },
+    {
+      "type": "fill-blank",
+      "question": "Die _____, bitte. (asking to pay)",
+      "correctAnswer": "Rechnung",
+      "explanation": "Die Rechnung, bitte means 'the bill, please'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which means 'to take away'?",
+      "options": ["zum Mitnehmen", "zum Wohl", "zum Beispiel", "zum Gluck"],
+      "correctAnswer": "zum Mitnehmen",
+      "explanation": "zum Mitnehmen is the phrase for takeaway."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: nehme / das / ich / Schnitzel",
+      "correctAnswer": "Ich nehme das Schnitzel",
+      "explanation": "Subject ich, verb nehme second, then the object."
+    }
+  ],
+  "status": "complete"
+}

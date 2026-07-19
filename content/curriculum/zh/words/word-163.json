@@ -1,12 +1,13 @@
 {
   "rank": 163,
-  "chinese": "朋友",
-  "characters": "朋友",
-  "pinyin": "péngyou",
-  "english": "friend",
-  "partOfSpeech": "noun",
-  "exampleZh": "他是我最好的朋友。",
-  "exampleEn": "He is my best friend.",
+  "chinese": "结合",
+  "characters": "结合",
+  "pinyin": "jié hé",
+  "english": "to combine",
+  "pronunciation": "jie-he",
+  "partOfSpeech": "verb",
+  "exampleZh": "我想结合。",
+  "exampleEn": "I want to combine.",
   "group": "everyday-250",
-  "topic": "people"
+  "topic": "actions"
 }

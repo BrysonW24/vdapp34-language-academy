@@ -1,0 +1,32 @@
+{
+  "slug": "future-and-plans",
+  "name": "Talking About the Future",
+  "nameNative": "O futuro e os planos",
+  "summary": "Brazilians usually express the future with ir plus an infinitive, the easy way.",
+  "level": "pre-intermediate",
+  "order": 12,
+  "explanation": "By far the most common way to talk about the future in Brazilian Portuguese is the verb ir (to go) plus an infinitive, exactly like the English 'going to'. Conjugate ir and add the main verb: vou viajar (I'm going to travel), ela vai estudar (she's going to study).\n\nThe forms of ir are: vou, vai, vamos, vão. So vou comer (I'm going to eat), vamos sair (we're going to go out).\n\nThere is also a formal one-word future (falarei, I will speak), but in everyday speech the ir + infinitive form is preferred and far easier.",
+  "pattern": "ir (vou/vai/vamos/vão) + infinitive",
+  "conjugation": {
+    "eu": "vou falar",
+    "você/ele/ela": "vai falar",
+    "nós": "vamos falar",
+    "vocês/eles/elas": "vão falar"
+  },
+  "examples": [
+    { "native": "Vou viajar amanhã.", "en": "I'm going to travel tomorrow." },
+    { "native": "Você vai estudar hoje?", "en": "Are you going to study today?" },
+    { "native": "Ela vai chegar tarde.", "en": "She's going to arrive late." },
+    { "native": "Vamos sair à noite.", "en": "We're going to go out tonight." },
+    { "native": "Eles vão comprar a casa.", "en": "They're going to buy the house." },
+    { "native": "Te ligo mais tarde.", "en": "I'll call you later. (present for near future)" }
+  ],
+  "commonMistakes": [
+    "Reaching for the one-word future (falarei) in casual speech, where ir + infinitive is normal.",
+    "Conjugating the main verb instead of leaving it as an infinitive: vou comer, not vou como.",
+    "Forgetting that vamos also means 'let's': vamos sair can be 'we're going to go out' or 'let's go out'.",
+    "Adding an extra 'to' word; ir already carries the 'going to' meaning.",
+    "Using the wrong ir form; vão is for vocês/eles, not for nós."
+  ],
+  "tip": "If you only learn one future pattern, learn ir + infinitive. It covers almost everything Brazilians actually say."
+}

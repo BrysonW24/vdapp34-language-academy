@@ -1,11 +1,11 @@
 {
   "rank": 657,
-  "german": "faul",
-  "english": "lazy",
-  "pronunciation": "FOWL",
-  "partOfSpeech": "adjective",
-  "exampleDe": "Er ist zu faul zum Aufräumen.",
-  "exampleEn": "He is too lazy to tidy up.",
+  "german": "sechs",
+  "english": "six",
+  "pronunciation": "z ɛ ç s",
+  "partOfSpeech": "number",
+  "exampleDe": "Ich habe sechs Bücher.",
+  "exampleEn": "I have six books.",
   "group": "confident-350",
-  "topic": "descriptions"
+  "topic": "numbers"
 }

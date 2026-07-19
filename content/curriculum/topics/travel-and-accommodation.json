@@ -1,0 +1,103 @@
+{
+  "slug": "travel-and-accommodation",
+  "title": "Travel & Accommodation",
+  "titleEs": "Viajes y Alojamiento",
+  "shortSummary": "Book hotels, check in at airports, and handle travel logistics. Navigate the complete travel experience in Spanish.",
+  "level": "pre-intermediate",
+  "order": 14,
+  "icon": "✈️",
+  "color": "#0891b2",
+  "culturalNote": "Hotels in Spain use a star rating system (1-5 stars), and 'hostales' are budget-friendly guesthouses — not to be confused with 'hostels'. In Latin America, 'posadas' and 'hospedajes' are common budget options. Check-out times vary but are typically noon. Many accommodations include breakfast ('desayuno incluido'). Air conditioning ('aire acondicionado') is worth confirming in summer, as not all places have it.",
+  "keyPhrases": [
+    { "spanish": "Tengo una reserva a nombre de...", "english": "I have a reservation under the name...", "pronunciation": "TEHN-goh OO-nah rreh-SEHR-bah ah NOHM-breh deh", "context": "Checking in at a hotel" },
+    { "spanish": "Quiero una habitación doble", "english": "I'd like a double room", "pronunciation": "kee-EH-roh OO-nah ah-bee-tah-see-OHN DOH-bleh", "context": "Requesting a room type" },
+    { "spanish": "¿Tiene habitaciones disponibles?", "english": "Do you have rooms available?", "pronunciation": "tee-EH-neh ah-bee-tah-see-OH-nehs dees-poh-NEE-blehs", "context": "Walking in without a reservation" },
+    { "spanish": "¿El desayuno está incluido?", "english": "Is breakfast included?", "pronunciation": "ehl deh-sah-YOO-noh ehs-TAH een-kloo-EE-doh", "context": "Checking what's covered" },
+    { "spanish": "¿A qué hora es el check-out?", "english": "What time is check-out?", "pronunciation": "ah keh OH-rah ehs ehl check-out", "context": "'Check-out' is widely used as a loanword" },
+    { "spanish": "¿Dónde puedo dejar las maletas?", "english": "Where can I leave my luggage?", "pronunciation": "DOHN-deh PWEH-doh deh-HAHR lahs mah-LEH-tahs", "context": "Luggage storage after check-out" },
+    { "spanish": "Mi vuelo sale a las tres", "english": "My flight leaves at three", "pronunciation": "mee BWEH-loh SAH-leh ah lahs trehs", "context": "Discussing flight schedules" },
+    { "spanish": "Necesito cambiar mi reserva", "english": "I need to change my reservation", "pronunciation": "neh-seh-SEE-toh kahm-bee-AHR mee rreh-SEHR-bah", "context": "Modifying travel plans" },
+    { "spanish": "¿El hotel tiene piscina?", "english": "Does the hotel have a pool?", "pronunciation": "ehl oh-TEHL tee-EH-neh pee-SEE-nah", "context": "Asking about amenities" },
+    { "spanish": "¿Puede llamar un taxi, por favor?", "english": "Can you call a taxi, please?", "pronunciation": "PWEH-deh yah-MAHR oon TAHK-see pohr fah-BOHR", "context": "Asking the front desk for help" }
+  ],
+  "grammar": [
+    {
+      "rule": "Poder + infinitive (can / to be able to)",
+      "explanation": "'Poder' is a stem-changing verb (o→ue): puedo, puedes, puede, podemos, podéis, pueden. Use poder + infinitive to express ability or permission: '¿Puedo ver la habitación?' (Can I see the room?).",
+      "examples": [
+        { "es": "¿Puedo pagar con tarjeta?", "en": "Can I pay by card?" },
+        { "es": "No puedo encontrar mi pasaporte", "en": "I can't find my passport" },
+        { "es": "¿Podemos hacer el check-in ahora?", "en": "Can we check in now?" }
+      ],
+      "commonMistake": "Forgetting the stem change: 'yo podo' should be 'yo puedo'."
+    },
+    {
+      "rule": "Querer vs Poder vs Necesitar",
+      "explanation": "Three key verbs for requests: querer (to want — desire), poder (can — ability/permission), necesitar (to need — necessity). Use them + infinitive. 'Quiero' is direct, 'querría' (conditional) is more polite.",
+      "examples": [
+        { "es": "Quiero reservar una habitación", "en": "I want to book a room" },
+        { "es": "¿Puedo ver el menú?", "en": "Can I see the menu?" },
+        { "es": "Necesito una toalla extra", "en": "I need an extra towel" }
+      ],
+      "commonMistake": "Using 'quiero' in formal situations where 'querría' (I would like) or '¿podría...?' (could I...?) would be more polite."
+    },
+    {
+      "rule": "Past participle as adjective: incluido, reservado, cerrado",
+      "explanation": "Past participles can work as adjectives and must agree in gender and number with the noun: incluido/incluida/incluidos/incluidas. Common ones: reservado (reserved), cerrado (closed), abierto (open), ocupado (occupied).",
+      "examples": [
+        { "es": "La habitación está reservada", "en": "The room is reserved (feminine)" },
+        { "es": "El desayuno está incluido", "en": "Breakfast is included (masculine)" },
+        { "es": "Las puertas están cerradas", "en": "The doors are closed (feminine plural)" }
+      ],
+      "commonMistake": "Not matching gender: 'la puerta está cerrado' should be 'la puerta está cerrada'."
+    }
+  ],
+  "dialogue": {
+    "setup": "A couple checks into a hotel on the coast of Spain.",
+    "lines": [
+      { "speaker": "Recepcionista", "spanish": "Buenas tardes. ¿Tienen reserva?", "english": "Good afternoon. Do you have a reservation?" },
+      { "speaker": "Huésped", "spanish": "Sí, tengo una reserva a nombre de Walker.", "english": "Yes, I have a reservation under Walker." },
+      { "speaker": "Recepcionista", "spanish": "Perfecto. Una habitación doble con vistas al mar, tres noches.", "english": "Perfect. A double room with sea views, three nights." },
+      { "speaker": "Huésped", "spanish": "¿El desayuno está incluido?", "english": "Is breakfast included?" },
+      { "speaker": "Recepcionista", "spanish": "Sí, el desayuno es de siete a diez en el restaurante.", "english": "Yes, breakfast is from seven to ten in the restaurant." },
+      { "speaker": "Huésped", "spanish": "¿El hotel tiene piscina?", "english": "Does the hotel have a pool?" },
+      { "speaker": "Recepcionista", "spanish": "Sí, la piscina está en la azotea. Abre a las nueve.", "english": "Yes, the pool is on the rooftop. It opens at nine." },
+      { "speaker": "Huésped", "spanish": "Perfecto. ¿A qué hora es el check-out?", "english": "Perfect. What time is check-out?" },
+      { "speaker": "Recepcionista", "spanish": "A las doce. Aquí tiene su llave, habitación trescientos dos.", "english": "At twelve. Here's your key, room 302." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'I have a reservation under the name Smith'?",
+      "correctAnswer": "Tengo una reserva a nombre de Smith",
+      "explanation": "'A nombre de' = under the name of — standard hotel check-in phrase."
+    },
+    {
+      "type": "fill-blank",
+      "question": "¿_____ ver la habitación? (Can I see the room?)",
+      "correctAnswer": "Puedo",
+      "explanation": "'Poder' stem changes o→ue: puedo, puedes, puede..."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "The breakfast is included. How do you say it?",
+      "options": ["El desayuno está incluida", "El desayuno está incluido", "El desayuno es incluido", "El desayuno tiene incluido"],
+      "correctAnswer": "El desayuno está incluido",
+      "explanation": "'Desayuno' is masculine, so 'incluido' (not 'incluida'). Use 'estar' for states."
+    },
+    {
+      "type": "translate",
+      "question": "How do you say 'I need to change my reservation'?",
+      "correctAnswer": "Necesito cambiar mi reserva",
+      "explanation": "Necesitar + infinitive: necesito cambiar = I need to change."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: habitaciones / disponibles / tiene",
+      "correctAnswer": "¿Tiene habitaciones disponibles?",
+      "explanation": "Verb + noun + adjective: '¿Tiene habitaciones disponibles?'"
+    }
+  ],
+  "status": "complete"
+}

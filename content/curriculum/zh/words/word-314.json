@@ -1,13 +1,13 @@
 {
   "rank": 314,
-  "chinese": "爷爷",
-  "characters": "爷爷",
-  "pinyin": "yéye",
-  "english": "grandfather (paternal)",
-  "pronunciation": "yeh-yeh (2nd tone, neutral)",
-  "partOfSpeech": "noun",
-  "exampleZh": "爷爷喜欢下棋。",
-  "exampleEn": "Grandpa likes playing chess.",
+  "chinese": "每天",
+  "characters": "每天",
+  "pinyin": "měi tiān",
+  "english": "every day",
+  "pronunciation": "mei-tian",
+  "partOfSpeech": "pronoun",
+  "exampleZh": "每天都在这里。",
+  "exampleEn": "Every day are here.",
   "group": "everyday-250",
-  "topic": "family"
+  "topic": "time"
 }

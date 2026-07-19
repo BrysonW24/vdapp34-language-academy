@@ -1,0 +1,34 @@
+{
+  "slug": "pronouns-and-politeness",
+  "name": "Pronouns & Politeness (आप / तुम / तू)",
+  "nameNative": "सर्वनाम और आदर (sarvanaam aur aadar)",
+  "summary": "Hindi has three levels of 'you' - आप, तुम, and तू - and choosing the right one is a social skill.",
+  "level": "beginner",
+  "order": 3,
+  "explanation": "English has one word for 'you', but Hindi has three, each carrying a different level of respect and closeness. आप (aap) is the polite and respectful form, used with strangers, elders, teachers, and in any formal setting. तुम (tum) is the familiar form, used with friends, younger people, and family of similar age. तू (tu) is the intimate form, used with very close friends, small children, or in poetry and prayer; with the wrong person it can sound rude, so learners should avoid it.\n\nEach level takes its own verb form. आप pairs with the plural verb (आप हैं, aap hain), तुम takes its own form (तुम हो, tum ho), and तू takes the singular (तू है, tu hai). The same respect logic extends to other people: even a single respected person is often referred to with plural verbs, which is why यह हैं (yeh hain) can mean 'this person is' for someone you respect.\n\nThe safe default for a learner is always आप. You will never offend anyone by being too polite, but you can easily offend by being too familiar. As relationships warm up, an Indian friend may invite you to switch to तुम; let them lead that shift.",
+  "pattern": "aap (polite) > tum (familiar) > tu (intimate); each takes its own verb form",
+  "conjugation": {
+    "आप (aap, polite you)": "आप कैसे हैं? (aap kaise hain?)",
+    "तुम (tum, familiar you)": "तुम कैसे हो? (tum kaise ho?)",
+    "तू (tu, intimate you)": "तू कैसा है? (tu kaisa hai?)",
+    "मैं (main, I)": "मैं ठीक हूँ (main theek hoon)",
+    "हम (ham, we)": "हम ठीक हैं (ham theek hain)",
+    "वे / यह (ve / yeh, they / respected one)": "वे आते हैं (ve aate hain)"
+  },
+  "examples": [
+    { "native": "आप कहाँ रहते हैं? (aap kahaan rahte hain?)", "en": "Where do you live? (polite)" },
+    { "native": "तुम कहाँ रहते हो? (tum kahaan rahte ho?)", "en": "Where do you live? (familiar)" },
+    { "native": "आपका नाम क्या है? (aapka naam kya hai?)", "en": "What is your name? (polite)" },
+    { "native": "तुम्हारा नाम क्या है? (tumhaara naam kya hai?)", "en": "What is your name? (familiar)" },
+    { "native": "यह मेरे गुरु हैं। (yeh mere guru hain.)", "en": "This is my teacher. (respectful plural)" },
+    { "native": "मैं आपसे सहमत हूँ। (main aapse sahmat hoon.)", "en": "I agree with you. (polite)" }
+  ],
+  "commonMistakes": [
+    "Using तू (tu) with a stranger or elder, which sounds disrespectful.",
+    "Pairing आप with the singular verb है (hai) instead of the plural हैं (hain).",
+    "Using तुम verb forms with आप, for example आप हो instead of आप हैं.",
+    "Switching to तुम before the relationship invites it; let the Hindi speaker lead.",
+    "Assuming the plural हैं always means 'they'; it also shows respect for one person."
+  ],
+  "tip": "When in doubt, use आप. Over-politeness is never a mistake in Hindi; over-familiarity is."
+}

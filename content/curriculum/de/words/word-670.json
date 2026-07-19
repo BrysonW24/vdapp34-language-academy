@@ -1,11 +1,11 @@
 {
   "rank": 670,
-  "german": "zufrieden",
-  "english": "satisfied, content",
-  "pronunciation": "tsoo-FREE-den",
+  "german": "video",
+  "english": "video",
+  "pronunciation": "v i d e o",
   "partOfSpeech": "adjective",
-  "exampleDe": "Ich bin mit dem Ergebnis zufrieden.",
-  "exampleEn": "I am satisfied with the result.",
+  "exampleDe": "Dieser Ort ist sehr Video.",
+  "exampleEn": "This place is very video.",
   "group": "confident-350",
-  "topic": "emotions"
+  "topic": "descriptions"
 }

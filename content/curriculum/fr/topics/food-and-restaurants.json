@@ -1,0 +1,90 @@
+{
+  "slug": "food-and-restaurants",
+  "title": "Food & Restaurants",
+  "titleNative": "La nourriture et les restaurants",
+  "shortSummary": "Order meals, talk about food you like, and navigate a French restaurant with confidence.",
+  "level": "elementary",
+  "order": 4,
+  "icon": "🍽️",
+  "color": "#a16a1f",
+  "culturalNote": "Meals are a cherished ritual in France, often unhurried and shared. Bread comes with almost everything and is placed directly on the table. Tap water (une carafe d'eau) is free and normal to request. Service is included in the bill (service compris), so tipping is modest, just rounding up or leaving a little change. Lunch is typically the bigger meal, and saying Bon appétit before eating is customary.",
+  "keyPhrases": [
+    { "native": "Je voudrais...", "english": "I would like...", "pronunciation": "zhuh voo-DREH", "context": "The polite way to order" },
+    { "native": "la carte", "english": "the menu", "pronunciation": "lah KART", "context": "Ask for it to start" },
+    { "native": "Qu'est-ce que vous recommandez ?", "english": "What do you recommend?", "pronunciation": "kes-kuh voo ruh-koh-mon-DAY", "context": "Asking the waiter" },
+    { "native": "Je prends le plat du jour", "english": "I'll have the dish of the day", "pronunciation": "zhuh pron luh plah dew ZHOOR", "context": "A common choice" },
+    { "native": "une carafe d'eau", "english": "a jug of tap water", "pronunciation": "ewn kah-RAFF doh", "context": "Free water" },
+    { "native": "Je suis végétarien", "english": "I'm a vegetarian", "pronunciation": "zhuh swee vay-zhay-tah-ree-AN", "context": "Women say 'végétarienne'" },
+    { "native": "C'est délicieux", "english": "It's delicious", "pronunciation": "say day-lee-see-UH", "context": "Praising the meal" },
+    { "native": "L'addition, s'il vous plaît", "english": "The bill, please", "pronunciation": "lah-dee-see-ON", "context": "Asking to pay" },
+    { "native": "Bon appétit !", "english": "Enjoy your meal!", "pronunciation": "bon ah-pay-TEE", "context": "Said before eating" },
+    { "native": "Je n'aime pas le poisson", "english": "I don't like fish", "pronunciation": "zhuh nem pah luh pwah-SON", "context": "Stating a dislike" }
+  ],
+  "grammar": [
+    {
+      "rule": "Je voudrais for polite ordering",
+      "explanation": "Je voudrais (I would like) is the conditional of vouloir and the standard polite way to order, softer than je veux (I want).",
+      "examples": [
+        { "native": "Je voudrais un café.", "en": "I would like a coffee." },
+        { "native": "Je voudrais réserver une table.", "en": "I would like to book a table." }
+      ],
+      "commonMistake": "Using je veux to order, which can sound blunt. Je voudrais is more polite."
+    },
+    {
+      "rule": "Liking with le/la/les",
+      "explanation": "To say what you like in general, use aimer plus the definite article: J'aime le café (I like coffee, all coffee). The article is required even though English drops it.",
+      "examples": [
+        { "native": "J'aime les légumes.", "en": "I like vegetables." },
+        { "native": "Je n'aime pas le fromage.", "en": "I don't like cheese." }
+      ],
+      "commonMistake": "Dropping the article: it is J'aime le café, not J'aime café."
+    }
+  ],
+  "dialogue": {
+    "setup": "Marc and a waiter at a Paris bistro during lunch.",
+    "lines": [
+      { "speaker": "Serveur", "native": "Bonjour ! Vous avez choisi ?", "english": "Hello! Have you chosen?" },
+      { "speaker": "Marc", "native": "Oui. Qu'est-ce que vous recommandez ?", "english": "Yes. What do you recommend?" },
+      { "speaker": "Serveur", "native": "Le plat du jour est très bon aujourd'hui.", "english": "The dish of the day is very good today." },
+      { "speaker": "Marc", "native": "Parfait, je le prends. Et une carafe d'eau.", "english": "Perfect, I'll have it. And a jug of water." },
+      { "speaker": "Serveur", "native": "Très bien. Un dessert ?", "english": "Very good. A dessert?" },
+      { "speaker": "Marc", "native": "Non merci. L'addition, s'il vous plaît.", "english": "No thanks. The bill, please." },
+      { "speaker": "Serveur", "native": "Bien sûr. Ça fait dix-huit euros.", "english": "Of course. That's eighteen euros." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you politely say 'I would like a coffee'?",
+      "correctAnswer": "Je voudrais un café",
+      "explanation": "Je voudrais is the polite ordering form."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What do you say before eating?",
+      "options": ["Santé", "Bon appétit", "L'addition", "Au revoir"],
+      "correctAnswer": "Bon appétit",
+      "explanation": "Bon appétit is the standard 'enjoy your meal'."
+    },
+    {
+      "type": "fill-blank",
+      "question": "L'_____, s'il vous plaît. (asking to pay)",
+      "correctAnswer": "addition",
+      "explanation": "L'addition, s'il vous plaît means 'the bill, please'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which is correct?",
+      "options": ["J'aime café", "J'aime le café", "J'aime un café", "J'aime de café"],
+      "correctAnswer": "J'aime le café",
+      "explanation": "Liking something in general needs the definite article."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: jour / le / prends / du / je / plat",
+      "correctAnswer": "Je prends le plat du jour",
+      "explanation": "Subject je, verb prends, then the object 'le plat du jour'."
+    }
+  ],
+  "status": "complete"
+}

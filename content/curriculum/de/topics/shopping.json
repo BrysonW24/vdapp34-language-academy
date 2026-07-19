@@ -1,0 +1,90 @@
+{
+  "slug": "shopping",
+  "title": "Shopping",
+  "titleDe": "Einkaufen",
+  "shortSummary": "Buy clothes, groceries, and gifts: ask for sizes, prices, and pay like a local.",
+  "level": "elementary",
+  "order": 5,
+  "icon": "🛍️",
+  "color": "#a0453f",
+  "culturalNote": "Cash is still king in much of Germany, so always ask 'Nehmen Sie Karte?' before assuming you can pay by card. Shops close early by international standards and almost everything is shut on Sundays (Ladenschluss), so locals plan their groceries for Saturday. At the supermarket you bag your own shopping quickly and bring your own bags, and you pay a small deposit (Pfand) on bottles that you get back when you return them.",
+  "keyPhrases": [
+    { "german": "Ich suche...", "english": "I'm looking for...", "pronunciation": "ikh ZOO-khuh", "context": "Starting a request" },
+    { "german": "Was kostet das?", "english": "How much is this?", "pronunciation": "vahs KOS-tet dahs", "context": "Asking a price" },
+    { "german": "Haben Sie das in Größe M?", "english": "Do you have this in size M?", "pronunciation": "HAH-ben zee dahs in GRUR-suh em", "context": "Asking for a size" },
+    { "german": "Kann ich das anprobieren?", "english": "Can I try this on?", "pronunciation": "kahn ikh dahs AHN-proh-bee-ren", "context": "Trying clothes" },
+    { "german": "Das ist zu teuer", "english": "That's too expensive", "pronunciation": "dahs ist tsoo TOY-er", "context": "Reacting to a price" },
+    { "german": "Nehmen Sie Karte?", "english": "Do you take card?", "pronunciation": "NAY-men zee KAR-tuh", "context": "Always ask before paying" },
+    { "german": "Ich zahle bar", "english": "I'll pay cash", "pronunciation": "ikh TSAH-luh bar", "context": "Paying with cash" },
+    { "german": "Ich schaue nur", "english": "I'm just looking", "pronunciation": "ikh SHOW-uh noor", "context": "When staff offer help" },
+    { "german": "Wo ist die Kasse?", "english": "Where is the checkout?", "pronunciation": "voh ist dee KAH-suh", "context": "Finding the till" },
+    { "german": "Ich nehme es", "english": "I'll take it", "pronunciation": "ikh NAY-muh es", "context": "Deciding to buy" }
+  ],
+  "grammar": [
+    {
+      "rule": "dieser, dieses, diese (this)",
+      "explanation": "To point at a specific item, German uses dieser (m), diese (f), dieses (n). They take the same endings as der/die/das, so they change for gender and case.",
+      "examples": [
+        { "de": "Ich nehme diese Jacke.", "en": "I'll take this jacket. (feminine)" },
+        { "de": "Was kostet dieser Pullover?", "en": "How much is this jumper? (masculine)" }
+      ],
+      "commonMistake": "Using one fixed form: it changes like the article, so 'dieses Hemd' (neuter) but 'diese Hose' (feminine)."
+    },
+    {
+      "rule": "Comparatives for shopping",
+      "explanation": "Add -er to compare: billig (cheap) becomes billiger (cheaper), groß becomes größer. Use 'als' for 'than': 'Das ist billiger als das.'",
+      "examples": [
+        { "de": "Haben Sie etwas Billigeres?", "en": "Do you have something cheaper?" },
+        { "de": "Diese ist größer als jene.", "en": "This one is bigger than that one." }
+      ],
+      "commonMistake": "Using 'wie' for 'than'. Comparisons of inequality use 'als', not 'wie'."
+    }
+  ],
+  "dialogue": {
+    "setup": "Anna is buying a jacket in a clothing shop and talks to the sales assistant.",
+    "lines": [
+      { "speaker": "Verkäuferin", "german": "Guten Tag, kann ich Ihnen helfen?", "english": "Hello, can I help you?" },
+      { "speaker": "Anna", "german": "Ja, ich suche eine Jacke in Größe M.", "english": "Yes, I'm looking for a jacket in size M." },
+      { "speaker": "Verkäuferin", "german": "Diese hier ist sehr beliebt. Möchten Sie sie anprobieren?", "english": "This one is very popular. Would you like to try it on?" },
+      { "speaker": "Anna", "german": "Gerne. Was kostet sie?", "english": "Gladly. How much is it?" },
+      { "speaker": "Verkäuferin", "german": "Neunundachtzig Euro.", "english": "Eighty-nine euros." },
+      { "speaker": "Anna", "german": "Gut, ich nehme sie. Nehmen Sie Karte?", "english": "Good, I'll take it. Do you take card?" },
+      { "speaker": "Verkäuferin", "german": "Ja, natürlich. Die Kasse ist dort drüben.", "english": "Yes, of course. The checkout is over there." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you ask 'Do you take card?'",
+      "correctAnswer": "Nehmen Sie Karte?",
+      "explanation": "A vital question in cash-loving Germany."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "How do you say you are just browsing?",
+      "options": ["Ich nehme es", "Ich schaue nur", "Ich zahle bar", "Ich suche das"],
+      "correctAnswer": "Ich schaue nur",
+      "explanation": "Ich schaue nur means 'I'm just looking'."
+    },
+    {
+      "type": "fill-blank",
+      "question": "Das ist zu _____. (too expensive)",
+      "correctAnswer": "teuer",
+      "explanation": "teuer means expensive; zu teuer is 'too expensive'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which means 'cheaper'?",
+      "options": ["billig", "billiger", "teuer", "teurer"],
+      "correctAnswer": "billiger",
+      "explanation": "billig plus -er gives billiger (cheaper)."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: kostet / das / was",
+      "correctAnswer": "Was kostet das",
+      "explanation": "Question word was, then verb kostet, then das."
+    }
+  ],
+  "status": "complete"
+}

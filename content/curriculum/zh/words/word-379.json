@@ -1,13 +1,13 @@
 {
   "rank": 379,
-  "chinese": "希望",
-  "characters": "希望",
-  "pinyin": "xīwàng",
-  "english": "to hope; hope",
-  "pronunciation": "shee-wahng (1st tone, 4th tone)",
-  "partOfSpeech": "verb",
-  "exampleZh": "我希望你能来。",
-  "exampleEn": "I hope you can come.",
+  "chinese": "小说",
+  "characters": "小说",
+  "pinyin": "xiǎo shuō",
+  "english": "novel",
+  "pronunciation": "xiao-shuo",
+  "partOfSpeech": "noun",
+  "exampleZh": "这本小说很重要。",
+  "exampleEn": "This novel is important.",
   "group": "everyday-250",
-  "topic": "emotions"
+  "topic": "basics"
 }

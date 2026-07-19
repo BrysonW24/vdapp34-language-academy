@@ -1,0 +1,26 @@
+{
+  "slug": "time-and-place",
+  "name": "Time & Place Word Order",
+  "nameZh": "时间和地点",
+  "summary": "In Chinese, time and place come before the verb, in the order time then place.",
+  "level": "elementary",
+  "order": 8,
+  "explanation": "Where English puts time and place at the end ('I eat at home at noon'), Chinese puts them before the verb, and time comes before place: 我中午在家吃饭 (wǒ zhōngwǔ zài jiā chī fàn) = I eat at home at noon.\n\nLocation uses 在 (zài, at/in) plus a place, sitting before the verb: 我在图书馆看书 (I read in the library). Time words like 今天 (today), 明天 (tomorrow), and clock times also go early, right after or before the subject.\n\nThe order to remember is: Subject + Time + 在 Place + Verb. This front-loading is one of the defining features of Chinese word order.",
+  "pattern": "Subject + Time + 在 + Place + Verb + Object",
+  "examples": [
+    { "zh": "我明天去北京。", "en": "I'm going to Beijing tomorrow." },
+    { "zh": "他在公司工作。", "en": "He works at the company." },
+    { "zh": "我们晚上在饭店吃饭。", "en": "We eat at the restaurant in the evening." },
+    { "zh": "你几点起床？", "en": "What time do you get up? (time before verb)" },
+    { "zh": "她现在在睡觉。", "en": "She is sleeping now." },
+    { "zh": "我每天在家学习中文。", "en": "I study Chinese at home every day." }
+  ],
+  "commonMistakes": [
+    "Putting time after the verb like English: it is 我明天去, not 我去明天.",
+    "Putting place after the verb: it is 在家吃饭, not 吃饭在家.",
+    "Reversing time and place. Time comes first, then place.",
+    "Dropping 在 before a location with a normal verb: it is 在家, not just 家.",
+    "Splitting a clock time from the rest of the time phrase. Keep the whole time expression before the verb."
+  ],
+  "tip": "Chant the frame: who, when, where, does what. Time and place always land before the verb, never after."
+}

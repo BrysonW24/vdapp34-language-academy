@@ -1,0 +1,34 @@
+{
+  "slug": "to-be-hona",
+  "name": "The Verb 'To Be' (होना)",
+  "nameNative": "होना (hona)",
+  "summary": "Learn हूँ / है / हैं, the present forms of 'to be', the backbone of almost every Hindi sentence.",
+  "level": "beginner",
+  "order": 2,
+  "explanation": "होना (hona) means 'to be', and its present-tense forms are the first verb every learner needs. The form changes with the subject: मैं हूँ (main hoon, I am), तू है (tu hai, you are - intimate), यह/वह है (yeh/voh hai, he/she/it is), हम हैं (ham hain, we are), तुम हो (tum ho, you are - familiar), and आप हैं (aap hain, you are - polite).\n\nIn a basic sentence the verb comes at the end, after the subject and whatever you are describing. So 'I am a teacher' is मैं शिक्षक हूँ (main shikshak hoon), literally 'I teacher am'. Hindi has no separate word for 'a' or 'an', so you do not translate the English article.\n\nThe polite आप (aap) register always takes the plural form हैं (hain), even for one person, which is how Hindi shows respect. As a learner you should default to आप and हैं with strangers, elders, and anyone you want to address respectfully.",
+  "pattern": "subject + (description) + hoon / hai / hain / ho",
+  "conjugation": {
+    "मैं (main, I)": "हूँ (hoon)",
+    "तू (tu, you intimate)": "है (hai)",
+    "यह / वह (yeh / voh, he/she/it)": "है (hai)",
+    "हम (ham, we)": "हैं (hain)",
+    "तुम (tum, you familiar)": "हो (ho)",
+    "आप (aap, you polite)": "हैं (hain)"
+  },
+  "examples": [
+    { "native": "मैं भारतीय हूँ। (main bhaartiya hoon.)", "en": "I am Indian." },
+    { "native": "यह मेरा घर है। (yeh mera ghar hai.)", "en": "This is my house." },
+    { "native": "हम दोस्त हैं। (ham dost hain.)", "en": "We are friends." },
+    { "native": "तुम कहाँ हो? (tum kahaan ho?)", "en": "Where are you? (familiar)" },
+    { "native": "आप बहुत दयालु हैं। (aap bahut dayaalu hain.)", "en": "You are very kind. (polite)" },
+    { "native": "वह डॉक्टर है। (voh doctor hai.)", "en": "She is a doctor." }
+  ],
+  "commonMistakes": [
+    "Using है (hai) with आप (aap). The polite register needs हैं (hain), even for one person.",
+    "Trying to translate 'a' or 'an'. Hindi has no indefinite article.",
+    "Putting the verb in the middle. होना forms go at the end of the clause.",
+    "Mixing up तुम हो (tum ho) with तू है (tu hai); each pronoun has its own form.",
+    "Saying मैं है (main hai). The form for मैं is always हूँ (hoon)."
+  ],
+  "tip": "Memorise the rhythm hoon - hai - hain for I - he/she - we/you-polite, and you can build a sentence about almost anything."
+}

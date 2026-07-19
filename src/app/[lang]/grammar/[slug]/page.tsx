@@ -1,9 +1,9 @@
-import Link from "next/link"
-import { AlertTriangle, ArrowLeft, Lightbulb } from "lucide-react"
+import { AlertTriangle, Lightbulb } from "lucide-react"
 import { Card, CardContent } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
+import { BackLink } from "@/components/academy/BackLink"
 import { getGrammarRule, getGrammarRules } from "@/lib/academy-content"
-import { getLanguageConfig, langHref, SUPPORTED_LANGUAGES, type SupportedLanguage } from "@/lib/languages"
+import { getLanguageConfig, langHref, languageHasSurface, SUPPORTED_LANGUAGES, type SupportedLanguage } from "@/lib/languages"
 import { notFound } from "next/navigation"
 
 const LEVEL_VARIANT: Record<string, "beginner" | "intermediate" | "advanced"> = {
@@ -12,7 +12,7 @@ const LEVEL_VARIANT: Record<string, "beginner" | "intermediate" | "advanced"> = 
   "pre-intermediate": "advanced",
 }
 
-const CONJUGATION_LABELS: Record<SupportedLanguage, Record<string, string>> = {
+const CONJUGATION_LABELS: Partial<Record<SupportedLanguage, Record<string, string>>> = {
   es: {
     yo: "yo",
     tu: "tu",
@@ -34,9 +34,9 @@ const CONJUGATION_LABELS: Record<SupportedLanguage, Record<string, string>> = {
 }
 
 export function generateStaticParams() {
-  return SUPPORTED_LANGUAGES.flatMap((lang) =>
-    getGrammarRules(lang).map((rule) => ({ lang, slug: rule.slug }))
-  )
+  return SUPPORTED_LANGUAGES
+    .filter((lang) => languageHasSurface(lang, "grammar"))
+    .flatMap((lang) => getGrammarRules(lang).map((rule) => ({ lang, slug: rule.slug })))
 }
 
 export async function generateMetadata({
@@ -65,68 +65,63 @@ export default async function GrammarDetailPage({
   const language = getLanguageConfig(lang)
 
   if (!language) notFound()
+  if (!languageHasSurface(language.code, "grammar")) notFound()
 
   const rule = getGrammarRule(language.code, slug)
   if (!rule) notFound()
 
   return (
-    <div className="container mx-auto px-4 py-8 space-y-10 max-w-4xl">
-      <Link
-        href={langHref(language.code, "grammar")}
-        className="inline-flex items-center gap-1.5 text-sm text-editorial-muted hover:text-editorial-ink transition-colors"
-      >
-        <ArrowLeft className="h-3.5 w-3.5" />
-        All grammar rules
-      </Link>
+    <div className="container mx-auto max-w-2xl space-y-4 px-4 py-5">
+      <BackLink href={langHref(language.code, "grammar")} label="Grammar" />
 
-      <div className="space-y-3">
+      <div className="space-y-1.5">
         <Badge variant={LEVEL_VARIANT[rule.level] ?? "beginner"}>{rule.level}</Badge>
-        <h1 className="text-3xl sm:text-4xl font-serif font-semibold text-editorial-ink">{rule.name}</h1>
+        <h1 className="font-serif text-xl font-semibold text-editorial-ink">{rule.name}</h1>
         {rule.nativeName !== rule.name && (
-          <p className="text-xl text-editorial-muted italic">{rule.nativeName}</p>
+          <p className="text-base italic text-editorial-muted">{rule.nativeName}</p>
         )}
-        <p className="text-editorial-muted text-lg leading-relaxed">{rule.summary}</p>
+        <p className="text-sm leading-relaxed text-editorial-muted">{rule.summary}</p>
       </div>
 
-      <section className="space-y-3">
-        <h2 className="text-2xl font-serif font-semibold text-editorial-ink">Explanation</h2>
+      <section className="space-y-2">
+        <h2 className="text-lg font-serif font-semibold text-editorial-ink">Explanation</h2>
         <Card>
-          <CardContent className="p-6">
-            <p className="text-editorial-muted leading-relaxed whitespace-pre-line">{rule.explanation}</p>
+          <CardContent className="p-4">
+            <p className="text-sm leading-relaxed text-editorial-muted whitespace-pre-line">{rule.explanation}</p>
           </CardContent>
         </Card>
       </section>
 
-      <section className="space-y-3">
-        <h2 className="text-2xl font-serif font-semibold text-editorial-ink">Pattern</h2>
+      <section className="space-y-2">
+        <h2 className="text-lg font-serif font-semibold text-editorial-ink">Pattern</h2>
         <Card className="border-l-4 border-l-editorial-blue">
-          <CardContent className="p-6">
-            <p className="font-mono text-lg text-editorial-ink">{rule.pattern}</p>
+          <CardContent className="p-4">
+            <p className="font-mono text-base text-editorial-ink">{rule.pattern}</p>
           </CardContent>
         </Card>
       </section>
 
       {rule.tones && (
-        <section className="space-y-3">
-          <h2 className="text-2xl font-serif font-semibold text-editorial-ink">Tone Notes</h2>
+        <section className="space-y-2">
+          <h2 className="text-lg font-serif font-semibold text-editorial-ink">Tone Notes</h2>
           <Card>
-            <CardContent className="p-6">
-              <p className="text-editorial-muted leading-relaxed">{rule.tones}</p>
+            <CardContent className="p-4">
+              <p className="text-sm leading-relaxed text-editorial-muted">{rule.tones}</p>
             </CardContent>
           </Card>
         </section>
       )}
 
       {rule.conjugation && (
-        <section className="space-y-3">
-          <h2 className="text-2xl font-serif font-semibold text-editorial-ink">Forms</h2>
+        <section className="space-y-2">
+          <h2 className="text-lg font-serif font-semibold text-editorial-ink">Forms</h2>
           <Card>
             <div className="overflow-x-auto">
               <table className="w-full text-sm">
                 <thead>
                   <tr className="border-b border-[rgba(44,49,59,0.08)]">
-                    <th className="text-left p-4 font-serif font-semibold text-editorial-ink">Pronoun</th>
-                    <th className="text-left p-4 font-serif font-semibold text-editorial-ink">Form</th>
+                    <th className="text-left p-3 font-serif font-semibold text-editorial-ink">Pronoun</th>
+                    <th className="text-left p-3 font-serif font-semibold text-editorial-ink">Form</th>
                   </tr>
                 </thead>
                 <tbody>
@@ -135,10 +130,10 @@ export default async function GrammarDetailPage({
                       key={`${rule.slug}-${key}`}
                       className="border-b border-[rgba(44,49,59,0.04)] last:border-0 hover:bg-white/50 transition-colors"
                     >
-                      <td className="p-4 text-editorial-muted">
-                        {CONJUGATION_LABELS[language.code][key] ?? key}
+                      <td className="p-3 text-editorial-muted">
+                        {CONJUGATION_LABELS[language.code]?.[key] ?? key}
                       </td>
-                      <td className="p-4 font-medium text-editorial-ink">{value}</td>
+                      <td className="p-3 font-medium text-editorial-ink">{value}</td>
                     </tr>
                   ))}
                 </tbody>
@@ -149,15 +144,15 @@ export default async function GrammarDetailPage({
       )}
 
       {rule.cases && (
-        <section className="space-y-3">
-          <h2 className="text-2xl font-serif font-semibold text-editorial-ink">Cases</h2>
+        <section className="space-y-2">
+          <h2 className="text-lg font-serif font-semibold text-editorial-ink">Cases</h2>
           <Card>
             <div className="overflow-x-auto">
               <table className="w-full text-sm">
                 <thead>
                   <tr className="border-b border-[rgba(44,49,59,0.08)]">
-                    <th className="text-left p-4 font-serif font-semibold text-editorial-ink">Case</th>
-                    <th className="text-left p-4 font-serif font-semibold text-editorial-ink">Pattern</th>
+                    <th className="text-left p-3 font-serif font-semibold text-editorial-ink">Case</th>
+                    <th className="text-left p-3 font-serif font-semibold text-editorial-ink">Pattern</th>
                   </tr>
                 </thead>
                 <tbody>
@@ -166,8 +161,8 @@ export default async function GrammarDetailPage({
                       key={`${rule.slug}-case-${key}`}
                       className="border-b border-[rgba(44,49,59,0.04)] last:border-0 hover:bg-white/50 transition-colors"
                     >
-                      <td className="p-4 capitalize text-editorial-muted">{key}</td>
-                      <td className="p-4 font-medium text-editorial-ink">{value}</td>
+                      <td className="p-3 capitalize text-editorial-muted">{key}</td>
+                      <td className="p-3 font-medium text-editorial-ink">{value}</td>
                     </tr>
                   ))}
                 </tbody>
@@ -178,14 +173,14 @@ export default async function GrammarDetailPage({
       )}
 
       {rule.examples.length > 0 && (
-        <section className="space-y-3">
-          <h2 className="text-2xl font-serif font-semibold text-editorial-ink">Examples</h2>
-          <div className="space-y-3">
+        <section className="space-y-2">
+          <h2 className="text-lg font-serif font-semibold text-editorial-ink">Examples</h2>
+          <div className="space-y-2">
             {rule.examples.map((example, index) => (
               <Card key={`${rule.slug}-example-${index}`}>
-                <CardContent className="p-4 flex flex-col sm:flex-row sm:items-center gap-1 sm:gap-6">
-                  <p className="text-editorial-ink font-medium flex-1">{example.native}</p>
-                  <p className="text-editorial-muted flex-1">{example.en}</p>
+                <CardContent className="p-3 flex flex-col sm:flex-row sm:items-center gap-1 sm:gap-6">
+                  <p className="text-sm text-editorial-ink font-medium flex-1">{example.native}</p>
+                  <p className="text-sm text-editorial-muted flex-1">{example.en}</p>
                 </CardContent>
               </Card>
             ))}
@@ -194,12 +189,12 @@ export default async function GrammarDetailPage({
       )}
 
       {rule.commonMistakes.length > 0 && (
-        <section className="space-y-3">
-          <h2 className="text-2xl font-serif font-semibold text-editorial-ink">Common Mistakes</h2>
+        <section className="space-y-2">
+          <h2 className="text-lg font-serif font-semibold text-editorial-ink">Common Mistakes</h2>
           <Card className="border-l-4 border-l-editorial-red">
-            <CardContent className="p-6 space-y-3">
+            <CardContent className="p-4 space-y-2">
               {rule.commonMistakes.map((mistake, index) => (
-                <div key={`${rule.slug}-mistake-${index}`} className="flex items-start gap-3">
+                <div key={`${rule.slug}-mistake-${index}`} className="flex items-start gap-2">
                   <AlertTriangle className="h-4 w-4 text-editorial-red flex-shrink-0 mt-0.5" />
                   <p className="text-sm text-editorial-muted">{mistake}</p>
                 </div>
@@ -211,11 +206,11 @@ export default async function GrammarDetailPage({
 
       {rule.tip && (
         <Card className="border-l-4 border-l-editorial-green">
-          <CardContent className="p-6 flex items-start gap-3">
+          <CardContent className="p-4 flex items-start gap-2">
             <Lightbulb className="h-5 w-5 text-editorial-green flex-shrink-0 mt-0.5" />
             <div>
               <p className="font-serif font-semibold text-editorial-ink mb-1">Tip</p>
-              <p className="text-editorial-muted leading-relaxed">{rule.tip}</p>
+              <p className="text-sm leading-relaxed text-editorial-muted">{rule.tip}</p>
             </div>
           </CardContent>
         </Card>

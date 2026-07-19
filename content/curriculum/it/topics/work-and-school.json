@@ -1,0 +1,90 @@
+{
+  "slug": "work-and-school",
+  "title": "Work & School",
+  "titleNative": "Lavoro e scuola",
+  "shortSummary": "Talk about your job, your studies, and your daily working life in Italian.",
+  "level": "beginner",
+  "order": 9,
+  "icon": "💼",
+  "color": "#34495e",
+  "culturalNote": "When Italians ask che lavoro fai? (what work do you do?), it opens an easy, friendly conversation. Job titles often change with gender, so a male teacher is un insegnante and the work itself is teaching; many professions add a feminine form (un dottore, una dottoressa). The working day frequently includes a real lunch break, and the institution of the long coffee chat with colleagues is part of office culture. Students talk about la scuola (school) and l'università (university), and exams (gli esami) are often oral as well as written.",
+  "keyPhrases": [
+    { "native": "Che lavoro fai?", "english": "What work do you do?", "pronunciation": "keh lah-VOH-roh fai", "context": "Common opener" },
+    { "native": "Sono un ingegnere", "english": "I'm an engineer", "pronunciation": "SOH-noh oon een-jeh-NYEH-reh", "context": "Stating a job" },
+    { "native": "Lavoro in un ufficio", "english": "I work in an office", "pronunciation": "lah-VOH-roh een oon oof-FEE-choh", "context": "Workplace" },
+    { "native": "Studio all'università", "english": "I study at university", "pronunciation": "STOO-dee-oh al-loo-nee-ver-see-TAH", "context": "Being a student" },
+    { "native": "Studio economia", "english": "I study economics", "pronunciation": "STOO-dee-oh eh-koh-noh-MEE-ah", "context": "Field of study" },
+    { "native": "Lavoro da casa", "english": "I work from home", "pronunciation": "lah-VOH-roh dah KAH-zah", "context": "Remote work" },
+    { "native": "Ho una riunione", "english": "I have a meeting", "pronunciation": "oh OO-nah ree-oo-nee-OH-neh", "context": "Office life" },
+    { "native": "Mi piace il mio lavoro", "english": "I like my job", "pronunciation": "mee pee-AH-cheh eel MEE-oh lah-VOH-roh", "context": "Opinion" },
+    { "native": "Sono in pausa", "english": "I'm on a break", "pronunciation": "SOH-noh een POW-zah", "context": "During the day" },
+    { "native": "Finisco alle sei", "english": "I finish at six", "pronunciation": "fee-NEES-koh AL-leh say", "context": "End of work" }
+  ],
+  "grammar": [
+    {
+      "rule": "Jobs without an article after essere",
+      "explanation": "When stating a profession after essere, Italian often drops the article: sono medico, sono insegnante. The article appears only when you add a description: sono un bravo medico.",
+      "examples": [
+        { "native": "Sono studente.", "en": "I'm a student." },
+        { "native": "È un ottimo cuoco.", "en": "He's an excellent cook." }
+      ],
+      "commonMistake": "Always inserting un or una. Plain professions usually go without: faccio l'avvocato or sono avvocato."
+    },
+    {
+      "rule": "-ire verbs with -isc- (finire)",
+      "explanation": "Some -ire verbs add -isc- in most present forms: finire (to finish) gives finisco, finisci, finisce, finiamo, finite, finiscono. Capire (to understand) and preferire work the same way.",
+      "examples": [
+        { "native": "Finisco il lavoro.", "en": "I finish the work." },
+        { "native": "Non capisco bene.", "en": "I don't understand well." }
+      ],
+      "commonMistake": "Forgetting the -isc- and saying fino instead of finisco."
+    }
+  ],
+  "dialogue": {
+    "setup": "Two people chat at a networking event.",
+    "lines": [
+      { "speaker": "Davide", "native": "Piacere, Davide. Che lavoro fai?", "english": "Nice to meet you, Davide. What work do you do?" },
+      { "speaker": "Elena", "native": "Sono architetto. E tu?", "english": "I'm an architect. And you?" },
+      { "speaker": "Davide", "native": "Lavoro in una banca.", "english": "I work in a bank." },
+      { "speaker": "Elena", "native": "Ti piace il tuo lavoro?", "english": "Do you like your job?" },
+      { "speaker": "Davide", "native": "Sì, molto. Finisco sempre alle sei.", "english": "Yes, a lot. I always finish at six." },
+      { "speaker": "Elena", "native": "Comodo! Io a volte lavoro da casa.", "english": "Convenient! I sometimes work from home." },
+      { "speaker": "Davide", "native": "Anche questo è un bel vantaggio.", "english": "That's a nice advantage too." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you ask 'What work do you do?' in Italian?",
+      "correctAnswer": "Che lavoro fai?",
+      "explanation": "Che lavoro fai? is the standard informal question."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which is the correct io form of finire?",
+      "options": ["fino", "fino", "finisco", "finisce"],
+      "correctAnswer": "finisco",
+      "explanation": "Finire adds -isc-, giving finisco."
+    },
+    {
+      "type": "fill-blank",
+      "question": "Studio _____ università. (at the, contracted)",
+      "correctAnswer": "all'",
+      "explanation": "A + l'università contracts to all'università."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does lavoro da casa mean?",
+      "options": ["I go to the office", "I work from home", "I'm on holiday", "I have a meeting"],
+      "correctAnswer": "I work from home",
+      "explanation": "Da casa means 'from home'."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: lavoro / mio / il / piace / mi",
+      "correctAnswer": "Mi piace il mio lavoro",
+      "explanation": "Mi piace il mio lavoro means 'I like my job'."
+    }
+  ],
+  "status": "complete"
+}

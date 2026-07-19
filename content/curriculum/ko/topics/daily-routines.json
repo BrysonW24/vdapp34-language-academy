@@ -1,0 +1,90 @@
+{
+  "slug": "daily-routines",
+  "title": "Daily Routines",
+  "titleNative": "하루 일과",
+  "shortSummary": "Describe your day, from waking up to going to bed, using everyday Korean verbs.",
+  "level": "beginner",
+  "order": 7,
+  "icon": "🌅",
+  "color": "#2b8a3e",
+  "culturalNote": "Daily life in Korea often runs long, with work and study cultures that prize diligence. Many people start the morning with rice-based breakfast and a strong work or school ethic, and the phrase 수고하세요 (sugohaseyo, keep up the good work) is exchanged constantly to acknowledge someone's effort. Coffee culture is enormous, so a mid-morning or afternoon 커피 (keopi) break is a social ritual as much as a caffeine fix. Evenings frequently include 야근 (yageun, working late) in office life or 학원 (hagwon, private academy) study for students. Time words like 아침 (achim, morning), 점심 (jeomsim, lunch/midday), and 저녁 (jeonyeok, evening) double as meal names, so context tells you whether someone means the time of day or the meal. Describing your routine politely uses the present tense in the -요 form throughout.",
+  "keyPhrases": [
+    { "native": "아침에 일어나요", "english": "I wake up in the morning", "transliteration": "achime ireonayo", "pronunciation": "a-chi-me i-ro-na-yo", "context": "Start of the day" },
+    { "native": "아침을 먹어요", "english": "I eat breakfast", "transliteration": "achimeul meogeoyo", "pronunciation": "a-chi-meul mo-go-yo", "context": "Morning meal" },
+    { "native": "회사에 가요", "english": "I go to work", "transliteration": "hoesae gayo", "pronunciation": "hoe-sa-e ga-yo", "context": "Commuting" },
+    { "native": "일을 해요", "english": "I work", "transliteration": "ireul haeyo", "pronunciation": "i-reul hae-yo", "context": "During the day" },
+    { "native": "점심을 먹어요", "english": "I eat lunch", "transliteration": "jeomsimeul meogeoyo", "pronunciation": "jom-si-meul mo-go-yo", "context": "Midday meal" },
+    { "native": "집에 와요", "english": "I come home", "transliteration": "jibe wayo", "pronunciation": "ji-be wa-yo", "context": "End of the work day" },
+    { "native": "저녁을 먹어요", "english": "I eat dinner", "transliteration": "jeonyeogeul meogeoyo", "pronunciation": "jo-nyo-geul mo-go-yo", "context": "Evening meal" },
+    { "native": "텔레비전을 봐요", "english": "I watch television", "transliteration": "tellebijeoneul bwayo", "pronunciation": "tel-le-bi-jo-neul bwa-yo", "context": "Relaxing in the evening" },
+    { "native": "샤워를 해요", "english": "I take a shower", "transliteration": "syaworeul haeyo", "pronunciation": "sya-wo-reul hae-yo", "context": "Part of the routine" },
+    { "native": "밤에 자요", "english": "I sleep at night", "transliteration": "bame jayo", "pronunciation": "ba-me ja-yo", "context": "End of the day" }
+  ],
+  "grammar": [
+    {
+      "rule": "The object particle 을/를",
+      "explanation": "Korean marks the object of a verb with 을 after a consonant and 를 after a vowel. 아침 (achim, breakfast) becomes 아침을, and 텔레비전 (tellebijeon, television) becomes 텔레비전을. The object comes before the verb.",
+      "examples": [
+        { "native": "점심을 먹어요. (jeomsimeul meogeoyo.)", "en": "I eat lunch." },
+        { "native": "커피를 마셔요. (keopireul masyeoyo.)", "en": "I drink coffee." }
+      ],
+      "commonMistake": "Using 를 after a consonant; 아침 ends in a consonant, so it takes 을."
+    },
+    {
+      "rule": "The time particle 에",
+      "explanation": "To say when something happens, attach 에 (e) to a time word. 아침 (achim, morning) becomes 아침에 (achime, in the morning), and 밤 (bam, night) becomes 밤에 (bame, at night).",
+      "examples": [
+        { "native": "아침에 일어나요. (achime ireonayo.)", "en": "I wake up in the morning." },
+        { "native": "일곱 시에 가요. (ilgop sie gayo.)", "en": "I go at seven o'clock." }
+      ],
+      "commonMistake": "Leaving out 에; without it the sentence loses the 'at/in that time' meaning."
+    }
+  ],
+  "dialogue": {
+    "setup": "Two friends, Daniel and Yuna, chat about their weekday routines.",
+    "lines": [
+      { "speaker": "다니엘", "native": "보통 몇 시에 일어나요?", "transliteration": "botong myeot sie ireonayo?", "english": "What time do you usually wake up?" },
+      { "speaker": "유나", "native": "아침 일곱 시에 일어나요.", "transliteration": "achim ilgop sie ireonayo.", "english": "I wake up at seven in the morning." },
+      { "speaker": "다니엘", "native": "그 다음에 뭐 해요?", "transliteration": "geu daeume mwo haeyo?", "english": "What do you do after that?" },
+      { "speaker": "유나", "native": "아침을 먹고 회사에 가요.", "transliteration": "achimeul meokgo hoesae gayo.", "english": "I eat breakfast and go to work." },
+      { "speaker": "다니엘", "native": "저녁에는 보통 뭐 해요?", "transliteration": "jeonyeogeneun botong mwo haeyo?", "english": "What do you usually do in the evening?" },
+      { "speaker": "유나", "native": "집에 와서 텔레비전을 봐요.", "transliteration": "jibe waseo tellebijeoneul bwayo.", "english": "I come home and watch television." },
+      { "speaker": "다니엘", "native": "저랑 비슷하네요. 수고하세요!", "transliteration": "jeorang biseuthaneyo. sugohaseyo!", "english": "That's similar to me. Keep up the good work!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'I eat breakfast' in Korean?",
+      "correctAnswer": "아침을 먹어요",
+      "explanation": "아침을 먹어요 (achimeul meogeoyo) means 'I eat breakfast'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which sentence means 'I sleep at night'?",
+      "options": ["아침에 일어나요", "밤에 자요", "회사에 가요", "점심을 먹어요"],
+      "correctAnswer": "밤에 자요",
+      "explanation": "밤에 자요 (bame jayo) means 'I sleep at night'."
+    },
+    {
+      "type": "fill-blank",
+      "question": "텔레비전___ 봐요. (object particle after a consonant)",
+      "correctAnswer": "을",
+      "explanation": "텔레비전 ends in a consonant, so the object particle is 을, giving 텔레비전을."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does the time particle 에 do in 아침에?",
+      "options": ["Marks the object", "Marks the topic", "Marks the time", "Marks the place of origin"],
+      "correctAnswer": "Marks the time",
+      "explanation": "에 attached to a time word means 'at/in that time', so 아침에 means 'in the morning'."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: 가요 / 회사에 (I go to work)",
+      "correctAnswer": "회사에 가요",
+      "explanation": "Place with 에 then verb: 회사에 가요."
+    }
+  ],
+  "status": "complete"
+}

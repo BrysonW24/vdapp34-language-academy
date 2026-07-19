@@ -1,13 +1,13 @@
 {
   "rank": 171,
-  "german": "Straße",
-  "english": "street, road",
-  "pronunciation": "SHTRAH-se",
+  "german": "tage",
+  "english": "days",
+  "pronunciation": "t a ɡ ə",
   "partOfSpeech": "noun",
-  "gender": "feminine",
-  "article": "die",
-  "exampleDe": "Die Straße ist sehr lang.",
-  "exampleEn": "The street is very long.",
+  "exampleDe": "Die Tage werden länger.",
+  "exampleEn": "The days are getting longer.",
   "group": "everyday-250",
-  "topic": "places"
+  "topic": "time",
+  "article": "der",
+  "gender": "masculine"
 }

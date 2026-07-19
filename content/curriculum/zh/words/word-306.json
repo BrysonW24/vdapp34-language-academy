@@ -1,13 +1,13 @@
 {
   "rank": 306,
-  "chinese": "哥哥",
-  "characters": "哥哥",
-  "pinyin": "gēge",
-  "english": "older brother",
-  "pronunciation": "guh-guh (1st tone, neutral)",
-  "partOfSpeech": "noun",
-  "exampleZh": "我哥哥比我大三岁。",
-  "exampleEn": "My older brother is three years older than me.",
+  "chinese": "也许",
+  "characters": "也许",
+  "pinyin": "yě xǔ",
+  "english": "Maybe",
+  "pronunciation": "ye-xu",
+  "partOfSpeech": "adverb",
+  "exampleZh": "他说也许吧。",
+  "exampleEn": "He speaks Maybe.",
   "group": "everyday-250",
-  "topic": "family"
+  "topic": "descriptions"
 }

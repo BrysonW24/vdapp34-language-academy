@@ -1,0 +1,34 @@
+{
+  "slug": "postpositions",
+  "name": "Postpositions (में / पर / को)",
+  "nameNative": "परसर्ग (parsarg)",
+  "summary": "Hindi puts its 'prepositions' after the noun, so 'in the house' becomes 'house in'.",
+  "level": "elementary",
+  "order": 4,
+  "explanation": "English uses prepositions before a noun: 'in the house', 'on the table'. Hindi does the opposite and uses postpositions, which come after the noun. So घर में (ghar mein) is literally 'house in', and मेज़ पर (mez par) is 'table on'. This after-the-noun position fits Hindi's overall word order, where the most important grammatical markers come late.\n\nThe core everyday postpositions are में (mein, in), पर (par, on or at), को (ko, to or marking a specific object), से (se, from or with or by), and तक (tak, up to or until). For example, दिल्ली में (Dilli mein) means 'in Delhi', and मुझको / मुझे (mujhko / mujhe) means 'to me'. The postposition को also marks a definite or specific direct object, as in मैंने राम को देखा (mainne Ram ko dekha, I saw Ram).\n\nImportant: a noun directly before a postposition goes into its oblique form, which you will study next. For now, notice that कमरा (kamra, room) becomes कमरे में (kamre mein, in the room): the final -aa shifts to -e because में follows it.",
+  "pattern": "noun (oblique) + postposition: ghar mein, mez par, mujhe",
+  "conjugation": {
+    "में (mein)": "in / inside - घर में (ghar mein, in the house)",
+    "पर (par)": "on / at - मेज़ पर (mez par, on the table)",
+    "को (ko)": "to / object marker - मुझको (mujhko, to me)",
+    "से (se)": "from / with / by - दिल्ली से (Dilli se, from Delhi)",
+    "तक (tak)": "up to / until - शाम तक (shaam tak, until evening)",
+    "के पास (ke paas)": "near / with - मेरे पास (mere paas, with me)"
+  },
+  "examples": [
+    { "native": "बिल्ली घर में है। (billi ghar mein hai.)", "en": "The cat is in the house." },
+    { "native": "किताब मेज़ पर है। (kitaab mez par hai.)", "en": "The book is on the table." },
+    { "native": "यह तोहफ़ा आपको है। (yeh tohfa aapko hai.)", "en": "This gift is for you." },
+    { "native": "मैं स्कूल से आ रहा हूँ। (main school se aa raha hoon.)", "en": "I am coming from school." },
+    { "native": "हम शाम तक रुकेंगे। (ham shaam tak rukenge.)", "en": "We will stay until evening." },
+    { "native": "मेरे पास पैसे नहीं हैं। (mere paas paise nahin hain.)", "en": "I do not have money." }
+  ],
+  "commonMistakes": [
+    "Putting the postposition before the noun, English-style: saying mein ghar instead of ghar mein.",
+    "Forgetting to make the noun oblique: saying kamra mein instead of kamre mein.",
+    "Confusing से (se, from) with को (ko, to), which reverses the meaning of a sentence.",
+    "Dropping को when the object is a specific person, for example saying maine Ram dekha instead of Ram ko dekha.",
+    "Treating के पास (ke paas) as one indivisible word and forgetting that के also follows an oblique noun."
+  ],
+  "tip": "Whenever you reach for an English preposition, flip it: name the place first, then add में, पर, को, or से after it."
+}

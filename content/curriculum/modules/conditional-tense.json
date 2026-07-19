@@ -1,0 +1,25 @@
+{
+  "slug": "conditional-tense",
+  "title": "The Conditional Tense",
+  "shortSummary": "Learn to express what would happen, make polite requests, give advice, and discuss hypothetical situations. The conditional is your key to sounding more sophisticated and polite in Spanish.",
+  "level": "intermediate",
+  "category": "strategy",
+  "whyItMatters": "The conditional lets you be polite (Me gustaría...), give advice (Yo que tú, haría...), and discuss hypothetical scenarios. It is essential for professional and social contexts where directness is not appropriate.",
+  "coreConcepts": [
+    "Conditional conjugation: regular verbs",
+    "Irregular conditional stems: tendría, haría, diría, podría",
+    "Polite requests: ¿Podría...? / Me gustaría...",
+    "Hypothetical situations with si clauses",
+    "Giving advice: Yo que tú / En tu lugar",
+    "Expressing probability in the past: Serían las tres",
+    "Conditional perfect: habría hecho",
+    "Comparing conditional with subjunctive usage"
+  ],
+  "lessons": [],
+  "frameworks": ["grammar-spiral"],
+  "visualType": "conditional-tree",
+  "relatedModules": ["subjunctive-mood", "past-tenses", "work-business"],
+  "status": "coming-soon",
+  "order": 11,
+  "levelNumber": 3
+}

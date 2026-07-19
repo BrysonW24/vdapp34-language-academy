@@ -1,12 +1,13 @@
 {
   "rank": 196,
-  "chinese": "用",
-  "characters": "用",
-  "pinyin": "yòng",
-  "english": "to use",
+  "chinese": "拍",
+  "characters": "拍",
+  "pinyin": "pāi",
+  "english": "to shoot",
+  "pronunciation": "pai",
   "partOfSpeech": "verb",
-  "exampleZh": "你会用筷子吗？",
-  "exampleEn": "Can you use chopsticks?",
+  "exampleZh": "我想拍摄。",
+  "exampleEn": "I want to shoot.",
   "group": "everyday-250",
   "topic": "actions"
 }

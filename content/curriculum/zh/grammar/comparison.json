@@ -1,0 +1,26 @@
+{
+  "slug": "comparison",
+  "name": "Comparisons with 比",
+  "nameZh": "用比比较",
+  "summary": "Compare two things with 比 (bǐ), which sits between the two items being compared.",
+  "level": "elementary",
+  "order": 9,
+  "explanation": "To say one thing is more than another, Chinese uses 比 (bǐ). The pattern is A + 比 + B + adjective: 他比我高 (tā bǐ wǒ gāo) = he is taller than me (literally: he compared-to me tall).\n\nNotice there is no 很 and no word for 'more': the comparison itself carries that meaning. To add a degree, put it after the adjective: 他比我高一点 (a little taller) or 高得多 (much taller).\n\nFor 'as ... as', use A 跟 B 一样 + adjective: 我跟你一样高 (I am as tall as you). For 'not as ... as', use 没有: 我没有你高 (I am not as tall as you).",
+  "pattern": "A + 比 + B + adjective  |  A + 没有 + B + adjective (not as ... as)",
+  "examples": [
+    { "zh": "今天比昨天热。", "en": "Today is hotter than yesterday." },
+    { "zh": "这个比那个贵。", "en": "This one is more expensive than that one." },
+    { "zh": "他比我大三岁。", "en": "He is three years older than me." },
+    { "zh": "我跟你一样高。", "en": "I am as tall as you." },
+    { "zh": "我没有他忙。", "en": "I am not as busy as him." },
+    { "zh": "她比我跑得快。", "en": "She runs faster than me." }
+  ],
+  "commonMistakes": [
+    "Adding 很 in a 比 sentence: it is 他比我高, not 他比我很高.",
+    "Trying to translate 'more': the 比 structure already means 'more', so no extra word is needed.",
+    "Using 比 for 'not as ... as'. Negative comparisons use 没有, as in 我没有你高.",
+    "Putting the adjective before 比. The order is A 比 B adjective.",
+    "Forgetting 一样 in equal comparisons: 跟 ... 一样 is the fixed frame."
+  ],
+  "tip": "Lock in the frame A 比 B adjective, with nothing extra. For equal, use 跟 ... 一样; for less, use 没有."
+}

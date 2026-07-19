@@ -1,0 +1,25 @@
+{
+  "slug": "numbers-time-dates",
+  "title": "Numbers, Time & Dates",
+  "shortSummary": "Master numbers from 0 to 1000, tell the time, talk about days of the week, months, and dates. Essential for shopping, making appointments, and understanding everyday life in any Spanish-speaking country.",
+  "level": "beginner",
+  "category": "foundation",
+  "whyItMatters": "Numbers are everywhere — prices, phone numbers, addresses, times, dates. Without them, you cannot buy anything, make plans, or understand basic information. Spanish numbers follow predictable patterns after 15, making them easier to learn than you might expect.",
+  "coreConcepts": [
+    "Numbers 0-30 (individual memorisation)",
+    "Numbers 31-100 (pattern-based)",
+    "Numbers 100-1000",
+    "Telling the time: Es la una / Son las dos",
+    "Days of the week (lunes to domingo)",
+    "Months of the year",
+    "Saying dates: el quince de marzo",
+    "Ordinal numbers: primero, segundo, tercero"
+  ],
+  "lessons": ["numbers-time-and-dates"],
+  "frameworks": ["spaced-repetition", "daily-routine-framework"],
+  "visualType": "chart",
+  "relatedModules": ["spanish-basics", "shopping-money", "travel-directions"],
+  "status": "complete",
+  "order": 3,
+  "levelNumber": 1
+}

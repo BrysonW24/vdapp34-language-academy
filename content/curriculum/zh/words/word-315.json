@@ -1,13 +1,13 @@
 {
   "rank": 315,
-  "chinese": "奶奶",
-  "characters": "奶奶",
-  "pinyin": "nǎinai",
-  "english": "grandmother (paternal)",
-  "pronunciation": "nigh-nigh (3rd tone, neutral)",
+  "chinese": "电子",
+  "characters": "电子",
+  "pinyin": "diàn zi",
+  "english": "electronic",
+  "pronunciation": "dian-zi",
   "partOfSpeech": "noun",
-  "exampleZh": "奶奶做的饭最好吃。",
-  "exampleEn": "Grandma's cooking is the best.",
+  "exampleZh": "这个电子很重要。",
+  "exampleEn": "This electronic is important.",
   "group": "everyday-250",
-  "topic": "family"
+  "topic": "basics"
 }

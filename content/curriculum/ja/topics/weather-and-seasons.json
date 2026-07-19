@@ -1,0 +1,90 @@
+{
+  "slug": "weather-and-seasons",
+  "title": "Weather & Seasons",
+  "titleNative": "てんきときせつ",
+  "shortSummary": "Discuss the weather and Japan's four distinct seasons, a favourite topic of small talk.",
+  "level": "beginner",
+  "order": 12,
+  "icon": "🌸",
+  "color": "#e64980",
+  "culturalNote": "The four seasons (shiki) are central to Japanese culture, and commenting on the weather is the most natural way to open a conversation or a letter. Spring brings cherry blossoms (sakura) and the custom of hanami, picnicking beneath the blooms. The rainy season (tsuyu) in early summer is followed by hot, humid days, then a colourful autumn of red maple leaves (momiji), and a crisp, dry winter. Seasonal awareness shapes food, festivals, and even greetings: a letter might begin by remarking on the warmth of spring or the chill of late autumn. The phrase ii tenki desu ne ('nice weather, isn't it?') with the sentence-ending ne invites agreement and is a quintessential piece of Japanese small talk that builds rapport.",
+  "keyPhrases": [
+    { "native": "いい天気ですね", "transliteration": "ii tenki desu ne", "english": "Nice weather, isn't it?", "pronunciation": "EE TEN-kee dess neh", "context": "Small talk opener" },
+    { "native": "今日は暑いです", "transliteration": "kyou wa atsui desu", "english": "It's hot today", "pronunciation": "KYOH wah a-TSOO-ee dess", "context": "Describing heat" },
+    { "native": "今日は寒いです", "transliteration": "kyou wa samui desu", "english": "It's cold today", "pronunciation": "KYOH wah sa-MOO-ee dess", "context": "Describing cold" },
+    { "native": "雨が降っています", "transliteration": "ame ga futte imasu", "english": "It's raining", "pronunciation": "A-meh ga foot-teh ee-mas", "context": "Current weather" },
+    { "native": "雪が降ります", "transliteration": "yuki ga furimasu", "english": "It snows", "pronunciation": "YOO-kee ga foo-ree-mas", "context": "Winter weather" },
+    { "native": "春が好きです", "transliteration": "haru ga suki desu", "english": "I like spring", "pronunciation": "HA-roo ga soo-kee dess", "context": "Preferences" },
+    { "native": "桜がきれいです", "transliteration": "sakura ga kirei desu", "english": "The cherry blossoms are beautiful", "pronunciation": "sa-KOO-ra ga kee-ray dess", "context": "Spring" },
+    { "native": "夏は蒸し暑いです", "transliteration": "natsu wa mushiatsui desu", "english": "Summer is humid", "pronunciation": "NA-tsoo wah moo-shee-a-tsoo-ee dess", "context": "Summer" },
+    { "native": "明日は晴れます", "transliteration": "ashita wa haremasu", "english": "It will be sunny tomorrow", "pronunciation": "a-SHEE-ta wah ha-reh-mas", "context": "Forecast" },
+    { "native": "傘が必要です", "transliteration": "kasa ga hitsuyou desu", "english": "An umbrella is needed", "pronunciation": "KA-sa ga hee-tsoo-yoh dess", "context": "Practical advice" }
+  ],
+  "grammar": [
+    {
+      "rule": "I-adjectives describing weather",
+      "explanation": "Many weather words are i-adjectives ending in -i: atsui (hot), samui (cold), suzushii (cool). They go directly before desu in the polite form, as in atsui desu. To make the past, change -i to -katta: atsukatta desu ('it was hot').",
+      "examples": [
+        { "native": "暑いです。(atsui desu)", "en": "It is hot." },
+        { "native": "昨日は寒かったです。(kinou wa samukatta desu)", "en": "It was cold yesterday." }
+      ],
+      "commonMistake": "Forming the past as samui deshita; the correct past of an i-adjective is samukatta desu."
+    },
+    {
+      "rule": "The agreement particle ne",
+      "explanation": "The sentence-ending particle ne softens a statement and invites the listener to agree, like the English tag 'isn't it?'. Ii tenki desu ne means 'nice weather, isn't it?'. It is the heart of friendly Japanese small talk.",
+      "examples": [
+        { "native": "今日は暑いですね。(kyou wa atsui desu ne)", "en": "It's hot today, isn't it?" },
+        { "native": "桜がきれいですね。(sakura ga kirei desu ne)", "en": "The cherry blossoms are pretty, aren't they?" }
+      ],
+      "commonMistake": "Overusing ne in formal writing; it belongs in conversational, rapport-building speech."
+    }
+  ],
+  "dialogue": {
+    "setup": "Two neighbours, Hana and Tom, chat outside on a spring morning.",
+    "lines": [
+      { "speaker": "ハナ", "native": "おはようございます。いい天気ですね。", "transliteration": "ohayou gozaimasu. ii tenki desu ne", "english": "Good morning. Nice weather, isn't it?" },
+      { "speaker": "トム", "native": "そうですね。桜がきれいです。", "transliteration": "sou desu ne. sakura ga kirei desu", "english": "Yes, it is. The cherry blossoms are beautiful." },
+      { "speaker": "ハナ", "native": "春が好きですか。", "transliteration": "haru ga suki desu ka", "english": "Do you like spring?" },
+      { "speaker": "トム", "native": "はい、大好きです。でも夏は蒸し暑いです。", "transliteration": "hai, daisuki desu. demo natsu wa mushiatsui desu", "english": "Yes, I love it. But summer is humid." },
+      { "speaker": "ハナ", "native": "本当に。明日は雨が降ります。", "transliteration": "hontou ni. ashita wa ame ga furimasu", "english": "Really. It will rain tomorrow." },
+      { "speaker": "トム", "native": "じゃあ、傘が必要ですね。", "transliteration": "jaa, kasa ga hitsuyou desu ne", "english": "Then an umbrella will be needed, won't it?" },
+      { "speaker": "ハナ", "native": "そうですね。気をつけてください。", "transliteration": "sou desu ne. ki o tsukete kudasai", "english": "That's right. Please take care." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'It's hot today' in Japanese?",
+      "correctAnswer": "今日は暑いです (kyou wa atsui desu)",
+      "explanation": "Atsui (hot) is an i-adjective placed directly before desu."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which particle invites the listener to agree, like 'isn't it?'",
+      "options": ["か (ka)", "ね (ne)", "よ (yo)", "の (no)"],
+      "correctAnswer": "ね (ne)",
+      "explanation": "Ne softens a statement and seeks agreement, central to small talk."
+    },
+    {
+      "type": "fill-blank",
+      "question": "昨日は寒 _____ です。(It was cold yesterday)",
+      "correctAnswer": "かった (katta)",
+      "explanation": "An i-adjective forms its past by changing -i to -katta: samukatta desu."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is hanami?",
+      "options": ["Eating bento on a train", "Picnicking under cherry blossoms", "Bathing in an onsen", "Watching autumn leaves indoors"],
+      "correctAnswer": "Picnicking under cherry blossoms",
+      "explanation": "Hanami is the spring custom of viewing and picnicking beneath sakura blooms."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: ですね / 天気 / いい (nice weather, isn't it?)",
+      "correctAnswer": "いい天気ですね (ii tenki desu ne)",
+      "explanation": "Ii (good) + tenki (weather) + desu ne is the classic small-talk phrase."
+    }
+  ],
+  "status": "complete"
+}

@@ -1,0 +1,90 @@
+{
+  "slug": "daily-routines",
+  "title": "Daily Routines",
+  "titleNative": "La routine quotidienne",
+  "shortSummary": "Describe your day from morning to night, including the reflexive verbs French uses constantly.",
+  "level": "elementary",
+  "order": 7,
+  "icon": "⏰",
+  "color": "#1f8a5b",
+  "culturalNote": "Daily life in France often centres on meals, with a real lunch break in the middle of the day and dinner later in the evening, around eight. Many routine actions, like getting up and getting dressed, use reflexive verbs. Sundays are quieter, with many shops closed, and people favour long walks, markets, and family meals.",
+  "keyPhrases": [
+    { "native": "Je me lève à sept heures", "english": "I get up at seven", "pronunciation": "zhuh muh LEV ah set UHR", "context": "se lever is reflexive" },
+    { "native": "Je prends le petit-déjeuner", "english": "I have breakfast", "pronunciation": "zhuh pron luh puh-TEE day-zhuh-NAY", "context": "Morning" },
+    { "native": "Je vais au travail", "english": "I go to work", "pronunciation": "zhuh vay oh trah-VYE", "context": "Heading out" },
+    { "native": "Je fais une pause", "english": "I take a break", "pronunciation": "zhuh fay ewn POHZ", "context": "During the day" },
+    { "native": "Je rentre à la maison", "english": "I go home", "pronunciation": "zhuh RON-truh ah lah meh-ZON", "context": "Evening" },
+    { "native": "Je prépare le dîner", "english": "I make dinner", "pronunciation": "zhuh pray-PAR luh dee-NAY", "context": "Evening routine" },
+    { "native": "Je regarde la télé", "english": "I watch TV", "pronunciation": "zhuh ruh-GARD lah tay-LAY", "context": "Relaxing" },
+    { "native": "Je me couche tard", "english": "I go to bed late", "pronunciation": "zhuh muh KOOSH TAR", "context": "se coucher is reflexive" },
+    { "native": "tous les jours", "english": "every day", "pronunciation": "too lay ZHOOR", "context": "Frequency" },
+    { "native": "Qu'est-ce que tu fais aujourd'hui ?", "english": "What are you doing today?", "pronunciation": "kes-kuh tew fay oh-zhoor-DWEE", "context": "Asking about the day" }
+  ],
+  "grammar": [
+    {
+      "rule": "Reflexive routine verbs",
+      "explanation": "Many daily actions are reflexive in French: se lever (get up), se coucher (go to bed), se reposer (rest). The reflexive pronoun matches the subject: je me lève, tu te lèves.",
+      "examples": [
+        { "native": "Je me réveille tôt.", "en": "I wake up early." },
+        { "native": "Nous nous couchons tard.", "en": "We go to bed late." }
+      ],
+      "commonMistake": "Dropping the reflexive pronoun: it is je me lève, not je lève."
+    },
+    {
+      "rule": "Sequencing with d'abord, puis, ensuite",
+      "explanation": "Order your day with d'abord (first), puis or ensuite (then), and enfin (finally): D'abord je me lève, puis je prends le petit-déjeuner.",
+      "examples": [
+        { "native": "D'abord je me douche, puis je m'habille.", "en": "First I shower, then I get dressed." },
+        { "native": "Ensuite, je vais au travail.", "en": "Then I go to work." }
+      ],
+      "commonMistake": "Using et for every step. Sequencing words make the order clearer."
+    }
+  ],
+  "dialogue": {
+    "setup": "Two friends, Julie and Marc, compare their daily routines over coffee.",
+    "lines": [
+      { "speaker": "Julie", "native": "À quelle heure tu te lèves ?", "english": "What time do you get up?" },
+      { "speaker": "Marc", "native": "Je me lève à six heures et demie. Et toi ?", "english": "I get up at half past six. And you?" },
+      { "speaker": "Julie", "native": "À sept heures. Puis je vais au travail.", "english": "At seven. Then I go to work." },
+      { "speaker": "Marc", "native": "Qu'est-ce que tu fais le soir ?", "english": "What do you do in the evening?" },
+      { "speaker": "Julie", "native": "Je prépare le dîner et je regarde la télé.", "english": "I make dinner and watch TV." },
+      { "speaker": "Marc", "native": "Moi, je vais souvent courir le soir.", "english": "I often go running in the evening." },
+      { "speaker": "Julie", "native": "C'est très sain !", "english": "That's very healthy!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "fill-blank",
+      "question": "Je _____ lève à sept heures. (reflexive pronoun)",
+      "correctAnswer": "me",
+      "explanation": "se lever is reflexive: je me lève."
+    },
+    {
+      "type": "translate",
+      "question": "How do you say 'I have breakfast'?",
+      "correctAnswer": "Je prends le petit-déjeuner",
+      "explanation": "prendre le petit-déjeuner means 'to have breakfast'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which word means 'then'?",
+      "options": ["d'abord", "puis", "enfin", "souvent"],
+      "correctAnswer": "puis",
+      "explanation": "puis means 'then'; d'abord is 'first', enfin is 'finally'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "How do you say 'every day'?",
+      "options": ["aujourd'hui", "tous les jours", "ce soir", "demain"],
+      "correctAnswer": "tous les jours",
+      "explanation": "tous les jours means 'every day'."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: maison / la / rentre / à / je",
+      "correctAnswer": "Je rentre à la maison",
+      "explanation": "Je rentre (I return) + à la maison (home)."
+    }
+  ],
+  "status": "complete"
+}

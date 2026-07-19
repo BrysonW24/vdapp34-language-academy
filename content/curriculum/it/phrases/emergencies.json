@@ -1,0 +1,21 @@
+{
+  "slug": "emergencies",
+  "title": "Emergencies",
+  "description": "Get help fast, describe a problem, and stay safe in Italian.",
+  "situation": "Urgent situations: asking for help, medical needs, and reporting problems.",
+  "order": 7,
+  "phrases": [
+    { "native": "Aiuto!", "english": "Help!", "pronunciation": "ah-YOO-toh", "formality": "neutral" },
+    { "native": "Chiami un'ambulanza", "english": "Call an ambulance", "pronunciation": "kee-AH-mee oon-am-boo-LAN-tsah", "formality": "formal" },
+    { "native": "Chiami la polizia", "english": "Call the police", "pronunciation": "kee-AH-mee lah poh-lee-TSEE-ah", "formality": "formal" },
+    { "native": "Mi sono fatto male", "english": "I'm hurt", "pronunciation": "mee SOH-noh FAT-toh MAH-leh", "formality": "neutral", "tip": "Women say 'fatta male'." },
+    { "native": "Ho bisogno di un medico", "english": "I need a doctor", "pronunciation": "oh bee-ZOH-nyoh dee oon MEH-dee-koh", "formality": "neutral" },
+    { "native": "Dov'è l'ospedale?", "english": "Where is the hospital?", "pronunciation": "doh-VEH los-peh-DAH-leh", "formality": "neutral" },
+    { "native": "È un'emergenza", "english": "It's an emergency", "pronunciation": "eh oon-eh-mer-JEN-tsah", "formality": "neutral" },
+    { "native": "Ho perso il passaporto", "english": "I've lost my passport", "pronunciation": "oh PER-soh eel pas-sah-POR-toh", "formality": "neutral" },
+    { "native": "Mi hanno rubato la borsa", "english": "My bag was stolen", "pronunciation": "mee AN-noh roo-BAH-toh lah BOR-sah", "formality": "neutral" },
+    { "native": "Sono allergico", "english": "I'm allergic", "pronunciation": "SOH-noh al-LER-jee-koh", "formality": "neutral", "tip": "Women say 'allergica'." },
+    { "native": "Non mi sento bene", "english": "I don't feel well", "pronunciation": "non mee SEN-toh BEH-neh", "formality": "neutral" },
+    { "native": "Mi può aiutare?", "english": "Can you help me?", "pronunciation": "mee pwoh ah-yoo-TAH-reh", "formality": "formal" }
+  ]
+}

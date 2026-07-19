@@ -1,13 +1,11 @@
 {
   "rank": 586,
-  "german": "Computer",
-  "english": "computer",
-  "pronunciation": "kom-PYOO-ter",
-  "partOfSpeech": "noun",
-  "gender": "masculine",
-  "article": "der",
-  "exampleDe": "Mein Computer ist langsam.",
-  "exampleEn": "My computer is slow.",
+  "german": "führen",
+  "english": "to show",
+  "pronunciation": "f y ɐ n",
+  "partOfSpeech": "verb",
+  "exampleDe": "Ich möchte führen.",
+  "exampleEn": "I want to show.",
   "group": "confident-350",
-  "topic": "work"
+  "topic": "actions"
 }

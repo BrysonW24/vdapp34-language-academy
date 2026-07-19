@@ -1,0 +1,33 @@
+{
+  "slug": "articles-and-gender",
+  "name": "Articles and Gender",
+  "nameNative": "Gli articoli e il genere",
+  "summary": "Every Italian noun is masculine or feminine, and the article changes to match.",
+  "level": "beginner",
+  "order": 1,
+  "explanation": "Italian nouns have a gender. Most nouns ending in -o are masculine (il libro, the book) and most ending in -a are feminine (la casa, the house). Nouns ending in -e can be either, so learn them with their article.\n\nThe definite article ('the') has several forms. Masculine: il (before most consonants), lo (before s+consonant, z, gn, ps), l' (before a vowel). Feminine: la, or l' before a vowel.\n\nThe indefinite article ('a/an') follows the same logic: un / uno for masculine, una / un' for feminine.",
+  "pattern": "il / lo / l' / la + noun",
+  "conjugation": {
+    "il (masc.)": "il treno",
+    "lo (masc. s+cons, z)": "lo studente",
+    "l' (masc. vowel)": "l'amico",
+    "la (fem.)": "la donna",
+    "l' (fem. vowel)": "l'acqua"
+  },
+  "examples": [
+    { "native": "il ragazzo", "en": "the boy" },
+    { "native": "la ragazza", "en": "the girl" },
+    { "native": "lo zaino", "en": "the backpack" },
+    { "native": "l'albero", "en": "the tree" },
+    { "native": "un caffè", "en": "a coffee" },
+    { "native": "una pizza", "en": "a pizza" }
+  ],
+  "commonMistakes": [
+    "Using il before s+consonant or z. It must be lo (lo studente, lo zio).",
+    "Forgetting to elide before a vowel. Say l'amico, not lo amico.",
+    "Assuming every -e noun is masculine. Many are feminine (la notte, la chiave).",
+    "Using un' for masculine. The apostrophe form un' is feminine only (un'amica).",
+    "Treating gender as optional. The article must always agree with the noun."
+  ],
+  "tip": "Learn each noun together with its article, like il libro or la macchina, so the gender sticks from day one."
+}

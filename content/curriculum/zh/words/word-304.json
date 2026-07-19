@@ -1,13 +1,13 @@
 {
   "rank": 304,
-  "chinese": "糖",
-  "characters": "糖",
-  "pinyin": "táng",
-  "english": "sugar; candy",
-  "pronunciation": "tahng (2nd tone, rising)",
+  "chinese": "西方",
+  "characters": "西方",
+  "pinyin": "xī fāng",
+  "english": "west",
+  "pronunciation": "xi-fang",
   "partOfSpeech": "noun",
-  "exampleZh": "你的咖啡要加糖吗？",
-  "exampleEn": "Do you want sugar in your coffee?",
+  "exampleZh": "这个西方很重要。",
+  "exampleEn": "This west is important.",
   "group": "everyday-250",
-  "topic": "food-and-drink"
+  "topic": "basics"
 }

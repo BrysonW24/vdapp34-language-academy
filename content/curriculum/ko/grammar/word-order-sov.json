@@ -1,0 +1,33 @@
+{
+  "slug": "word-order-sov",
+  "name": "Word Order (Subject-Object-Verb)",
+  "nameNative": "어순 (주어-목적어-동사)",
+  "summary": "Understand the core Korean sentence order, where the verb always comes last.",
+  "level": "beginner",
+  "order": 4,
+  "explanation": "Korean sentences follow subject-object-verb (SOV) order, not the subject-verb-object pattern of English. The verb always lands at the very end: 저는 밥을 먹어요 (jeoneun babeul meogeoyo) is literally 'I rice eat'.\n\nBecause particles like 은/는, 이/가, and 을/를 mark each noun's role, the order of the nouns is flexible. You can move things for emphasis as long as the verb stays last. 사과를 제가 먹어요 still means 'I eat an apple' because 를 marks the object and 가 marks the subject regardless of position.\n\nTime and place words usually come near the front, and the verb carries the tense and politeness at the end. This is why you often have to wait for the last word to know whether a Korean sentence is positive, negative, past, or a question.",
+  "pattern": "(time/place) + subject + object + verb",
+  "conjugation": {
+    "subject": "저는 (I)",
+    "object": "밥을 (rice)",
+    "verb": "먹어요 (eat)",
+    "full sentence": "저는 밥을 먹어요 (I eat rice)",
+    "with time": "저는 지금 밥을 먹어요 (I am eating rice now)"
+  },
+  "examples": [
+    { "native": "저는 한국어를 배워요. (jeoneun hangugeoreul baewoyo.)", "en": "I learn Korean." },
+    { "native": "민준이 커피를 마셔요. (minjuni keopireul masyeoyo.)", "en": "Minjun drinks coffee." },
+    { "native": "우리는 내일 영화를 봐요. (urineun naeil yeonghwareul bwayo.)", "en": "We are watching a movie tomorrow." },
+    { "native": "고양이가 생선을 좋아해요. (goyangiga saengseoneul joahaeyo.)", "en": "The cat likes fish." },
+    { "native": "저는 집에서 책을 읽어요. (jeoneun jibeseo chaegeul ilgeoyo.)", "en": "I read a book at home." },
+    { "native": "엄마가 저녁을 만들어요. (eommaga jeonyeogeul mandeureoyo.)", "en": "Mum makes dinner." }
+  ],
+  "commonMistakes": [
+    "Putting the verb in the middle like English. In Korean the verb must come last: 밥을 먹어요, not 먹어요 밥을.",
+    "Worrying too much about noun order. Particles do the work, so the subject and object can swap for emphasis.",
+    "Forgetting that adjectives describing the verb's action and time words usually sit before the object.",
+    "Translating word by word from English and ending up with the verb too early.",
+    "Leaving out the final verb. A Korean sentence is not complete without its sentence-final verb or adjective."
+  ],
+  "tip": "Remember: the verb waits at the end. Build the scene first, then finish with the action."
+}

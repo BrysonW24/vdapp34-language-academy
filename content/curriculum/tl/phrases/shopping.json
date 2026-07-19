@@ -1,0 +1,21 @@
+{
+  "slug": "shopping",
+  "title": "Shopping & Markets",
+  "description": "Ask prices, bargain politely, and buy what you need at a palengke or store.",
+  "situation": "Buying things: asking prices, sizes, and haggling gently at the local market.",
+  "order": 4,
+  "phrases": [
+    { "native": "Magkano po ito?", "english": "How much is this?", "pronunciation": "mag-KA-no po ee-TO", "formality": "formal", "tip": "Point and say ito (this) or iyan (that one near you)." },
+    { "native": "Ang mahal naman po", "english": "That's too expensive", "pronunciation": "ang ma-HAL na-MAN po", "formality": "formal", "tip": "Naman softens it, making your complaint sound friendly." },
+    { "native": "Pwede po bang tumawad?", "english": "Can I bargain?", "pronunciation": "PWE-de po bang too-MA-wad", "formality": "formal", "tip": "Haggling is expected at a palengke (wet market), not in malls." },
+    { "native": "Tawad po, dalawang daan?", "english": "Discount, two hundred?", "pronunciation": "TA-wad po, da-la-WANG da-AN", "formality": "formal", "tip": "Offer a lower number to start the friendly back-and-forth." },
+    { "native": "May iba pa po bang kulay?", "english": "Do you have other colours?", "pronunciation": "may ee-BA pa po bang KOO-lay", "formality": "formal" },
+    { "native": "May mas malaki po ba?", "english": "Do you have a bigger size?", "pronunciation": "may mas ma-la-KEE po ba", "formality": "formal", "tip": "Swap malaki (big) for maliit (small)." },
+    { "native": "Pwede po bang isukat?", "english": "Can I try it on?", "pronunciation": "PWE-de po bang ee-SOO-kat", "formality": "formal" },
+    { "native": "Kukunin ko po ito", "english": "I'll take this", "pronunciation": "koo-KOO-nin ko po ee-TO", "formality": "formal" },
+    { "native": "Bayad po", "english": "Here's my payment", "pronunciation": "BA-yad po", "formality": "formal", "tip": "Say this as you hand over your money or fare." },
+    { "native": "Saan po ako pwedeng magbayad?", "english": "Where can I pay?", "pronunciation": "sa-AN po a-KO PWE-deng mag-BA-yad", "formality": "formal" },
+    { "native": "Pahingi po ng resibo", "english": "May I have a receipt", "pronunciation": "pa-hi-NGI po nang re-SEE-bo", "formality": "formal", "tip": "Pahingi (please give me) is a handy everyday request word." },
+    { "native": "Salamat po, sa uulitin", "english": "Thank you, until next time", "pronunciation": "sa-LA-mat po, sa oo-oo-LEE-tin", "formality": "formal", "tip": "A warm way to close a transaction and promise to return." }
+  ]
+}

@@ -1,13 +1,13 @@
 {
   "rank": 307,
-  "chinese": "姐姐",
-  "characters": "姐姐",
-  "pinyin": "jiějie",
-  "english": "older sister",
-  "pronunciation": "jyeh-jyeh (3rd tone, neutral)",
+  "chinese": "军事",
+  "characters": "军事",
+  "pinyin": "jūn shì",
+  "english": "military",
+  "pronunciation": "jun-shi",
   "partOfSpeech": "noun",
-  "exampleZh": "姐姐在上大学。",
-  "exampleEn": "My older sister is in university.",
+  "exampleZh": "这个军事很重要。",
+  "exampleEn": "This military is important.",
   "group": "everyday-250",
-  "topic": "family"
+  "topic": "basics"
 }

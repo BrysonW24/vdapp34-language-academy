@@ -1,0 +1,21 @@
+{
+  "slug": "hotel",
+  "title": "At the Hotel",
+  "description": "Check in, ask about your room, and handle requests at a Filipino hotel or resort.",
+  "situation": "Accommodation: checking in, room questions, and asking the front desk for help.",
+  "order": 6,
+  "phrases": [
+    { "native": "May reserbasyon po ako", "english": "I have a reservation", "pronunciation": "may re-ser-bas-YON po a-KO", "formality": "formal" },
+    { "native": "Pwede po bang mag-check in?", "english": "Can I check in?", "pronunciation": "PWE-de po bang mag-tsek-in", "formality": "formal", "tip": "Check in and check out are borrowed straight from English." },
+    { "native": "Magkano po ang isang gabi?", "english": "How much is one night?", "pronunciation": "mag-KA-no po ang ee-SANG ga-BEE", "formality": "formal" },
+    { "native": "May aircon po ba ang kwarto?", "english": "Does the room have air conditioning?", "pronunciation": "may AYR-kon po ba ang KWAR-to", "formality": "formal", "tip": "In a tropical climate, aircon is a very common question." },
+    { "native": "May libreng Wi-Fi po ba?", "english": "Is there free Wi-Fi?", "pronunciation": "may LEE-breng way-FAY po ba", "formality": "formal" },
+    { "native": "Anong oras po ang almusal?", "english": "What time is breakfast?", "pronunciation": "a-NONG O-ras po ang al-moo-SAL", "formality": "formal" },
+    { "native": "Pwede po bang dagdagan ang tuwalya?", "english": "Could I have extra towels?", "pronunciation": "PWE-de po bang dag-DA-gan ang too-WAL-ya", "formality": "formal" },
+    { "native": "Sira po ang shower", "english": "The shower is broken", "pronunciation": "SEE-ra po ang SHA-wer", "formality": "formal", "tip": "Sira means broken or spoiled, a useful all-purpose word." },
+    { "native": "Pwede po bang lumipat ng kwarto?", "english": "Can I change rooms?", "pronunciation": "PWE-de po bang loo-MEE-pat nang KWAR-to", "formality": "formal" },
+    { "native": "Anong oras po ang check out?", "english": "What time is check out?", "pronunciation": "a-NONG O-ras po ang tsek-aut", "formality": "formal" },
+    { "native": "Pwede po bang mag-iwan ng bag?", "english": "Can I leave my bag here?", "pronunciation": "PWE-de po bang mag-EE-wan nang bag", "formality": "formal", "tip": "Handy if you check out before your flight." },
+    { "native": "Salamat po sa magandang serbisyo", "english": "Thank you for the great service", "pronunciation": "sa-LA-mat po sa ma-gan-DANG ser-BIS-yo", "formality": "formal", "tip": "Filipinos take great pride in warm hospitality." }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "travel-directions",
+  "title": "Travel & Directions",
+  "shortSummary": "Get around with confidence — ask for and understand directions, navigate public transport, book accommodation, and handle airport and border situations. Essential survival Spanish for any traveller.",
+  "level": "beginner",
+  "category": "channel",
+  "whyItMatters": "If you travel to a Spanish-speaking country, getting around is your most immediate need. Asking for directions, reading signs, understanding transport announcements, and checking into a hotel — these are non-negotiable skills.",
+  "coreConcepts": [
+    "Direction vocabulary: derecha, izquierda, recto, cerca, lejos",
+    "Asking for directions: ¿Dónde está...? / ¿Cómo llego a...?",
+    "Transport: autobús, metro, tren, taxi, avión",
+    "At the airport: vuelo, puerta, equipaje, pasaporte",
+    "Accommodation: habitación, reserva, llave, recepción",
+    "Reading signs and maps in Spanish",
+    "Prepositions of place: en, entre, al lado de, enfrente de",
+    "Emergency phrases for travel situations"
+  ],
+  "lessons": ["travel-and-directions"],
+  "frameworks": ["immersion-framework", "comprehensible-input"],
+  "visualType": "map",
+  "relatedModules": ["numbers-time-dates", "food-restaurants", "shopping-money"],
+  "status": "complete",
+  "order": 8,
+  "levelNumber": 2
+}

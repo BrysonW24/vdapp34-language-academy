@@ -1,0 +1,81 @@
+{
+  "slug": "phone-and-digital",
+  "title": "Phone & Digital",
+  "description": "Stay connected in French: phone calls, Wi-Fi, SIM cards, and messaging.",
+  "situation": "Staying connected: making calls, getting online, buying a SIM, and basic tech vocabulary.",
+  "order": 8,
+  "phrases": [
+    {
+      "native": "Quel est le mot de passe wifi ?",
+      "english": "What's the Wi-Fi password?",
+      "pronunciation": "kel eh luh moh duh PASS wee-FEE",
+      "formality": "neutral"
+    },
+    {
+      "native": "Mon téléphone est déchargé",
+      "english": "My phone is dead",
+      "pronunciation": "mon tay-lay-FON eh day-shar-ZHAY",
+      "formality": "neutral"
+    },
+    {
+      "native": "Je peux recharger mon téléphone ici ?",
+      "english": "Can I charge my phone here?",
+      "pronunciation": "zhuh puh ruh-shar-ZHAY mon tay-lay-FON ee-SEE",
+      "formality": "neutral"
+    },
+    {
+      "native": "J'ai besoin d'une carte SIM",
+      "english": "I need a SIM card",
+      "pronunciation": "zhay buh-ZWAN dewn KART seem",
+      "formality": "neutral"
+    },
+    {
+      "native": "Avez-vous un chargeur ?",
+      "english": "Do you have a charger?",
+      "pronunciation": "ah-vay VOO un shar-ZHUHR",
+      "formality": "formal"
+    },
+    {
+      "native": "Pouvez-vous me donner votre numéro ?",
+      "english": "Can you give me your number?",
+      "pronunciation": "poo-vay VOO muh doh-NAY voh-truh new-may-ROH",
+      "formality": "formal"
+    },
+    {
+      "native": "Je vous appelle plus tard",
+      "english": "I'll call you later",
+      "pronunciation": "zhuh voo zah-PEL plew TAR",
+      "formality": "formal"
+    },
+    {
+      "native": "Envoyez-moi un message",
+      "english": "Send me a message",
+      "pronunciation": "on-vwah-yay MWAH un meh-SAHZH",
+      "formality": "formal"
+    },
+    {
+      "native": "Internet est lent",
+      "english": "The internet is slow",
+      "pronunciation": "an-tehr-NET eh LON",
+      "formality": "neutral"
+    },
+    {
+      "native": "Je n'ai pas de réseau",
+      "english": "I have no signal",
+      "pronunciation": "zhuh nay pah duh ray-ZOH",
+      "formality": "neutral"
+    },
+    {
+      "native": "Quel est votre numéro ?",
+      "english": "What's your number?",
+      "pronunciation": "kel eh voh-truh new-may-ROH",
+      "formality": "formal"
+    },
+    {
+      "native": "Scannez le code QR",
+      "english": "Scan the QR code",
+      "pronunciation": "skah-nay luh kohd kew-EHR",
+      "formality": "neutral"
+    }
+  ]
+}

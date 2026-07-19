@@ -1,12 +1,13 @@
 {
   "rank": 181,
-  "chinese": "开",
-  "characters": "开",
-  "pinyin": "kāi",
-  "english": "to open/to drive",
-  "partOfSpeech": "verb",
-  "exampleZh": "请开门。",
-  "exampleEn": "Please open the door.",
+  "chinese": "低",
+  "characters": "低",
+  "pinyin": "dī",
+  "english": "Low",
+  "pronunciation": "di",
+  "partOfSpeech": "adjective",
+  "exampleZh": "这个地方非常低。",
+  "exampleEn": "This place is very Low.",
   "group": "everyday-250",
-  "topic": "actions"
+  "topic": "descriptions"
 }

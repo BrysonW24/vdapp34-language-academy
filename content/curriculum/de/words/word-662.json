@@ -1,11 +1,11 @@
 {
   "rank": 662,
-  "german": "höflich",
-  "english": "polite",
-  "pronunciation": "HERF-likh",
-  "partOfSpeech": "adjective",
-  "exampleDe": "Er ist sehr höflich.",
-  "exampleEn": "He is very polite.",
+  "german": "spielt",
+  "english": "to plays",
+  "pronunciation": "ʃ p i l t",
+  "partOfSpeech": "verb",
+  "exampleDe": "Er spielt das heute.",
+  "exampleEn": "He plays that today.",
   "group": "confident-350",
-  "topic": "descriptions"
+  "topic": "actions"
 }

@@ -1,0 +1,90 @@
+{
+  "slug": "health-and-emergencies",
+  "title": "Health & Emergencies",
+  "titleDe": "Gesundheit und Notfälle",
+  "shortSummary": "Describe symptoms, see a doctor, and get help fast in an emergency.",
+  "level": "pre-intermediate",
+  "order": 11,
+  "icon": "🩺",
+  "color": "#a0453f",
+  "culturalNote": "Germany has a strong healthcare system, and pharmacies (Apotheke), marked with a red A, are everywhere and staffed by knowledgeable pharmacists who can advise on minor ailments. The pan-European emergency number is 112 for ambulance and fire, and 110 for police. On Sundays and at night, a rota of Notdienst (emergency duty) pharmacies stays open.",
+  "keyPhrases": [
+    { "german": "Ich fühle mich nicht gut", "english": "I don't feel well", "pronunciation": "ikh FOO-luh mikh nikht goot", "context": "General complaint" },
+    { "german": "Ich habe Kopfschmerzen", "english": "I have a headache", "pronunciation": "ikh HAH-buh KOPF-shmair-tsen", "context": "Describing pain" },
+    { "german": "Mir ist schlecht", "english": "I feel sick / nauseous", "pronunciation": "meer ist shlekht", "context": "Feeling unwell" },
+    { "german": "Ich brauche einen Arzt", "english": "I need a doctor", "pronunciation": "ikh BROW-khuh EYE-nen artst", "context": "Seeking help" },
+    { "german": "Es ist ein Notfall", "english": "It's an emergency", "pronunciation": "es ist ine NOHT-fahl", "context": "Urgent situation" },
+    { "german": "Rufen Sie einen Krankenwagen", "english": "Call an ambulance", "pronunciation": "ROO-fen zee EYE-nen KRAHN-ken-vah-gen", "context": "Dial 112" },
+    { "german": "Ich bin allergisch gegen...", "english": "I'm allergic to...", "pronunciation": "ikh bin ah-LAIR-gish GAY-gen", "context": "Important medical info" },
+    { "german": "Wo ist die Apotheke?", "english": "Where is the pharmacy?", "pronunciation": "voh ist dee ah-poh-TAY-kuh", "context": "Finding medicine" },
+    { "german": "Ich habe Fieber", "english": "I have a fever", "pronunciation": "ikh HAH-buh FEE-ber", "context": "A common symptom" },
+    { "german": "Gute Besserung!", "english": "Get well soon!", "pronunciation": "GOO-tuh BES-ser-oong", "context": "Said to someone unwell" }
+  ],
+  "grammar": [
+    {
+      "rule": "Expressing pain with haben + -schmerzen",
+      "explanation": "German builds many ailments by adding -schmerzen (pains) to a body part: Kopfschmerzen (headache), Bauchschmerzen (stomach ache), Halsschmerzen (sore throat). Use them with haben: 'Ich habe Zahnschmerzen'.",
+      "examples": [
+        { "de": "Ich habe Rückenschmerzen.", "en": "I have back pain." },
+        { "de": "Sie hat Halsschmerzen.", "en": "She has a sore throat." }
+      ],
+      "commonMistake": "Saying 'Ich bin Kopfschmerzen'. Use haben: 'Ich habe Kopfschmerzen'."
+    },
+    {
+      "rule": "Dative for how you feel",
+      "explanation": "Some feelings use a dative construction with no 'I' as subject: 'Mir ist kalt' (I am cold), 'Mir ist schlecht' (I feel sick). Literally: to-me is cold.",
+      "examples": [
+        { "de": "Mir ist schwindelig.", "en": "I feel dizzy." },
+        { "de": "Ist Ihnen kalt?", "en": "Are you cold? (formal)" }
+      ],
+      "commonMistake": "Saying 'Ich bin schlecht' (which means 'I am a bad person'). Use 'Mir ist schlecht'."
+    }
+  ],
+  "dialogue": {
+    "setup": "Lena visits a pharmacy because she is not feeling well.",
+    "lines": [
+      { "speaker": "Apotheker", "german": "Guten Tag, was kann ich für Sie tun?", "english": "Hello, what can I do for you?" },
+      { "speaker": "Lena", "german": "Ich fühle mich nicht gut. Ich habe Kopfschmerzen und Fieber.", "english": "I don't feel well. I have a headache and a fever." },
+      { "speaker": "Apotheker", "german": "Seit wann haben Sie die Symptome?", "english": "Since when have you had the symptoms?" },
+      { "speaker": "Lena", "german": "Seit gestern Abend.", "english": "Since yesterday evening." },
+      { "speaker": "Apotheker", "german": "Sind Sie gegen etwas allergisch?", "english": "Are you allergic to anything?" },
+      { "speaker": "Lena", "german": "Nein, gegen nichts.", "english": "No, to nothing." },
+      { "speaker": "Apotheker", "german": "Gut. Nehmen Sie diese Tabletten und ruhen Sie sich aus. Gute Besserung!", "english": "Good. Take these tablets and rest. Get well soon!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'I have a headache'?",
+      "correctAnswer": "Ich habe Kopfschmerzen",
+      "explanation": "Kopf (head) plus -schmerzen (pains), used with haben."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which sentence means 'I feel sick'?",
+      "options": ["Ich bin schlecht", "Mir ist schlecht", "Ich habe schlecht", "Mir bin schlecht"],
+      "correctAnswer": "Mir ist schlecht",
+      "explanation": "Feeling sick uses the dative: 'Mir ist schlecht'."
+    },
+    {
+      "type": "fill-blank",
+      "question": "Rufen Sie einen _____! (Call an ambulance)",
+      "correctAnswer": "Krankenwagen",
+      "explanation": "der Krankenwagen is the ambulance."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What do you say to someone who is unwell?",
+      "options": ["Guten Appetit", "Gute Besserung", "Gute Reise", "Gute Nacht"],
+      "correctAnswer": "Gute Besserung",
+      "explanation": "Gute Besserung means 'get well soon'."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: einen / brauche / Arzt / ich",
+      "correctAnswer": "Ich brauche einen Arzt",
+      "explanation": "Subject ich, verb brauche, then the accusative object 'einen Arzt'."
+    }
+  ],
+  "status": "complete"
+}

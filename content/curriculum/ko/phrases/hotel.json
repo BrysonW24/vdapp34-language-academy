@@ -1,0 +1,21 @@
+{
+  "slug": "hotel",
+  "title": "At the Hotel",
+  "description": "Check in, ask about your room, and handle hotel requests in Korean.",
+  "situation": "Accommodation: checking in and out, room questions, and asking for help at the front desk.",
+  "order": 6,
+  "phrases": [
+    { "native": "예약했어요", "transliteration": "yeyakhaesseoyo", "english": "I have a reservation", "pronunciation": "yeh-yahk-heh-sso-yo", "formality": "neutral", "tip": "Follow with your name: 김민준으로 예약했어요." },
+    { "native": "체크인 할게요", "transliteration": "chekeuin halgeyo", "english": "I'd like to check in", "pronunciation": "cheh-keu-een hahl-geh-yo", "formality": "neutral", "tip": "Check-out is 체크아웃 (chekeuaut)." },
+    { "native": "빈 방 있어요?", "transliteration": "bin bang isseoyo?", "english": "Do you have a room available?", "pronunciation": "been bahng ee-sso-yo", "formality": "neutral" },
+    { "native": "하룻밤에 얼마예요?", "transliteration": "harutbame eolmayeyo?", "english": "How much per night?", "pronunciation": "hah-root-bah-meh ol-mah-yeh-yo", "formality": "neutral" },
+    { "native": "와이파이 비밀번호 뭐예요?", "transliteration": "waipai bimilbeonho mwoyeyo?", "english": "What is the WiFi password?", "pronunciation": "wah-ee-pah-ee bee-meel-bon-hoh mwo-yeh-yo", "formality": "neutral" },
+    { "native": "아침 식사 포함이에요?", "transliteration": "achim siksa pohamieyo?", "english": "Is breakfast included?", "pronunciation": "ah-cheem shik-sah poh-hah-mee-eh-yo", "formality": "neutral" },
+    { "native": "수건 좀 더 주세요", "transliteration": "sugeon jom deo juseyo", "english": "Please bring more towels", "pronunciation": "soo-gon jom do joo-seh-yo", "formality": "neutral" },
+    { "native": "방 키를 잃어버렸어요", "transliteration": "bang kireul ireobeoryeosseoyo", "english": "I lost my room key", "pronunciation": "bahng kee-reul ee-ro-bo-ryo-sso-yo", "formality": "neutral" },
+    { "native": "에어컨이 안 돼요", "transliteration": "eeokeoni an dwaeyo", "english": "The air conditioning isn't working", "pronunciation": "eh-o-ko-nee ahn dweh-yo", "formality": "neutral", "tip": "Swap in 난방 (nanbang) for heating, 뜨거운 물 (tteugeoun mul) for hot water." },
+    { "native": "짐 좀 맡길 수 있어요?", "transliteration": "jim jom matgil su isseoyo?", "english": "Can I leave my luggage here?", "pronunciation": "jeem jom maht-geel soo ee-sso-yo", "formality": "neutral", "tip": "Handy after check-out while you sightsee." },
+    { "native": "택시 좀 불러 주세요", "transliteration": "taeksi jom bulleo juseyo", "english": "Please call me a taxi", "pronunciation": "tek-shee jom bool-lo joo-seh-yo", "formality": "neutral" },
+    { "native": "체크아웃 몇 시예요?", "transliteration": "chekeuaut myeot siyeyo?", "english": "What time is check-out?", "pronunciation": "cheh-keu-ah-oot myot shee-yeh-yo", "formality": "neutral" }
+  ]
+}

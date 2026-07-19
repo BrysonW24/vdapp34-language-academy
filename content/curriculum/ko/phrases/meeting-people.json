@@ -1,0 +1,21 @@
+{
+  "slug": "meeting-people",
+  "title": "Meeting People",
+  "description": "Introduce yourself, ask names, and make a good first impression in Korean.",
+  "situation": "First meetings: names, where you are from, age and seniority cues, and polite small talk.",
+  "order": 2,
+  "phrases": [
+    { "native": "처음 뵙겠습니다", "transliteration": "cheoeum boepgesseumnida", "english": "Nice to meet you (first time)", "pronunciation": "cho-eum bwep-geh-sseum-nee-dah", "formality": "formal", "tip": "Literally 'I am meeting you for the first time'; very polite and standard." },
+    { "native": "만나서 반가워요", "transliteration": "mannaseo bangawoyo", "english": "Glad to meet you", "pronunciation": "mahn-nah-so bahn-gah-wo-yo", "formality": "neutral", "tip": "Friendlier than 처음 뵙겠습니다, good with peers." },
+    { "native": "이름이 뭐예요?", "transliteration": "ireumi mwoyeyo?", "english": "What is your name?", "pronunciation": "ee-reu-mee mwo-yeh-yo", "formality": "neutral", "tip": "More polite: 성함이 어떻게 되세요? (seonghami eotteoke doeseyo?)." },
+    { "native": "저는 마크예요", "transliteration": "jeoneun makeuyeyo", "english": "I'm Mark", "pronunciation": "jo-neun mah-keu-yeh-yo", "formality": "neutral", "tip": "Use 이에요 after a consonant, 예요 after a vowel: 마크예요, 민준이에요." },
+    { "native": "어디에서 오셨어요?", "transliteration": "eodieseo osyeosseoyo?", "english": "Where are you from?", "pronunciation": "oh-dee-eh-so oh-syo-sso-yo", "formality": "neutral" },
+    { "native": "호주에서 왔어요", "transliteration": "hojueseo wasseoyo", "english": "I'm from Australia", "pronunciation": "hoh-joo-eh-so wah-sso-yo", "formality": "neutral", "tip": "Swap the country: 미국에서 왔어요 (the US), 영국에서 왔어요 (the UK)." },
+    { "native": "나이가 어떻게 되세요?", "transliteration": "naiga eotteoke doeseyo?", "english": "How old are you? (polite)", "pronunciation": "nah-ee-gah oh-tto-keh dweh-seh-yo", "formality": "formal", "tip": "Age sets the speech level and seniority, so this is a normal early question in Korea." },
+    { "native": "무슨 일 하세요?", "transliteration": "museun il haseyo?", "english": "What do you do for work?", "pronunciation": "moo-seun eel hah-seh-yo", "formality": "neutral" },
+    { "native": "명함 있으세요?", "transliteration": "myeongham isseuseyo?", "english": "Do you have a business card?", "pronunciation": "myong-hahm ee-sseu-seh-yo", "formality": "formal", "tip": "Receive a card with both hands and a small bow; it is a sign of respect." },
+    { "native": "연락처 좀 알려 주세요", "transliteration": "yeollakcheo jom allyeo juseyo", "english": "Please share your contact details", "pronunciation": "yon-lahk-cho jom ahl-lyo joo-seh-yo", "formality": "neutral" },
+    { "native": "또 봐요", "transliteration": "tto bwayo", "english": "See you again", "pronunciation": "tto bwah-yo", "formality": "informal", "tip": "Casual closing; with seniors prefer 또 뵙겠습니다 (tto boepgesseumnida)." },
+    { "native": "잘 부탁드려요", "transliteration": "jal butakdeuryeoyo", "english": "I look forward to working with you", "pronunciation": "jahl boo-tahk-deu-ryo-yo", "formality": "formal", "tip": "A warm set phrase said after introductions; signals goodwill and cooperation." }
+  ]
+}

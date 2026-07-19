@@ -1,0 +1,90 @@
+{
+  "slug": "food-and-restaurants",
+  "title": "Food & Restaurants",
+  "titleNative": "Comida e restaurantes",
+  "shortSummary": "Order a meal, ask about dishes, and pay the bill, central to Brazilian social life.",
+  "level": "beginner",
+  "order": 4,
+  "icon": "🍽️",
+  "color": "#c0392b",
+  "culturalNote": "Brazilian food culture is generous and social. A common lunch option is the restaurante por quilo, where you serve yourself from a buffet and pay by the weight of your plate. The prato feito (set plate) of rice, beans, meat, and salad is everyday comfort food. A 10% service charge (a taxa de serviço) is usually added to the bill and is customary to pay. Coffee is central too: a cafezinho, a small strong sweet coffee, is offered everywhere as a gesture of hospitality. You ask for the bill with a conta, por favor.",
+  "keyPhrases": [
+    { "native": "Uma mesa para dois", "english": "A table for two", "pronunciation": "OO-mah MEH-zah PAH-rah doysh", "context": "Getting seated" },
+    { "native": "O cardápio, por favor", "english": "The menu, please", "pronunciation": "oo kar-DAH-pee-oo", "context": "Starting to order" },
+    { "native": "Eu queria o prato feito", "english": "I would like the set plate", "pronunciation": "EH-oo keh-REE-ah oo PRAH-too FAY-too", "context": "Ordering" },
+    { "native": "O que você recomenda?", "english": "What do you recommend?", "pronunciation": "oo kee voh-SEH heh-koh-MEN-dah", "context": "Asking for advice" },
+    { "native": "Sou vegetariano", "english": "I'm vegetarian", "pronunciation": "soh veh-zheh-tah-ree-AH-noo", "context": "Dietary need" },
+    { "native": "Um suco de laranja", "english": "An orange juice", "pronunciation": "oon SOO-koo jee lah-RAN-zhah", "context": "Ordering a drink" },
+    { "native": "Água com gás ou sem gás?", "english": "Sparkling or still water?", "pronunciation": "AH-gwah kohn gahs oh sayn gahs", "context": "Common question" },
+    { "native": "Está uma delícia", "english": "It's delicious", "pronunciation": "es-TAH OO-mah deh-LEE-see-ah", "context": "Praising the food" },
+    { "native": "A conta, por favor", "english": "The bill, please", "pronunciation": "ah KON-tah", "context": "Asking to pay" },
+    { "native": "Posso pagar com cartão?", "english": "Can I pay by card?", "pronunciation": "POH-soo pah-GAR kohn kar-TOWN", "context": "Paying" }
+  ],
+  "grammar": [
+    {
+      "rule": "Eu queria for polite requests",
+      "explanation": "Eu queria (I would like) is a softened past form of querer and is the polite way to order. It is gentler than eu quero (I want), which can sound blunt.",
+      "examples": [
+        { "native": "Eu queria um café.", "en": "I would like a coffee." },
+        { "native": "Eu queria ver o cardápio.", "en": "I would like to see the menu." }
+      ],
+      "commonMistake": "Using eu quero with the waiter, which sounds demanding. Prefer eu queria."
+    },
+    {
+      "rule": "Gostar de for 'to like'",
+      "explanation": "The verb gostar always needs de before what you like: gosto de café (I like coffee), gosto de comer fora (I like eating out). Never drop the de.",
+      "examples": [
+        { "native": "Eu gosto de feijoada.", "en": "I like feijoada." },
+        { "native": "Você gosta de peixe?", "en": "Do you like fish?" }
+      ],
+      "commonMistake": "Leaving out de. It is gosto de, not gosto café."
+    }
+  ],
+  "dialogue": {
+    "setup": "Lucas and a waiter at a restaurant in São Paulo.",
+    "lines": [
+      { "speaker": "Garçom", "native": "Boa noite, mesa para quantos?", "english": "Good evening, a table for how many?" },
+      { "speaker": "Lucas", "native": "Para dois, por favor. O cardápio?", "english": "For two, please. The menu?" },
+      { "speaker": "Garçom", "native": "Claro. O que vão querer?", "english": "Of course. What will you have?" },
+      { "speaker": "Lucas", "native": "O que você recomenda?", "english": "What do you recommend?" },
+      { "speaker": "Garçom", "native": "A feijoada é a nossa especialidade.", "english": "The feijoada is our specialty." },
+      { "speaker": "Lucas", "native": "Ótimo, eu queria a feijoada.", "english": "Great, I'd like the feijoada." },
+      { "speaker": "Garçom", "native": "Boa escolha! E para beber?", "english": "Good choice! And to drink?" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'The bill, please' in Portuguese?",
+      "correctAnswer": "A conta, por favor",
+      "explanation": "A conta is the bill; you ask for it yourself."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which is the polite way to order?",
+      "options": ["Eu quero o prato", "Eu queria o prato", "Me dá o prato", "Prato!"],
+      "correctAnswer": "Eu queria o prato",
+      "explanation": "Eu queria is softer and more polite than eu quero."
+    },
+    {
+      "type": "fill-blank",
+      "question": "Eu gosto _____ café. (preposition)",
+      "correctAnswer": "de",
+      "explanation": "Gostar always takes de before what you like."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is a restaurante por quilo?",
+      "options": ["A fast-food chain", "A buffet paid by weight", "A coffee shop", "A bakery"],
+      "correctAnswer": "A buffet paid by weight",
+      "explanation": "You serve yourself and pay by the plate's weight."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: dois / mesa / para / uma",
+      "correctAnswer": "Uma mesa para dois",
+      "explanation": "Uma mesa para dois means 'a table for two'."
+    }
+  ],
+  "status": "complete"
+}

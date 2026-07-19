@@ -1,0 +1,32 @@
+{
+  "slug": "perfect-tense",
+  "name": "The Perfect Tense",
+  "nameDe": "Das Perfekt",
+  "summary": "The everyday past tense of spoken German, built with haben or sein plus a participle.",
+  "level": "pre-intermediate",
+  "order": 12,
+  "explanation": "In spoken German, the perfect tense is how you talk about the past. It has two parts: a helper verb (haben or sein) in second position, and a past participle at the very end.\n\nMost verbs use 'haben': 'Ich habe Fußball gespielt' (I played football). Verbs of movement or change of state use 'sein': 'Ich bin nach Berlin gefahren' (I drove to Berlin), 'Er ist eingeschlafen' (He fell asleep).\n\nRegular participles follow the pattern ge- + stem + -t: spielen -> gespielt, machen -> gemacht. Many common verbs are irregular and end in -en: gehen -> gegangen, sehen -> gesehen, trinken -> getrunken.",
+  "pattern": "haben/sein (pos 2) + ... + past participle (end)",
+  "conjugation": {
+    "regular participle": "ge + stem + t (gespielt, gemacht)",
+    "irregular participle": "ge + stem + en (gegangen, gesehen)",
+    "haben verbs": "most verbs",
+    "sein verbs": "movement or change of state (gehen, fahren, kommen, werden)"
+  },
+  "examples": [
+    { "de": "Ich habe einen Film gesehen.", "en": "I watched a film." },
+    { "de": "Wir haben Pizza gegessen.", "en": "We ate pizza." },
+    { "de": "Bist du nach Hause gegangen?", "en": "Did you go home? (movement, sein)" },
+    { "de": "Sie ist um acht Uhr aufgestanden.", "en": "She got up at eight o'clock. (sein)" },
+    { "de": "Hast du gut geschlafen?", "en": "Did you sleep well?" },
+    { "de": "Er hat das Auto gekauft.", "en": "He bought the car." }
+  ],
+  "commonMistakes": [
+    "Choosing the wrong helper. Movement and change-of-state verbs take sein, not haben.",
+    "Leaving the participle in the middle: it must go to the end of the clause.",
+    "Forgetting the ge- prefix on most participles: it is 'gemacht', not 'macht'.",
+    "Adding ge- to verbs that do not take it, like those ending in -ieren: 'studiert', not 'gestudiert'.",
+    "Using -t on irregular participles: it is 'gegangen', not 'gegeht'."
+  ],
+  "tip": "When in doubt about haben or sein, ask: did the subject move from A to B or change state? If yes, use sein. Otherwise use haben."
+}

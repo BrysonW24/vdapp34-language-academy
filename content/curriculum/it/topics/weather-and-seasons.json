@@ -1,0 +1,90 @@
+{
+  "slug": "weather-and-seasons",
+  "title": "Weather & Seasons",
+  "titleNative": "Tempo e stagioni",
+  "shortSummary": "Talk about the weather, the seasons, and what to expect across Italy's climate.",
+  "level": "beginner",
+  "order": 12,
+  "icon": "🌤️",
+  "color": "#4a90d9",
+  "culturalNote": "Italy stretches a long way, so the weather varies hugely: Alpine winters in the north, mild Mediterranean coasts, and hot, dry southern summers. August is the month of le ferie, when many Italians take holidays and cities empty out in the heat. The grammar point to remember is that weather usually uses the verb fare: fa caldo (it's hot), fa freddo (it's cold), literally 'it makes hot/cold'. For some conditions you switch verbs: c'è il sole (it's sunny) and piove (it's raining). Talking about the weather is easy, friendly small talk anywhere.",
+  "keyPhrases": [
+    { "native": "Che tempo fa?", "english": "What's the weather like?", "pronunciation": "keh TEM-poh fah", "context": "Asking about weather" },
+    { "native": "Fa caldo", "english": "It's hot", "pronunciation": "fah KAL-doh", "context": "Hot weather" },
+    { "native": "Fa freddo", "english": "It's cold", "pronunciation": "fah FRED-doh", "context": "Cold weather" },
+    { "native": "C'è il sole", "english": "It's sunny", "pronunciation": "cheh eel SOH-leh", "context": "Sunshine" },
+    { "native": "Piove", "english": "It's raining", "pronunciation": "pee-OH-veh", "context": "Rain" },
+    { "native": "Nevica", "english": "It's snowing", "pronunciation": "NEH-vee-kah", "context": "Snow" },
+    { "native": "C'è vento", "english": "It's windy", "pronunciation": "cheh VEN-toh", "context": "Wind" },
+    { "native": "in primavera", "english": "in spring", "pronunciation": "een pree-mah-VEH-rah", "context": "A season" },
+    { "native": "d'estate", "english": "in summer", "pronunciation": "des-TAH-teh", "context": "A season" },
+    { "native": "Domani farà bel tempo", "english": "Tomorrow the weather will be nice", "pronunciation": "doh-MAH-nee fah-RAH bel TEM-poh", "context": "Forecast" }
+  ],
+  "grammar": [
+    {
+      "rule": "Fare for weather",
+      "explanation": "Italian describes most weather with fare (to make/do) in the third person: fa caldo (it's hot), fa freddo (it's cold), fa bel tempo (the weather is nice). It literally means 'it makes hot'.",
+      "examples": [
+        { "native": "Oggi fa molto caldo.", "en": "Today it's very hot." },
+        { "native": "Fa fresco la sera.", "en": "It's cool in the evening." }
+      ],
+      "commonMistake": "Using essere and saying è caldo for the weather. Weather uses fa caldo."
+    },
+    {
+      "rule": "Weather verbs piove and nevica",
+      "explanation": "Some weather conditions are single verbs used impersonally: piove (it rains/is raining) from piovere, and nevica (it snows/is snowing) from nevicare. No subject is needed.",
+      "examples": [
+        { "native": "Piove tutto il giorno.", "en": "It's raining all day." },
+        { "native": "In montagna nevica.", "en": "It's snowing in the mountains." }
+      ],
+      "commonMistake": "Adding a subject like 'it'. Italian just says piove."
+    }
+  ],
+  "dialogue": {
+    "setup": "Two friends plan a weekend trip and check the weather.",
+    "lines": [
+      { "speaker": "Anna", "native": "Che tempo fa oggi?", "english": "What's the weather like today?" },
+      { "speaker": "Luca", "native": "Fa caldo e c'è il sole.", "english": "It's hot and sunny." },
+      { "speaker": "Anna", "native": "Bene! E domani?", "english": "Good! And tomorrow?" },
+      { "speaker": "Luca", "native": "Domani forse piove.", "english": "Tomorrow it might rain." },
+      { "speaker": "Anna", "native": "Peccato. D'estate piove poco di solito.", "english": "Pity. In summer it usually rains little." },
+      { "speaker": "Luca", "native": "Vero. Portiamo l'ombrello per sicurezza.", "english": "True. Let's bring an umbrella just in case." },
+      { "speaker": "Anna", "native": "Buona idea!", "english": "Good idea!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you ask 'What's the weather like?' in Italian?",
+      "correctAnswer": "Che tempo fa?",
+      "explanation": "Che tempo fa? uses the verb fare for weather."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which verb does Italian use for 'it's hot'?",
+      "options": ["essere", "fare", "avere", "stare"],
+      "correctAnswer": "fare",
+      "explanation": "Fa caldo uses fare, not essere."
+    },
+    {
+      "type": "fill-blank",
+      "question": "_____ il sole. (there is)",
+      "correctAnswer": "C'è",
+      "explanation": "C'è il sole means 'it's sunny' (there is sun)."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does nevica mean?",
+      "options": ["it's raining", "it's snowing", "it's windy", "it's sunny"],
+      "correctAnswer": "it's snowing",
+      "explanation": "Nevica comes from nevicare, to snow."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: freddo / fa",
+      "correctAnswer": "Fa freddo",
+      "explanation": "Fa freddo means 'it's cold'."
+    }
+  ],
+  "status": "complete"
+}

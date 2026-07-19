@@ -1,13 +1,11 @@
 {
   "rank": 522,
-  "german": "Vertrag",
-  "english": "contract",
-  "pronunciation": "fair-TRAHK",
-  "partOfSpeech": "noun",
-  "gender": "masculine",
-  "article": "der",
-  "exampleDe": "Ich unterschreibe den Vertrag.",
-  "exampleEn": "I sign the contract.",
+  "german": "tod",
+  "english": "death",
+  "pronunciation": "t o d",
+  "partOfSpeech": "adjective",
+  "exampleDe": "Dieser Ort ist der Tod.",
+  "exampleEn": "This place is very death.",
   "group": "confident-350",
-  "topic": "work"
+  "topic": "descriptions"
 }

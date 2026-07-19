@@ -1,0 +1,34 @@
+{
+  "slug": "negation",
+  "name": "Negation (nai and masen)",
+  "nameNative": "否定形「ない・ません」",
+  "summary": "Make verbs negative with polite -ません (masen) or plain -ない (nai). Both turn 'do' into 'do not'.",
+  "level": "elementary",
+  "order": 8,
+  "explanation": "To say you do not do something, the polite negative simply changes ます to ません. 食べます (tabemasu, eat) becomes 食べません (tabemasen, do not eat); 行きます becomes 行きません (ikimasen, do not go). This is the safest negative for learners and works everywhere.\n\nThe plain negative, the -ない (nai) form, is used in casual speech and many grammar structures. Ichidan verbs drop る and add ない: 食べる becomes 食べない (tabenai). Godan verbs change the final -u to the -a row and add ない: 飲む becomes 飲まない (nomanai), 行く becomes 行かない (ikanai). The two irregulars are する - しない (shinai) and 来る - 来ない (konai).\n\nOne special case: the godan verbs ending in う, like 買う (kau), become 買わない (kawanai), inserting わ rather than あ. And the verb ある (aru, to exist for things) has the irregular negative ない. With these few rules, you can negate almost any verb.",
+  "pattern": "[verb stem] + ません (polite)  /  plain -ない form",
+  "conjugation": {
+    "polite negative": "食べません (tabemasen) - do not eat",
+    "plain negative (ichidan)": "食べない (tabenai) - do not eat",
+    "plain negative (godan -mu)": "飲まない (nomanai) - do not drink",
+    "plain negative (godan -ku)": "行かない (ikanai) - do not go",
+    "irregular suru": "しない (shinai) - do not do",
+    "irregular kuru": "来ない (konai) - do not come"
+  },
+  "examples": [
+    { "native": "私は肉を食べません。(watashi wa niku o tabemasen.)", "en": "I do not eat meat." },
+    { "native": "今日は仕事に行きません。(kyou wa shigoto ni ikimasen.)", "en": "I am not going to work today." },
+    { "native": "彼はお酒を飲まない。(kare wa osake o nomanai.)", "en": "He does not drink alcohol. (casual)" },
+    { "native": "時間がありません。(jikan ga arimasen.)", "en": "I have no time." },
+    { "native": "私は車を持っていません。(watashi wa kuruma o motte imasen.)", "en": "I do not have a car." },
+    { "native": "明日来ません。(ashita kimasen.)", "en": "I will not come tomorrow." }
+  ],
+  "commonMistakes": [
+    "Forming the polite negative as ますない. Just change ます to ません.",
+    "Treating godan verbs ending in う as taking あ. 買う becomes 買わない, with わ.",
+    "Forgetting the irregular negative of ある is ない, not あらない.",
+    "Applying ichidan rules to godan verbs (飲む becomes 飲まない, not 飲ない).",
+    "Mixing the plain ない form with the polite ません in one sentence."
+  ],
+  "tip": "Polite is the easy path: ます becomes ません. Save the plain ない form for casual speech and grammar chains."
+}

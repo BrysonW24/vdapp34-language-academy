@@ -1,0 +1,26 @@
+{
+  "slug": "sentence-structure",
+  "name": "Basic Sentence Structure",
+  "nameZh": "基本语序",
+  "summary": "Chinese word order is Subject-Verb-Object, with no conjugation and no tenses to memorise.",
+  "level": "beginner",
+  "order": 1,
+  "explanation": "Mandarin follows a Subject-Verb-Object order, just like English: 我吃饭 (wǒ chī fàn) = I eat rice. The wonderful news is that verbs never change. There is no conjugation for person, and no tense endings: 我吃, 你吃, 他吃 all use the same 吃 (chī, eat).\n\nTime and place information comes BEFORE the verb, not after. The pattern is Subject + Time + Place + Verb + Object: 我明天在家看书 (wǒ míngtiān zài jiā kàn shū) = I read at home tomorrow. This front-loading of time and place is the single biggest difference from English.\n\nBecause nothing conjugates, learning Chinese grammar is mostly about word order and small particles rather than verb tables.",
+  "pattern": "Subject + Time + Place + Verb + Object",
+  "examples": [
+    { "zh": "我喝水。", "en": "I drink water." },
+    { "zh": "他学中文。", "en": "He studies Chinese." },
+    { "zh": "我们明天去北京。", "en": "We go to Beijing tomorrow. (time before verb)" },
+    { "zh": "她在学校工作。", "en": "She works at the school. (place before verb)" },
+    { "zh": "我每天早上喝咖啡。", "en": "I drink coffee every morning." },
+    { "zh": "你吃米饭吗？", "en": "Do you eat rice?" }
+  ],
+  "commonMistakes": [
+    "Placing time after the verb as in English: it is 我明天去 (I go tomorrow), not 我去明天.",
+    "Trying to conjugate verbs. Chinese verbs never change form.",
+    "Putting the place after the verb: it is 我在家吃饭, not 我吃饭在家.",
+    "Adding an English 'to be' before adjectives. With adjectives you use 很 instead of 是 (see the adjectives note).",
+    "Forgetting that the object follows the verb directly: 我看书, not 书我看."
+  ],
+  "tip": "Remember the order with a simple chant: who, when, where, does what. Time and place always come before the verb."
+}

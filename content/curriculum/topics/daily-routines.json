@@ -1,0 +1,101 @@
+{
+  "slug": "daily-routines",
+  "title": "Daily Routines",
+  "titleEs": "Rutinas Diarias",
+  "shortSummary": "Describe your daily habits — waking up, meals, work, and bedtime. Introduces reflexive verbs and time expressions.",
+  "level": "beginner",
+  "order": 7,
+  "icon": "⏰",
+  "color": "#4338ca",
+  "culturalNote": "Daily schedules in Spain and Latin America differ markedly from Anglo countries. Spaniards typically eat lunch between 2-3 PM, take a break in the afternoon, and have dinner around 9-10 PM. The 'sobremesa' — lingering at the table chatting after a meal — is a cherished tradition. Work hours often extend later into the evening to accommodate this rhythm.",
+  "keyPhrases": [
+    { "spanish": "Me despierto a las siete", "english": "I wake up at seven", "pronunciation": "meh dehs-pee-EHR-toh ah lahs see-EH-teh", "context": "Reflexive verb — you wake yourself up" },
+    { "spanish": "Me ducho por la mañana", "english": "I shower in the morning", "pronunciation": "meh DOO-choh pohr lah mah-NYAH-nah", "context": "Reflexive: ducharse = to shower (oneself)" },
+    { "spanish": "Desayuno a las ocho", "english": "I have breakfast at eight", "pronunciation": "deh-sah-YOO-noh ah lahs OH-choh", "context": "Desayunar = to have breakfast (no reflexive needed)" },
+    { "spanish": "Voy al trabajo en metro", "english": "I go to work by metro", "pronunciation": "boy ahl trah-BAH-hoh ehn MEH-troh", "context": "Using 'ir a' for going somewhere" },
+    { "spanish": "Trabajo de nueve a cinco", "english": "I work from nine to five", "pronunciation": "trah-BAH-hoh deh NWEH-beh ah SEEN-koh", "context": "De...a... for time ranges" },
+    { "spanish": "Como a las dos", "english": "I eat lunch at two", "pronunciation": "KOH-moh ah lahs dohs", "context": "Main meal in Spain is lunch, typically 2-3 PM" },
+    { "spanish": "Después del trabajo, descanso", "english": "After work, I rest", "pronunciation": "dehs-PWEHS dehl trah-BAH-hoh dehs-KAHN-soh", "context": "Using 'después de' for sequencing activities" },
+    { "spanish": "Me acuesto a las once", "english": "I go to bed at eleven", "pronunciation": "meh ah-KWEHS-toh ah lahs OHN-seh", "context": "Reflexive: acostarse = to put oneself to bed" },
+    { "spanish": "Los fines de semana duermo hasta tarde", "english": "On weekends I sleep in", "pronunciation": "lohs FEE-nehs deh seh-MAH-nah DWEHR-moh AHS-tah TAR-deh", "context": "Dormir = to sleep (stem change o→ue)" },
+    { "spanish": "Siempre como con mi familia", "english": "I always eat with my family", "pronunciation": "see-EHM-preh KOH-moh kohn mee fah-MEE-lee-ah", "context": "Frequency adverbs go before the verb" }
+  ],
+  "grammar": [
+    {
+      "rule": "Reflexive verbs: me/te/se + verb",
+      "explanation": "Reflexive verbs describe actions you do to yourself. The pronoun (me, te, se, nos, os, se) goes before the conjugated verb. Many daily routine verbs are reflexive: despertarse, ducharse, vestirse, acostarse.",
+      "examples": [
+        { "es": "Me levanto a las siete", "en": "I get (myself) up at seven" },
+        { "es": "Te duchas por la mañana", "en": "You shower in the morning" },
+        { "es": "Se acuesta tarde", "en": "He/she goes to bed late" }
+      ],
+      "commonMistake": "Forgetting the reflexive pronoun: 'levanto a las siete' is incomplete — you need 'me levanto'."
+    },
+    {
+      "rule": "Time expressions: antes de / después de",
+      "explanation": "Use 'antes de' (before) and 'después de' (after) + infinitive or noun to sequence your activities. 'Antes de comer' (before eating), 'después del trabajo' (after work).",
+      "examples": [
+        { "es": "Antes de salir, desayuno", "en": "Before leaving, I have breakfast" },
+        { "es": "Después de cenar, leo un libro", "en": "After dinner, I read a book" }
+      ],
+      "commonMistake": "Using a conjugated verb after 'antes de' — say 'antes de comer' (infinitive), not 'antes de como'."
+    },
+    {
+      "rule": "Frequency adverbs: siempre, nunca, a veces",
+      "explanation": "Common frequency adverbs: siempre (always), casi siempre (almost always), a veces (sometimes), casi nunca (almost never), nunca (never). They typically go before the verb.",
+      "examples": [
+        { "es": "Siempre desayuno café", "en": "I always have coffee for breakfast" },
+        { "es": "Nunca me acuesto antes de las diez", "en": "I never go to bed before ten" },
+        { "es": "A veces como en un restaurante", "en": "Sometimes I eat at a restaurant" }
+      ],
+      "commonMistake": "Double negation confusion: 'nunca' already means never, but in Spanish you CAN say 'no como nunca' — double negatives reinforce each other."
+    }
+  ],
+  "dialogue": {
+    "setup": "Two friends, Lucía and David, compare their daily routines over coffee.",
+    "lines": [
+      { "speaker": "Lucía", "spanish": "¿A qué hora te levantas normalmente?", "english": "What time do you normally get up?" },
+      { "speaker": "David", "spanish": "Me levanto a las seis y media. Soy muy madrugador.", "english": "I get up at 6:30. I'm an early riser." },
+      { "speaker": "Lucía", "spanish": "¡Qué temprano! Yo me despierto a las ocho.", "english": "So early! I wake up at eight." },
+      { "speaker": "David", "spanish": "¿Desayunas en casa?", "english": "Do you have breakfast at home?" },
+      { "speaker": "Lucía", "spanish": "Sí, siempre desayuno tostadas y café.", "english": "Yes, I always have toast and coffee for breakfast." },
+      { "speaker": "David", "spanish": "Yo nunca desayuno en casa. Como algo en la oficina.", "english": "I never have breakfast at home. I eat something at the office." },
+      { "speaker": "Lucía", "spanish": "¿Y después del trabajo, qué haces?", "english": "And after work, what do you do?" },
+      { "speaker": "David", "spanish": "Voy al gimnasio y después ceno sobre las nueve.", "english": "I go to the gym and then have dinner around nine." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'I wake up at seven' in Spanish?",
+      "correctAnswer": "Me despierto a las siete",
+      "explanation": "'Despertarse' is reflexive — 'me despierto' means 'I wake (myself) up'."
+    },
+    {
+      "type": "fill-blank",
+      "question": "_____ levanto a las ocho. (I get up at eight)",
+      "correctAnswer": "Me",
+      "explanation": "'Levantarse' is reflexive — the 'yo' form needs the pronoun 'me' before the verb."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which is correct for 'Before eating, I shower'?",
+      "options": ["Antes de como, me ducho", "Antes de comer, me ducho", "Antes comer, me ducho", "Antes de comer, ducho"],
+      "correctAnswer": "Antes de comer, me ducho",
+      "explanation": "Use infinitive after 'antes de', and don't forget the reflexive pronoun 'me'."
+    },
+    {
+      "type": "translate",
+      "question": "How do you say 'I always eat with my family'?",
+      "correctAnswer": "Siempre como con mi familia",
+      "explanation": "Frequency adverb 'siempre' goes before the verb 'como'."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: acuesto / las once / me / a",
+      "correctAnswer": "Me acuesto a las once",
+      "explanation": "Reflexive pronoun 'me' first, then verb 'acuesto', then time 'a las once'."
+    }
+  ],
+  "status": "complete"
+}

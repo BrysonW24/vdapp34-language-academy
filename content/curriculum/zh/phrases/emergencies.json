@@ -1,0 +1,21 @@
+{
+  "slug": "emergencies",
+  "title": "Emergencies",
+  "description": "Get help fast: phrases for medical, safety, and urgent situations in Mandarin.",
+  "situation": "Urgent help: calling for assistance, describing problems, the pharmacy, and the doctor.",
+  "order": 7,
+  "phrases": [
+    { "chinese": "救命！", "pinyin": "jiùmìng!", "english": "Help! (life-saving)", "formality": "neutral", "tip": "A serious cry for help. For 'excuse me' use 不好意思." },
+    { "chinese": "叫救护车！", "pinyin": "jiào jiùhùchē!", "english": "Call an ambulance!", "formality": "neutral", "tip": "The medical emergency number in China is 120." },
+    { "chinese": "我需要看医生", "pinyin": "wǒ xūyào kàn yīshēng", "english": "I need to see a doctor", "formality": "neutral" },
+    { "chinese": "这是紧急情况", "pinyin": "zhè shì jǐnjí qíngkuàng", "english": "This is an emergency", "formality": "neutral" },
+    { "chinese": "我不舒服", "pinyin": "wǒ bù shūfu", "english": "I don't feel well", "formality": "neutral" },
+    { "chinese": "这里疼", "pinyin": "zhèlǐ téng", "english": "It hurts here", "formality": "neutral", "tip": "Point to where it hurts as you say it." },
+    { "chinese": "我对...过敏", "pinyin": "wǒ duì...guòmǐn", "english": "I'm allergic to...", "formality": "neutral" },
+    { "chinese": "最近的药店在哪里？", "pinyin": "zuìjìn de yàodiàn zài nǎlǐ?", "english": "Where is the nearest pharmacy?", "formality": "neutral" },
+    { "chinese": "我的护照丢了", "pinyin": "wǒ de hùzhào diū le", "english": "I've lost my passport", "formality": "neutral" },
+    { "chinese": "叫警察！", "pinyin": "jiào jǐngchá!", "english": "Call the police!", "formality": "neutral", "tip": "The police number in China is 110." },
+    { "chinese": "请说慢一点", "pinyin": "qǐng shuō màn yìdiǎn", "english": "Please speak more slowly", "formality": "neutral" },
+    { "chinese": "我发烧了", "pinyin": "wǒ fāshāo le", "english": "I have a fever", "formality": "neutral" }
+  ]
+}

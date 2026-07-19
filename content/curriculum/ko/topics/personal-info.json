@@ -1,0 +1,90 @@
+{
+  "slug": "personal-info",
+  "title": "Personal Information",
+  "titleNative": "개인 정보",
+  "shortSummary": "Share your name, nationality, age, and job, and ask others about themselves in polite Korean.",
+  "level": "beginner",
+  "order": 2,
+  "icon": "🪪",
+  "color": "#7048e8",
+  "culturalNote": "When Koreans introduce themselves they usually give their name with the family name first, so a person named Kim Minsu is addressed by the family name Kim. Age comes up early in Korean conversation, not as nosiness but because it decides which politeness level and which forms of address each person should use. Asking 몇 살이에요? (myeot sarieyo, how old are you?) is normal between new acquaintances of similar standing. Job and company are also common opening topics, and people often exchange business cards (명함, myeongham) with two hands as a sign of respect. Until you know someone's age and position you stay in the polite -요 form; once relationships are clear, an older or senior person may invite you to speak more casually.",
+  "keyPhrases": [
+    { "native": "이름이 뭐예요?", "english": "What is your name?", "transliteration": "ireumi mwoyeyo?", "pronunciation": "i-reu-mi mwo-ye-yo", "context": "Asking someone's name" },
+    { "native": "제 이름은 민수예요", "english": "My name is Minsu", "transliteration": "je ireumeun minsuyeyo", "pronunciation": "je i-reu-meun min-su-ye-yo", "context": "Giving your name" },
+    { "native": "어디에서 왔어요?", "english": "Where are you from?", "transliteration": "eodieseo wasseoyo?", "pronunciation": "o-di-e-so wa-sso-yo", "context": "Asking nationality or hometown" },
+    { "native": "저는 호주에서 왔어요", "english": "I'm from Australia", "transliteration": "jeoneun hojueseo wasseoyo", "pronunciation": "jo-neun ho-ju-e-so wa-sso-yo", "context": "Stating where you are from" },
+    { "native": "몇 살이에요?", "english": "How old are you?", "transliteration": "myeot sarieyo?", "pronunciation": "myot sa-ri-e-yo", "context": "Asking age, common in Korea" },
+    { "native": "스물다섯 살이에요", "english": "I'm twenty-five years old", "transliteration": "seumuldaseot sarieyo", "pronunciation": "seu-mul-da-sot sa-ri-e-yo", "context": "Stating your age" },
+    { "native": "직업이 뭐예요?", "english": "What is your job?", "transliteration": "jigeobi mwoyeyo?", "pronunciation": "ji-go-bi mwo-ye-yo", "context": "Asking occupation" },
+    { "native": "저는 학생이에요", "english": "I'm a student", "transliteration": "jeoneun haksaengieyo", "pronunciation": "jo-neun hak-saeng-i-e-yo", "context": "Stating your occupation" },
+    { "native": "전화번호가 뭐예요?", "english": "What is your phone number?", "transliteration": "jeonhwabeonhoga mwoyeyo?", "pronunciation": "jon-hwa-bon-ho-ga mwo-ye-yo", "context": "Exchanging contact details" },
+    { "native": "한국어를 조금 해요", "english": "I speak a little Korean", "transliteration": "hangugeoreul jogeum haeyo", "pronunciation": "han-gu-go-reul jo-geum hae-yo", "context": "Describing your ability" }
+  ],
+  "grammar": [
+    {
+      "rule": "The topic particle 은/는",
+      "explanation": "To mark the topic of a sentence (often the subject) Korean adds 은 after a word ending in a consonant and 는 after a vowel. 저 (jeo, I) becomes 저는 (jeoneun). This particle introduces what you are talking about.",
+      "examples": [
+        { "native": "저는 학생이에요. (jeoneun haksaengieyo.)", "en": "I'm a student." },
+        { "native": "제 이름은 민수예요. (je ireumeun minsuyeyo.)", "en": "My name is Minsu." }
+      ],
+      "commonMistake": "Using 는 after a consonant; words like 이름 (ireum) take 은, giving 이름은."
+    },
+    {
+      "rule": "이에요 / 예요 for 'to be'",
+      "explanation": "To say 'A is B' Korean attaches 이에요 after a consonant and 예요 after a vowel to the noun. 학생 (haksaeng, student) becomes 학생이에요, while 민수 (Minsu) becomes 민수예요.",
+      "examples": [
+        { "native": "저는 회사원이에요. (jeoneun hoesawonieyo.)", "en": "I'm an office worker." },
+        { "native": "이건 제 명함이에요. (igeon je myeonghamieyo.)", "en": "This is my business card." }
+      ],
+      "commonMistake": "Using 예요 after a consonant; after a consonant you need 이에요."
+    }
+  ],
+  "dialogue": {
+    "setup": "Two students, Minsu and Sarah, meet at a language exchange and introduce themselves.",
+    "lines": [
+      { "speaker": "민수", "native": "안녕하세요. 이름이 뭐예요?", "transliteration": "annyeonghaseyo. ireumi mwoyeyo?", "english": "Hello. What is your name?" },
+      { "speaker": "사라", "native": "제 이름은 사라예요. 어디에서 왔어요?", "transliteration": "je ireumeun sarayeyo. eodieseo wasseoyo?", "english": "My name is Sarah. Where are you from?" },
+      { "speaker": "민수", "native": "저는 서울에서 왔어요. 사라 씨는요?", "transliteration": "jeoneun seoureseo wasseoyo. sara ssineunyo?", "english": "I'm from Seoul. And you, Sarah?" },
+      { "speaker": "사라", "native": "저는 호주에서 왔어요. 직업이 뭐예요?", "transliteration": "jeoneun hojueseo wasseoyo. jigeobi mwoyeyo?", "english": "I'm from Australia. What is your job?" },
+      { "speaker": "민수", "native": "저는 회사원이에요. 사라 씨는요?", "transliteration": "jeoneun hoesawonieyo. sara ssineunyo?", "english": "I'm an office worker. And you, Sarah?" },
+      { "speaker": "사라", "native": "저는 학생이에요. 한국어를 조금 해요.", "transliteration": "jeoneun haksaengieyo. hangugeoreul jogeum haeyo.", "english": "I'm a student. I speak a little Korean." },
+      { "speaker": "민수", "native": "잘하시네요! 만나서 반가워요.", "transliteration": "jalhasineyo! mannaseo bangawoyo.", "english": "You speak well! Nice to meet you." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you ask 'What is your name?' in Korean?",
+      "correctAnswer": "이름이 뭐예요?",
+      "explanation": "이름이 뭐예요? (ireumi mwoyeyo) literally asks 'what is the name?'"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which sentence correctly says 'I'm a student'?",
+      "options": ["저는 학생예요", "저는 학생이에요", "저는 학생요", "저는 학생는"],
+      "correctAnswer": "저는 학생이에요",
+      "explanation": "학생 ends in a consonant, so it takes 이에요, giving 학생이에요."
+    },
+    {
+      "type": "fill-blank",
+      "question": "저___ 호주에서 왔어요. (topic particle after a vowel)",
+      "correctAnswer": "는",
+      "explanation": "저 (jeo) ends in a vowel, so the topic particle is 는, giving 저는."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does 몇 살이에요? ask?",
+      "options": ["What is your job?", "Where are you from?", "How old are you?", "What is your name?"],
+      "correctAnswer": "How old are you?",
+      "explanation": "몇 살이에요? (myeot sarieyo) asks someone's age, a common early question in Korea."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: 왔어요 / 저는 / 호주에서 (I'm from Australia)",
+      "correctAnswer": "저는 호주에서 왔어요",
+      "explanation": "Korean order is topic + place + verb: 저는 호주에서 왔어요."
+    }
+  ],
+  "status": "complete"
+}

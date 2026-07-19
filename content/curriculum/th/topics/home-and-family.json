@@ -1,0 +1,90 @@
+{
+  "slug": "home-and-family",
+  "title": "Home & Family",
+  "titleTh": "บ้านและครอบครัว",
+  "shortSummary": "Talk about your family members and describe where you live.",
+  "level": "elementary",
+  "order": 8,
+  "icon": "🏠",
+  "color": "#a0453f",
+  "culturalNote": "Family and respect for elders are central in Thailand, and extended families often live close together or share a home. Age shapes language: there are different words for older and younger siblings, พี่ (phii) for older and น้อง (nong) for younger, and these words are also used warmly for friends. Grandparents frequently help raise children, and family gatherings around food are a cherished part of life.",
+  "keyPhrases": [
+    { "thai": "ครอบครัวของผม", "pronunciation": "khrop-khrua khong phom", "english": "my family", "context": "The core noun" },
+    { "thai": "พ่อ / แม่", "pronunciation": "phor / mae", "english": "dad / mum", "context": "Parents" },
+    { "thai": "พี่ชาย / น้องชาย", "pronunciation": "phii-chaai / nong-chaai", "english": "older brother / younger brother", "context": "Age matters" },
+    { "thai": "พี่สาว / น้องสาว", "pronunciation": "phii-saao / nong-saao", "english": "older sister / younger sister", "context": "Age matters" },
+    { "thai": "คุณมีพี่น้องไหม", "pronunciation": "khun mii phii-nong mai", "english": "Do you have siblings?", "context": "Common question" },
+    { "thai": "ผมมีลูกหนึ่งคน", "pronunciation": "phom mii luuk neung khon", "english": "I have one child", "context": "คน is the classifier for people" },
+    { "thai": "ผมอยู่คอนโด", "pronunciation": "phom yuu condo", "english": "I live in a condo", "context": "Describing your home" },
+    { "thai": "ห้องนั่งเล่น", "pronunciation": "hong nang-len", "english": "living room", "context": "A room" },
+    { "thai": "ห้องครัว", "pronunciation": "hong khrua", "english": "kitchen", "context": "A room" },
+    { "thai": "เราอยู่ด้วยกัน", "pronunciation": "rao yuu duay-kan", "english": "We live together", "context": "Living arrangements" }
+  ],
+  "grammar": [
+    {
+      "rule": "มี for 'have'",
+      "explanation": "มี (mii) means 'have' or 'there is': ผมมีพี่สาวสองคน (I have two older sisters). To say you do not have something, use ไม่มี: ผมไม่มีพี่น้อง (I have no siblings).",
+      "examples": [
+        { "th": "ผมมีน้องชาย", "en": "I have a younger brother." },
+        { "th": "ผมไม่มีลูก", "en": "I don't have children." }
+      ],
+      "commonMistake": "Negating มี with anything other than ไม่. It is ไม่มี (don't have)."
+    },
+    {
+      "rule": "Older vs younger siblings",
+      "explanation": "Thai marks age: พี่ (phii) is an older sibling, น้อง (nong) a younger one, with ชาย (male) or สาว (female) added. So พี่ชาย is older brother, น้องสาว is younger sister.",
+      "examples": [
+        { "th": "พี่ชายของผม", "en": "my older brother" },
+        { "th": "น้องสาวของผม", "en": "my younger sister" }
+      ],
+      "commonMistake": "Using one word for 'brother' or 'sister'. Thai distinguishes older and younger."
+    }
+  ],
+  "dialogue": {
+    "setup": "Fern shows her classmate a family photo on her phone.",
+    "lines": [
+      { "speaker": "เพื่อน", "thai": "นี่ครอบครัวของเฟิร์นเหรอ", "pronunciation": "nii khrop-khrua khong Fern roe", "english": "Is this your family?" },
+      { "speaker": "เฟิร์น", "thai": "ใช่ค่ะ นี่พ่อ แม่ และพี่สาว", "pronunciation": "chai kha, nii phor, mae, lae phii-saao", "english": "Yes, this is dad, mum, and my older sister." },
+      { "speaker": "เพื่อน", "thai": "มีน้องไหม", "pronunciation": "mii nong mai", "english": "Do you have younger siblings?" },
+      { "speaker": "เฟิร์น", "thai": "มีน้องชายหนึ่งคนค่ะ", "pronunciation": "mii nong-chaai neung khon kha", "english": "I have one younger brother." },
+      { "speaker": "เพื่อน", "thai": "พี่สาวอยู่บ้านไหม", "pronunciation": "phii-saao yuu baan mai", "english": "Does your older sister live at home?" },
+      { "speaker": "เฟิร์น", "thai": "ไม่ค่ะ เขาอยู่ที่ภูเก็ต", "pronunciation": "mai kha, khao yuu thii Phuket", "english": "No, she lives in Phuket." },
+      { "speaker": "เพื่อน", "thai": "ครอบครัวน่ารักจังเลย", "pronunciation": "khrop-khrua naa-rak jang loei", "english": "What a lovely family." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'I have one child'?",
+      "correctAnswer": "ผมมีลูกหนึ่งคน",
+      "explanation": "มี (have) + ลูก (child) + หนึ่งคน (one person)."
+    },
+    {
+      "type": "fill-blank",
+      "question": "ผม_____พี่น้อง (I have no siblings)",
+      "correctAnswer": "ไม่มี",
+      "explanation": "มี is negated as ไม่มี."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which means 'older brother'?",
+      "options": ["น้องชาย", "พี่ชาย", "พี่สาว", "น้องสาว"],
+      "correctAnswer": "พี่ชาย",
+      "explanation": "พี่ชาย is older brother; น้องชาย is younger brother."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which is the kitchen?",
+      "options": ["ห้องนั่งเล่น", "ห้องครัว", "ห้องน้ำ", "ห้องนอน"],
+      "correctAnswer": "ห้องครัว",
+      "explanation": "ห้องครัว means kitchen."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: ไหม / พี่น้อง / มี / คุณ",
+      "correctAnswer": "คุณมีพี่น้องไหม",
+      "explanation": "คุณ + มี (have) + พี่น้อง (siblings) + ไหม (question)."
+    }
+  ],
+  "status": "complete"
+}

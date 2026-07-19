@@ -1,0 +1,90 @@
+{
+  "slug": "home-and-family",
+  "title": "Home & Family",
+  "titleNative": "Casa e família",
+  "shortSummary": "Talk about your family members and describe your home, rooms, and where you live.",
+  "level": "beginner",
+  "order": 8,
+  "icon": "🏠",
+  "color": "#a0522d",
+  "culturalNote": "Family (a família) is central to Brazilian life, and ties are close and affectionate. Extended families gather often, and the Sunday churrasco (barbecue) is a beloved institution that brings everyone together. It is common for young adults to live with their parents until they marry. Homes are often apartments (um apartamento) in the cities, where the kitchen and the area outside (a área de serviço) are practical hubs. Words for family are warm and frequently used in diminutive forms of affection, like mãezinha (dear mum) and vovó (granny).",
+  "keyPhrases": [
+    { "native": "esta é a minha família", "english": "this is my family", "pronunciation": "ES-tah eh ah MEE-nyah fah-MEE-lee-ah", "context": "Introducing family" },
+    { "native": "minha mãe", "english": "my mother", "pronunciation": "MEE-nyah maen", "context": "Parents" },
+    { "native": "meu pai", "english": "my father", "pronunciation": "MEH-oo pai", "context": "Parents" },
+    { "native": "os meus pais", "english": "my parents", "pronunciation": "oos MEH-oos pais", "context": "Both parents" },
+    { "native": "tenho um irmão", "english": "I have a brother", "pronunciation": "TEH-nyoo oon eer-MOWN", "context": "Siblings" },
+    { "native": "uma irmã", "english": "a sister", "pronunciation": "OO-mah eer-MAN", "context": "Siblings" },
+    { "native": "moro num apartamento", "english": "I live in an apartment", "pronunciation": "MOH-roo noon ah-par-tah-MEN-too", "context": "Type of home" },
+    { "native": "a minha casa é pequena", "english": "my house is small", "pronunciation": "ah MEE-nyah KAH-zah eh peh-KEH-nah", "context": "Describing home" },
+    { "native": "tem três quartos", "english": "there are three bedrooms", "pronunciation": "tayn tres KWAR-toos", "context": "Rooms" },
+    { "native": "moramos juntos", "english": "we live together", "pronunciation": "moh-RAH-moos ZHOON-toos", "context": "Household" }
+  ],
+  "grammar": [
+    {
+      "rule": "Tem for 'there is / there are'",
+      "explanation": "In spoken Brazilian Portuguese, tem (from ter) is the everyday way to say 'there is' or 'there are', for both singular and plural: tem um jardim (there is a garden), tem dois banheiros (there are two bathrooms). The more formal há also exists.",
+      "examples": [
+        { "native": "Tem uma cozinha grande.", "en": "There is a big kitchen." },
+        { "native": "Tem muitas janelas.", "en": "There are many windows." }
+      ],
+      "commonMistake": "Overusing há in casual speech, where tem is far more natural in Brazil."
+    },
+    {
+      "rule": "Possessives with family",
+      "explanation": "Possessives agree with the family member, not the owner: minha mãe (my mother), meu pai (my father), meus irmãos (my siblings). In Brazil the article before them is optional: a minha mãe or minha mãe.",
+      "examples": [
+        { "native": "Meu pai é alto.", "en": "My father is tall." },
+        { "native": "Meus tios moram aqui.", "en": "My uncles live here." }
+      ],
+      "commonMistake": "Making the possessive agree with yourself instead of the family member."
+    }
+  ],
+  "dialogue": {
+    "setup": "Carla shows a friend a photo of her family.",
+    "lines": [
+      { "speaker": "Amigo", "native": "Quem são essas pessoas?", "english": "Who are these people?" },
+      { "speaker": "Carla", "native": "Esta é a minha família.", "english": "This is my family." },
+      { "speaker": "Amigo", "native": "E essa senhora?", "english": "And this lady?" },
+      { "speaker": "Carla", "native": "É a minha mãe. Ao lado está o meu pai.", "english": "She's my mother. Next to her is my father." },
+      { "speaker": "Amigo", "native": "Você tem irmãos?", "english": "Do you have brothers or sisters?" },
+      { "speaker": "Carla", "native": "Tenho um irmão e uma irmã.", "english": "I have a brother and a sister." },
+      { "speaker": "Amigo", "native": "Que família linda!", "english": "What a lovely family!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'my mother' in Portuguese?",
+      "correctAnswer": "minha mãe",
+      "explanation": "Minha agrees with the feminine mãe."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What's the everyday Brazilian way to say 'there is'?",
+      "options": ["há", "tem", "é", "está"],
+      "correctAnswer": "tem",
+      "explanation": "Tem is the common spoken form for 'there is/are'."
+    },
+    {
+      "type": "fill-blank",
+      "question": "_____ pai é alto. (my)",
+      "correctAnswer": "Meu",
+      "explanation": "Meu agrees with the masculine pai."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does uma irmã mean?",
+      "options": ["a brother", "a sister", "a mother", "an aunt"],
+      "correctAnswer": "a sister",
+      "explanation": "Irmã is sister; irmão is brother."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: quartos / tem / três",
+      "correctAnswer": "Tem três quartos",
+      "explanation": "Tem três quartos means 'there are three bedrooms'."
+    }
+  ],
+  "status": "complete"
+}

@@ -1,12 +1,13 @@
 {
   "rank": 204,
-  "chinese": "出",
-  "characters": "出",
-  "pinyin": "chū",
-  "english": "to go out/to exit",
-  "partOfSpeech": "verb",
-  "exampleZh": "我们出去走走吧。",
-  "exampleEn": "Let's go out for a walk.",
+  "chinese": "现场",
+  "characters": "现场",
+  "pinyin": "xiàn chǎng",
+  "english": "on site",
+  "pronunciation": "xian-chang",
+  "partOfSpeech": "preposition",
+  "exampleZh": "书在现场桌子上。",
+  "exampleEn": "The book is on site the table.",
   "group": "everyday-250",
-  "topic": "actions"
+  "topic": "basics"
 }

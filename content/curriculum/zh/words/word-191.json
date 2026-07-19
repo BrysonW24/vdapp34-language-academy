@@ -1,12 +1,13 @@
 {
   "rank": 191,
-  "chinese": "找",
-  "characters": "找",
-  "pinyin": "zhǎo",
-  "english": "to look for",
-  "partOfSpeech": "verb",
-  "exampleZh": "我在找我的手机。",
-  "exampleEn": "I'm looking for my phone.",
+  "chinese": "官员",
+  "characters": "官员",
+  "pinyin": "guān yuán",
+  "english": "official",
+  "pronunciation": "guan-yuan",
+  "partOfSpeech": "noun",
+  "exampleZh": "这位官员很重要。",
+  "exampleEn": "This official is important.",
   "group": "everyday-250",
-  "topic": "actions"
+  "topic": "basics"
 }

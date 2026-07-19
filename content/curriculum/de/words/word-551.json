@@ -1,13 +1,11 @@
 {
   "rank": 551,
-  "german": "Wolke",
-  "english": "cloud",
-  "pronunciation": "VOL-keh",
-  "partOfSpeech": "noun",
-  "gender": "feminine",
-  "article": "die",
-  "exampleDe": "Am Himmel sind Wolken.",
-  "exampleEn": "There are clouds in the sky.",
+  "german": "na",
+  "english": "n/a",
+  "pronunciation": "n a",
+  "partOfSpeech": "adjective",
+  "exampleDe": "Das ist sehr na.",
+  "exampleEn": "That is very n/a.",
   "group": "confident-350",
-  "topic": "travel"
+  "topic": "descriptions"
 }

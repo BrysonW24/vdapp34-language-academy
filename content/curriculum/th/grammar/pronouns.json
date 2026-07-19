@@ -1,0 +1,26 @@
+{
+  "slug": "pronouns",
+  "name": "Pronouns",
+  "nameTh": "คำสรรพนาม",
+  "summary": "Thai pronouns depend on gender and politeness, and are often dropped when obvious.",
+  "level": "elementary",
+  "order": 6,
+  "explanation": "Thai has more pronouns than English, chosen by gender and formality. For 'I', men say ผม (phom) and women say ฉัน (chan) or ดิฉัน (di-chan, formal). For 'you', the polite all-purpose word is คุณ (khun), which also works like Mr or Ms before a name.\n\nFor 'he' and 'she', เขา (khao) covers both, and มัน (man, it) is used for things and animals. In everyday speech, Thai often drops the pronoun once the subject is clear, so you will hear sentences with no 'I' or 'you' at all.\n\nUsing someone's name or title instead of 'you' is common and friendly, and avoids sounding too direct.",
+  "pattern": "I: ผม (m) / ฉัน (f)  |  you: คุณ  |  he/she: เขา",
+  "examples": [
+    { "th": "ผมชอบกาแฟ", "en": "I like coffee. (male speaker)" },
+    { "th": "ฉันไม่หิว", "en": "I'm not hungry. (female speaker)" },
+    { "th": "คุณมาจากไหน", "en": "Where are you from?" },
+    { "th": "เขาเป็นครู", "en": "He/She is a teacher." },
+    { "th": "ไปไหม", "en": "Are you going? (pronoun dropped)" },
+    { "th": "คุณหมอครับ", "en": "Doctor (addressing politely)." }
+  ],
+  "commonMistakes": [
+    "Using ผม if you are female or ฉัน if you are male. The 'I' word follows your gender.",
+    "Forcing a pronoun into every sentence. Thai drops it when the meaning is clear.",
+    "Using มัน (it) for people, which can sound rude. Use เขา for people.",
+    "Forgetting that คุณ also works as a polite title before a name.",
+    "Overusing direct 'you'. Names and titles are often friendlier."
+  ],
+  "tip": "Lock in your 'I' word first (ผม or ฉัน), use คุณ for 'you', and feel free to drop pronouns once the subject is obvious."
+}

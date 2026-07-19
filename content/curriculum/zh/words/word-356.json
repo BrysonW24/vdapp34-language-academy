@@ -1,13 +1,13 @@
 {
   "rank": 356,
-  "chinese": "玩",
-  "characters": "玩",
-  "pinyin": "wán",
-  "english": "to play; to have fun",
-  "pronunciation": "wahn (2nd tone, rising)",
-  "partOfSpeech": "verb",
-  "exampleZh": "孩子们在外面玩。",
-  "exampleEn": "The children are playing outside.",
+  "chinese": "公民",
+  "characters": "公民",
+  "pinyin": "gōng mín",
+  "english": "citizen",
+  "pronunciation": "gong-min",
+  "partOfSpeech": "noun",
+  "exampleZh": "这位公民很重要。",
+  "exampleEn": "This citizen is important.",
   "group": "everyday-250",
-  "topic": "daily-life"
+  "topic": "basics"
 }

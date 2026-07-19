@@ -1,0 +1,90 @@
+{
+  "slug": "shopping",
+  "title": "Shopping",
+  "titleTh": "การช้อปปิ้ง",
+  "shortSummary": "Ask prices, bargain at markets, and pay while shopping in Thai.",
+  "level": "elementary",
+  "order": 5,
+  "icon": "🛍️",
+  "color": "#6d28d9",
+  "culturalNote": "Thailand is famous for its markets, from weekend bazaars to floating markets, where friendly bargaining is part of the fun. Stay polite and smile, and you will often get a better price. In malls and 7-Eleven the prices are fixed, so no haggling there. QR payment with PromptPay is everywhere, but small stalls may still prefer cash in baht.",
+  "keyPhrases": [
+    { "thai": "อันนี้เท่าไหร่", "pronunciation": "an-nii thao-rai", "english": "How much is this?", "context": "Asking a price" },
+    { "thai": "แพงไป", "pronunciation": "phaeng pai", "english": "Too expensive", "context": "Start of bargaining" },
+    { "thai": "ลดหน่อยได้ไหม", "pronunciation": "lot noi dai mai", "english": "Can you lower it a bit?", "context": "Bargaining" },
+    { "thai": "มีสีอื่นไหม", "pronunciation": "mii sii uun mai", "english": "Is there another colour?", "context": "Asking for options" },
+    { "thai": "ลองได้ไหม", "pronunciation": "long dai mai", "english": "Can I try it on?", "context": "Trying on" },
+    { "thai": "เอาอันนี้", "pronunciation": "ao an-nii", "english": "I'll take this", "context": "Deciding to buy" },
+    { "thai": "จ่ายด้วยพร้อมเพย์ได้ไหม", "pronunciation": "jaai duay PromptPay dai mai", "english": "Can I pay with PromptPay?", "context": "QR payment" },
+    { "thai": "ดูเฉยๆ", "pronunciation": "duu chooi-chooi", "english": "I'm just looking", "context": "Declining help" },
+    { "thai": "ใหญ่ไป", "pronunciation": "yai pai", "english": "Too big", "context": "เล็กไป = too small" },
+    { "thai": "ขอใบเสร็จ", "pronunciation": "kho bai-set", "english": "May I have a receipt?", "context": "Asking for a receipt" }
+  ],
+  "grammar": [
+    {
+      "rule": "...ไป for 'too'",
+      "explanation": "Put ไป (pai) after an adjective to mean 'too much': แพงไป (too expensive), ใหญ่ไป (too big). It expresses that something is beyond what you want.",
+      "examples": [
+        { "th": "เผ็ดไป", "en": "too spicy" },
+        { "th": "เล็กไป", "en": "too small" }
+      ],
+      "commonMistake": "Placing ไป before the adjective. 'Too' comes after: แพงไป."
+    },
+    {
+      "rule": "...ได้ไหม to ask 'can I?'",
+      "explanation": "End with ได้ไหม (dai mai) to ask whether something is possible: ลองได้ไหม (can I try?), ลดได้ไหม (can you lower it?). Answer ได้ (yes) or ไม่ได้ (no).",
+      "examples": [
+        { "th": "ถ่ายรูปได้ไหม", "en": "Can I take a photo?" },
+        { "th": "จ่ายบัตรได้ไหม", "en": "Can I pay by card?" }
+      ],
+      "commonMistake": "Dropping ได้ before ไหม. The 'can I' question needs ได้ไหม."
+    }
+  ],
+  "dialogue": {
+    "setup": "Anna bargains for a bag at a Bangkok market stall.",
+    "lines": [
+      { "speaker": "แม่ค้า", "thai": "สวัสดีค่ะ สนใจกระเป๋าไหมคะ", "pronunciation": "sa-wat-dee kha, son-jai kra-pao mai kha", "english": "Hello, interested in a bag?" },
+      { "speaker": "Anna", "thai": "อันนี้เท่าไหร่คะ", "pronunciation": "an-nii thao-rai kha", "english": "How much is this?" },
+      { "speaker": "แม่ค้า", "thai": "ห้าร้อยบาทค่ะ", "pronunciation": "haa-roi baht kha", "english": "Five hundred baht." },
+      { "speaker": "Anna", "thai": "แพงไปค่ะ ลดหน่อยได้ไหมคะ", "pronunciation": "phaeng pai kha, lot noi dai mai kha", "english": "Too expensive. Can you lower it a bit?" },
+      { "speaker": "แม่ค้า", "thai": "สี่ร้อยก็ได้ค่ะ", "pronunciation": "sii-roi ko dai kha", "english": "Four hundred is okay." },
+      { "speaker": "Anna", "thai": "ตกลงค่ะ จ่ายด้วยพร้อมเพย์ได้ไหมคะ", "pronunciation": "tok-long kha, jaai duay PromptPay dai mai kha", "english": "Deal. Can I pay with PromptPay?" },
+      { "speaker": "แม่ค้า", "thai": "ได้ค่ะ สแกนตรงนี้", "pronunciation": "dai kha, sa-kaen trong-nii", "english": "Sure, scan here." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you ask 'How much is this?'",
+      "correctAnswer": "อันนี้เท่าไหร่",
+      "explanation": "อันนี้ (this one) + เท่าไหร่ (how much)."
+    },
+    {
+      "type": "fill-blank",
+      "question": "แพง_____ (too expensive)",
+      "correctAnswer": "ไป",
+      "explanation": "ไป after an adjective means 'too'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "How do you say you are just browsing?",
+      "options": ["เอาอันนี้", "ดูเฉยๆ", "แพงไป", "ลดหน่อย"],
+      "correctAnswer": "ดูเฉยๆ",
+      "explanation": "ดูเฉยๆ means 'just looking'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which means 'Can I try it on?'",
+      "options": ["ลองได้ไหม", "เท่าไหร่", "มีสีอื่นไหม", "ลดได้ไหม"],
+      "correctAnswer": "ลองได้ไหม",
+      "explanation": "ลอง (try) + ได้ไหม (can I)."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: ได้ไหม / หน่อย / ลด",
+      "correctAnswer": "ลดหน่อยได้ไหม",
+      "explanation": "ลด (lower) + หน่อย (a bit) + ได้ไหม (can you)."
+    }
+  ],
+  "status": "complete"
+}

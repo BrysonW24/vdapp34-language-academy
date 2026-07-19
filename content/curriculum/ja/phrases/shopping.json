@@ -1,0 +1,21 @@
+{
+  "slug": "shopping",
+  "title": "Shopping",
+  "description": "Browse, ask prices, try things on, and pay with confidence in Japanese shops.",
+  "situation": "Buying things: prices, sizes, colours, asking to look around, and finishing the transaction politely.",
+  "order": 4,
+  "phrases": [
+    { "native": "いらっしゃいませ", "transliteration": "irasshaimase", "english": "Welcome (said by staff)", "pronunciation": "ee-rah-shai-mah-seh", "formality": "formal", "tip": "You don't reply to this; it is the greeting staff call out to every customer." },
+    { "native": "見ているだけです", "transliteration": "mite iru dake desu", "english": "I'm just looking", "pronunciation": "mee-teh ee-roo dah-keh dess", "formality": "neutral" },
+    { "native": "これはいくらですか", "transliteration": "kore wa ikura desu ka", "english": "How much is this?", "pronunciation": "koh-reh wah ee-koo-rah dess kah", "formality": "neutral" },
+    { "native": "試着してもいいですか", "transliteration": "shichaku shite mo ii desu ka", "english": "May I try this on?", "pronunciation": "shee-chah-koo shteh moh ee dess kah", "formality": "formal" },
+    { "native": "もっと大きいサイズはありますか", "transliteration": "motto ookii saizu wa arimasu ka", "english": "Do you have a bigger size?", "pronunciation": "moh-toh oh-kee sai-zoo wah ah-ree-mahs kah", "formality": "neutral", "tip": "Swap 大きい (ookii, big) for 小さい (chiisai, small) when you need smaller." },
+    { "native": "別の色はありますか", "transliteration": "betsu no iro wa arimasu ka", "english": "Do you have another colour?", "pronunciation": "beh-tsoo noh ee-roh wah ah-ree-mahs kah", "formality": "neutral" },
+    { "native": "これをください", "transliteration": "kore o kudasai", "english": "I'll take this one", "pronunciation": "koh-reh oh koo-dah-sai", "formality": "neutral" },
+    { "native": "少し高いです", "transliteration": "sukoshi takai desu", "english": "It's a little expensive", "pronunciation": "soo-koh-shee tah-kai dess", "formality": "neutral" },
+    { "native": "袋をください", "transliteration": "fukuro o kudasai", "english": "A bag, please", "pronunciation": "foo-koo-roh oh koo-dah-sai", "formality": "neutral", "tip": "Many shops charge a few yen for bags now, so they often ask first." },
+    { "native": "免税できますか", "transliteration": "menzei dekimasu ka", "english": "Can I get tax-free?", "pronunciation": "men-zay deh-kee-mahs kah", "formality": "formal", "tip": "Bring your passport; tourists can claim tax-free on many purchases." },
+    { "native": "レシートをください", "transliteration": "reshiito o kudasai", "english": "May I have the receipt?", "pronunciation": "reh-shee-toh oh koo-dah-sai", "formality": "neutral" },
+    { "native": "また来ます", "transliteration": "mata kimasu", "english": "I'll come again", "pronunciation": "mah-tah kee-mahs", "formality": "neutral" }
+  ]
+}

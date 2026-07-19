@@ -1,0 +1,90 @@
+{
+  "slug": "weather-and-seasons",
+  "title": "Weather & Seasons",
+  "titleNative": "Hava ve mevsimler",
+  "shortSummary": "Describe the weather, talk about the seasons, and make small talk about the forecast in Turkish.",
+  "level": "beginner",
+  "order": 12,
+  "icon": "🌤️",
+  "color": "#1c7ed6",
+  "culturalNote": "Turkey's geography gives it dramatically varied weather: hot, dry summers on the Mediterranean and Aegean coasts, snowy winters in the central Anatolian plateau and the eastern mountains, and a milder, humid climate around Istanbul and the Black Sea. Because of this, the weather is a natural and frequent topic of small talk. The four seasons are ilkbahar (spring), yaz (summer), sonbahar (autumn), and kış (winter), and many Turks plan summer holidays around escaping the heat to the coast. Weather is described impersonally with the noun hava (weather/air) plus an adjective: hava güzel (the weather is nice), hava soğuk (it's cold). A common warm wish in cold weather is üşümeyin (don't get cold), and in summer heat people say sıcak (hot) with a sigh while reaching for more tea, oddly enough served hot even on the warmest days.",
+  "keyPhrases": [
+    { "native": "Hava nasıl?", "english": "How's the weather?", "pronunciation": "hah-VAH nah-SUHL", "context": "Asking about the weather" },
+    { "native": "Hava güzel", "english": "The weather is nice", "pronunciation": "hah-VAH gew-ZEHL", "context": "A pleasant day" },
+    { "native": "Hava soğuk", "english": "It's cold", "pronunciation": "hah-VAH soh-OOK", "context": "Cold weather" },
+    { "native": "Hava sıcak", "english": "It's hot", "pronunciation": "hah-VAH suh-JAHK", "context": "Hot weather" },
+    { "native": "Yağmur yağıyor", "english": "It's raining", "pronunciation": "yah-MOOR yah-uh-YOHR", "context": "Rainy day" },
+    { "native": "Kar yağıyor", "english": "It's snowing", "pronunciation": "kahr yah-uh-YOHR", "context": "Snowy day" },
+    { "native": "Bugün güneşli", "english": "Today is sunny", "pronunciation": "boo-GEWN gew-nehsh-LEE", "context": "Sunny weather" },
+    { "native": "Rüzgarlı bir gün", "english": "A windy day", "pronunciation": "rewz-gahr-LUH beer gewn", "context": "Windy weather" },
+    { "native": "Yazı seviyorum", "english": "I love summer", "pronunciation": "yah-ZUH seh-vee-YOH-room", "context": "Talking about seasons" },
+    { "native": "Kışın kar yağar", "english": "In winter it snows", "pronunciation": "kuh-SHUHN kahr yah-AHR", "context": "Describing a season" }
+  ],
+  "grammar": [
+    {
+      "rule": "Describing weather with hava plus an adjective",
+      "explanation": "Turkish describes weather impersonally with hava (weather/air) followed by an adjective, with no verb 'to be': hava güzel (the weather is nice), hava soğuk (it's cold). The 'is' is understood. To ask, you say hava nasıl? (how is the weather?).",
+      "examples": [
+        { "native": "Bugün hava çok güzel.", "en": "Today the weather is very nice." },
+        { "native": "Hava bulutlu.", "en": "It's cloudy." }
+      ],
+      "commonMistake": "Adding a verb for 'is'. Turkish just says hava soğuk, not hava soğuk-tur in everyday speech."
+    },
+    {
+      "rule": "Weather verbs: yağıyor (falling)",
+      "explanation": "Rain and snow use the verb yağmak (to fall, of precipitation) in the present continuous: yağmur yağıyor (rain is falling = it's raining), kar yağıyor (it's snowing). For habitual seasonal weather, the aorist -ar/-er is used: kışın kar yağar (in winter it snows).",
+      "examples": [
+        { "native": "Dışarıda yağmur yağıyor.", "en": "It's raining outside." },
+        { "native": "Yazın çok güneş açar.", "en": "In summer it's very sunny." }
+      ],
+      "commonMistake": "Using the wrong tense. For right now use yağıyor; for a general fact about a season use yağar."
+    }
+  ],
+  "dialogue": {
+    "setup": "Two friends, Aslı and Tolga, plan a weekend trip and check the weather.",
+    "lines": [
+      { "speaker": "Aslı", "native": "Tolga, hafta sonu hava nasıl olacak?", "english": "Tolga, how will the weather be at the weekend?" },
+      { "speaker": "Tolga", "native": "Cumartesi güneşli ama pazar yağmur yağacak.", "english": "Saturday is sunny but it will rain on Sunday." },
+      { "speaker": "Aslı", "native": "Bugün hava nasıl peki?", "english": "And how's the weather today?" },
+      { "speaker": "Tolga", "native": "Bugün çok güzel, biraz rüzgarlı.", "english": "Today it's very nice, a little windy." },
+      { "speaker": "Aslı", "native": "O zaman cumartesi gidelim. Yazı seviyorum!", "english": "Then let's go on Saturday. I love summer!" },
+      { "speaker": "Tolga", "native": "Ben de. Ama kışın kar da güzel.", "english": "Me too. But snow in winter is nice as well." },
+      { "speaker": "Aslı", "native": "Doğru. Şimdi hava soğuk, ceket alalım.", "english": "True. It's cold now, let's take a jacket." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you ask 'How's the weather?' in Turkish?",
+      "correctAnswer": "Hava nasıl?",
+      "explanation": "Hava means weather/air; nasıl means 'how'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which phrase means 'It's raining'?",
+      "options": ["Kar yağıyor", "Yağmur yağıyor", "Hava güzel", "Bugün güneşli"],
+      "correctAnswer": "Yağmur yağıyor",
+      "explanation": "Yağmur is rain; yağıyor means 'is falling'."
+    },
+    {
+      "type": "fill-blank",
+      "question": "Hava çok _____. (It's very cold)",
+      "correctAnswer": "soğuk",
+      "explanation": "Soğuk means 'cold', so hava soğuk is 'it's cold'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which word means 'winter'?",
+      "options": ["yaz", "kış", "ilkbahar", "sonbahar"],
+      "correctAnswer": "kış",
+      "explanation": "Kış is winter; yaz is summer, ilkbahar is spring, sonbahar is autumn."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: yağıyor / kar",
+      "correctAnswer": "Kar yağıyor",
+      "explanation": "Kar yağıyor means 'It's snowing'."
+    }
+  ],
+  "status": "complete"
+}

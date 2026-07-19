@@ -1,11 +1,11 @@
 {
   "rank": 333,
-  "german": "gegen",
-  "english": "against, around (time)",
-  "pronunciation": "GAY-gen",
-  "partOfSpeech": "preposition",
-  "exampleDe": "Ich bin gegen diese Idee.",
-  "exampleEn": "I am against this idea.",
+  "german": "hause",
+  "english": "at home",
+  "pronunciation": "h a ʊ z ə",
+  "partOfSpeech": "adverb",
+  "exampleDe": "Ich bin zu Hause.",
+  "exampleEn": "I am at home.",
   "group": "everyday-250",
-  "topic": "basics"
+  "topic": "home"
 }

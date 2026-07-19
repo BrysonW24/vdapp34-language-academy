@@ -1,0 +1,34 @@
+{
+  "slug": "negation",
+  "name": "Negation (안 and 못)",
+  "nameNative": "부정문 (안/못)",
+  "summary": "Say what you don't do with 안 and what you can't do with 못, the two main negation words.",
+  "level": "elementary",
+  "order": 8,
+  "explanation": "Korean has two short negation words placed right before the verb. 안 (an) means simple 'not' and expresses choice or fact: 안 가요 (an gayo, I don't go). 못 (mot) means 'cannot' and expresses inability or an outside obstacle: 못 가요 (mot gayo, I can't go).\n\nFor 하다 verbs, the negation slips between the noun part and 하다. 공부 안 해요 (gongbu an haeyo, I don't study) and 공부 못 해요 (gongbu mot haeyo, I can't study) are both correct; 안 공부해요 sounds wrong.\n\nThere is also a longer negative form using -지 않다 for 안 and -지 못하다 for 못: 가지 않아요 (gaji anayo, I don't go), 가지 못해요 (gaji mothaeyo, I can't go). It means the same thing but feels slightly more formal or written. Start with the short 안 and 못 for everyday speech.",
+  "pattern": "안/못 + verb  |  verb stem + 지 않다 / 지 못하다",
+  "conjugation": {
+    "안 (do not)": "안 가요 (don't go)",
+    "못 (cannot)": "못 가요 (can't go)",
+    "하다 with 안": "공부 안 해요 (don't study)",
+    "하다 with 못": "공부 못 해요 (can't study)",
+    "long form 안": "가지 않아요",
+    "long form 못": "가지 못해요"
+  },
+  "examples": [
+    { "native": "저는 고기를 안 먹어요. (jeoneun gogireul an meogeoyo.)", "en": "I don't eat meat." },
+    { "native": "오늘은 일을 안 해요. (oneureun ireul an haeyo.)", "en": "I'm not working today." },
+    { "native": "수영을 못 해요. (suyeongeul mot haeyo.)", "en": "I can't swim." },
+    { "native": "시간이 없어서 못 갔어요. (sigani eopseoseo mot gasseoyo.)", "en": "I couldn't go because I had no time." },
+    { "native": "그 영화는 재미없지 않아요. (geu yeonghwaneun jaemieopji anayo.)", "en": "That movie is not uninteresting." },
+    { "native": "매워서 못 먹어요. (maewoseo mot meogeoyo.)", "en": "It's too spicy, so I can't eat it." }
+  ],
+  "commonMistakes": [
+    "Mixing up 안 and 못. 안 means you choose not to; 못 means you are unable to.",
+    "Placing 안 before the noun in a 하다 verb. Say 공부 안 해요, not 안 공부해요.",
+    "Putting 안 or 못 after the verb. They always come directly before the verb.",
+    "Forgetting that 못 needs a real obstacle or inability; for a plain 'not', use 안.",
+    "Doubling up negation by using both 안 and -지 않다 together in one verb."
+  ],
+  "tip": "안 = won't or don't (choice). 못 = can't (obstacle). Both sit right before the verb."
+}

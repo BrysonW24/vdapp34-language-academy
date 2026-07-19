@@ -1,12 +1,13 @@
 {
   "rank": 280,
-  "chinese": "年",
-  "characters": "年",
-  "pinyin": "nián",
-  "english": "year",
-  "partOfSpeech": "noun",
-  "exampleZh": "新年快乐！",
-  "exampleEn": "Happy New Year!",
+  "chinese": "完",
+  "characters": "完",
+  "pinyin": "wán",
+  "english": "over",
+  "pronunciation": "wan",
+  "partOfSpeech": "preposition",
+  "exampleZh": "我每天都用完。",
+  "exampleEn": "I use 完 every day.",
   "group": "everyday-250",
-  "topic": "time"
+  "topic": "basics"
 }

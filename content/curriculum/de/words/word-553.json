@@ -1,13 +1,11 @@
 {
   "rank": 553,
-  "german": "Himmel",
-  "english": "sky, heaven",
-  "pronunciation": "HIM-el",
-  "partOfSpeech": "noun",
-  "gender": "masculine",
-  "article": "der",
-  "exampleDe": "Der Himmel ist blau.",
-  "exampleEn": "The sky is blue.",
+  "german": "seines",
+  "english": "his",
+  "pronunciation": "z a ɪ n ə s",
+  "partOfSpeech": "pronoun",
+  "exampleDe": "Seines ist hier.",
+  "exampleEn": "His is here.",
   "group": "confident-350",
-  "topic": "travel"
+  "topic": "basics"
 }

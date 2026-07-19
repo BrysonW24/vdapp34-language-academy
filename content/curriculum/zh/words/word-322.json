@@ -1,13 +1,13 @@
 {
   "rank": 322,
-  "chinese": "教室",
-  "characters": "教室",
-  "pinyin": "jiàoshì",
-  "english": "classroom",
-  "pronunciation": "jyaow-shir (4th tone, 4th tone)",
-  "partOfSpeech": "noun",
-  "exampleZh": "学生在教室里上课。",
-  "exampleEn": "The students are having class in the classroom.",
+  "chinese": "难",
+  "characters": "难",
+  "pinyin": "nán",
+  "english": "Disaster",
+  "pronunciation": "nan",
+  "partOfSpeech": "adjective",
+  "exampleZh": "这个地方非常灾难。",
+  "exampleEn": "This place is very Disaster.",
   "group": "everyday-250",
-  "topic": "places"
+  "topic": "descriptions"
 }

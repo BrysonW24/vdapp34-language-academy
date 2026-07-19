@@ -1,0 +1,90 @@
+{
+  "slug": "greetings",
+  "title": "Greetings & Goodbyes",
+  "titleEs": "Saludos y Despedidas",
+  "shortSummary": "Learn how to greet people, introduce yourself, and say goodbye in Spanish — the foundation of every conversation.",
+  "level": "beginner",
+  "order": 1,
+  "icon": "👋",
+  "color": "#386a58",
+  "culturalNote": "In Spain and Latin America, greetings are warmer and more physical than in English-speaking countries. It's common to greet with a kiss on the cheek (one in Latin America, two in Spain) even when meeting someone for the first time in social settings. Skipping a greeting is considered rude — always say hello before jumping into business.",
+  "keyPhrases": [
+    { "spanish": "¡Hola!", "english": "Hello!", "pronunciation": "OH-lah", "context": "Universal greeting, works in any situation" },
+    { "spanish": "Buenos días", "english": "Good morning", "pronunciation": "BWEH-nohs DEE-ahs", "context": "Used until around midday" },
+    { "spanish": "Buenas tardes", "english": "Good afternoon", "pronunciation": "BWEH-nahs TAR-dehs", "context": "Used from midday until sunset" },
+    { "spanish": "Buenas noches", "english": "Good evening / Good night", "pronunciation": "BWEH-nahs NOH-chehs", "context": "Used after sunset — both as greeting and farewell" },
+    { "spanish": "¿Cómo estás?", "english": "How are you?", "pronunciation": "KOH-moh ehs-TAHS", "context": "Informal — use with friends and peers" },
+    { "spanish": "¿Cómo está usted?", "english": "How are you? (formal)", "pronunciation": "KOH-moh ehs-TAH oos-TEHD", "context": "Formal — use with elders, strangers, in professional settings" },
+    { "spanish": "Estoy bien, gracias", "english": "I'm fine, thank you", "pronunciation": "ehs-TOY bee-EHN GRAH-thee-ahs", "context": "Standard polite response" },
+    { "spanish": "¡Adiós!", "english": "Goodbye!", "pronunciation": "ah-dee-OHS", "context": "Standard farewell" },
+    { "spanish": "¡Hasta luego!", "english": "See you later!", "pronunciation": "AHS-tah LWEH-goh", "context": "Casual farewell — more common than adiós in daily life" },
+    { "spanish": "Mucho gusto", "english": "Nice to meet you", "pronunciation": "MOO-choh GOOS-toh", "context": "Said when meeting someone for the first time" }
+  ],
+  "grammar": [
+    {
+      "rule": "Formal vs Informal 'you'",
+      "explanation": "Spanish has two ways to say 'you': tú (informal) and usted (formal). Use tú with friends, family, and people your age. Use usted with strangers, elders, and in professional contexts.",
+      "examples": [
+        { "es": "¿Cómo estás tú?", "en": "How are you? (informal)" },
+        { "es": "¿Cómo está usted?", "en": "How are you? (formal)" }
+      ],
+      "commonMistake": "Using tú with a stranger or elderly person — this can come across as disrespectful in many Spanish-speaking cultures."
+    },
+    {
+      "rule": "Gendered adjectives: bueno/buena",
+      "explanation": "In Spanish, adjectives change to match the gender of the noun. 'Día' is masculine so it's 'buenos días', but 'tarde' and 'noche' are feminine so it's 'buenas tardes' and 'buenas noches'.",
+      "examples": [
+        { "es": "Buenos días", "en": "Good morning (masculine plural)" },
+        { "es": "Buenas noches", "en": "Good evening (feminine plural)" }
+      ],
+      "commonMistake": "Saying 'buenas días' or 'buenos noches' — mixing up the gender agreement."
+    }
+  ],
+  "dialogue": {
+    "setup": "María meets her new neighbour Carlos at the apartment building entrance on a sunny morning.",
+    "lines": [
+      { "speaker": "María", "spanish": "¡Buenos días!", "english": "Good morning!" },
+      { "speaker": "Carlos", "spanish": "¡Buenos días! ¿Cómo está usted?", "english": "Good morning! How are you?" },
+      { "speaker": "María", "spanish": "Muy bien, gracias. ¿Y usted?", "english": "Very well, thank you. And you?" },
+      { "speaker": "Carlos", "spanish": "Bien, gracias. Soy Carlos, su nuevo vecino.", "english": "Fine, thanks. I'm Carlos, your new neighbour." },
+      { "speaker": "María", "spanish": "¡Mucho gusto, Carlos! Soy María.", "english": "Nice to meet you, Carlos! I'm María." },
+      { "speaker": "Carlos", "spanish": "Mucho gusto, María. Bueno, ¡hasta luego!", "english": "Nice to meet you, María. Well, see you later!" },
+      { "speaker": "María", "spanish": "¡Hasta luego! ¡Que tenga un buen día!", "english": "See you later! Have a good day!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'Good afternoon' in Spanish?",
+      "correctAnswer": "Buenas tardes",
+      "explanation": "'Tardes' is feminine, so we use 'buenas' (not 'buenos')."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which greeting would you use at 9 PM?",
+      "options": ["Buenos días", "Buenas tardes", "Buenas noches", "Buenas mañanas"],
+      "correctAnswer": "Buenas noches",
+      "explanation": "'Buenas noches' is used after sunset, both as a greeting and a farewell."
+    },
+    {
+      "type": "fill-blank",
+      "question": "¿Cómo _____ usted? (formal 'how are you')",
+      "correctAnswer": "está",
+      "explanation": "With 'usted' (formal you), we use the third person form 'está'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "When meeting someone for the first time, you say:",
+      "options": ["Mucho gusto", "Hasta luego", "Buenas noches", "Estoy bien"],
+      "correctAnswer": "Mucho gusto",
+      "explanation": "'Mucho gusto' literally means 'much pleasure' and is the standard way to say 'nice to meet you'."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: bien / estoy / gracias",
+      "correctAnswer": "Estoy bien, gracias",
+      "explanation": "The verb 'estoy' comes first, followed by the adjective 'bien', then 'gracias'."
+    }
+  ],
+  "status": "complete"
+}

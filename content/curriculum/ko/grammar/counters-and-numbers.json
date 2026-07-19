@@ -1,0 +1,34 @@
+{
+  "slug": "counters-and-numbers",
+  "name": "Counters and Numbers",
+  "nameNative": "수사와 단위 명사",
+  "summary": "Use the two Korean number systems with the right counter words to count people, things, and time.",
+  "level": "elementary",
+  "order": 10,
+  "explanation": "Korean has two number systems. Native Korean numbers (하나, 둘, 셋...) count objects, people, age, and hours. Sino-Korean numbers (일, 이, 삼...) count money, minutes, dates, phone numbers, and most larger amounts. Choosing the right system is a core early skill.\n\nTo count things, you need a counter (단위 명사) after the number. 명 counts people, 개 counts general objects, 마리 counts animals, 잔 counts cups, and 시 counts the hour. The pattern is noun + number + counter: 사과 세 개 (three apples), 사람 두 명 (two people).\n\nSeveral native numbers change shape before a counter: 하나 becomes 한, 둘 becomes 두, 셋 becomes 세, 넷 becomes 네, and 스물 becomes 스무. So 'one cup of coffee' is 커피 한 잔, not 커피 하나 잔. Telling time famously mixes both systems: 세 시 삼십 분 (3:30) uses native 세 for the hour and Sino-Korean 삼십 for the minutes.",
+  "pattern": "noun + number + counter",
+  "conjugation": {
+    "1 (native, counting form)": "한",
+    "2 (native, counting form)": "두",
+    "3 (native, counting form)": "세",
+    "people counter": "명 (한 명, 두 명)",
+    "object counter": "개 (한 개, 두 개)",
+    "hour counter": "시 (한 시, 두 시)"
+  },
+  "examples": [
+    { "native": "사과 세 개 주세요. (sagwa se gae juseyo.)", "en": "Three apples, please." },
+    { "native": "사람 두 명이 왔어요. (saram du myeongi wasseoyo.)", "en": "Two people came." },
+    { "native": "커피 한 잔 주세요. (keopi han jan juseyo.)", "en": "One cup of coffee, please." },
+    { "native": "고양이 네 마리가 있어요. (goyangi ne mariga isseoyo.)", "en": "There are four cats." },
+    { "native": "지금 세 시예요. (jigeum se siyeyo.)", "en": "It's three o'clock now." },
+    { "native": "전화번호는 공일공이에요. (jeonhwabeonhoneun gongilgongieyo.)", "en": "The phone number starts 010." }
+  ],
+  "commonMistakes": [
+    "Using Sino-Korean numbers to count objects. Say 사과 세 개, not 사과 삼 개.",
+    "Forgetting that 하나, 둘, 셋, 넷 shorten to 한, 두, 세, 네 before a counter.",
+    "Dropping the counter entirely. Korean needs 개, 명, 마리, 잔 and so on after the number.",
+    "Using native numbers for minutes or money. Minutes and money take Sino-Korean: 삼십 분, 천 원.",
+    "Mixing up 명 (people) and 개 (objects). People are counted with 명, never 개."
+  ],
+  "tip": "Native numbers (한, 두, 세) plus counters for things and hours; Sino-Korean (일, 이, 삼) for minutes, money, and dates."
+}

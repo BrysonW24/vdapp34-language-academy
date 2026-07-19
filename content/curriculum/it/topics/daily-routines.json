@@ -1,0 +1,90 @@
+{
+  "slug": "daily-routines",
+  "title": "Daily Routines",
+  "titleNative": "La routine quotidiana",
+  "shortSummary": "Describe your day from morning to night using common reflexive and daily verbs.",
+  "level": "beginner",
+  "order": 7,
+  "icon": "⏰",
+  "color": "#0f5f8a",
+  "culturalNote": "The Italian day has its own rhythm. Breakfast (la colazione) is light, usually a coffee and a pastry standing at the bar. The main meal is traditionally lunch (il pranzo), though city life is shifting that to dinner (la cena), which is eaten late, often after eight. Many daily-routine actions are reflexive verbs in Italian: you 'wake yourself', 'wash yourself', and 'dress yourself'. The evening passeggiata, a relaxed stroll before dinner, remains a beloved daily habit in towns across the country.",
+  "keyPhrases": [
+    { "native": "Mi sveglio alle sette", "english": "I wake up at seven", "pronunciation": "mee ZVEH-lyoh AL-leh SET-teh", "context": "Start of the day" },
+    { "native": "Mi alzo subito", "english": "I get up straight away", "pronunciation": "mee AL-tsoh SOO-bee-toh", "context": "Getting out of bed" },
+    { "native": "Faccio colazione", "english": "I have breakfast", "pronunciation": "FAH-choh koh-lah-tsee-OH-neh", "context": "Morning meal" },
+    { "native": "Vado al lavoro", "english": "I go to work", "pronunciation": "VAH-doh al lah-VOH-roh", "context": "Commuting" },
+    { "native": "Pranzo a mezzogiorno", "english": "I have lunch at noon", "pronunciation": "PRAN-tsoh ah med-dzoh-JOR-noh", "context": "Midday" },
+    { "native": "Torno a casa", "english": "I come home", "pronunciation": "TOR-noh ah KAH-zah", "context": "End of work" },
+    { "native": "Ceno alle otto", "english": "I have dinner at eight", "pronunciation": "CHEH-noh AL-leh OT-toh", "context": "Evening meal" },
+    { "native": "Guardo la TV", "english": "I watch TV", "pronunciation": "GWAR-doh lah tee-VOO", "context": "Relaxing" },
+    { "native": "Mi lavo i denti", "english": "I brush my teeth", "pronunciation": "mee LAH-voh ee DEN-tee", "context": "Before bed" },
+    { "native": "Vado a dormire", "english": "I go to sleep", "pronunciation": "VAH-doh ah dor-MEE-reh", "context": "End of day" }
+  ],
+  "grammar": [
+    {
+      "rule": "Reflexive verbs for daily actions",
+      "explanation": "Many routine verbs are reflexive in Italian and need a pronoun: svegliarsi (to wake up), alzarsi (to get up), lavarsi (to wash). The pronoun matches the subject: mi sveglio, ti svegli, si sveglia.",
+      "examples": [
+        { "native": "Mi alzo alle sei.", "en": "I get up at six." },
+        { "native": "Si lava le mani.", "en": "He washes his hands." }
+      ],
+      "commonMistake": "Dropping the reflexive pronoun. Sveglio alone means 'I wake (someone)', not 'I wake up'."
+    },
+    {
+      "rule": "Telling when with a + time",
+      "explanation": "To say at what time something happens, use a plus the hour, which contracts to alle (or all' before una). Alle sette means 'at seven', all'una means 'at one'.",
+      "examples": [
+        { "native": "Lavoro alle nove.", "en": "I work at nine." },
+        { "native": "Pranzo all'una.", "en": "I have lunch at one." }
+      ],
+      "commonMistake": "Forgetting to contract a + le into alle when stating a time."
+    }
+  ],
+  "dialogue": {
+    "setup": "Luca tells his friend Marta about his weekday.",
+    "lines": [
+      { "speaker": "Marta", "native": "A che ora ti svegli di solito?", "english": "What time do you usually wake up?" },
+      { "speaker": "Luca", "native": "Mi sveglio alle sei e mezza.", "english": "I wake up at half past six." },
+      { "speaker": "Marta", "native": "Presto! E poi?", "english": "Early! And then?" },
+      { "speaker": "Luca", "native": "Faccio colazione e vado al lavoro.", "english": "I have breakfast and go to work." },
+      { "speaker": "Marta", "native": "A che ora torni a casa?", "english": "What time do you come home?" },
+      { "speaker": "Luca", "native": "Verso le sei, poi ceno alle otto.", "english": "Around six, then I have dinner at eight." },
+      { "speaker": "Marta", "native": "Una giornata piena!", "english": "A full day!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'I wake up at seven' in Italian?",
+      "correctAnswer": "Mi sveglio alle sette",
+      "explanation": "Svegliarsi is reflexive, so it needs mi."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Why does 'mi alzo' include 'mi'?",
+      "options": ["It's a typo", "Alzarsi is reflexive", "It means 'my'", "It's plural"],
+      "correctAnswer": "Alzarsi is reflexive",
+      "explanation": "Reflexive verbs need a matching pronoun like mi."
+    },
+    {
+      "type": "fill-blank",
+      "question": "Pranzo _____ una. (at, contracted)",
+      "correctAnswer": "all'",
+      "explanation": "A + l'una contracts to all'una."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does faccio colazione mean?",
+      "options": ["I go to work", "I have breakfast", "I go to sleep", "I cook dinner"],
+      "correctAnswer": "I have breakfast",
+      "explanation": "Fare colazione means 'to have breakfast'."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: dormire / vado / a",
+      "correctAnswer": "Vado a dormire",
+      "explanation": "Vado a dormire means 'I go to sleep'."
+    }
+  ],
+  "status": "complete"
+}

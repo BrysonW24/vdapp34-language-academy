@@ -1,0 +1,21 @@
+{
+  "slug": "directions",
+  "title": "Asking Directions",
+  "description": "Find your way around a Turkish town and understand the answers you get back.",
+  "situation": "Getting around on foot or by transport: asking where places are and following directions.",
+  "order": 5,
+  "phrases": [
+    { "native": "İstasyon nerede?", "english": "Where is the station?", "pronunciation": "ees-tas-YON NEH-reh-deh", "formality": "neutral" },
+    { "native": "Merkeze nasıl giderim?", "english": "How do I get to the centre?", "pronunciation": "mehr-keh-ZEH nah-SUHL gee-deh-reem", "formality": "neutral" },
+    { "native": "Uzak mı?", "english": "Is it far?", "pronunciation": "oo-ZAHK muh", "formality": "neutral" },
+    { "native": "Yakın", "english": "It's near", "pronunciation": "yah-KUHN", "formality": "neutral" },
+    { "native": "Düz git", "english": "Go straight ahead", "pronunciation": "dyooz geet", "formality": "informal" },
+    { "native": "Sağa dön", "english": "Turn right", "pronunciation": "sah-AH dern", "formality": "informal" },
+    { "native": "Sola dön", "english": "Turn left", "pronunciation": "soh-LAH dern", "formality": "informal" },
+    { "native": "Kayboldum", "english": "I'm lost", "pronunciation": "kai-bol-doom", "formality": "neutral" },
+    { "native": "Haritada gösterebilir misiniz?", "english": "Can you show me on the map?", "pronunciation": "hah-ree-tah-DAH ger-steh-reh-bee-LEER mee-see-neez", "formality": "formal" },
+    { "native": "Ne kadar sürer?", "english": "How long does it take?", "pronunciation": "neh kah-DAR syoo-REHR", "formality": "neutral" },
+    { "native": "Otobüs ne zaman kalkıyor?", "english": "What time does the bus leave?", "pronunciation": "oh-toh-BYOOS neh zah-MAN kal-kuh-yor", "formality": "neutral" },
+    { "native": "Bir bilet, lütfen", "english": "One ticket, please", "pronunciation": "beer bee-LET", "formality": "neutral" }
+  ]
+}

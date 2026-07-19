@@ -1,0 +1,90 @@
+{
+  "slug": "transport",
+  "title": "Transport",
+  "titleNative": "Transportasyon",
+  "shortSummary": "Ride the jeepney, hail a tricycle, and get around the Philippines like a local.",
+  "level": "beginner",
+  "order": 11,
+  "icon": "🚌",
+  "color": "#f76707",
+  "culturalNote": "The jeepney is the king of Filipino roads, a colourful, lovingly decorated public vehicle born from surplus army jeeps after World War II. You pay a small fare by passing your coins forward, often through other passengers, with the magic words Bayad po (here's my payment) and Para po! (stop, please) to get off. Tricycles (a motorbike with a sidecar) serve neighbourhood routes, while the habal-habal motorbike taxi reaches places larger vehicles cannot. In Metro Manila, the MRT and LRT trains and ride-hailing apps add to the mix, but traffic (trapik) is legendary, so locals build extra time into every trip. Passing fares and calling out stops are everyday courtesies that mark you as someone who knows the ropes.",
+  "keyPhrases": [
+    { "native": "Saan sasakay ng jeep?", "english": "Where do I get on the jeep?", "pronunciation": "sa-AN sa-sa-KAY nang jip", "context": "Finding the ride" },
+    { "native": "Para po!", "english": "Stop, please! (to get off)", "pronunciation": "PA-ra po", "context": "Signalling your stop" },
+    { "native": "Bayad po.", "english": "Here is my payment.", "pronunciation": "BA-yad po", "context": "Passing the fare" },
+    { "native": "Magkano ang pamasahe?", "english": "How much is the fare?", "pronunciation": "mag-KA-no ang pa-ma-SA-he", "context": "Asking the fare" },
+    { "native": "Dumadaan ba ito sa Cubao?", "english": "Does this pass by Cubao?", "pronunciation": "du-ma-da-AN ba i-TO sa ku-BA-o", "context": "Checking the route" },
+    { "native": "Saan ang sakayan ng tricycle?", "english": "Where is the tricycle stand?", "pronunciation": "sa-AN ang sa-ka-YAN nang tray-SI-kel", "context": "Finding a tricycle" },
+    { "native": "Pakihintay po sandali.", "english": "Please wait a moment.", "pronunciation": "pa-ki-hin-TAY po san-da-LI", "context": "Asking a driver to wait" },
+    { "native": "Ang traffic naman!", "english": "The traffic is terrible!", "pronunciation": "ang TRA-pik na-MAN", "context": "Commenting on traffic" },
+    { "native": "Sa susunod na kanto lang po.", "english": "Just at the next corner, please.", "pronunciation": "sa su-SU-nod na KAN-to lang po", "context": "Telling a driver where to stop" },
+    { "native": "Salamat, manong!", "english": "Thank you, driver!", "pronunciation": "sa-LA-mat ma-NONG", "context": "Thanking a driver" }
+  ],
+  "grammar": [
+    {
+      "rule": "The transport verb sumakay (to ride)",
+      "explanation": "Sumakay means 'to ride / get on a vehicle' and pairs with sa for the vehicle: sumakay sa jeep (ride the jeep). The future is sasakay (will ride), the habitual sumasakay (rides). Bumaba means 'to get off'.",
+      "examples": [
+        { "native": "Sasakay ako ng jeep papuntang Cubao.", "en": "I will ride the jeep going to Cubao." },
+        { "native": "Bumaba siya sa kanto.", "en": "She got off at the corner." }
+      ],
+      "commonMistake": "Confusing sumakay (get on) with bumaba (get off), which are opposites."
+    },
+    {
+      "rule": "Direction with papunta and galing",
+      "explanation": "Papunta (or papuntang before a place) means 'going to', and galing means 'coming from'. Use them to describe a route: papuntang Maynila (going to Manila), galing sa palengke (coming from the market).",
+      "examples": [
+        { "native": "Papuntang Quezon City ang jeep.", "en": "The jeep is going to Quezon City." },
+        { "native": "Galing ako sa trabaho.", "en": "I am coming from work." }
+      ],
+      "commonMistake": "Using papunta for 'from'; papunta means 'to', and galing means 'from'."
+    }
+  ],
+  "dialogue": {
+    "setup": "Migs asks a fellow passenger about the jeepney route before paying.",
+    "lines": [
+      { "speaker": "Migs", "native": "Excuse po, dumadaan ba ito sa Cubao?", "english": "Excuse me, does this pass by Cubao?" },
+      { "speaker": "Pasahero", "native": "Oo, dumadaan po ito sa Cubao.", "english": "Yes, it passes by Cubao." },
+      { "speaker": "Migs", "native": "Salamat po. Magkano ang pamasahe?", "english": "Thank you. How much is the fare?" },
+      { "speaker": "Pasahero", "native": "Trese pesos po ang regular.", "english": "Thirteen pesos for the regular fare." },
+      { "speaker": "Migs", "native": "Sige po. Bayad po, isang pasahero.", "english": "Okay. Here's the payment, one passenger." },
+      { "speaker": "Migs", "native": "Manong, para po sa susunod na kanto!", "english": "Driver, stop at the next corner, please!" },
+      { "speaker": "Pasahero", "native": "Ingat po kayo, baba na kayo.", "english": "Take care, you can get off now." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'Stop, please!' to get off a jeepney?",
+      "correctAnswer": "Para po!",
+      "explanation": "Para po! is the standard call to signal your stop."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What do you say when passing your fare forward?",
+      "options": ["Bayad po", "Para po", "Salamat po", "Tao po"],
+      "correctAnswer": "Bayad po",
+      "explanation": "Bayad po means 'here is my payment'."
+    },
+    {
+      "type": "fill-blank",
+      "question": "_____ ako ng jeep papuntang Cubao. (the future of 'to ride')",
+      "correctAnswer": "Sasakay",
+      "explanation": "Sasakay is the future form of sumakay (to ride)."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is a jeepney?",
+      "options": ["A small private car", "A colourful shared public vehicle", "A type of train", "A fishing boat"],
+      "correctAnswer": "A colourful shared public vehicle",
+      "explanation": "The jeepney is the iconic shared public transport of the Philippines."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: pamasahe / ang / magkano",
+      "correctAnswer": "Magkano ang pamasahe",
+      "explanation": "Magkano ang pamasahe? means 'How much is the fare?'"
+    }
+  ],
+  "status": "complete"
+}

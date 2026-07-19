@@ -1,13 +1,11 @@
 {
   "rank": 525,
-  "german": "Rechnung",
-  "english": "bill, invoice",
-  "pronunciation": "REKH-noong",
-  "partOfSpeech": "noun",
-  "gender": "feminine",
-  "article": "die",
-  "exampleDe": "Bitte bezahlen Sie die Rechnung.",
-  "exampleEn": "Please pay the bill.",
+  "german": "völlig",
+  "english": "entire",
+  "pronunciation": "f œ l ɪ ç",
+  "partOfSpeech": "adjective",
+  "exampleDe": "Das ist sehr völlig.",
+  "exampleEn": "That is very entire.",
   "group": "confident-350",
-  "topic": "shopping"
+  "topic": "descriptions"
 }

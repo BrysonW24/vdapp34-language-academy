@@ -1,13 +1,13 @@
 {
   "rank": 122,
-  "chinese": "走",
-  "characters": "走",
-  "pinyin": "zǒu",
-  "english": "to walk; to go; to leave",
-  "pronunciation": "dzoh (3rd tone, dips then rises)",
-  "partOfSpeech": "verb",
-  "exampleZh": "我们走吧。",
-  "exampleEn": "Let's go.",
+  "chinese": "亚洲",
+  "characters": "亚洲",
+  "pinyin": "yà zhōu",
+  "english": "Asia",
+  "pronunciation": "ya-zhou",
+  "partOfSpeech": "noun",
+  "exampleZh": "我喜欢亚洲。",
+  "exampleEn": "I like Asia.",
   "group": "core-100",
-  "topic": "actions"
+  "topic": "basics"
 }

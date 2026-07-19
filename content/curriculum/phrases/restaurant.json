@@ -1,0 +1,21 @@
+{
+  "slug": "restaurant",
+  "title": "At the Restaurant",
+  "description": "12 key phrases for dining out — from getting a table to paying the bill. Covers menus, orders, and dietary needs.",
+  "situation": "Restaurants, cafes, tapas bars, and any dining establishment.",
+  "order": 3,
+  "phrases": [
+    { "spanish": "Una mesa para dos, por favor", "english": "A table for two, please", "pronunciation": "OO-nah MEH-sah PAH-rah dohs pohr fah-BOHR", "formality": "formal" },
+    { "spanish": "La carta, por favor", "english": "The menu, please", "pronunciation": "lah KAR-tah pohr fah-BOHR", "formality": "formal", "tip": "'La carta' = à la carte menu. 'El menú' often means a fixed-price set meal" },
+    { "spanish": "¿Qué me recomienda?", "english": "What do you recommend?", "pronunciation": "keh meh rreh-koh-mee-EHN-dah", "formality": "formal" },
+    { "spanish": "Para mí, la paella", "english": "For me, the paella", "pronunciation": "PAH-rah mee lah pah-EH-yah", "formality": "neutral" },
+    { "spanish": "¿Y para beber?", "english": "And to drink?", "pronunciation": "ee PAH-rah beh-BEHR", "formality": "neutral", "tip": "The waiter will typically ask this after your food order" },
+    { "spanish": "Una cerveza, por favor", "english": "A beer, please", "pronunciation": "OO-nah sehr-BEH-sah pohr fah-BOHR", "formality": "formal", "tip": "In Spain, 'una caña' is a small draft beer" },
+    { "spanish": "¿Tienen opciones vegetarianas?", "english": "Do you have vegetarian options?", "pronunciation": "tee-EH-nehn op-see-OH-nehs beh-heh-tah-ree-AH-nahs", "formality": "formal" },
+    { "spanish": "Está muy rico", "english": "It's very tasty", "pronunciation": "ehs-TAH moo-ee RREE-koh", "formality": "neutral", "tip": "'Rico' for food means tasty/delicious, not rich" },
+    { "spanish": "¿Me puede traer más agua?", "english": "Can you bring me more water?", "pronunciation": "meh PWEH-deh trah-EHR mahs AH-gwah", "formality": "formal" },
+    { "spanish": "Sin picante, por favor", "english": "Without spice, please", "pronunciation": "seen pee-KAHN-teh pohr fah-BOHR", "formality": "formal" },
+    { "spanish": "La cuenta, por favor", "english": "The bill, please", "pronunciation": "lah KWEHN-tah pohr fah-BOHR", "formality": "formal", "tip": "You must ask — they won't bring it automatically" },
+    { "spanish": "¿Aceptan tarjeta?", "english": "Do you accept card?", "pronunciation": "ah-SEHP-tahn tar-HEH-tah", "formality": "formal" }
+  ]
+}

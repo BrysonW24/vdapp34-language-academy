@@ -1,0 +1,90 @@
+{
+  "slug": "home-and-family",
+  "title": "Home & Family",
+  "titleNative": "집과 가족",
+  "shortSummary": "Talk about your family members and your home, with the honorifics Korean family terms require.",
+  "level": "beginner",
+  "order": 8,
+  "icon": "🏠",
+  "color": "#c2255c",
+  "culturalNote": "Family is central to Korean identity, and the language reflects this with a rich set of kinship terms that change with age and gender. A man calls his older brother 형 (hyeong) but a woman calls hers 오빠 (oppa); a man calls his older sister 누나 (nuna) while a woman calls hers 언니 (eonni). Parents are 아버지 (abeoji, father) and 어머니 (eomeoni, mother) formally, softening to 아빠 (appa) and 엄마 (eomma) at home. Respect for elders is built into the grammar: when speaking about or to grandparents and parents you add the honorific marker 께서 and the suffix 님, and verbs take honorific forms. Multi-generational living, while less common than before, is still respected, and visiting family on holidays like 설날 (Seollal, Lunar New Year) and 추석 (Chuseok, harvest festival) is a deeply held tradition where younger members bow to their elders.",
+  "keyPhrases": [
+    { "native": "가족이 몇 명이에요?", "english": "How many people are in your family?", "transliteration": "gajogi myeot myeongieyo?", "pronunciation": "ga-jo-gi myot myong-i-e-yo", "context": "Asking about family size" },
+    { "native": "네 명이에요", "english": "There are four of us", "transliteration": "ne myeongieyo", "pronunciation": "ne myong-i-e-yo", "context": "Counting people, native numbers" },
+    { "native": "아버지", "english": "Father", "transliteration": "abeoji", "pronunciation": "a-bo-ji", "context": "Formal word for father" },
+    { "native": "어머니", "english": "Mother", "transliteration": "eomeoni", "pronunciation": "o-mo-ni", "context": "Formal word for mother" },
+    { "native": "형 / 오빠", "english": "Older brother (male / female speaker)", "transliteration": "hyeong / oppa", "pronunciation": "hyong / o-ppa", "context": "Term depends on your gender" },
+    { "native": "누나 / 언니", "english": "Older sister (male / female speaker)", "transliteration": "nuna / eonni", "pronunciation": "nu-na / on-ni", "context": "Term depends on your gender" },
+    { "native": "동생", "english": "Younger sibling", "transliteration": "dongsaeng", "pronunciation": "dong-saeng", "context": "Younger brother or sister" },
+    { "native": "할머니, 할아버지", "english": "Grandmother, grandfather", "transliteration": "halmeoni, harabeoji", "pronunciation": "hal-mo-ni, ha-ra-bo-ji", "context": "Grandparents, treated with honorifics" },
+    { "native": "집이 어디예요?", "english": "Where is your home?", "transliteration": "jibi eodiyeyo?", "pronunciation": "ji-bi o-di-ye-yo", "context": "Asking where someone lives" },
+    { "native": "방이 두 개 있어요", "english": "There are two rooms", "transliteration": "bangi du gae isseoyo", "pronunciation": "bang-i du gae i-sso-yo", "context": "Describing your home" }
+  ],
+  "grammar": [
+    {
+      "rule": "Existence with 있어요 and 없어요",
+      "explanation": "있어요 (isseoyo) means 'there is / I have' and 없어요 (eopseoyo) means 'there isn't / I don't have'. They follow the noun: 동생이 있어요 (dongsaengi isseoyo, I have a younger sibling).",
+      "examples": [
+        { "native": "형이 있어요. (hyeongi isseoyo.)", "en": "I have an older brother." },
+        { "native": "동생이 없어요. (dongsaengi eopseoyo.)", "en": "I don't have a younger sibling." }
+      ],
+      "commonMistake": "Using 있어요 to mean 'don't have'; the negative is the separate word 없어요."
+    },
+    {
+      "rule": "Counting people with 명",
+      "explanation": "To count people, use a native Korean number plus the counter 명 (myeong). 네 명 (ne myeong) is four people, 두 명 (du myeong) is two. The number and counter come after the noun.",
+      "examples": [
+        { "native": "가족이 네 명이에요. (gajogi ne myeongieyo.)", "en": "There are four people in my family." },
+        { "native": "친구 두 명이 와요. (chingu du myeongi wayo.)", "en": "Two friends are coming." }
+      ],
+      "commonMistake": "Using Sino numbers with 명; the people counter takes native numbers like 두, 세, 네."
+    }
+  ],
+  "dialogue": {
+    "setup": "Sora asks her new friend Ben about his family.",
+    "lines": [
+      { "speaker": "소라", "native": "벤 씨, 가족이 몇 명이에요?", "transliteration": "ben ssi, gajogi myeot myeongieyo?", "english": "Ben, how many people are in your family?" },
+      { "speaker": "벤", "native": "네 명이에요. 부모님이랑 누나 한 명이요.", "transliteration": "ne myeongieyo. bumonimirang nuna han myeongiyo.", "english": "Four. My parents and one older sister." },
+      { "speaker": "소라", "native": "동생도 있어요?", "transliteration": "dongsaengdo isseoyo?", "english": "Do you also have a younger sibling?" },
+      { "speaker": "벤", "native": "아니요, 동생은 없어요. 소라 씨는요?", "transliteration": "aniyo, dongsaengeun eopseoyo. sora ssineunyo?", "english": "No, I don't have one. And you, Sora?" },
+      { "speaker": "소라", "native": "저는 오빠가 한 명 있어요.", "transliteration": "jeoneun oppaga han myeong isseoyo.", "english": "I have one older brother." },
+      { "speaker": "벤", "native": "할머니랑 같이 살아요?", "transliteration": "halmeonirang gachi sarayo?", "english": "Do you live with your grandmother?" },
+      { "speaker": "소라", "native": "네, 같이 살아요. 가까워서 좋아요.", "transliteration": "ne, gachi sarayo. gakkawaseo joayo.", "english": "Yes, we live together. It's nice because she's close." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'I have an older brother' (male speaker) in Korean?",
+      "correctAnswer": "형이 있어요",
+      "explanation": "형이 있어요 (hyeongi isseoyo); a male speaker uses 형 for older brother."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which word does a female speaker use for an older brother?",
+      "options": ["형", "오빠", "누나", "동생"],
+      "correctAnswer": "오빠",
+      "explanation": "A woman calls her older brother 오빠 (oppa); a man uses 형 (hyeong)."
+    },
+    {
+      "type": "fill-blank",
+      "question": "동생이 _____. (don't have)",
+      "correctAnswer": "없어요",
+      "explanation": "없어요 (eopseoyo) means 'don't have', so 동생이 없어요 means 'I have no younger sibling'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which counter is used for people, and which number type does it take?",
+      "options": ["개 with Sino numbers", "명 with native numbers", "분 with native numbers", "원 with Sino numbers"],
+      "correctAnswer": "명 with native numbers",
+      "explanation": "People are counted with 명 plus native numbers, as in 네 명 (four people)."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: 있어요 / 네 명 / 가족이 (there are four in my family)",
+      "correctAnswer": "가족이 네 명 있어요",
+      "explanation": "Subject, then count, then the existence verb: 가족이 네 명 있어요."
+    }
+  ],
+  "status": "complete"
+}

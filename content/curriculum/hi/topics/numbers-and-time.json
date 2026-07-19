@@ -1,0 +1,90 @@
+{
+  "slug": "numbers-and-time",
+  "title": "Numbers & Time",
+  "titleNative": "संख्याएँ और समय",
+  "shortSummary": "Count, tell the time, and talk about days in Hindi, essential for shopping, travel, and plans.",
+  "level": "beginner",
+  "order": 3,
+  "icon": "🕐",
+  "color": "#0c8599",
+  "culturalNote": "Hindi numbers are written with the Devanagari digits (० १ २ ३ ...) as well as the familiar 0-9, and you will see both on signs and price tags. India counts large amounts using lakh (लाख, one hundred thousand) and crore (करोड़, ten million) rather than millions, so 'do lakh' means two hundred thousand. Telling the time uses baje (बजे, o'clock), and the 24-hour clock is common in railway timetables, while everyday speech adds subah (morning), dopahar (afternoon), shaam (evening), and raat (night). India runs on a single time zone, IST, written as UTC+5:30, which is why the offset has the unusual half hour. Festivals such as Diwali and Holi follow the lunar Hindu calendar, so their dates shift each year against the Gregorian calendar.",
+  "keyPhrases": [
+    { "native": "एक, दो, तीन", "transliteration": "ek, do, teen", "english": "One, two, three", "pronunciation": "ek, doh, teen", "context": "Counting 1-3" },
+    { "native": "चार, पाँच, छह", "transliteration": "chaar, paanch, chhah", "english": "Four, five, six", "pronunciation": "chaar, paanch, chhuh", "context": "Counting 4-6" },
+    { "native": "सात, आठ, नौ, दस", "transliteration": "saat, aath, nau, das", "english": "Seven, eight, nine, ten", "pronunciation": "saat, aath, now, dus", "context": "Counting 7-10" },
+    { "native": "कितने बजे हैं?", "transliteration": "kitne baje hain?", "english": "What time is it?", "pronunciation": "KIT-nay BUH-jay hain", "context": "Asking the time" },
+    { "native": "तीन बजे हैं", "transliteration": "teen baje hain", "english": "It is three o'clock", "pronunciation": "teen BUH-jay hain", "context": "Telling the time" },
+    { "native": "साढ़े चार बजे", "transliteration": "saadhe chaar baje", "english": "Half past four", "pronunciation": "SAA-dhay chaar BUH-jay", "context": "Half hour" },
+    { "native": "आज", "transliteration": "aaj", "english": "Today", "pronunciation": "aaj", "context": "Time reference" },
+    { "native": "कल", "transliteration": "kal", "english": "Yesterday / Tomorrow", "pronunciation": "kul", "context": "Context decides which" },
+    { "native": "सोमवार", "transliteration": "somvaar", "english": "Monday", "pronunciation": "SOME-vaar", "context": "Day of the week" },
+    { "native": "कितने का है?", "transliteration": "kitne ka hai?", "english": "How much is it?", "pronunciation": "KIT-nay kaa hai", "context": "Asking a price" }
+  ],
+  "grammar": [
+    {
+      "rule": "Counting with the noun (no plural -s)",
+      "explanation": "A number sits before the noun, and many Hindi nouns do not add a separate plural ending the way English does. Do kitaab can mean two books; the number itself carries the plural sense, though the noun form may also shift in marked plurals.",
+      "examples": [
+        { "native": "तीन किताबें (teen kitaaben)", "en": "three books" },
+        { "native": "पाँच रुपये (paanch rupaye)", "en": "five rupees" }
+      ],
+      "commonMistake": "Adding an English-style -s; Hindi changes the noun ending instead, e.g. kitaab to kitaaben."
+    },
+    {
+      "rule": "Telling the time with baje",
+      "explanation": "To say the hour, put the number before baje (बजे, o'clock): teen baje (three o'clock). Saadhe (साढ़े) means 'half past', sava (सवा) means 'quarter past', and paune (पौने) means 'quarter to'.",
+      "examples": [
+        { "native": "सवा दो बजे (sava do baje)", "en": "quarter past two" },
+        { "native": "पौने पाँच बजे (paune paanch baje)", "en": "quarter to five" }
+      ],
+      "commonMistake": "Saying saadhe for one o'clock; 'half past one' is the irregular dedh baje."
+    }
+  ],
+  "dialogue": {
+    "setup": "A traveller asks a shopkeeper, Vinod, about the time and the price of fruit.",
+    "lines": [
+      { "speaker": "Traveller", "native": "नमस्ते! कितने बजे हैं?", "transliteration": "namaste! kitne baje hain?", "english": "Hello! What time is it?" },
+      { "speaker": "Vinod", "native": "नमस्ते! साढ़े चार बजे हैं।", "transliteration": "namaste! saadhe chaar baje hain.", "english": "Hello! It's half past four." },
+      { "speaker": "Traveller", "native": "धन्यवाद। ये आम कितने का है?", "transliteration": "dhanyavaad. ye aam kitne ka hai?", "english": "Thank you. How much is this mango?" },
+      { "speaker": "Vinod", "native": "एक किलो साठ रुपये का है।", "transliteration": "ek kilo saath rupaye ka hai.", "english": "One kilo is sixty rupees." },
+      { "speaker": "Traveller", "native": "मुझे दो किलो चाहिए।", "transliteration": "mujhe do kilo chahiye.", "english": "I need two kilos." },
+      { "speaker": "Vinod", "native": "ठीक है, एक सौ बीस रुपये।", "transliteration": "theek hai, ek sau bees rupaye.", "english": "Okay, one hundred and twenty rupees." },
+      { "speaker": "Traveller", "native": "ये लीजिए। धन्यवाद!", "transliteration": "ye lijiye. dhanyavaad!", "english": "Here you go. Thank you!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you ask 'What time is it?' in Hindi?",
+      "correctAnswer": "कितने बजे हैं? (kitne baje hain?)",
+      "explanation": "Kitne means 'how many' and baje means 'o'clock'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which word means the number 'five'?",
+      "options": ["तीन (teen)", "पाँच (paanch)", "सात (saat)", "दस (das)"],
+      "correctAnswer": "पाँच (paanch)",
+      "explanation": "Paanch is five; teen is three, saat is seven, das is ten."
+    },
+    {
+      "type": "fill-blank",
+      "question": "ये आम कितने _____ है? (How much is this mango?)",
+      "correctAnswer": "का (ka)",
+      "explanation": "Ka is the postposition that links the price question to the masculine noun aam."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does 'साढ़े चार बजे (saadhe chaar baje)' mean?",
+      "options": ["Four o'clock", "Quarter past four", "Half past four", "Quarter to four"],
+      "correctAnswer": "Half past four",
+      "explanation": "Saadhe means 'half past', so saadhe chaar is 4:30."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: बजे / हैं / तीन (It is three o'clock)",
+      "correctAnswer": "तीन बजे हैं (teen baje hain)",
+      "explanation": "Number, then baje, then the verb hain at the end."
+    }
+  ],
+  "status": "complete"
+}

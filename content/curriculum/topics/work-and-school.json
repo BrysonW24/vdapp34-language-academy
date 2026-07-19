@@ -1,0 +1,92 @@
+{
+  "slug": "work-and-school",
+  "title": "Work & School",
+  "titleEs": "Trabajo y Escuela",
+  "shortSummary": "Talk about your job, workplace, studies, and career. Navigate professional conversations and academic settings.",
+  "level": "elementary",
+  "order": 12,
+  "icon": "💼",
+  "color": "#1d4ed8",
+  "culturalNote": "Work culture in Spain traditionally includes a longer lunch break (2-3 hours), with many offices running from 9 AM to 2 PM and 5 PM to 8 PM, though this is gradually changing. In Latin America, business relationships are personal — expect small talk before meetings. Education systems vary by country, but university is often more affordable than in English-speaking countries. The 'siesta' is fading in urban areas, but many businesses still close in the early afternoon.",
+  "keyPhrases": [
+    { "spanish": "Trabajo en una empresa de tecnología", "english": "I work at a tech company", "pronunciation": "trah-BAH-hoh ehn OO-nah ehm-PREH-sah deh tek-noh-loh-HEE-ah", "context": "Describing your workplace" },
+    { "spanish": "Estudio medicina en la universidad", "english": "I study medicine at university", "pronunciation": "ehs-TOO-dee-oh meh-dee-SEE-nah ehn lah oo-nee-behr-see-DAHD", "context": "Talking about your studies" },
+    { "spanish": "Tengo una reunión a las diez", "english": "I have a meeting at ten", "pronunciation": "TEHN-goh OO-nah rreh-oo-nee-OHN ah lahs dee-EHS", "context": "Describing your schedule" },
+    { "spanish": "Mi jefe es muy exigente", "english": "My boss is very demanding", "pronunciation": "mee HEH-feh ehs moo-ee ehk-see-HEHN-teh", "context": "Describing people at work — jefe/jefa = boss" },
+    { "spanish": "¿En qué departamento trabajas?", "english": "What department do you work in?", "pronunciation": "ehn keh deh-par-tah-MEHN-toh trah-BAH-hahs", "context": "Asking about someone's role" },
+    { "spanish": "Estoy buscando trabajo", "english": "I'm looking for work", "pronunciation": "ehs-TOY boos-KAHN-doh trah-BAH-hoh", "context": "Present progressive — ongoing job search" },
+    { "spanish": "Tengo un examen mañana", "english": "I have an exam tomorrow", "pronunciation": "TEHN-goh oon ehk-SAH-mehn mah-NYAH-nah", "context": "Student life vocabulary" },
+    { "spanish": "Trabajo desde casa los viernes", "english": "I work from home on Fridays", "pronunciation": "trah-BAH-hoh DEHS-deh KAH-sah lohs bee-EHR-nehs", "context": "Modern work arrangements" },
+    { "spanish": "El plazo es el viernes", "english": "The deadline is Friday", "pronunciation": "ehl PLAH-soh ehs ehl bee-EHR-nehs", "context": "Plazo = deadline/timeframe" },
+    { "spanish": "Necesito pedir vacaciones", "english": "I need to request holidays", "pronunciation": "neh-seh-SEE-toh peh-DEER bah-kah-see-OH-nehs", "context": "Requesting time off from work" }
+  ],
+  "grammar": [
+    {
+      "rule": "Present progressive: estar + gerund (-ando/-iendo)",
+      "explanation": "To describe what's happening right now, use 'estar' + gerund. -AR verbs → -ando (trabajando, estudiando). -ER/-IR verbs → -iendo (comiendo, escribiendo). This is more restricted than English '-ing' — only for actions in progress.",
+      "examples": [
+        { "es": "Estoy trabajando ahora", "en": "I'm working right now" },
+        { "es": "¿Qué estás estudiando?", "en": "What are you studying?" },
+        { "es": "Están teniendo una reunión", "en": "They're having a meeting" }
+      ],
+      "commonMistake": "Overusing the progressive: 'estoy viviendo en Madrid' for a permanent situation — use 'vivo en Madrid' instead."
+    },
+    {
+      "rule": "Preposition 'en' for workplace/school",
+      "explanation": "Use 'en' (not 'at') for where you work or study: 'trabajo en un banco' (I work at a bank), 'estudio en la universidad' (I study at university). 'En' covers 'in', 'at', and 'on' depending on context.",
+      "examples": [
+        { "es": "Trabajo en un hospital", "en": "I work at a hospital" },
+        { "es": "Estudio en casa", "en": "I study at home" },
+        { "es": "Estamos en la oficina", "en": "We're at the office" }
+      ],
+      "commonMistake": "Using 'a' instead of 'en': 'trabajo a un banco' is incorrect — use 'trabajo en un banco'."
+    }
+  ],
+  "dialogue": {
+    "setup": "At a networking event, Elena and Miguel introduce themselves and discuss their careers.",
+    "lines": [
+      { "speaker": "Elena", "spanish": "Hola, soy Elena. ¿A qué te dedicas?", "english": "Hi, I'm Elena. What do you do for work?" },
+      { "speaker": "Miguel", "spanish": "Soy ingeniero. Trabajo en una startup de inteligencia artificial.", "english": "I'm an engineer. I work at an AI startup." },
+      { "speaker": "Elena", "spanish": "¡Qué interesante! ¿Te gusta tu trabajo?", "english": "How interesting! Do you like your job?" },
+      { "speaker": "Miguel", "spanish": "Sí, mucho. Pero estoy muy ocupado. Tenemos un plazo el viernes.", "english": "Yes, a lot. But I'm very busy. We have a deadline on Friday." },
+      { "speaker": "Elena", "spanish": "Yo soy profesora de español en una academia.", "english": "I'm a Spanish teacher at an academy." },
+      { "speaker": "Miguel", "spanish": "¿Cuántas horas trabajas a la semana?", "english": "How many hours do you work per week?" },
+      { "speaker": "Elena", "spanish": "Unas treinta horas. También estoy estudiando un máster.", "english": "About thirty hours. I'm also studying for a Master's degree." },
+      { "speaker": "Miguel", "spanish": "¡Impresionante! Yo necesito pedir vacaciones pronto.", "english": "Impressive! I need to request holidays soon." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'I'm working right now'?",
+      "correctAnswer": "Estoy trabajando ahora",
+      "explanation": "Present progressive: estar + gerund. Trabajar → trabajando."
+    },
+    {
+      "type": "fill-blank",
+      "question": "Trabajo _____ un hospital. (I work at a hospital)",
+      "correctAnswer": "en",
+      "explanation": "Use 'en' for where you work — it covers 'at' and 'in'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "How do you say 'I'm looking for work'?",
+      "options": ["Busco trabajo", "Estoy buscando trabajo", "Tengo buscando trabajo", "Soy buscando trabajo"],
+      "correctAnswer": "Estoy buscando trabajo",
+      "explanation": "Present progressive (estar + -ando) for an ongoing action. 'Busco trabajo' is also correct for habitual meaning."
+    },
+    {
+      "type": "translate",
+      "question": "How do you say 'I have a meeting at three'?",
+      "correctAnswer": "Tengo una reunión a las tres",
+      "explanation": "'Tener' for appointments. Time uses 'a las' + hour."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: casa / desde / los viernes / trabajo",
+      "correctAnswer": "Trabajo desde casa los viernes",
+      "explanation": "Verb + desde + place + time expression."
+    }
+  ],
+  "status": "complete"
+}

@@ -1,0 +1,90 @@
+{
+  "slug": "emotions-and-opinions",
+  "title": "Emotions & Opinions",
+  "titleZh": "情感与观点",
+  "shortSummary": "Say how you feel and share your opinion, the language of real conversation.",
+  "level": "pre-intermediate",
+  "order": 15,
+  "icon": "💬",
+  "color": "#a0453f",
+  "culturalNote": "Chinese conversation often values harmony, so opinions can be expressed gently, and a soft 'maybe' or 'it's not bad' may carry more meaning than the words suggest. Saving face, both yours and the other person's, shapes how disagreement is handled. Still, among friends people speak warmly and openly, and 我觉得 (I feel/think) is the everyday way to begin sharing a view.",
+  "keyPhrases": [
+    { "chinese": "我很高兴", "pinyin": "wǒ hěn gāoxìng", "english": "I'm happy", "context": "Positive feeling" },
+    { "chinese": "我很难过", "pinyin": "wǒ hěn nánguò", "english": "I'm sad", "context": "Negative feeling" },
+    { "chinese": "我很累", "pinyin": "wǒ hěn lèi", "english": "I'm tired", "context": "Common state" },
+    { "chinese": "我觉得...", "pinyin": "wǒ juéde...", "english": "I think / feel...", "context": "Opening an opinion" },
+    { "chinese": "我同意", "pinyin": "wǒ tóngyì", "english": "I agree", "context": "Agreeing" },
+    { "chinese": "我不同意", "pinyin": "wǒ bù tóngyì", "english": "I disagree", "context": "Disagreeing" },
+    { "chinese": "你觉得怎么样？", "pinyin": "nǐ juéde zěnmeyàng?", "english": "What do you think?", "context": "Asking an opinion" },
+    { "chinese": "我喜欢", "pinyin": "wǒ xǐhuan", "english": "I like it", "context": "Expressing liking" },
+    { "chinese": "还可以", "pinyin": "hái kěyǐ", "english": "It's okay / not bad", "context": "A mild reaction" },
+    { "chinese": "太好了", "pinyin": "tài hǎo le", "english": "Great! / Wonderful!", "context": "Strong positive" }
+  ],
+  "grammar": [
+    {
+      "rule": "我觉得 to give an opinion",
+      "explanation": "Start an opinion with 我觉得 (wǒ juéde, I think/feel), then say a full sentence: 我觉得这个电影很好 (I think this film is good). It is softer and more personal than 我想.",
+      "examples": [
+        { "zh": "我觉得太贵了。", "en": "I think it's too expensive." },
+        { "zh": "我觉得你是对的。", "en": "I think you're right." }
+      ],
+      "commonMistake": "Confusing 觉得 (think/feel an opinion) with 想 (want / would like)."
+    },
+    {
+      "rule": "Adjective verbs for feelings",
+      "explanation": "Feelings are adjectives used with 很: 我很高兴 (I'm happy), 我很累 (I'm tired). Negate with 不: 我不高兴 (I'm not happy), and the 很 drops.",
+      "examples": [
+        { "zh": "我很紧张。", "en": "I'm nervous." },
+        { "zh": "他不开心。", "en": "He's not happy." }
+      ],
+      "commonMistake": "Adding 是 before a feeling: it is 我很高兴, not 我是高兴."
+    }
+  ],
+  "dialogue": {
+    "setup": "Two friends, Mei and Tao, leave the cinema and share their opinions about the film.",
+    "lines": [
+      { "speaker": "美", "chinese": "你觉得这个电影怎么样？", "pinyin": "Nǐ juéde zhège diànyǐng zěnmeyàng?", "english": "What did you think of the film?" },
+      { "speaker": "涛", "chinese": "我觉得很好看。你呢？", "pinyin": "Wǒ juéde hěn hǎokàn. Nǐ ne?", "english": "I thought it was great. And you?" },
+      { "speaker": "美", "chinese": "还可以，但是有点长。", "pinyin": "Hái kěyǐ, dànshì yǒudiǎn cháng.", "english": "It was okay, but a bit long." },
+      { "speaker": "涛", "chinese": "音乐很好听，对吧？", "pinyin": "Yīnyuè hěn hǎotīng, duì ba?", "english": "The music was lovely, right?" },
+      { "speaker": "美", "chinese": "对，这点我同意。", "pinyin": "Duì, zhè diǎn wǒ tóngyì.", "english": "Yes, I agree on that." },
+      { "speaker": "涛", "chinese": "你期待第二部吗？", "pinyin": "Nǐ qīdài dì-èr bù ma?", "english": "Are you looking forward to the second part?" },
+      { "speaker": "美", "chinese": "说实话，不太期待。", "pinyin": "Shuō shíhuà, bú tài qīdài.", "english": "Honestly, not really." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'I agree'?",
+      "correctAnswer": "我同意",
+      "explanation": "同意 means to agree."
+    },
+    {
+      "type": "fill-blank",
+      "question": "我_____这个电影很好。 (I think)",
+      "correctAnswer": "觉得",
+      "explanation": "我觉得 introduces an opinion."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which means 'it's okay / not bad'?",
+      "options": ["太好了", "还可以", "很难过", "我不同意"],
+      "correctAnswer": "还可以",
+      "explanation": "还可以 is a mild 'it's okay'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which sentence is correct?",
+      "options": ["我是高兴", "我很高兴", "我有高兴", "我高兴是"],
+      "correctAnswer": "我很高兴",
+      "explanation": "Feelings are adjectives with 很, not 是."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: 怎么样 / 你 / 觉得",
+      "correctAnswer": "你觉得怎么样",
+      "explanation": "你 + 觉得 (think) + 怎么样 (how is it)."
+    }
+  ],
+  "status": "complete"
+}

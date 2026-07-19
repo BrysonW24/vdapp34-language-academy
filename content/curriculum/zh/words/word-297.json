@@ -1,13 +1,13 @@
 {
   "rank": 297,
-  "chinese": "鱼",
-  "characters": "鱼",
-  "pinyin": "yú",
-  "english": "fish",
-  "pronunciation": "yoo (2nd tone, rising)",
+  "chinese": "模式",
+  "characters": "模式",
+  "pinyin": "mó shì",
+  "english": "model",
+  "pronunciation": "mo-shi",
   "partOfSpeech": "noun",
-  "exampleZh": "这条鱼很新鲜。",
-  "exampleEn": "This fish is very fresh.",
+  "exampleZh": "这个模式很重要。",
+  "exampleEn": "This model is important.",
   "group": "everyday-250",
-  "topic": "food-and-drink"
+  "topic": "basics"
 }

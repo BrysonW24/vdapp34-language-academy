@@ -1,0 +1,90 @@
+{
+  "slug": "greetings",
+  "title": "Greetings & Goodbyes",
+  "titleNative": "Mga Pagbati at Paalam",
+  "shortSummary": "Greet people, introduce yourself, and say goodbye in Filipino, the foundation of every warm conversation.",
+  "level": "beginner",
+  "order": 1,
+  "icon": "👋",
+  "color": "#2f9e44",
+  "culturalNote": "Filipinos greet warmly and often, and respect shapes nearly every exchange. The little word po (and its companion opo, meaning a polite yes) is added to sentences when speaking to elders, customers, or anyone you want to honour, so Magandang umaga becomes Magandang umaga po. A famous gesture of respect is the mano or bless: a younger person takes an elder's hand and gently touches it to their own forehead while saying mano po. Time-of-day greetings are everywhere: umaga (morning), tanghali (noon), hapon (afternoon), and gabi (evening). Friends and family often greet with a quick Kumusta? (How are you?) and a smile, and warmth matters more than formality among peers.",
+  "keyPhrases": [
+    { "native": "Magandang umaga", "english": "Good morning", "pronunciation": "ma-gan-DANG u-MA-ga", "context": "Daytime, add po for respect" },
+    { "native": "Magandang hapon", "english": "Good afternoon", "pronunciation": "ma-gan-DANG HA-pon", "context": "From early afternoon" },
+    { "native": "Magandang gabi", "english": "Good evening", "pronunciation": "ma-gan-DANG ga-BI", "context": "After dark" },
+    { "native": "Kumusta ka?", "english": "How are you? (informal)", "pronunciation": "ku-MUS-ta ka", "context": "Casual, with friends" },
+    { "native": "Kumusta po kayo?", "english": "How are you? (polite)", "pronunciation": "ku-MUS-ta po ka-YO", "context": "Formal, with elders" },
+    { "native": "Mabuti naman, salamat", "english": "I'm well, thank you", "pronunciation": "ma-BU-ti na-MAN sa-LA-mat", "context": "Standard reply" },
+    { "native": "Ikinagagalak kong makilala ka", "english": "Nice to meet you", "pronunciation": "i-ki-na-ga-GA-lak kong ma-ki-LA-la ka", "context": "First meeting" },
+    { "native": "Paalam", "english": "Goodbye", "pronunciation": "pa-A-lam", "context": "Standard farewell" },
+    { "native": "Sige, ingat ka", "english": "Okay, take care", "pronunciation": "SI-ge i-NGAT ka", "context": "Warm closing" },
+    { "native": "Mano po", "english": "Bless (respect to an elder)", "pronunciation": "MA-no po", "context": "Hand-to-forehead gesture" }
+  ],
+  "grammar": [
+    {
+      "rule": "Adding po and opo for respect",
+      "explanation": "Filipino shows politeness by inserting po into a sentence when speaking to elders, strangers, or customers. Opo is a respectful 'yes'. There is no extra verb form to learn; you simply add the courtesy words.",
+      "examples": [
+        { "native": "Magandang umaga po.", "en": "Good morning (polite)." },
+        { "native": "Opo, salamat po.", "en": "Yes, thank you (polite)." }
+      ],
+      "commonMistake": "Dropping po with elders or customers, which can sound blunt or disrespectful."
+    },
+    {
+      "rule": "The greeting Kumusta and the marker ka",
+      "explanation": "Kumusta means 'how are you'. Use ka (you, informal) with peers, and po kayo (you, polite plural) with elders. The polite form uses kayo even for one person to show respect.",
+      "examples": [
+        { "native": "Kumusta ka?", "en": "How are you? (informal)" },
+        { "native": "Kumusta po kayo?", "en": "How are you? (polite)" }
+      ],
+      "commonMistake": "Using ka with an elder instead of the respectful po kayo."
+    }
+  ],
+  "dialogue": {
+    "setup": "Aling Rosa meets her new neighbour Mark in the morning at the gate.",
+    "lines": [
+      { "speaker": "Aling Rosa", "native": "Magandang umaga! Kumusta ka?", "english": "Good morning! How are you?" },
+      { "speaker": "Mark", "native": "Magandang umaga po! Mabuti naman po, salamat. Kayo po?", "english": "Good morning! I'm well, thank you. And you?" },
+      { "speaker": "Aling Rosa", "native": "Mabuti rin. Ako si Aling Rosa, kapitbahay mo.", "english": "I'm well too. I'm Aling Rosa, your neighbour." },
+      { "speaker": "Mark", "native": "Ikinagagalak ko pong makilala kayo. Ako si Mark.", "english": "Nice to meet you. I'm Mark." },
+      { "speaker": "Aling Rosa", "native": "Maligayang pagdating sa aming lugar!", "english": "Welcome to our place!" },
+      { "speaker": "Mark", "native": "Maraming salamat po. Sige, ingat po kayo.", "english": "Thank you very much. Okay, take care." },
+      { "speaker": "Aling Rosa", "native": "Ikaw rin, ingat. Paalam!", "english": "You too, take care. Goodbye!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'Good evening' in Filipino?",
+      "correctAnswer": "Magandang gabi",
+      "explanation": "Magandang gabi is used after dark; add po for respect."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which greeting is the polite, respectful form?",
+      "options": ["Kumusta ka?", "Kumusta po kayo?", "Uy, kumusta?", "Hoy!"],
+      "correctAnswer": "Kumusta po kayo?",
+      "explanation": "It uses po and kayo to show respect to an elder."
+    },
+    {
+      "type": "fill-blank",
+      "question": "Mabuti naman, _____. (the polite word for 'thank you')",
+      "correctAnswer": "salamat",
+      "explanation": "Salamat means thank you; salamat po is the polite form."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does the gesture 'mano po' show?",
+      "options": ["Hunger", "Respect to an elder", "A goodbye party", "Surprise"],
+      "correctAnswer": "Respect to an elder",
+      "explanation": "Mano po is taking an elder's hand to your forehead as a sign of respect."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: salamat / naman / mabuti",
+      "correctAnswer": "Mabuti naman salamat",
+      "explanation": "Mabuti naman, salamat means 'I'm well, thank you'."
+    }
+  ],
+  "status": "complete"
+}

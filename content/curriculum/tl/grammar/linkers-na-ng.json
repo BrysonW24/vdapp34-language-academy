@@ -1,0 +1,34 @@
+{
+  "slug": "linkers-na-ng",
+  "name": "The Linkers na and -ng",
+  "nameNative": "Ang pang-angkop na at -ng",
+  "summary": "Connect words together with the linker that switches between na and -ng depending on the sound before it.",
+  "level": "elementary",
+  "order": 5,
+  "explanation": "Filipino uses a linker (called the pang-angkop) to glue together words that modify each other, such as an adjective and the noun it describes. This linker has two shapes, na and -ng, and which one you use depends only on the sound that comes before it.\n\nIf the preceding word ends in a vowel, in the letter n, or in the glottal sound, attach -ng directly (maganda + ng = magandang bahay, beautiful house; malinis + clean stays malinis na). If the word ends in any other consonant, use the separate word na (malakas na ulan, heavy rain).\n\nThe linker works in both directions, so magandang bahay and bahay na maganda both mean beautiful house. It also links numbers to nouns (dalawang aso, two dogs) and connects clauses (gusto kong kumain, I want to eat, where ko + ng becomes kong). Mastering this small switch makes your Filipino flow naturally instead of sounding choppy.",
+  "pattern": "ends in vowel/n/glottal -> add -ng | ends in other consonant -> use na",
+  "conjugation": {
+    "maganda + bahay": "magandang bahay (beautiful house)",
+    "malakas + ulan": "malakas na ulan (heavy rain)",
+    "dalawa + aso": "dalawang aso (two dogs)",
+    "mabait + tao": "mabait na tao (kind person)",
+    "gusto ko + kumain": "gusto kong kumain (I want to eat)",
+    "isa + libro": "isang libro (one book)"
+  },
+  "examples": [
+    { "native": "Magandang umaga!", "en": "Good morning!" },
+    { "native": "Malaking bahay ito.", "en": "This is a big house." },
+    { "native": "Mabait na guro siya.", "en": "He/She is a kind teacher." },
+    { "native": "Tatlong mansanas, please.", "en": "Three apples, please." },
+    { "native": "Gusto kong matulog.", "en": "I want to sleep." },
+    { "native": "Masarap na pagkain ito.", "en": "This is delicious food." }
+  ],
+  "commonMistakes": [
+    "Using na after a vowel where -ng is needed (maganda na bahay instead of magandang bahay).",
+    "Attaching -ng to a word ending in a hard consonant (malakasng instead of malakas na).",
+    "Dropping the linker entirely, which makes phrases sound broken.",
+    "Forgetting the linker after numbers (dalawa aso instead of dalawang aso).",
+    "Missing that ko + ng contracts to kong, so writing ko ng kumain instead of kong kumain."
+  ],
+  "tip": "Say the word out loud: if it ends in a vowel or an n sound, glide straight into -ng. Otherwise, pause and use na."
+}

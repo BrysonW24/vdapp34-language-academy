@@ -1,13 +1,13 @@
 {
   "rank": 411,
-  "chinese": "紧张",
-  "characters": "紧张",
-  "pinyin": "jǐnzhāng",
-  "english": "nervous, tense",
-  "pronunciation": "jeen-jahng (3rd, 1st)",
-  "partOfSpeech": "adjective",
-  "exampleZh": "面试前我很紧张。",
-  "exampleEn": "I was nervous before the interview.",
+  "chinese": "谈",
+  "characters": "谈",
+  "pinyin": "tán",
+  "english": "to talk",
+  "pronunciation": "tan",
+  "partOfSpeech": "verb",
+  "exampleZh": "我想谈谈。",
+  "exampleEn": "I want to talk.",
   "group": "confident-350",
-  "topic": "emotions"
+  "topic": "actions"
 }

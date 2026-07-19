@@ -1,13 +1,11 @@
 {
   "rank": 555,
-  "german": "Berg",
-  "english": "mountain",
-  "pronunciation": "BAIRK",
-  "partOfSpeech": "noun",
-  "gender": "masculine",
-  "article": "der",
-  "exampleDe": "Der Berg ist sehr hoch.",
-  "exampleEn": "The mountain is very high.",
+  "german": "trotz",
+  "english": "in spite of",
+  "pronunciation": "t ʀ o t s",
+  "partOfSpeech": "preposition",
+  "exampleDe": "Das ist das Cover trotz Buches.",
+  "exampleEn": "That is the cover of the book.",
   "group": "confident-350",
-  "topic": "travel"
+  "topic": "basics"
 }

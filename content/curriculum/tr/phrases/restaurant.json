@@ -1,0 +1,21 @@
+{
+  "slug": "restaurant",
+  "title": "At the Restaurant",
+  "description": "Order food and drinks, ask for the bill, and enjoy a meal out in Turkish.",
+  "situation": "Restaurants and lokantas: getting a table, ordering, and paying.",
+  "order": 3,
+  "phrases": [
+    { "native": "İki kişilik bir masa, lütfen", "english": "A table for two, please", "pronunciation": "ee-KEE kee-shee-LEEK beer mah-SAH", "formality": "neutral" },
+    { "native": "Menü, lütfen", "english": "The menu, please", "pronunciation": "meh-NYOO", "formality": "neutral" },
+    { "native": "Ben...istiyorum", "english": "I would like...", "pronunciation": "ben...ees-tee-yor-oom", "formality": "neutral", "tip": "Put the dish before istiyorum." },
+    { "native": "Ne tavsiye edersiniz?", "english": "What do you recommend?", "pronunciation": "neh tav-see-YEH eh-dehr-see-neez", "formality": "formal" },
+    { "native": "Bir çay, lütfen", "english": "A tea, please", "pronunciation": "beer chai", "formality": "neutral", "tip": "Çay (tea) is the national drink." },
+    { "native": "Su, lütfen", "english": "Water, please", "pronunciation": "soo", "formality": "neutral" },
+    { "native": "Vejetaryenim", "english": "I'm vegetarian", "pronunciation": "veh-zheh-tar-YEH-neem", "formality": "neutral" },
+    { "native": "Çok lezzetli", "english": "It's delicious", "pronunciation": "chok lez-zet-LEE", "formality": "neutral" },
+    { "native": "Hesap, lütfen", "english": "The bill, please", "pronunciation": "heh-SAHP", "formality": "neutral" },
+    { "native": "Kredi kartı geçerli mi?", "english": "Do you take card?", "pronunciation": "kreh-DEE kar-TUH geh-cher-LEE mee", "formality": "neutral" },
+    { "native": "Afiyet olsun", "english": "Enjoy your meal", "pronunciation": "ah-fee-YET ol-soon", "formality": "neutral", "tip": "Said before and after eating." },
+    { "native": "Şerefe!", "english": "Cheers!", "pronunciation": "sheh-reh-FEH", "formality": "neutral" }
+  ]
+}

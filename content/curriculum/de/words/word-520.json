@@ -1,13 +1,11 @@
 {
   "rank": 520,
-  "german": "Aufgabe",
-  "english": "task, assignment",
-  "pronunciation": "OWF-gah-beh",
-  "partOfSpeech": "noun",
-  "gender": "feminine",
-  "article": "die",
-  "exampleDe": "Das ist eine schwierige Aufgabe.",
-  "exampleEn": "That is a difficult task.",
+  "german": "tagen",
+  "english": "to meetings",
+  "pronunciation": "t a ɡ ə n",
+  "partOfSpeech": "verb",
+  "exampleDe": "Ich möchte tagen.",
+  "exampleEn": "I want to meetings.",
   "group": "confident-350",
   "topic": "work"
 }

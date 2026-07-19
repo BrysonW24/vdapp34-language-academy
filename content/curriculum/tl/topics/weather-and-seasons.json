@@ -1,0 +1,90 @@
+{
+  "slug": "weather-and-seasons",
+  "title": "Weather & Seasons",
+  "titleNative": "Panahon at mga Season",
+  "shortSummary": "Talk about the heat, the rains, and typhoons, the rhythms of Philippine weather.",
+  "level": "beginner",
+  "order": 12,
+  "icon": "🌦️",
+  "color": "#1098ad",
+  "culturalNote": "The Philippines is tropical, so instead of four seasons there are mainly two: tag-init (the hot, dry season, roughly March to May) and tag-ulan (the rainy season, June to November). The hottest weeks before the rains arrive are so intense that locals simply call it summer, and schools schedule their long break then. The rainy season brings bagyo (typhoons), which can be powerful, so weather updates and storm signals are taken seriously, and classes are often suspended (walang pasok) for safety. Filipinos handle the heat with cold halo-halo, electric fans, and afternoon naps, and greet sudden downpours with a dash for cover and a shared laugh. Talking about the weather, especially Ang init! (So hot!), is a universal icebreaker.",
+  "keyPhrases": [
+    { "native": "Ang init ngayon!", "english": "It's so hot today!", "pronunciation": "ang i-NIT nga-YON", "context": "Hot weather" },
+    { "native": "Ang lamig naman.", "english": "It's so cold.", "pronunciation": "ang la-MIG na-MAN", "context": "Cool weather" },
+    { "native": "Umuulan na.", "english": "It's raining now.", "pronunciation": "u-mu-U-lan na", "context": "Rain has started" },
+    { "native": "Maaraw ngayon.", "english": "It's sunny today.", "pronunciation": "ma-A-raw nga-YON", "context": "Sunny weather" },
+    { "native": "May bagyo raw.", "english": "They say there's a typhoon.", "pronunciation": "may bag-YO raw", "context": "Storm news" },
+    { "native": "Magdala ka ng payong.", "english": "Bring an umbrella.", "pronunciation": "mag-da-LA ka nang PA-yong", "context": "Practical advice" },
+    { "native": "Tag-init na.", "english": "It's the hot season now.", "pronunciation": "tag-i-NIT na", "context": "Talking about seasons" },
+    { "native": "Tag-ulan na.", "english": "It's the rainy season now.", "pronunciation": "tag-u-LAN na", "context": "Talking about seasons" },
+    { "native": "Baha sa kalsada.", "english": "There's flooding on the road.", "pronunciation": "BA-ha sa kal-SA-da", "context": "After heavy rain" },
+    { "native": "Walang pasok bukas.", "english": "No classes tomorrow.", "pronunciation": "wa-LANG PA-sok BU-kas", "context": "Storm suspension" }
+  ],
+  "grammar": [
+    {
+      "rule": "Describing weather with the prefix ma-",
+      "explanation": "The prefix ma- turns a noun into a quality: araw (sun) becomes maaraw (sunny), ulan (rain) becomes maulan (rainy), lamig (cold) becomes malamig (cold). Use these to describe the weather as an adjective.",
+      "examples": [
+        { "native": "Maaraw ngayon.", "en": "It is sunny today." },
+        { "native": "Maulan sa Baguio.", "en": "It is rainy in Baguio." }
+      ],
+      "commonMistake": "Forgetting the ma- prefix and using the bare noun, such as araw ngayon instead of maaraw ngayon."
+    },
+    {
+      "rule": "The exclamation Ang + adjective",
+      "explanation": "To exclaim 'how / so + adjective', use Ang plus the adjective: Ang init! (So hot!), Ang ganda! (So beautiful!). This is the most common way Filipinos react to the weather and to things around them.",
+      "examples": [
+        { "native": "Ang init ngayon!", "en": "It is so hot today!" },
+        { "native": "Ang lakas ng ulan!", "en": "The rain is so strong!" }
+      ],
+      "commonMistake": "Adding the linker -ng after ang in this pattern; it stays ang init, not anging init."
+    }
+  ],
+  "dialogue": {
+    "setup": "Neighbours Ditas and Boy talk over the fence as clouds gather.",
+    "lines": [
+      { "speaker": "Ditas", "native": "Naku, ang init kanina, ngayon umuulan na!", "english": "Oh my, it was so hot earlier, now it's raining!" },
+      { "speaker": "Boy", "native": "Oo nga. May bagyo raw na paparating.", "english": "Yes indeed. They say a typhoon is coming." },
+      { "speaker": "Ditas", "native": "Talaga? Mabuti nag-impake na ako ng pagkain.", "english": "Really? Good thing I already stocked up on food." },
+      { "speaker": "Boy", "native": "Tama ka. Baka may baha sa kalsada mamaya.", "english": "You're right. There might be flooding on the road later." },
+      { "speaker": "Ditas", "native": "Walang pasok daw bukas ang mga bata.", "english": "They say there are no classes for the kids tomorrow." },
+      { "speaker": "Boy", "native": "Mabuti, mas ligtas sa bahay. Mag-ingat ka, Ditas.", "english": "Good, safer at home. Take care, Ditas." },
+      { "speaker": "Ditas", "native": "Ikaw rin, Boy. Magdala ka ng payong palagi!", "english": "You too, Boy. Always bring an umbrella!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'It's so hot today!' in Filipino?",
+      "correctAnswer": "Ang init ngayon!",
+      "explanation": "Ang init! is the classic exclamation for hot weather."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does 'tag-ulan' mean?",
+      "options": ["The hot season", "The rainy season", "A holiday", "A typhoon name"],
+      "correctAnswer": "The rainy season",
+      "explanation": "Tag-ulan is the rainy season; tag-init is the hot, dry season."
+    },
+    {
+      "type": "fill-blank",
+      "question": "_____araw ngayon. (the prefix that makes 'sunny')",
+      "correctAnswer": "Ma",
+      "explanation": "Ma- plus araw makes maaraw (sunny)."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does 'walang pasok' usually mean during a typhoon?",
+      "options": ["The market is open", "No classes or work", "It is sunny", "Free umbrellas"],
+      "correctAnswer": "No classes or work",
+      "explanation": "Walang pasok means classes or work are suspended for safety."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: payong / ka / ng / magdala",
+      "correctAnswer": "Magdala ka ng payong",
+      "explanation": "Magdala ka ng payong means 'Bring an umbrella'."
+    }
+  ],
+  "status": "complete"
+}

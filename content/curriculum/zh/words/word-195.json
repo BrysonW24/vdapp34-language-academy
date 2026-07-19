@@ -1,12 +1,13 @@
 {
   "rank": 195,
-  "chinese": "学",
-  "characters": "学",
-  "pinyin": "xué",
-  "english": "to learn/to study",
+  "chinese": "引起",
+  "characters": "引起",
+  "pinyin": "yǐn qǐ",
+  "english": "to cause",
+  "pronunciation": "yin-qi",
   "partOfSpeech": "verb",
-  "exampleZh": "我在学中文。",
-  "exampleEn": "I'm learning Chinese.",
+  "exampleZh": "我想引起。",
+  "exampleEn": "I want to cause.",
   "group": "everyday-250",
-  "topic": "education"
+  "topic": "actions"
 }

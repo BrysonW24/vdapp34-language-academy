@@ -1,0 +1,90 @@
+{
+  "slug": "food-and-restaurants",
+  "title": "Food & Restaurants",
+  "titleZh": "饮食与餐厅",
+  "shortSummary": "Order food and drinks, talk about taste, and enjoy a meal out in Mandarin.",
+  "level": "elementary",
+  "order": 4,
+  "icon": "🍜",
+  "color": "#a16a1f",
+  "culturalNote": "Eating is central to Chinese social life, and dishes are usually shared in the middle of the table rather than ordered individually. It is polite to invite others to eat first and to keep refilling each other's tea. Tipping is not expected in mainland China, and paying happens by saying 买单 (mǎidān). Mobile payment with WeChat or Alipay is the norm almost everywhere.",
+  "keyPhrases": [
+    { "chinese": "我要看菜单", "pinyin": "wǒ yào kàn càidān", "english": "I'd like the menu", "context": "Starting to order" },
+    { "chinese": "你们有什么推荐？", "pinyin": "nǐmen yǒu shénme tuījiàn?", "english": "What do you recommend?", "context": "Asking for advice" },
+    { "chinese": "我要这个", "pinyin": "wǒ yào zhège", "english": "I'll have this", "context": "Pointing at the menu" },
+    { "chinese": "不要太辣", "pinyin": "bú yào tài là", "english": "Not too spicy", "context": "A useful request" },
+    { "chinese": "我吃素", "pinyin": "wǒ chī sù", "english": "I'm vegetarian", "context": "Dietary need" },
+    { "chinese": "好吃", "pinyin": "hǎochī", "english": "Delicious (food)", "context": "好喝 for drinks" },
+    { "chinese": "我饱了", "pinyin": "wǒ bǎo le", "english": "I'm full", "context": "Politely declining more" },
+    { "chinese": "服务员", "pinyin": "fúwùyuán", "english": "Waiter / waitress", "context": "Calling staff over" },
+    { "chinese": "买单", "pinyin": "mǎidān", "english": "The bill, please", "context": "Asking to pay" },
+    { "chinese": "干杯", "pinyin": "gānbēi", "english": "Cheers!", "context": "Literally 'dry the cup'" }
+  ],
+  "grammar": [
+    {
+      "rule": "好 + verb for 'good to'",
+      "explanation": "Attach 好 (hǎo) to a verb to mean 'good to do': 好吃 (good to eat, delicious), 好喝 (good to drink), 好看 (good to look at, nice).",
+      "examples": [
+        { "zh": "这个菜很好吃。", "en": "This dish is delicious." },
+        { "zh": "这个茶很好喝。", "en": "This tea is delicious (to drink)." }
+      ],
+      "commonMistake": "Using 好吃 for drinks. Food is 好吃; drinks are 好喝."
+    },
+    {
+      "rule": "要 to order or want",
+      "explanation": "要 (yào) means 'want' and is the natural verb for ordering: 我要一碗面 (I want a bowl of noodles). Remember the measure word between the number and the noun.",
+      "examples": [
+        { "zh": "我要一杯茶。", "en": "I want a cup of tea." },
+        { "zh": "我们要两碗米饭。", "en": "We want two bowls of rice." }
+      ],
+      "commonMistake": "Dropping the measure word: it is 一碗面, not 一面."
+    }
+  ],
+  "dialogue": {
+    "setup": "Da Wei and a waiter at a busy noodle restaurant.",
+    "lines": [
+      { "speaker": "服务员", "chinese": "你好，几位？", "pinyin": "Nǐ hǎo, jǐ wèi?", "english": "Hello, how many people?" },
+      { "speaker": "大伟", "chinese": "两位。有什么推荐？", "pinyin": "Liǎng wèi. Yǒu shénme tuījiàn?", "english": "Two. What do you recommend?" },
+      { "speaker": "服务员", "chinese": "我们的牛肉面很好吃。", "pinyin": "Wǒmen de niúròumiàn hěn hǎochī.", "english": "Our beef noodles are delicious." },
+      { "speaker": "大伟", "chinese": "好，我要一碗，不要太辣。", "pinyin": "Hǎo, wǒ yào yì wǎn, bú yào tài là.", "english": "Good, I'll have a bowl, not too spicy." },
+      { "speaker": "服务员", "chinese": "好的，喝点什么？", "pinyin": "Hǎo de, hē diǎn shénme?", "english": "Okay, anything to drink?" },
+      { "speaker": "大伟", "chinese": "一杯茶，谢谢。", "pinyin": "Yì bēi chá, xièxie.", "english": "A cup of tea, thank you." },
+      { "speaker": "服务员", "chinese": "好，请稍等。", "pinyin": "Hǎo, qǐng shāo děng.", "english": "Okay, please wait a moment." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'The bill, please'?",
+      "correctAnswer": "买单",
+      "explanation": "买单 (mǎidān) asks for the bill."
+    },
+    {
+      "type": "fill-blank",
+      "question": "这个茶很好_____。 (delicious to drink)",
+      "correctAnswer": "喝",
+      "explanation": "Drinks use 好喝; food uses 好吃."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "How do you say 'I'm vegetarian'?",
+      "options": ["我饱了", "我吃素", "我要这个", "我很辣"],
+      "correctAnswer": "我吃素",
+      "explanation": "我吃素 means 'I eat vegetarian'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which means 'I'm full'?",
+      "options": ["我饿了", "我饱了", "我累了", "我渴了"],
+      "correctAnswer": "我饱了",
+      "explanation": "我饱了 means 'I'm full'."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: 茶 / 要 / 我 / 一杯",
+      "correctAnswer": "我要一杯茶",
+      "explanation": "Subject 我, verb 要, then 一杯茶 (a cup of tea)."
+    }
+  ],
+  "status": "complete"
+}

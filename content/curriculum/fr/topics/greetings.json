@@ -1,0 +1,90 @@
+{
+  "slug": "greetings",
+  "title": "Greetings & Goodbyes",
+  "titleNative": "Salutations et adieux",
+  "shortSummary": "Greet people, introduce yourself, and say goodbye in French, the foundation of every conversation.",
+  "level": "beginner",
+  "order": 1,
+  "icon": "👋",
+  "color": "#2f5fa0",
+  "culturalNote": "In France, always begin with Bonjour before anything else; walking into a shop and asking a question without it can seem rude. Greetings often come with la bise, a light kiss on each cheek among friends and family, while a handshake suits more formal settings. The big distinction is tu versus vous: use the formal vous with strangers, elders, and in professional life until you are invited to switch to the informal tu.",
+  "keyPhrases": [
+    { "native": "Bonjour", "english": "Hello / Good day", "pronunciation": "bon-ZHOOR", "context": "The essential first word" },
+    { "native": "Bonsoir", "english": "Good evening", "pronunciation": "bon-SWAHR", "context": "From early evening" },
+    { "native": "Salut", "english": "Hi / Bye (informal)", "pronunciation": "sah-LEW", "context": "Casual, with friends" },
+    { "native": "Comment allez-vous ?", "english": "How are you? (formal)", "pronunciation": "koh-mon tah-lay VOO", "context": "Formal, with vous" },
+    { "native": "Ça va ?", "english": "How's it going? (informal)", "pronunciation": "sah VAH", "context": "Casual greeting" },
+    { "native": "Ça va bien, merci", "english": "I'm well, thank you", "pronunciation": "sah vah bee-AN mehr-SEE", "context": "Standard reply" },
+    { "native": "Enchanté", "english": "Nice to meet you", "pronunciation": "on-shon-TAY", "context": "First meeting" },
+    { "native": "Au revoir", "english": "Goodbye", "pronunciation": "oh ruh-VWAHR", "context": "Standard farewell" },
+    { "native": "À bientôt", "english": "See you soon", "pronunciation": "ah bee-an-TOH", "context": "Friendly closing" },
+    { "native": "Bonne journée", "english": "Have a nice day", "pronunciation": "bon zhoor-NAY", "context": "Warm sign-off" }
+  ],
+  "grammar": [
+    {
+      "rule": "Formal vous vs informal tu",
+      "explanation": "French has two words for 'you': tu (informal) and vous (formal or plural). Use tu with friends, family, and children; use vous with strangers, elders, and at work.",
+      "examples": [
+        { "native": "Comment vas-tu ?", "en": "How are you? (informal)" },
+        { "native": "Comment allez-vous ?", "en": "How are you? (formal)" }
+      ],
+      "commonMistake": "Using tu with a stranger or an elder, which can sound too familiar."
+    },
+    {
+      "rule": "Greetings by time of day",
+      "explanation": "Use Bonjour during the day and Bonsoir in the evening. Bonne nuit (good night) is only for going to bed, not a general evening greeting.",
+      "examples": [
+        { "native": "Bonjour, madame.", "en": "Hello, madam." },
+        { "native": "Bonsoir, tout le monde.", "en": "Good evening, everyone." }
+      ],
+      "commonMistake": "Saying Bonne nuit when you arrive in the evening. It only means 'good night' before sleep."
+    }
+  ],
+  "dialogue": {
+    "setup": "Madame Dubois meets her new colleague Monsieur Martin in the morning.",
+    "lines": [
+      { "speaker": "Mme Dubois", "native": "Bonjour ! Comment allez-vous ?", "english": "Hello! How are you?" },
+      { "speaker": "M. Martin", "native": "Bonjour ! Très bien, merci. Et vous ?", "english": "Hello! Very well, thank you. And you?" },
+      { "speaker": "Mme Dubois", "native": "Ça va bien. Je suis Madame Dubois.", "english": "I'm well. I'm Mrs Dubois." },
+      { "speaker": "M. Martin", "native": "Enchanté ! Je m'appelle Paul Martin.", "english": "Nice to meet you! My name is Paul Martin." },
+      { "speaker": "Mme Dubois", "native": "Enchantée. Bienvenue dans l'équipe !", "english": "Nice to meet you. Welcome to the team!" },
+      { "speaker": "M. Martin", "native": "Merci beaucoup. À bientôt !", "english": "Thank you very much. See you soon!" },
+      { "speaker": "Mme Dubois", "native": "À bientôt. Bonne journée !", "english": "See you soon. Have a nice day!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'Good evening' in French?",
+      "correctAnswer": "Bonsoir",
+      "explanation": "Bonsoir is used from the early evening onward."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which greeting is formal?",
+      "options": ["Salut", "Ça va ?", "Comment allez-vous ?", "Coucou"],
+      "correctAnswer": "Comment allez-vous ?",
+      "explanation": "It uses the formal vous; the others are casual."
+    },
+    {
+      "type": "fill-blank",
+      "question": "Comment _____-vous ? (formal 'how are you')",
+      "correctAnswer": "allez",
+      "explanation": "With vous, the verb aller becomes allez."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which word means a casual 'hi' or 'bye'?",
+      "options": ["Au revoir", "Bonjour", "Salut", "Merci"],
+      "correctAnswer": "Salut",
+      "explanation": "Salut is the informal greeting and farewell."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: bien / ça / va",
+      "correctAnswer": "Ça va bien",
+      "explanation": "Ça va bien means 'it's going well'."
+    }
+  ],
+  "status": "complete"
+}

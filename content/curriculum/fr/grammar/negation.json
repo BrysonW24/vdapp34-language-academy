@@ -1,0 +1,26 @@
+{
+  "slug": "negation",
+  "name": "Negation: ne ... pas",
+  "nameNative": "La négation : ne ... pas",
+  "summary": "French wraps the verb in two words, ne and pas, to make it negative.",
+  "level": "beginner",
+  "order": 4,
+  "explanation": "French negation has two parts that hug the verb: ne goes before it and pas goes after. Je parle (I speak) becomes je ne parle pas (I do not speak).\n\nBefore a vowel, ne shortens to n': je n'aime pas (I don't like). In casual spoken French the ne is often dropped, leaving just pas, but in writing and careful speech you should keep both.\n\nOther negatives replace pas: ne ... jamais (never), ne ... rien (nothing), ne ... plus (no longer), ne ... personne (nobody). The ne stays; the second word changes.",
+  "pattern": "ne + verb + pas  (ne becomes n' before a vowel)",
+  "examples": [
+    { "native": "Je ne comprends pas.", "en": "I don't understand." },
+    { "native": "Il n'aime pas le café.", "en": "He doesn't like coffee. (n' before a vowel)" },
+    { "native": "Nous ne travaillons pas aujourd'hui.", "en": "We are not working today." },
+    { "native": "Je ne sais pas.", "en": "I don't know." },
+    { "native": "Elle ne mange jamais de viande.", "en": "She never eats meat." },
+    { "native": "Il n'y a rien ici.", "en": "There is nothing here." }
+  ],
+  "commonMistakes": [
+    "Using only one part in writing: it is ne ... pas, not just ne or just pas.",
+    "Forgetting to elide: it is je n'aime pas, not je ne aime pas.",
+    "Adding pas to other negatives: it is ne ... jamais, not ne ... jamais pas.",
+    "Translating English 'do not' literally. French has no 'do'; ne and pas wrap the verb.",
+    "Placing pas before the verb. It always comes after the conjugated verb."
+  ],
+  "tip": "Picture the verb in a sandwich: ne on one side, pas on the other. Swap pas for jamais, rien, or plus to change the meaning."
+}

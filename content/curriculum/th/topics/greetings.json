@@ -1,0 +1,90 @@
+{
+  "slug": "greetings",
+  "title": "Greetings & Goodbyes",
+  "titleTh": "การทักทายและการลา",
+  "shortSummary": "Greet people, introduce yourself, and say goodbye in Thai, the foundation of every conversation.",
+  "level": "beginner",
+  "order": 1,
+  "icon": "🙏",
+  "color": "#a16a1f",
+  "culturalNote": "The traditional Thai greeting is the wai (ไหว้), a slight bow with palms pressed together, usually offered first to elders or those of higher status. The single word สวัสดี (sawatdee) means both hello and goodbye. Politeness particles are essential: men add ครับ and women add ค่ะ to sound respectful. Touching someone's head or pointing your feet at people is considered rude.",
+  "keyPhrases": [
+    { "thai": "สวัสดี", "pronunciation": "sa-wat-dee", "english": "Hello / Goodbye", "context": "Add ครับ / ค่ะ to be polite" },
+    { "thai": "สวัสดีตอนเช้า", "pronunciation": "sa-wat-dee ton-chao", "english": "Good morning", "context": "Morning greeting" },
+    { "thai": "สบายดีไหม", "pronunciation": "sabai-dee mai", "english": "How are you?", "context": "Asking how someone is" },
+    { "thai": "สบายดี", "pronunciation": "sabai-dee", "english": "I'm fine", "context": "Standard reply" },
+    { "thai": "ขอบคุณ", "pronunciation": "khop-khun", "english": "Thank you", "context": "Said often" },
+    { "thai": "ไม่เป็นไร", "pronunciation": "mai-pen-rai", "english": "You're welcome / No worries", "context": "Very common reply" },
+    { "thai": "ยินดีที่ได้รู้จัก", "pronunciation": "yin-dee thii dai ruu-jak", "english": "Nice to meet you", "context": "First meeting" },
+    { "thai": "ลาก่อน", "pronunciation": "laa-kon", "english": "Goodbye", "context": "Formal farewell" },
+    { "thai": "แล้วเจอกัน", "pronunciation": "laeo joe kan", "english": "See you later", "context": "Casual farewell" },
+    { "thai": "โชคดี", "pronunciation": "chok-dee", "english": "Good luck / Take care", "context": "Warm closing" }
+  ],
+  "grammar": [
+    {
+      "rule": "Politeness particles ครับ / ค่ะ",
+      "explanation": "End a greeting with ครับ (men) or ค่ะ (women) to be polite. The particle follows the speaker's gender, not the listener's.",
+      "examples": [
+        { "th": "สวัสดีครับ", "en": "Hello. (male speaker)" },
+        { "th": "สวัสดีค่ะ", "en": "Hello. (female speaker)" }
+      ],
+      "commonMistake": "Choosing the particle by the listener's gender. It follows your own gender."
+    },
+    {
+      "rule": "ไหม turns a statement into a question",
+      "explanation": "Add ไหม to the end to ask a yes/no question: สบายดี (you're well) becomes สบายดีไหม (are you well?). The word order does not change.",
+      "examples": [
+        { "th": "สบายดีไหม", "en": "Are you well?" },
+        { "th": "หิวไหม", "en": "Are you hungry?" }
+      ],
+      "commonMistake": "Reordering the sentence. Just add ไหม at the end."
+    }
+  ],
+  "dialogue": {
+    "setup": "Somchai greets his neighbour Malee in the morning.",
+    "lines": [
+      { "speaker": "สมชาย", "thai": "สวัสดีครับ มาลี", "pronunciation": "sa-wat-dee khrap, Malee", "english": "Good morning, Malee." },
+      { "speaker": "มาลี", "thai": "สวัสดีค่ะ สบายดีไหมคะ", "pronunciation": "sa-wat-dee kha, sabai-dee mai kha", "english": "Hello. How are you?" },
+      { "speaker": "สมชาย", "thai": "สบายดีครับ คุณล่ะ", "pronunciation": "sabai-dee khrap, khun la", "english": "I'm well. And you?" },
+      { "speaker": "มาลี", "thai": "สบายดีค่ะ ขอบคุณค่ะ", "pronunciation": "sabai-dee kha, khop-khun kha", "english": "I'm fine, thank you." },
+      { "speaker": "สมชาย", "thai": "ผมไปทำงานนะครับ", "pronunciation": "phom pai tham-ngaan na khrap", "english": "I'm off to work." },
+      { "speaker": "มาลี", "thai": "โชคดีนะคะ แล้วเจอกัน", "pronunciation": "chok-dee na kha, laeo joe kan", "english": "Take care, see you later." },
+      { "speaker": "สมชาย", "thai": "แล้วเจอกันครับ", "pronunciation": "laeo joe kan khrap", "english": "See you later." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'Thank you' in Thai?",
+      "correctAnswer": "ขอบคุณ",
+      "explanation": "ขอบคุณ (khop-khun), politer with ครับ / ค่ะ."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which particle does a female speaker use?",
+      "options": ["ครับ", "ค่ะ", "ไหม", "นะ"],
+      "correctAnswer": "ค่ะ",
+      "explanation": "Women use ค่ะ; men use ครับ."
+    },
+    {
+      "type": "fill-blank",
+      "question": "สบายดี_____ (turn it into 'are you well?')",
+      "correctAnswer": "ไหม",
+      "explanation": "Adding ไหม makes it a yes/no question."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does สวัสดี mean?",
+      "options": ["Thank you", "Hello and goodbye", "Sorry", "Help"],
+      "correctAnswer": "Hello and goodbye",
+      "explanation": "สวัสดี serves as both hello and goodbye."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: กัน / เจอ / แล้ว",
+      "correctAnswer": "แล้วเจอกัน",
+      "explanation": "แล้วเจอกัน means 'see you later'."
+    }
+  ],
+  "status": "complete"
+}

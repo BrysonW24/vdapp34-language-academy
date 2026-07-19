@@ -1,0 +1,25 @@
+{
+  "slug": "everyday",
+  "title": "Everyday Slang",
+  "description": "Sixteen casual Turkish expressions young native speakers actually use - the slang that makes you sound natural instead of like a phrasebook.",
+  "situation": "Hanging out with friends, texting, and everyday casual chat where formal Turkish would sound stiff.",
+  "order": 1,
+  "phrases": [
+    { "native": "Naber?", "english": "What's up?", "pronunciation": "NAH-bair", "formality": "informal", "tip": "Squashed-together form of 'ne haber' (literally 'what news'). The default casual greeting among friends. Reply with 'iyilik' (all good) or 'senden naber?' (what's up with you)." },
+    { "native": "kanka", "english": "mate / bro", "pronunciation": "KAHN-kah", "formality": "informal", "tip": "Short for 'kan kardeşi' (blood brother). The go-to friendly address term for a close friend, used by everyone. 'Kanki' is an even softer, cuter version." },
+    { "native": "harika", "english": "great / wonderful", "pronunciation": "hah-ree-KAH", "formality": "neutral", "tip": "Warm, enthusiastic 'fantastic'. Widely acceptable in any setting, from texting a friend to replying to your boss." },
+    { "native": "süper", "english": "super / awesome", "pronunciation": "SOO-pair", "formality": "neutral", "tip": "Borrowed from European 'super' and fully Turkish now, spelled with the umlaut u: süper. Drop it as a one-word reply meaning 'perfect, sounds good'." },
+    { "native": "valla", "english": "honestly / I swear", "pronunciation": "vahl-LAH", "formality": "informal", "tip": "From Arabic 'wallahi' (by God), but used totally casually now just to add emphasis: 'valla bilmiyorum' = 'honestly, I don't know'. Sprinkled everywhere in speech." },
+    { "native": "boş ver", "english": "never mind / forget it", "pronunciation": "bohsh VAIR", "formality": "informal", "tip": "Literally 'give it empty'. A breezy way to wave something off. 'Boş ver ya' softens it even more, like 'ah, don't worry about it'." },
+    { "native": "of ya", "english": "ugh / oh man", "pronunciation": "OHF yah", "formality": "informal", "tip": "The all-purpose sigh of mild frustration or weariness. 'Of' is the groan, 'ya' is the filler tail. Said when something is annoying or tiring." },
+    { "native": "ya", "english": "you know / come on", "pronunciation": "yah", "formality": "informal", "tip": "The single most common Turkish filler word. Tacked onto the end of sentences for emphasis or softening: 'gel ya' = 'oh come on, come'. Means nothing on its own, it is just vibe." },
+    { "native": "takılmak", "english": "to hang out / chill", "pronunciation": "tah-kuhl-MAHK", "formality": "informal", "tip": "'Takılıyoruz' = 'we're just hanging out'. The casual verb for spending time with friends doing nothing in particular. Literally 'to get caught / linger'." },
+    { "native": "yok artık", "english": "no way! / you're kidding", "pronunciation": "YOHK ahr-TUHK", "formality": "informal", "tip": "Literally 'no more'. The classic reaction of disbelief when you hear something surprising or unbelievable. Said with wide eyes." },
+    { "native": "çılgınlık", "english": "that's crazy / wild", "pronunciation": "chuhl-guhn-LUHK", "formality": "informal", "tip": "From 'çılgın' (crazy). Used like 'that's insane' for something impressive or shocking. 'Çılgın gibi' = 'like crazy', e.g. studying or working a lot." },
+    { "native": "kafayı yedim", "english": "I'm losing my mind", "pronunciation": "kah-fah-YUH yeh-DEEM", "formality": "informal", "tip": "Literally 'I ate my head'. Said when you're stressed, overwhelmed, or something is driving you nuts. Playful and very common." },
+    { "native": "param yok", "english": "I'm broke", "pronunciation": "pah-RAHM yohk", "formality": "informal", "tip": "Literally 'my money doesn't exist'. The everyday way to say you have no cash. 'Beş parasızım' (I'm penniless) is a stronger, more dramatic version." },
+    { "native": "çok yoruldum", "english": "I'm exhausted", "pronunciation": "CHOHK yoh-rool-DOOM", "formality": "informal", "tip": "Literally 'I got very tired'. The standard way to say you're wiped out. 'Bittim' (I'm finished) is the more dramatic, slangy version." },
+    { "native": "hadi gidelim", "english": "let's go / come on, let's go", "pronunciation": "HAH-dee gee-deh-LEEM", "formality": "informal", "tip": "'Hadi' is the all-purpose 'come on / let's' rallying word. 'Hadi bakalım' = 'alright, off we go'. Used constantly to get moving or kick something off." },
+    { "native": "efsane", "english": "legendary / amazing", "pronunciation": "ef-sah-NEH", "formality": "informal", "tip": "Literally 'legend / myth'. Used by younger speakers for something epic: 'konser efsaneydi' = 'the concert was legendary'. The Turkish equivalent of calling something 'iconic'." }
+  ]
+}

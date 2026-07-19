@@ -1,12 +1,13 @@
 {
   "rank": 246,
-  "chinese": "水",
-  "characters": "水",
-  "pinyin": "shuǐ",
-  "english": "water",
-  "partOfSpeech": "noun",
-  "exampleZh": "请给我一杯水。",
-  "exampleEn": "Please give me a glass of water.",
+  "chinese": "确实",
+  "characters": "确实",
+  "pinyin": "què shí",
+  "english": "really",
+  "pronunciation": "que-shi",
+  "partOfSpeech": "adjective",
+  "exampleZh": "这个地方很确实。",
+  "exampleEn": "This place is very really.",
   "group": "everyday-250",
-  "topic": "food-drink"
+  "topic": "descriptions"
 }

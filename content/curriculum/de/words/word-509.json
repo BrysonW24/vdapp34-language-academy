@@ -1,13 +1,11 @@
 {
   "rank": 509,
-  "german": "Garten",
-  "english": "garden",
-  "pronunciation": "GAR-ten",
-  "partOfSpeech": "noun",
-  "gender": "masculine",
-  "article": "der",
-  "exampleDe": "Der Garten ist schön.",
-  "exampleEn": "The garden is beautiful.",
+  "german": "rein",
+  "english": "pure",
+  "pronunciation": "ʀ a ɪ n",
+  "partOfSpeech": "adjective",
+  "exampleDe": "Dieser Ort ist sehr rein.",
+  "exampleEn": "This place is very pure.",
   "group": "confident-350",
-  "topic": "home"
+  "topic": "descriptions"
 }

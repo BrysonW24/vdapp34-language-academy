@@ -1,0 +1,26 @@
+{
+  "slug": "ba-construction",
+  "name": "The 把 Construction",
+  "nameZh": "把字句",
+  "summary": "把 moves the object before the verb to stress what happens to it, often a result or change.",
+  "level": "pre-intermediate",
+  "order": 10,
+  "explanation": "Normally Chinese is Subject-Verb-Object. The 把 (bǎ) construction moves a specific object in front of the verb to focus on what is done to it: 我把门关了 (wǒ bǎ mén guān le) = I closed the door (I took the door and closed it).\n\nThe pattern is Subject + 把 + Object + Verb + extra. The verb almost always carries something extra after it, such as 了, a result (关好), a direction (拿出来), or a place, because 把 emphasises a completed effect on the object.\n\nUse 把 when something definite is moved, changed, or disposed of. The object must be specific and known, not a brand-new indefinite thing.",
+  "pattern": "Subject + 把 + (specific) Object + Verb + 了 / result / direction",
+  "examples": [
+    { "zh": "我把作业做完了。", "en": "I finished the homework. (completed result)" },
+    { "zh": "请把窗户打开。", "en": "Please open the window." },
+    { "zh": "他把车停在门口。", "en": "He parked the car at the entrance. (place)" },
+    { "zh": "我把钱包忘在家里了。", "en": "I left my wallet at home." },
+    { "zh": "请把书放在桌子上。", "en": "Please put the book on the table." },
+    { "zh": "她把蛋糕吃了。", "en": "She ate the cake (all of it)." }
+  ],
+  "commonMistakes": [
+    "Leaving the verb bare after 把. It needs something extra, like 了 or a result: 我把门关了, not 我把门关.",
+    "Using 把 with an indefinite object. The object must be specific (the door, the cake), not 'a door'.",
+    "Using 把 when nothing happens to the object. It is for disposal, change, or a clear effect.",
+    "Putting the object after the verb as well. With 把 the object comes before the verb only.",
+    "Negating in the wrong place: the negation goes before 把, as in 我没把门关."
+  ],
+  "tip": "Think 'take the object and do something to it'. If there is a clear result on a specific thing, 把 is natural."
+}

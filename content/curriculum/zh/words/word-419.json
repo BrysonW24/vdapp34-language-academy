@@ -1,13 +1,13 @@
 {
   "rank": 419,
-  "chinese": "耳朵",
-  "characters": "耳朵",
-  "pinyin": "ěrduo",
-  "english": "ear, ears",
-  "pronunciation": "are-dwoh (3rd, neutral)",
+  "chinese": "下来",
+  "characters": "下来",
+  "pinyin": "xià lái",
+  "english": "come down",
+  "pronunciation": "xia-lai",
   "partOfSpeech": "noun",
-  "exampleZh": "他的耳朵很灵。",
-  "exampleEn": "His ears are very sharp.",
+  "exampleZh": "这个下来很重要。",
+  "exampleEn": "This come down is important.",
   "group": "confident-350",
-  "topic": "health"
+  "topic": "travel"
 }

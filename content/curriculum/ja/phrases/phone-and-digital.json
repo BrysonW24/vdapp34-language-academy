@@ -1,0 +1,21 @@
+{
+  "slug": "phone-and-digital",
+  "title": "Phone & Digital",
+  "description": "Stay connected: phone calls, messaging, wifi, and everyday digital life in Japanese.",
+  "situation": "Online and on the phone: making calls, swapping contacts, finding wifi, charging devices, and apps.",
+  "order": 8,
+  "phrases": [
+    { "native": "もしもし", "transliteration": "moshi moshi", "english": "Hello (on the phone)", "pronunciation": "moh-shee moh-shee", "formality": "neutral", "tip": "Only used on the phone, never face to face." },
+    { "native": "電話番号を教えてください", "transliteration": "denwa bangou o oshiete kudasai", "english": "Please tell me your phone number", "pronunciation": "den-wah ban-goh oh oh-shee-eh-teh koo-dah-sai", "formality": "formal" },
+    { "native": "lineを交換しましょう", "transliteration": "rain o koukan shimashou", "english": "Let's exchange LINE", "pronunciation": "rah-een oh koh-kan shee-mah-shoh", "formality": "neutral", "tip": "LINE is the dominant messaging app in Japan, like WhatsApp elsewhere." },
+    { "native": "wifiはありますか", "transliteration": "waifai wa arimasu ka", "english": "Is there wifi?", "pronunciation": "wai-fai wah ah-ree-mahs kah", "formality": "neutral" },
+    { "native": "充電してもいいですか", "transliteration": "juuden shite mo ii desu ka", "english": "May I charge my phone?", "pronunciation": "joo-den shteh moh ee dess kah", "formality": "formal" },
+    { "native": "バッテリーが切れそうです", "transliteration": "batterii ga kiresou desu", "english": "My battery is about to die", "pronunciation": "baht-teh-ree gah kee-reh-soh dess", "formality": "neutral" },
+    { "native": "電波が悪いです", "transliteration": "denpa ga warui desu", "english": "The signal is bad", "pronunciation": "den-pah gah wah-roo-ee dess", "formality": "neutral" },
+    { "native": "写真を撮ってもいいですか", "transliteration": "shashin o totte mo ii desu ka", "english": "May I take a photo?", "pronunciation": "shah-sheen oh toht-teh moh ee dess kah", "formality": "formal", "tip": "Always ask before photographing people or inside shops and shrines." },
+    { "native": "メッセージを送ります", "transliteration": "messeeji o okurimasu", "english": "I'll send a message", "pronunciation": "mes-seh-jee oh oh-koo-ree-mahs", "formality": "neutral" },
+    { "native": "このアプリは便利です", "transliteration": "kono apuri wa benri desu", "english": "This app is convenient", "pronunciation": "koh-noh ah-poo-ree wah ben-ree dess", "formality": "neutral" },
+    { "native": "qrコードを読み取ってください", "transliteration": "kyuuaaru koodo o yomitotte kudasai", "english": "Please scan the QR code", "pronunciation": "kyoo-ah-roo koh-doh oh yoh-mee-toht-teh koo-dah-sai", "formality": "formal", "tip": "QR-code payments and menus are everywhere in Japan." },
+    { "native": "後で電話します", "transliteration": "ato de denwa shimasu", "english": "I'll call you later", "pronunciation": "ah-toh deh den-wah shee-mahs", "formality": "neutral" }
+  ]
+}

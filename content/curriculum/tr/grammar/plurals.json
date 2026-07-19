@@ -1,0 +1,34 @@
+{
+  "slug": "plurals",
+  "name": "Plurals (-lar / -ler)",
+  "nameNative": "Çoğul ekleri (-lar / -ler)",
+  "summary": "Make nouns plural with a single two-way suffix governed by vowel harmony.",
+  "level": "beginner",
+  "order": 5,
+  "explanation": "Turkish has just one plural suffix, and which form you use depends only on vowel harmony. After a back vowel (a, ı, o, u) you add -lar; after a front vowel (e, i, ö, ü) you add -ler. So kitap becomes kitaplar (books) and ev becomes evler (houses).\n\nThere is no irregular plural list to memorise and no change for masculine or feminine, because Turkish has no grammatical gender. Just check the last vowel of the word and pick -lar or -ler.\n\nOne habit surprises English speakers: after a number or a quantity word like çok (many) or birkaç (a few), the noun stays singular. You say üç kitap (three books), not üç kitaplar. The number already shows plurality, so the suffix is dropped.",
+  "pattern": "noun + lar (after a, ı, o, u) / ler (after e, i, ö, ü)",
+  "conjugation": {
+    "kitap (book)": "kitaplar",
+    "ev (house)": "evler",
+    "araba (car)": "arabalar",
+    "köpek (dog)": "köpekler",
+    "okul (school)": "okullar",
+    "göz (eye)": "gözler"
+  },
+  "examples": [
+    { "native": "Kitaplar masada.", "en": "The books are on the table." },
+    { "native": "Evler çok güzel.", "en": "The houses are very beautiful." },
+    { "native": "Öğrenciler sınıfta.", "en": "The students are in the classroom." },
+    { "native": "Üç çay, lütfen.", "en": "Three teas, please." },
+    { "native": "Çok arkadaşım var.", "en": "I have many friends." },
+    { "native": "Çiçekler bahçede.", "en": "The flowers are in the garden." }
+  ],
+  "commonMistakes": [
+    "Adding -lar to a word with a front vowel, saying evlar instead of evler.",
+    "Keeping the plural after a number, saying üç kitaplar instead of üç kitap.",
+    "Adding a plural after çok or birkaç, saying çok kitaplar instead of çok kitap.",
+    "Looking at the first vowel instead of the last to decide harmony.",
+    "Assuming Turkish has gendered or irregular plurals; it has neither."
+  ],
+  "tip": "Say the word out loud and listen to its last vowel. Bright front vowels take -ler; deep back vowels take -lar."
+}

@@ -1,13 +1,11 @@
 {
   "rank": 516,
-  "german": "Kollege",
-  "english": "colleague (male)",
-  "pronunciation": "kol-LAY-geh",
-  "partOfSpeech": "noun",
-  "gender": "masculine",
-  "article": "der",
-  "exampleDe": "Mein Kollege hilft mir.",
-  "exampleEn": "My colleague helps me.",
+  "german": "stimmt",
+  "english": "true",
+  "pronunciation": "ʃ t ɪ m t",
+  "partOfSpeech": "adjective",
+  "exampleDe": "Das ist sehr stimmt.",
+  "exampleEn": "That is very true.",
   "group": "confident-350",
-  "topic": "work"
+  "topic": "descriptions"
 }

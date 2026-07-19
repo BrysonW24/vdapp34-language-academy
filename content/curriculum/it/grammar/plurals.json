@@ -1,0 +1,33 @@
+{
+  "slug": "plurals",
+  "name": "Forming Plurals",
+  "nameNative": "Il plurale",
+  "summary": "Italian makes nouns plural by changing the final vowel, not by adding -s.",
+  "level": "beginner",
+  "order": 5,
+  "explanation": "Italian does not add -s to make plurals. Instead, the final vowel changes.\n\nMasculine nouns ending in -o change to -i: il libro becomes i libri. Feminine nouns ending in -a change to -e: la casa becomes le case. Nouns of either gender ending in -e change to -i: il fiore becomes i fiori, la chiave becomes le chiavi.\n\nThe article changes too: il becomes i, lo and l' become gli, la and l' become le. Words ending in an accented vowel (città) or a consonant (bar) never change: una città, due città.",
+  "pattern": "-o to -i, -a to -e, -e to -i",
+  "conjugation": {
+    "-o to -i": "il treno to i treni",
+    "-a to -e": "la mela to le mele",
+    "-e to -i (m)": "il cane to i cani",
+    "-e to -i (f)": "la notte to le notti",
+    "invariable": "la città to le città"
+  },
+  "examples": [
+    { "native": "un libro, due libri", "en": "one book, two books" },
+    { "native": "una pizza, due pizze", "en": "one pizza, two pizzas" },
+    { "native": "il ragazzo, i ragazzi", "en": "the boy, the boys" },
+    { "native": "la chiave, le chiavi", "en": "the key, the keys" },
+    { "native": "lo studente, gli studenti", "en": "the student, the students" },
+    { "native": "la città, le città", "en": "the city, the cities" }
+  ],
+  "commonMistakes": [
+    "Adding -s to make a plural. Italian never does this.",
+    "Changing accented or consonant-ending nouns. Le città and i bar stay the same.",
+    "Forgetting the article shifts too. Il libro becomes i libri, not il libri.",
+    "Using i instead of gli before a vowel or s+consonant (gli amici, gli zaini).",
+    "Making feminine -a nouns plural with -i instead of -e."
+  ],
+  "tip": "Words ending in -co and -go often add an h to keep the hard sound: amico to amici but parco to parchi. Learn these as you meet them."
+}

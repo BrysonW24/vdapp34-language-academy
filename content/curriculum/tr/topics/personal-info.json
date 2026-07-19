@@ -1,0 +1,90 @@
+{
+  "slug": "personal-info",
+  "title": "Personal Information",
+  "titleNative": "Kişisel bilgiler",
+  "shortSummary": "Say your name, where you are from, your job, and basic details about yourself in Turkish.",
+  "level": "beginner",
+  "order": 2,
+  "icon": "🪪",
+  "color": "#1971c2",
+  "culturalNote": "When Turks introduce themselves, the family name comes after the first name, just as in English, but in daily speech people are usually addressed by their first name plus bey or hanım rather than a surname. Asking where someone is from (Nerelisiniz?) is a friendly, common opener, and many Turks proudly name their family's home city or region even if they were born in Istanbul. Turkish has no grammatical gender, so the same words describe men and women; the pronoun o means he, she, or it. The verb 'to be' is not a separate word but a suffix attached to the end: Türküm means 'I am Turkish' and öğretmenim means 'I am a teacher'. Sharing your job and city quickly builds rapport, and a warm Hoş geldiniz (welcome) is often returned to a newcomer.",
+  "keyPhrases": [
+    { "native": "Adım Deniz", "english": "My name is Deniz", "pronunciation": "ah-DUHM deh-NEEZ", "context": "Introducing yourself" },
+    { "native": "Adınız ne?", "english": "What is your name? (formal)", "pronunciation": "ah-duh-NUHZ neh", "context": "Asking a stranger" },
+    { "native": "Nerelisiniz?", "english": "Where are you from? (formal)", "pronunciation": "neh-reh-lee-see-NEEZ", "context": "Polite small talk" },
+    { "native": "Türkiye'denim", "english": "I'm from Turkey", "pronunciation": "tewr-kee-yeh-deh-NEEM", "context": "Answering about origin" },
+    { "native": "İstanbul'da yaşıyorum", "english": "I live in Istanbul", "pronunciation": "ees-tahn-BOOL-dah yah-shuh-YOH-room", "context": "Saying where you live" },
+    { "native": "Mühendisim", "english": "I'm an engineer", "pronunciation": "mew-hehn-dee-SEEM", "context": "Stating your job" },
+    { "native": "Kaç yaşındasınız?", "english": "How old are you? (formal)", "pronunciation": "kahch yah-shuhn-dah-suh-NUHZ", "context": "Asking age politely" },
+    { "native": "Otuz yaşındayım", "english": "I'm thirty years old", "pronunciation": "oh-TOOZ yah-shuhn-dah-YUHM", "context": "Giving your age" },
+    { "native": "Türkçe öğreniyorum", "english": "I'm learning Turkish", "pronunciation": "TEWRK-cheh ur-reh-nee-YOH-room", "context": "Explaining your study" },
+    { "native": "Telefon numaranız ne?", "english": "What's your phone number?", "pronunciation": "teh-leh-FOHN noo-mah-rah-NUHZ neh", "context": "Exchanging contacts" }
+  ],
+  "grammar": [
+    {
+      "rule": "The 'to be' suffix (personal endings)",
+      "explanation": "Turkish has no separate word for 'am/is/are'. Instead it adds a personal suffix to a noun or adjective. For 'I am' the ending is -(y)Im, which follows vowel harmony: öğretmenim (I am a teacher), Türküm (I am Turkish), mutluyum (I am happy). The buffer y appears after a vowel.",
+      "examples": [
+        { "native": "Doktorum.", "en": "I am a doctor." },
+        { "native": "Yorgunum.", "en": "I am tired." }
+      ],
+      "commonMistake": "Adding a separate verb for 'am'. There is no 'ben olmak' here; just attach the -Im ending to the word."
+    },
+    {
+      "rule": "The ablative -dAn for 'from'",
+      "explanation": "To say where you are from, add the ablative ending -dAn (or -tAn after a voiceless consonant) to the place. Vowel harmony decides the vowel: İzmir'den (from Izmir), Ankara'dan (from Ankara), Sinop'tan (from Sinop). With your own origin you also add the personal ending: Türkiye'denim (I am from Turkey).",
+      "examples": [
+        { "native": "Ankara'danım.", "en": "I'm from Ankara." },
+        { "native": "Nereden geliyorsun?", "en": "Where are you coming from?" }
+      ],
+      "commonMistake": "Forgetting the apostrophe before the suffix on proper place names: it is İstanbul'dan, not İstanbuldan."
+    }
+  ],
+  "dialogue": {
+    "setup": "Two people meet at a language exchange evening in Istanbul and get to know each other.",
+    "lines": [
+      { "speaker": "Elif", "native": "Merhaba, adınız ne?", "english": "Hello, what is your name?" },
+      { "speaker": "Can", "native": "Merhaba, adım Can. Sizin adınız ne?", "english": "Hello, my name is Can. What is your name?" },
+      { "speaker": "Elif", "native": "Ben Elif. Nerelisiniz?", "english": "I'm Elif. Where are you from?" },
+      { "speaker": "Can", "native": "İzmirliyim ama İstanbul'da yaşıyorum. Ya siz?", "english": "I'm from Izmir but I live in Istanbul. And you?" },
+      { "speaker": "Elif", "native": "Ben de İstanbulluyum. Ne iş yapıyorsunuz?", "english": "I'm from Istanbul too. What do you do for work?" },
+      { "speaker": "Can", "native": "Mühendisim. Siz?", "english": "I'm an engineer. You?" },
+      { "speaker": "Elif", "native": "Öğretmenim ve Türkçe dersi veriyorum.", "english": "I'm a teacher and I give Turkish lessons." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'I'm an engineer' in Turkish?",
+      "correctAnswer": "Mühendisim",
+      "explanation": "The -im ending attaches the meaning 'I am' to the noun mühendis."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which question asks 'Where are you from?' formally?",
+      "options": ["Adınız ne?", "Nerelisiniz?", "Kaç yaşındasınız?", "Nasılsınız?"],
+      "correctAnswer": "Nerelisiniz?",
+      "explanation": "Nerelisiniz? literally asks 'which place are you of?'"
+    },
+    {
+      "type": "fill-blank",
+      "question": "Ankara'_____ım. (I'm from Ankara)",
+      "correctAnswer": "dan",
+      "explanation": "The ablative -dan plus the -ım personal ending gives Ankara'danım."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "How do you say 'I'm thirty years old'?",
+      "options": ["Otuz yaşındayım", "Otuz yaşında", "Otuzum yaşında", "Yaşım otuz var"],
+      "correctAnswer": "Otuz yaşındayım",
+      "explanation": "Yaşındayım combines 'at the age of' with the 'I am' ending."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: yaşıyorum / İstanbul'da",
+      "correctAnswer": "İstanbul'da yaşıyorum",
+      "explanation": "Turkish puts the place before the verb: 'In Istanbul I live'."
+    }
+  ],
+  "status": "complete"
+}

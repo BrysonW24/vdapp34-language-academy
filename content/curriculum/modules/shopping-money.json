@@ -1,0 +1,25 @@
+{
+  "slug": "shopping-money",
+  "title": "Shopping & Money",
+  "shortSummary": "Handle transactions, bargain, discuss prices, and shop in markets and stores. From asking '¿Cuánto cuesta?' to understanding receipts — master the language of commerce in Spanish.",
+  "level": "intermediate",
+  "category": "channel",
+  "whyItMatters": "Money conversations happen daily. Whether you are buying groceries, shopping at a market, or discussing prices, you need the vocabulary and confidence to handle financial interactions in Spanish.",
+  "coreConcepts": [
+    "Prices: ¿Cuánto cuesta? / ¿Cuánto vale?",
+    "Payment methods: efectivo, tarjeta, transferencia",
+    "Shopping vocabulary: tienda, mercado, rebaja, talla",
+    "Comparing: más barato, más caro, mejor, peor",
+    "Numbers in context: prices, quantities, sizes",
+    "Bargaining phrases for markets",
+    "Returns and exchanges: devolver, cambiar, recibo",
+    "Currency across Spanish-speaking countries"
+  ],
+  "lessons": [],
+  "frameworks": ["eighty-twenty-vocab"],
+  "visualType": "price-tags",
+  "relatedModules": ["numbers-time-dates", "food-restaurants", "travel-directions"],
+  "status": "coming-soon",
+  "order": 9,
+  "levelNumber": 2
+}

@@ -1,0 +1,76 @@
+app: vdapp34-language-academy
+audit_date: 2026-05-16
+audit_doc: ./docs/health-check-2026-05-16.md
+
+gates:
+  doctrine:
+    agents_md: current
+    claude_md: current
+    readme: current
+    claude_dir: scaffolded
+    memory_dir: scaffolded
+    status_files: scaffolded
+
+  architecture:
+    notes_current: true
+    notes_doc: ./CLAUDE.md
+    note: >
+      Architecture is static-Next-content-driven. No backend, no auth, no DB.
+      Per-language content folders under content/curriculum/<lang>/ with shared
+      loaders in src/lib/academy-content.ts.
+
+  build:
+    type_check: passing
+    lint: untested-post-config
+    build: pending-local-rerun
+    note: >
+      tsc --noEmit passes cleanly. ESLint flat config was added in the 2026-05-16
+      health-check fix pass and has not been run yet. next build did not complete
+      in the sandbox 8-minute budget — needs local re-run on macOS after the
+      academy-content.ts memoisation lands.
+
+  testing:
+    smoke_tests: present
+    smoke_tests_passing: untested-in-sandbox
+    e2e_tests: none
+    note: >
+      tests/smoke.test.ts covers package.json validity, required scripts, src/
+      and content/ existence, and JSON parseability of every content file.
+      No route-level smoke or E2E tests yet.
+
+  qa:
+    manual_qa: not-recent
+    note: >
+      Last documented manual QA pass predates this audit. Re-run on /es, /zh,
+      /de, /th index pages and at least one /{lang}/words/{group} route after
+      the surface-fencing changes for zh/de/th land.
+
+  ux:
+    responsive: not-verified
+    accessibility_baseline: not-verified
+    note: >
+      Components use Radix UI primitives which give baseline a11y. No formal
+      accessibility audit has been recorded.
+
+  imagery:
+    audit_current: n/a
+    note: >
+      App is text/typography-driven. Only static images live in public/images/.
+      Logo-first rule (vd-apps doctrine §06) does not apply — no entity
+      catalogues rendered.
+
+  memory:
+    product_md: current
+    other: none
+
+  control_center:
+    claude_dir_exists: true
+    rules_local: none
+    commands_local: none
+
+deployment:
+  target: vercel
+  ready_to_deploy: blocked-on-build-verification
+  blockers:
+    - Verify next build completes locally on macOS after memoisation change.
+    - Decide content gating for zh/de/th routes before public soft-launch.

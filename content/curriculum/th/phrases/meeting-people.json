@@ -1,0 +1,21 @@
+{
+  "slug": "meeting-people",
+  "title": "Meeting People",
+  "description": "Introduce yourself, ask someone's name, and make a warm first impression in Thai.",
+  "situation": "First introductions: names, where you are from, and polite small talk when meeting someone new.",
+  "order": 2,
+  "phrases": [
+    { "thai": "คุณชื่ออะไร", "pronunciation": "khun chuu a-rai", "english": "What's your name?", "formality": "neutral", "tip": "คุณ (khun) is a polite 'you', like Mr/Ms." },
+    { "thai": "ผมชื่อ...", "pronunciation": "phom chuu...", "english": "My name is... (male speaker)", "formality": "neutral", "tip": "Women say ฉันชื่อ (chan chuu)." },
+    { "thai": "ยินดีที่ได้รู้จัก", "pronunciation": "yin-dee thii dai ruu-jak", "english": "Nice to meet you", "formality": "neutral" },
+    { "thai": "คุณมาจากไหน", "pronunciation": "khun maa jaak nai", "english": "Where are you from?", "formality": "neutral" },
+    { "thai": "ผมมาจากออสเตรเลีย", "pronunciation": "phom maa jaak Australia", "english": "I'm from Australia (male)", "formality": "neutral" },
+    { "thai": "สบายดีไหม", "pronunciation": "sabai-dee mai", "english": "How are you?", "formality": "neutral" },
+    { "thai": "สบายดี", "pronunciation": "sabai-dee", "english": "I'm fine", "formality": "neutral" },
+    { "thai": "คุณทำงานอะไร", "pronunciation": "khun tham-ngaan a-rai", "english": "What work do you do?", "formality": "neutral" },
+    { "thai": "ผมพูดภาษาไทยนิดหน่อย", "pronunciation": "phom phuut paasaa thai nit-noi", "english": "I speak a little Thai", "formality": "neutral" },
+    { "thai": "ผมกำลังเรียนภาษาไทย", "pronunciation": "phom kamlang rian paasaa thai", "english": "I'm learning Thai", "formality": "neutral" },
+    { "thai": "แล้วเจอกันใหม่", "pronunciation": "laeo joe kan mai", "english": "See you again", "formality": "neutral" },
+    { "thai": "โชคดี", "pronunciation": "chok-dee", "english": "Good luck / Take care", "formality": "neutral" }
+  ]
+}

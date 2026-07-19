@@ -1,0 +1,34 @@
+{
+  "slug": "oblique-case",
+  "name": "The Oblique Case",
+  "nameNative": "तिर्यक रूप (tiryak roop)",
+  "summary": "When a postposition follows a noun, the noun changes shape - that changed form is the oblique case.",
+  "level": "pre-intermediate",
+  "order": 6,
+  "explanation": "The oblique case is the form a noun, adjective, or pronoun takes when a postposition (में, पर, को, से, का) comes after it. The noun in its plain dictionary form is called the direct case; the moment a postposition attaches, it shifts to the oblique. This is one of the most important mechanics in Hindi grammar, because postpositions are everywhere.\n\nThe clearest pattern is with masculine nouns ending in -आ (-aa). कमरा (kamra, room) becomes कमरे (kamre) in the oblique: कमरे में (kamre mein, in the room). Their plural oblique ends in -ओं (-on): कमरों में (kamron mein, in the rooms). Masculine nouns not ending in -aa, and most feminine nouns, do not change in the singular oblique, but they still take -ओं (-on) in the plural oblique, for example घरों में (gharon mein, in the houses).\n\nPronouns have their own oblique forms that you simply memorise: मैं (main) becomes मुझ (mujh) as in मुझको / मुझे (mujhko/mujhe, to me), and यह (yeh) becomes इस (is) as in इसमें (ismein, in this). Adjectives ending in -आ also shift to -ए before an oblique noun: अच्छा लड़का (achchha ladka) becomes अच्छे लड़के को (achchhe ladke ko, to the good boy).",
+  "pattern": "noun + postposition triggers oblique: kamra -> kamre mein; plural -> kamron mein",
+  "conjugation": {
+    "masc. -aa singular": "कमरा -> कमरे में (kamra -> kamre mein)",
+    "masc. -aa plural": "कमरे -> कमरों में (kamre -> kamron mein)",
+    "other noun singular": "घर -> घर में (ghar -> ghar mein, no change)",
+    "other noun plural": "घर -> घरों में (ghar -> gharon mein)",
+    "pronoun मैं (main)": "मैं -> मुझे (main -> mujhe, to me)",
+    "pronoun यह (yeh)": "यह -> इसमें (yeh -> ismein, in this)"
+  },
+  "examples": [
+    { "native": "मैं कमरे में हूँ। (main kamre mein hoon.)", "en": "I am in the room. (kamra becomes kamre)" },
+    { "native": "बच्चे बगीचे में खेलते हैं। (bachche bageeche mein khelte hain.)", "en": "The children play in the garden." },
+    { "native": "हम कमरों को साफ़ करते हैं। (ham kamron ko saaf karte hain.)", "en": "We clean the rooms. (plural oblique)" },
+    { "native": "यह तोहफ़ा अच्छे लड़के के लिए है। (yeh tohfa achchhe ladke ke liye hai.)", "en": "This gift is for the good boy." },
+    { "native": "इसमें क्या है? (ismein kya hai?)", "en": "What is in this? (yeh becomes is)" },
+    { "native": "मुझे यह पसंद है। (mujhe yeh pasand hai.)", "en": "I like this. (main becomes mujhe)" }
+  ],
+  "commonMistakes": [
+    "Leaving a -aa masculine noun unchanged before a postposition: saying kamra mein instead of kamre mein.",
+    "Forgetting the -ओं (-on) ending in the plural oblique: saying gharo mein instead of gharon mein.",
+    "Not shifting the adjective: saying achchha ladke ko instead of achchhe ladke ko.",
+    "Using the direct pronoun where the oblique is needed: saying main ko instead of mujhe/mujhko.",
+    "Applying the -aa to -e change to feminine nouns; feminine singulars usually stay the same."
+  ],
+  "tip": "Whenever a postposition appears, ask: does the noun in front of it end in -aa or is it plural? If so, change its ending first."
+}

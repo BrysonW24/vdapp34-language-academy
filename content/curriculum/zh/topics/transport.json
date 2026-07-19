@@ -1,0 +1,90 @@
+{
+  "slug": "transport",
+  "title": "Transport",
+  "titleZh": "交通",
+  "shortSummary": "Use the metro, buses, taxis, and high-speed trains to get around in Mandarin.",
+  "level": "elementary",
+  "order": 10,
+  "icon": "🚄",
+  "color": "#386a58",
+  "culturalNote": "China has the world's largest high-speed rail network, and the 高铁 (gāotiě) is a fast, comfortable way to travel between cities. In cities the metro (地铁) is cheap and efficient, and taxis or ride-hailing through 滴滴 (Didi) are easy if you have the app. You buy train tickets with your passport, and almost all payment is by scanning a QR code on your phone.",
+  "keyPhrases": [
+    { "chinese": "我要一张去北京的票", "pinyin": "wǒ yào yì zhāng qù Běijīng de piào", "english": "I want a ticket to Beijing", "context": "Buying a ticket" },
+    { "chinese": "火车几点开？", "pinyin": "huǒchē jǐ diǎn kāi?", "english": "When does the train leave?", "context": "Checking times" },
+    { "chinese": "坐地铁", "pinyin": "zuò dìtiě", "english": "take the metro", "context": "坐 for sitting transport" },
+    { "chinese": "在哪里换车？", "pinyin": "zài nǎlǐ huàn chē?", "english": "Where do I change?", "context": "Asking about connections" },
+    { "chinese": "这个座位有人吗？", "pinyin": "zhège zuòwèi yǒu rén ma?", "english": "Is this seat taken?", "context": "Finding a seat" },
+    { "chinese": "我要打车", "pinyin": "wǒ yào dǎchē", "english": "I want to take a taxi", "context": "Hailing a taxi" },
+    { "chinese": "到了请告诉我", "pinyin": "dào le qǐng gàosu wǒ", "english": "Tell me when we arrive", "context": "On a bus or taxi" },
+    { "chinese": "高铁", "pinyin": "gāotiě", "english": "high-speed train", "context": "Inter-city travel" },
+    { "chinese": "几号线？", "pinyin": "jǐ hào xiàn?", "english": "Which line?", "context": "Metro lines" },
+    { "chinese": "晚点了", "pinyin": "wǎndiǎn le", "english": "It's delayed", "context": "Common announcement" }
+  ],
+  "grammar": [
+    {
+      "rule": "坐 vs 开 for transport",
+      "explanation": "Use 坐 (zuò, sit) for riding as a passenger: 坐火车 (take the train), 坐地铁 (take the metro). Use 开 (kāi) when you drive: 开车 (drive a car).",
+      "examples": [
+        { "zh": "我坐公共汽车上班。", "en": "I take the bus to work." },
+        { "zh": "他开车去机场。", "en": "He drives to the airport." }
+      ],
+      "commonMistake": "Using 开 when you are a passenger: take the bus is 坐公共汽车, not 开公共汽车."
+    },
+    {
+      "rule": "去...的 to modify a noun",
+      "explanation": "To say 'a ticket TO Beijing', Chinese puts the description before the noun with 的: 去北京的票 (a Beijing-going ticket). The 的 links the phrase to the noun.",
+      "examples": [
+        { "zh": "去上海的火车", "en": "the train to Shanghai" },
+        { "zh": "回家的路", "en": "the road home" }
+      ],
+      "commonMistake": "Putting the destination after the noun like English. It goes before, with 的: 去北京的票."
+    }
+  ],
+  "dialogue": {
+    "setup": "A traveller buys a high-speed train ticket at the station counter.",
+    "lines": [
+      { "speaker": "旅客", "chinese": "你好，我要一张去上海的高铁票。", "pinyin": "Nǐ hǎo, wǒ yào yì zhāng qù Shànghǎi de gāotiě piào.", "english": "Hello, I want a high-speed ticket to Shanghai." },
+      { "speaker": "售票员", "chinese": "几点的？", "pinyin": "Jǐ diǎn de?", "english": "For what time?" },
+      { "speaker": "旅客", "chinese": "下午两点左右。", "pinyin": "Xiàwǔ liǎng diǎn zuǒyòu.", "english": "Around two in the afternoon." },
+      { "speaker": "售票员", "chinese": "有两点零五的，五百块。", "pinyin": "Yǒu liǎng diǎn líng wǔ de, wǔbǎi kuài.", "english": "There's a 2:05, five hundred yuan." },
+      { "speaker": "旅客", "chinese": "好，请给我护照。", "pinyin": "Hǎo, qǐng gěi wǒ hùzhào.", "english": "Okay. Here is my passport." },
+      { "speaker": "售票员", "chinese": "在几号站台？您在三号。", "pinyin": "Zài jǐ hào zhàntái? Nín zài sān hào.", "english": "Which platform? You're on number three." },
+      { "speaker": "旅客", "chinese": "谢谢，一路顺风！", "pinyin": "Xièxie, yílù shùnfēng!", "english": "Thank you, safe journey!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'take the metro'?",
+      "correctAnswer": "坐地铁",
+      "explanation": "坐 (sit/ride) + 地铁 (metro)."
+    },
+    {
+      "type": "fill-blank",
+      "question": "去北京_____票 (ticket to Beijing)",
+      "correctAnswer": "的",
+      "explanation": "的 links the description 去北京 to the noun 票."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which verb means to drive?",
+      "options": ["坐", "开", "换", "打"],
+      "correctAnswer": "开",
+      "explanation": "开 means to drive; 坐 is to ride as a passenger."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is 高铁?",
+      "options": ["a taxi", "the metro", "a high-speed train", "a bus"],
+      "correctAnswer": "a high-speed train",
+      "explanation": "高铁 is China's high-speed rail."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: 开 / 几点 / 火车",
+      "correctAnswer": "火车几点开",
+      "explanation": "火车 (train) + 几点 (what time) + 开 (departs)."
+    }
+  ],
+  "status": "complete"
+}

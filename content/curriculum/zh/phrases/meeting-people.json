@@ -1,0 +1,21 @@
+{
+  "slug": "meeting-people",
+  "title": "Meeting People",
+  "description": "Introduce yourself, ask someone's name, and make a warm first impression in Mandarin.",
+  "situation": "First introductions: names, where you are from, and polite small talk when meeting someone new.",
+  "order": 2,
+  "phrases": [
+    { "chinese": "你叫什么名字？", "pinyin": "nǐ jiào shénme míngzi?", "english": "What's your name?", "formality": "neutral" },
+    { "chinese": "我叫...", "pinyin": "wǒ jiào...", "english": "My name is...", "formality": "neutral", "tip": "Literally 'I am called...'." },
+    { "chinese": "认识你很高兴", "pinyin": "rènshi nǐ hěn gāoxìng", "english": "Nice to meet you", "formality": "neutral" },
+    { "chinese": "您贵姓？", "pinyin": "nín guìxìng?", "english": "What's your surname? (polite)", "formality": "formal", "tip": "Very polite. 您 (nín) is the respectful 'you'." },
+    { "chinese": "你是哪国人？", "pinyin": "nǐ shì nǎ guó rén?", "english": "What country are you from?", "formality": "neutral" },
+    { "chinese": "我是澳大利亚人", "pinyin": "wǒ shì Àodàlìyà rén", "english": "I'm Australian", "formality": "neutral", "tip": "Add 人 (rén) after a country to mean a person from there." },
+    { "chinese": "你好吗？", "pinyin": "nǐ hǎo ma?", "english": "How are you?", "formality": "neutral" },
+    { "chinese": "我很好，谢谢", "pinyin": "wǒ hěn hǎo, xièxie", "english": "I'm very well, thank you", "formality": "neutral" },
+    { "chinese": "你做什么工作？", "pinyin": "nǐ zuò shénme gōngzuò?", "english": "What work do you do?", "formality": "neutral" },
+    { "chinese": "你会说中文吗？", "pinyin": "nǐ huì shuō Zhōngwén ma?", "english": "Do you speak Chinese?", "formality": "neutral" },
+    { "chinese": "我学中文", "pinyin": "wǒ xué Zhōngwén", "english": "I'm learning Chinese", "formality": "neutral" },
+    { "chinese": "回头见", "pinyin": "huítóu jiàn", "english": "See you later", "formality": "informal" }
+  ]
+}

@@ -1,13 +1,13 @@
 {
   "rank": 318,
-  "chinese": "公园",
-  "characters": "公园",
-  "pinyin": "gōngyuán",
-  "english": "park",
-  "pronunciation": "goong-ywen (1st tone, 2nd tone)",
-  "partOfSpeech": "noun",
-  "exampleZh": "我们去公园散步吧。",
-  "exampleEn": "Let's go for a walk in the park.",
+  "chinese": "选",
+  "characters": "选",
+  "pinyin": "xuǎn",
+  "english": "select",
+  "pronunciation": "xuan",
+  "partOfSpeech": "adjective",
+  "exampleZh": "这个地方非常有选择性。",
+  "exampleEn": "This place is very select.",
   "group": "everyday-250",
-  "topic": "places"
+  "topic": "descriptions"
 }

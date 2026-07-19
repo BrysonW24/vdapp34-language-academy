@@ -1,0 +1,90 @@
+{
+  "slug": "hobbies-and-leisure",
+  "title": "Hobbies & Leisure",
+  "titleDe": "Hobbys und Freizeit",
+  "shortSummary": "Talk about your free time, sports, and what you like doing, with the verb gern.",
+  "level": "elementary",
+  "order": 13,
+  "icon": "⚽",
+  "color": "#a16a1f",
+  "culturalNote": "Germans take their free time (Freizeit) seriously and love clubs (Vereine) for everything from football to choir to chess, which are a key way people make friends. Outdoor activities are hugely popular: hiking (Wandern), cycling, and walking in the forest. A relaxed Sunday walk, the Sonntagsspaziergang, is a gentle national institution.",
+  "keyPhrases": [
+    { "german": "Was machst du gern?", "english": "What do you like doing?", "pronunciation": "vahs mahkst doo gairn", "context": "Asking about hobbies" },
+    { "german": "Ich spiele gern Fußball", "english": "I like playing football", "pronunciation": "ikh SHPEE-luh gairn FOOS-bahl", "context": "gern = like to" },
+    { "german": "Ich höre gern Musik", "english": "I like listening to music", "pronunciation": "ikh HUR-uh gairn moo-ZEEK", "context": "A common hobby" },
+    { "german": "Ich lese gern", "english": "I like reading", "pronunciation": "ikh LAY-zuh gairn", "context": "Quiet pastimes" },
+    { "german": "Ich treibe Sport", "english": "I do sport", "pronunciation": "ikh TRY-buh shport", "context": "Sport in general" },
+    { "german": "Hast du ein Hobby?", "english": "Do you have a hobby?", "pronunciation": "hahst doo ine HO-bee", "context": "Starting the topic" },
+    { "german": "Ich gehe gern wandern", "english": "I like going hiking", "pronunciation": "ikh GAY-uh gairn VAHN-dern", "context": "Very popular in Germany" },
+    { "german": "Am Wochenende", "english": "At the weekend", "pronunciation": "ahm VOKH-en-en-duh", "context": "When you have free time" },
+    { "german": "Ich treffe Freunde", "english": "I meet friends", "pronunciation": "ikh TREF-fuh FROYN-duh", "context": "Socialising" },
+    { "german": "Das macht Spaß", "english": "That's fun", "pronunciation": "dahs mahkt shpahss", "context": "Reacting positively" }
+  ],
+  "grammar": [
+    {
+      "rule": "gern to say what you like doing",
+      "explanation": "To say you like an activity, just add 'gern' after the verb: 'Ich koche gern' (I like cooking). There is no need for a separate verb 'to like'. The opposite is 'nicht gern'.",
+      "examples": [
+        { "de": "Ich tanze gern.", "en": "I like dancing." },
+        { "de": "Er schwimmt nicht gern.", "en": "He doesn't like swimming." }
+      ],
+      "commonMistake": "Trying to translate 'I like to' with 'mögen' plus an infinitive. Use the verb plus 'gern'."
+    },
+    {
+      "rule": "spielen vs machen vs treiben for activities",
+      "explanation": "Use 'spielen' for ball sports and instruments (Fußball spielen, Klavier spielen), 'machen' for general activities (Yoga machen), and 'Sport treiben' for doing sport in general.",
+      "examples": [
+        { "de": "Ich spiele Gitarre.", "en": "I play guitar." },
+        { "de": "Wir machen Yoga.", "en": "We do yoga." }
+      ],
+      "commonMistake": "Using 'spielen' for non-game activities: it is 'Yoga machen', not 'Yoga spielen'."
+    }
+  ],
+  "dialogue": {
+    "setup": "Two classmates, Sara and Leon, chat about their weekend plans.",
+    "lines": [
+      { "speaker": "Sara", "german": "Was machst du gern am Wochenende?", "english": "What do you like doing at the weekend?" },
+      { "speaker": "Leon", "german": "Ich spiele gern Fußball und treffe Freunde.", "english": "I like playing football and meeting friends." },
+      { "speaker": "Sara", "german": "Cool! Ich gehe gern wandern oder lese ein Buch.", "english": "Cool! I like going hiking or reading a book." },
+      { "speaker": "Leon", "german": "Wandern klingt schön. Wo gehst du wandern?", "english": "Hiking sounds nice. Where do you go hiking?" },
+      { "speaker": "Sara", "german": "In den Bergen. Möchtest du mitkommen?", "english": "In the mountains. Would you like to come along?" },
+      { "speaker": "Leon", "german": "Gerne! Das macht bestimmt Spaß.", "english": "Gladly! That'll surely be fun." },
+      { "speaker": "Sara", "german": "Super, dann am Samstag!", "english": "Great, then on Saturday!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'I like reading'?",
+      "correctAnswer": "Ich lese gern",
+      "explanation": "Add 'gern' after the verb to mean you like doing it."
+    },
+    {
+      "type": "fill-blank",
+      "question": "Ich spiele _____ Fußball. (to say you like it)",
+      "correctAnswer": "gern",
+      "explanation": "gern after the verb expresses liking the activity."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which verb goes with Yoga?",
+      "options": ["spielen", "machen", "treiben", "gehen"],
+      "correctAnswer": "machen",
+      "explanation": "General activities use machen: Yoga machen."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "How do you say 'That's fun'?",
+      "options": ["Das macht Spaß", "Das ist Spaß", "Das hat Spaß", "Das tut Spaß"],
+      "correctAnswer": "Das macht Spaß",
+      "explanation": "The fixed phrase is 'Das macht Spaß'."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: gern / machst / du / was",
+      "correctAnswer": "Was machst du gern",
+      "explanation": "Question word was, verb machst second, then du and gern."
+    }
+  ],
+  "status": "complete"
+}

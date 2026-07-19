@@ -1,13 +1,13 @@
 {
   "rank": 134,
-  "chinese": "老",
-  "characters": "老",
-  "pinyin": "lǎo",
-  "english": "old; always; prefix for names",
-  "pronunciation": "laow (3rd tone, dips then rises)",
+  "chinese": "唯一",
+  "characters": "唯一",
+  "pinyin": "wéi yī",
+  "english": "only",
+  "pronunciation": "wei-yi",
   "partOfSpeech": "adjective",
-  "exampleZh": "老师很好。",
-  "exampleEn": "The teacher is very good.",
+  "exampleZh": "这个地方很唯一。",
+  "exampleEn": "This place is very only.",
   "group": "core-100",
   "topic": "descriptions"
 }

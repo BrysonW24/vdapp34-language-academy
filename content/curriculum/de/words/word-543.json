@@ -1,13 +1,11 @@
 {
   "rank": 543,
-  "german": "Wissen",
-  "english": "knowledge",
-  "pronunciation": "VIS-en",
-  "partOfSpeech": "noun",
-  "gender": "neuter",
-  "article": "das",
-  "exampleDe": "Wissen ist Macht.",
-  "exampleEn": "Knowledge is power.",
+  "german": "gekommen",
+  "english": "to come",
+  "pronunciation": "ɡ ə k ɔ m ə n",
+  "partOfSpeech": "verb",
+  "exampleDe": "Ich möchte gekommen.",
+  "exampleEn": "I want to come.",
   "group": "confident-350",
-  "topic": "people"
+  "topic": "travel"
 }

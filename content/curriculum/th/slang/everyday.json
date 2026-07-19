@@ -1,0 +1,25 @@
+{
+  "slug": "everyday",
+  "title": "Everyday Slang",
+  "description": "Real, current Thai slang that young Thais actually say - the casual words that make you sound natural, not like a textbook.",
+  "situation": "Hanging out with Thai friends: reacting, joking, agreeing, and chatting in everyday casual Thai.",
+  "order": 1,
+  "phrases": [
+    { "thai": "เจ๋ง", "transliteration": "jeng", "pronunciation": "jeng", "english": "Cool / Awesome", "formality": "informal", "tip": "The classic Thai word for cool. Throw it at anything impressive - a phone, a move, a person." },
+    { "thai": "สุดยอด", "transliteration": "sut-yot", "pronunciation": "soot-yawt", "english": "Amazing / The best", "formality": "neutral", "tip": "Literally 'the top'. Strong praise, fine in almost any casual situation." },
+    { "thai": "ชิลๆ", "transliteration": "chiu-chiu", "pronunciation": "chew-chew", "english": "Chill / Take it easy", "formality": "informal", "tip": "Borrowed from English 'chill', doubled for emphasis. Means relaxed, no stress." },
+    { "thai": "ไม่เป็นไร", "transliteration": "mai-pen-rai", "pronunciation": "my-pen-rye", "english": "It's all good / No worries", "formality": "neutral", "tip": "The most Thai phrase there is. Shrugs off problems, thanks, and apologies alike." },
+    { "thai": "โอเคป่ะ", "transliteration": "okay-pa", "pronunciation": "oh-kay-bpa", "english": "All good? / You okay?", "formality": "informal", "tip": "ป่ะ (pa) is the super-casual question particle, only with friends - never with elders or strangers." },
+    { "thai": "เริ่ด", "transliteration": "rert", "pronunciation": "rerd", "english": "Fabulous / Gorgeous", "formality": "informal", "tip": "Playful, slightly camp twist on เลิศ (lert, excellent). Often said with a teasing, dramatic tone." },
+    { "thai": "ฟิน", "transliteration": "fin", "pronunciation": "fin", "english": "Blissful / So satisfying", "formality": "informal", "tip": "From English 'finale'. That perfect feeling - great food, a good song, a happy ending." },
+    { "thai": "อิหยังวะ", "transliteration": "i-yang-wa", "pronunciation": "ee-yang-wah", "english": "What the heck is this?", "formality": "informal", "tip": "Isaan-flavoured 'what is this'. Mildly cheeky disbelief - playful, not actually rude." },
+    { "thai": "งง", "transliteration": "ngong", "pronunciation": "ngong", "english": "I'm confused", "formality": "informal", "tip": "Short and punchy. Say it on its own when something makes no sense." },
+    { "thai": "เพื่อน", "transliteration": "phuean", "pronunciation": "pheuan", "english": "Mate / Buddy", "formality": "informal", "tip": "Friendly address term among peers, like calling someone 'mate'." },
+    { "thai": "ปัง", "transliteration": "pang", "pronunciation": "bpang", "english": "It's a hit / Slaying it", "formality": "informal", "tip": "Sound of a bang. Used when something is a smashing success or someone looks stunning." },
+    { "thai": "ถังแตก", "transliteration": "thang-taek", "pronunciation": "tung-taek", "english": "I'm broke", "formality": "informal", "tip": "Literally 'the bucket cracked'. Funny way to say you have no money left." },
+    { "thai": "เหนื่อยจุง", "transliteration": "nueay-jung", "pronunciation": "nuay-joong", "english": "I'm so exhausted", "formality": "informal", "tip": "จุง (jung) is a cute slangy 'so/very', a softened version of จัง. Adds a playful whine." },
+    { "thai": "ไปกันเถอะ", "transliteration": "pai-kan-thoe", "pronunciation": "bpai-gun-tuh", "english": "Let's go!", "formality": "informal", "tip": "เถอะ (thoe) makes it a friendly 'come on, let's'. Use it to round up the group." },
+    { "thai": "เว่อร์", "transliteration": "woe", "pronunciation": "wer", "english": "Over the top / Extra", "formality": "informal", "tip": "From English 'over'. Tease a friend who is being dramatic or exaggerating." },
+    { "thai": "ม่วน", "transliteration": "muan", "pronunciation": "moo-an", "english": "So much fun", "formality": "informal", "tip": "Northern and Isaan word for fun, now widely used. Perfect for a great night out." }
+  ]
+}

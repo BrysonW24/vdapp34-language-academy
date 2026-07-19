@@ -1,0 +1,26 @@
+{
+  "slug": "possessive-no",
+  "name": "The Possessive Particle no",
+  "nameNative": "所有の助詞「の」",
+  "summary": "The particle の (no) links two nouns to show possession or connection: A の B means 'B of A' or 'A's B'.",
+  "level": "beginner",
+  "order": 11,
+  "explanation": "The particle の (no) is one of the most common and useful words in Japanese. It joins two nouns so that the first describes or owns the second. 私の本 (watashi no hon) means 'my book', literally 'I's book'. The owner comes first, then の, then the thing owned.\n\nの does much more than possession. It links any related nouns: 日本の食べ物 (nihon no tabemono, Japanese food, literally 'Japan's food'), 東京の駅 (Toukyou no eki, a station in Tokyo), 木のテーブル (ki no teeburu, a wooden table). Whenever you want to say one noun 'of' another, の is the connector.\n\nYou can chain の to build longer descriptions: 私の友達の車 (watashi no tomodachi no kuruma) means 'my friend's car'. The pattern always reads left to right as owner-to-owned. の can also stand in for a noun already understood: 赤いのをください (akai no o kudasai) means 'the red one, please'.",
+  "pattern": "[noun A] の [noun B] = A's B / B of A",
+  "examples": [
+    { "native": "これは私の鞄です。(kore wa watashi no kaban desu.)", "en": "This is my bag." },
+    { "native": "日本の文化は面白いです。(nihon no bunka wa omoshiroi desu.)", "en": "Japanese culture is interesting." },
+    { "native": "田中さんの会社はどこですか。(Tanaka-san no kaisha wa doko desu ka.)", "en": "Where is Mr Tanaka's company?" },
+    { "native": "木のテーブルを買いました。(ki no teeburu o kaimashita.)", "en": "I bought a wooden table." },
+    { "native": "友達の友達に会いました。(tomodachi no tomodachi ni aimashita.)", "en": "I met a friend of a friend." },
+    { "native": "赤いのをください。(akai no o kudasai.)", "en": "The red one, please." }
+  ],
+  "commonMistakes": [
+    "Reversing the order. The owner comes first: 私の本, not 本の私.",
+    "Dropping の between two linked nouns. 私本 is wrong; you need 私の本.",
+    "Confusing the connecting の with the question-softener の at sentence end.",
+    "Using の where a verb relationship is needed, instead of a relative clause.",
+    "Forgetting that の can replace a known noun, as in 赤いの (the red one)."
+  ],
+  "tip": "Read A の B from left to right as 'A's B'. The owner or category always comes before の."
+}

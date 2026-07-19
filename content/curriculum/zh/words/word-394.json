@@ -1,13 +1,13 @@
 {
   "rank": 394,
-  "chinese": "干净",
-  "characters": "干净",
-  "pinyin": "gānjìng",
-  "english": "clean",
-  "pronunciation": "gahn-jing (1st tone, 4th tone)",
-  "partOfSpeech": "adjective",
-  "exampleZh": "这个房间很干净。",
-  "exampleEn": "This room is very clean.",
+  "chinese": "愿意",
+  "characters": "愿意",
+  "pinyin": "yuàn yì",
+  "english": "to willing",
+  "pronunciation": "yuan-yi",
+  "partOfSpeech": "verb",
+  "exampleZh": "我愿意。",
+  "exampleEn": "I want to willing.",
   "group": "everyday-250",
-  "topic": "descriptions"
+  "topic": "actions"
 }

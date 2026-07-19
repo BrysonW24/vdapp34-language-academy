@@ -1,12 +1,13 @@
 {
   "rank": 202,
-  "chinese": "回",
-  "characters": "回",
-  "pinyin": "huí",
-  "english": "to return/to go back",
-  "partOfSpeech": "verb",
-  "exampleZh": "我要回家了。",
-  "exampleEn": "I'm going home now.",
+  "chinese": "明显",
+  "characters": "明显",
+  "pinyin": "míng xiǎn",
+  "english": "obvious",
+  "pronunciation": "ming-xian",
+  "partOfSpeech": "adjective",
+  "exampleZh": "这个地方是非常明显的。",
+  "exampleEn": "This place is very obvious.",
   "group": "everyday-250",
-  "topic": "actions"
+  "topic": "descriptions"
 }

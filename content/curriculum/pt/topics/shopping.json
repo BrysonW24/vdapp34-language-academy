@@ -1,0 +1,90 @@
+{
+  "slug": "shopping",
+  "title": "Shopping",
+  "titleNative": "Fazer compras",
+  "shortSummary": "Buy clothes, food, and gifts, ask prices, and handle sizes and payment in Portuguese.",
+  "level": "beginner",
+  "order": 6,
+  "icon": "🛍️",
+  "color": "#b8860b",
+  "culturalNote": "Shopping in Brazil ranges from the big shopping (mall) to the lively feira, an open-air street market for fresh produce and bargains. In markets, a friendly haggle over price is acceptable, though prices in shops and malls are fixed. A very common payment habit is to pay in instalments, asking quantas vezes? (how many times?) to split a purchase across months. Pix, an instant bank transfer, is now used everywhere, even by street vendors. Greeting the shopkeeper and saying obrigado on the way out is normal courtesy.",
+  "keyPhrases": [
+    { "native": "Quanto custa?", "english": "How much is it?", "pronunciation": "KWAN-too KOOS-tah", "context": "Asking a price" },
+    { "native": "Estou procurando um presente", "english": "I'm looking for a gift", "pronunciation": "es-TOH proh-koo-RAN-doo oon preh-ZEN-tee", "context": "Stating your aim" },
+    { "native": "Posso experimentar?", "english": "Can I try it on?", "pronunciation": "POH-soo es-peh-ree-men-TAR", "context": "Trying clothes" },
+    { "native": "Qual é o seu tamanho?", "english": "What's your size?", "pronunciation": "kwow eh oo SEH-oo tah-MAH-nyoo", "context": "Common shop question" },
+    { "native": "Está muito caro", "english": "It's too expensive", "pronunciation": "es-TAH MOON-too KAH-roo", "context": "Reacting to a price" },
+    { "native": "Tem desconto?", "english": "Is there a discount?", "pronunciation": "tayn jes-KON-too", "context": "Negotiating" },
+    { "native": "Vou levar", "english": "I'll take it", "pronunciation": "voh leh-VAR", "context": "Deciding to buy" },
+    { "native": "Aceita Pix?", "english": "Do you take Pix?", "pronunciation": "ah-SAY-tah peeks", "context": "Paying instantly" },
+    { "native": "Só estou olhando", "english": "I'm just looking", "pronunciation": "soh es-TOH oh-LYAN-doo", "context": "Browsing politely" },
+    { "native": "Pode parcelar?", "english": "Can I pay in instalments?", "pronunciation": "POH-jee par-seh-LAR", "context": "Splitting the cost" }
+  ],
+  "grammar": [
+    {
+      "rule": "Present continuous with estar + -ndo",
+      "explanation": "To say what is happening right now, Brazilian Portuguese uses estar plus the gerund (-ndo form): estou procurando (I'm looking for), estou olhando (I'm looking). The gerund comes from the infinitive: procurar to procurando.",
+      "examples": [
+        { "native": "Estou procurando sapatos.", "en": "I'm looking for shoes." },
+        { "native": "Ela está pagando agora.", "en": "She is paying now." }
+      ],
+      "commonMistake": "Using the European structure estar a procurar; Brazil uses estar procurando."
+    },
+    {
+      "rule": "Demonstratives este, esse, aquele",
+      "explanation": "Portuguese has three demonstratives: este (this, near me), esse (that, near you), and aquele (that, over there). They agree in gender: esta camisa, esse sapato, aquela bolsa.",
+      "examples": [
+        { "native": "Quero este aqui.", "en": "I want this one here." },
+        { "native": "Aquele é mais barato.", "en": "That one over there is cheaper." }
+      ],
+      "commonMistake": "Collapsing the three into one; esse and aquele point to different distances."
+    }
+  ],
+  "dialogue": {
+    "setup": "Júlia shops for a shirt in a clothing store.",
+    "lines": [
+      { "speaker": "Vendedora", "native": "Boa tarde, posso ajudar?", "english": "Good afternoon, can I help?" },
+      { "speaker": "Júlia", "native": "Estou procurando uma camisa.", "english": "I'm looking for a shirt." },
+      { "speaker": "Vendedora", "native": "Qual é o seu tamanho?", "english": "What's your size?" },
+      { "speaker": "Júlia", "native": "Médio. Quanto custa esta?", "english": "Medium. How much is this one?" },
+      { "speaker": "Vendedora", "native": "Oitenta reais.", "english": "Eighty reais." },
+      { "speaker": "Júlia", "native": "Tem desconto se eu pagar no Pix?", "english": "Is there a discount if I pay by Pix?" },
+      { "speaker": "Vendedora", "native": "Tem dez por cento. Fica setenta e dois.", "english": "There's ten percent. It's seventy-two." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'I'll take it' in Portuguese?",
+      "correctAnswer": "Vou levar",
+      "explanation": "Vou levar literally means 'I'm going to carry/take'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "How does Brazilian Portuguese form 'I'm looking'?",
+      "options": ["estou a procurar", "estou procurando", "procuro estar", "estou procurar"],
+      "correctAnswer": "estou procurando",
+      "explanation": "Brazil uses estar plus the -ndo gerund."
+    },
+    {
+      "type": "fill-blank",
+      "question": "Posso _____? (try it on)",
+      "correctAnswer": "experimentar",
+      "explanation": "Experimentar means to try on."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is Pix?",
+      "options": ["A type of clothing", "An instant bank transfer", "A discount card", "A market"],
+      "correctAnswer": "An instant bank transfer",
+      "explanation": "Pix is Brazil's instant payment system, used everywhere."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: custa / quanto",
+      "correctAnswer": "Quanto custa",
+      "explanation": "Quanto custa? means 'How much is it?'"
+    }
+  ],
+  "status": "complete"
+}

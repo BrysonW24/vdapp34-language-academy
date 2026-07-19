@@ -1,13 +1,13 @@
 {
   "rank": 298,
-  "chinese": "蔬菜",
-  "characters": "蔬菜",
-  "pinyin": "shūcài",
-  "english": "vegetables",
-  "pronunciation": "shoo-tsai (1st tone, 4th tone)",
-  "partOfSpeech": "noun",
-  "exampleZh": "多吃蔬菜对身体好。",
-  "exampleEn": "Eating more vegetables is good for your health.",
+  "chinese": "死亡",
+  "characters": "死亡",
+  "pinyin": "sǐ wáng",
+  "english": "to die",
+  "pronunciation": "si-wang",
+  "partOfSpeech": "verb",
+  "exampleZh": "我想死亡。",
+  "exampleEn": "I want to die.",
   "group": "everyday-250",
-  "topic": "food-and-drink"
+  "topic": "actions"
 }

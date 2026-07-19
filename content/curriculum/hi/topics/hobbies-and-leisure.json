@@ -1,0 +1,90 @@
+{
+  "slug": "hobbies-and-leisure",
+  "title": "Hobbies & Leisure",
+  "titleNative": "शौक और मनोरंजन",
+  "shortSummary": "Share what you enjoy doing in your free time, from cricket to music, in Hindi.",
+  "level": "beginner",
+  "order": 14,
+  "icon": "🏏",
+  "color": "#2b8a3e",
+  "culturalNote": "Leisure in India is often social and family-centred. Cricket (क्रिकेट) is close to a national passion; matches bring streets and households together, and children play in every spare lane. Bollywood films and film music are a huge shared pastime, and many people love to sing, dance, and discuss the latest releases. Classical and folk music and dance run deep in regional cultures, and festivals are occasions for community celebration. Board games like carrom and card games are popular at home, and weekend visits to relatives are a cherished routine rather than a chore. When you say what you enjoy, the phrase 'mujhe ... pasand hai' (I like ...) or 'mera shauk ... hai' (my hobby is ...) lets you join the conversation warmly.",
+  "keyPhrases": [
+    { "native": "मेरा शौक क्या है?", "transliteration": "mera shauk kya hai?", "english": "What is my hobby?", "pronunciation": "MAY-raa showk kyaa hai", "context": "Talking about interests" },
+    { "native": "मुझे संगीत पसंद है", "transliteration": "mujhe sangeet pasand hai", "english": "I like music", "pronunciation": "MOO-jhay sung-EET puh-SUND hai", "context": "Favourite hobby" },
+    { "native": "मैं क्रिकेट खेलता हूँ", "transliteration": "main cricket khelta hoon", "english": "I play cricket (man speaking)", "pronunciation": "main KRI-ket KHEL-taa hoon", "context": "Sport" },
+    { "native": "मुझे किताबें पढ़ना अच्छा लगता है", "transliteration": "mujhe kitaaben padhna achha lagta hai", "english": "I like reading books", "pronunciation": "MOO-jhay ki-TAA-ben PUDH-naa UCH-chaa LUG-taa hai", "context": "Reading" },
+    { "native": "मैं फ़िल्में देखता हूँ", "transliteration": "main filmein dekhta hoon", "english": "I watch films (man speaking)", "pronunciation": "main FIL-mein DEKH-taa hoon", "context": "Watching movies" },
+    { "native": "मुझे यात्रा करना पसंद है", "transliteration": "mujhe yaatra karna pasand hai", "english": "I like travelling", "pronunciation": "MOO-jhay YAA-traa KUR-naa puh-SUND hai", "context": "Travel hobby" },
+    { "native": "आप खाली समय में क्या करते हैं?", "transliteration": "aap khaali samay mein kya karte hain?", "english": "What do you do in your free time?", "pronunciation": "aap KHAA-lee SUH-may mein kyaa KUR-tay hain", "context": "Asking about hobbies" },
+    { "native": "मुझे खाना बनाना पसंद है", "transliteration": "mujhe khaana banaana pasand hai", "english": "I like cooking", "pronunciation": "MOO-jhay KHAA-naa buh-NAA-naa puh-SUND hai", "context": "Cooking hobby" },
+    { "native": "मैं गाना गाता हूँ", "transliteration": "main gaana gaata hoon", "english": "I sing songs (man speaking)", "pronunciation": "main GAA-naa GAA-taa hoon", "context": "Singing" },
+    { "native": "यह बहुत मज़ेदार है", "transliteration": "yah bahut mazedaar hai", "english": "This is very fun", "pronunciation": "yuh buh-HOOT muh-zay-DAAR hai", "context": "Reacting" }
+  ],
+  "grammar": [
+    {
+      "rule": "Achha lagta hai for 'to enjoy'",
+      "explanation": "Besides pasand hai, Hindi expresses enjoyment with achha lagta hai (literally 'feels good'). The activity is often a verb-noun ending in -na: mujhe padhna achha lagta hai means 'reading feels good to me'.",
+      "examples": [
+        { "native": "मुझे गाना अच्छा लगता है। (mujhe gaana achha lagta hai.)", "en": "I enjoy singing." },
+        { "native": "उसे नाचना अच्छा लगता है। (use naachna achha lagta hai.)", "en": "He/She enjoys dancing." }
+      ],
+      "commonMistake": "Forgetting that the verb-noun (padhna, gaana) stays unchanged; only lagta agrees."
+    },
+    {
+      "rule": "The infinitive as a noun (-na verbs)",
+      "explanation": "A Hindi verb in its dictionary form (ending in -na) doubles as a noun, like the English '-ing': padhna = reading, khelna = playing, khaana banaana = cooking. These are the building blocks of hobby sentences.",
+      "examples": [
+        { "native": "मुझे यात्रा करना पसंद है। (mujhe yaatra karna pasand hai.)", "en": "I like travelling." },
+        { "native": "मुझे तैरना पसंद है। (mujhe tairna pasand hai.)", "en": "I like swimming." }
+      ],
+      "commonMistake": "Conjugating the activity verb; in these phrases it stays in the -na form."
+    }
+  ],
+  "dialogue": {
+    "setup": "Two friends, Aisha and Karan, talk about what they like to do in their free time.",
+    "lines": [
+      { "speaker": "Aisha", "native": "करण, आप खाली समय में क्या करते हैं?", "transliteration": "Karan, aap khaali samay mein kya karte hain?", "english": "Karan, what do you do in your free time?" },
+      { "speaker": "Karan", "native": "मैं क्रिकेट खेलता हूँ और फ़िल्में देखता हूँ।", "transliteration": "main cricket khelta hoon aur filmein dekhta hoon.", "english": "I play cricket and watch films." },
+      { "speaker": "Aisha", "native": "अच्छा! मुझे संगीत बहुत पसंद है।", "transliteration": "achha! mujhe sangeet bahut pasand hai.", "english": "Nice! I like music a lot." },
+      { "speaker": "Karan", "native": "क्या आप गाना गाती हैं?", "transliteration": "kya aap gaana gaati hain?", "english": "Do you sing songs?" },
+      { "speaker": "Aisha", "native": "जी हाँ, और मुझे खाना बनाना भी अच्छा लगता है।", "transliteration": "ji haan, aur mujhe khaana banaana bhi achha lagta hai.", "english": "Yes, and I also enjoy cooking." },
+      { "speaker": "Karan", "native": "वाह! कभी हमें साथ में कुछ बनाना चाहिए।", "transliteration": "waah! kabhi hamein saath mein kuch banana chahiye.", "english": "Wow! Sometime we should cook something together." },
+      { "speaker": "Aisha", "native": "ज़रूर, यह बहुत मज़ेदार होगा!", "transliteration": "zaroor, yah bahut mazedaar hoga!", "english": "Definitely, that will be very fun!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'I like music' in Hindi?",
+      "correctAnswer": "मुझे संगीत पसंद है (mujhe sangeet pasand hai)",
+      "explanation": "Sangeet means 'music'; mujhe ... pasand hai is 'I like'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which sentence means 'I play cricket' (man speaking)?",
+      "options": ["मैं गाना गाता हूँ", "मैं क्रिकेट खेलता हूँ", "मैं फ़िल्में देखता हूँ", "मुझे यात्रा करना पसंद है"],
+      "correctAnswer": "मैं क्रिकेट खेलता हूँ",
+      "explanation": "Khelta hoon is the masculine 'I play'."
+    },
+    {
+      "type": "fill-blank",
+      "question": "मुझे गाना अच्छा _____ है। (I enjoy singing)",
+      "correctAnswer": "लगता (lagta)",
+      "explanation": "Achha lagta hai expresses enjoyment; lagta agrees with the activity."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does 'यह बहुत मज़ेदार है' mean?",
+      "options": ["This is very expensive", "This is very fun", "This is very far", "This is very hot"],
+      "correctAnswer": "This is very fun",
+      "explanation": "Mazedaar means 'fun/enjoyable'."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: है / पसंद / मुझे / संगीत (I like music)",
+      "correctAnswer": "मुझे संगीत पसंद है (mujhe sangeet pasand hai)",
+      "explanation": "Mujhe, the thing liked, then pasand hai at the end."
+    }
+  ],
+  "status": "complete"
+}

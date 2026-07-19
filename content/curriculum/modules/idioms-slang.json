@@ -1,0 +1,25 @@
+{
+  "slug": "idioms-slang",
+  "title": "Idioms & Slang",
+  "shortSummary": "Go beyond textbook Spanish with the idioms, slang, and colloquial expressions that native speakers actually use. From 'No tiene pelos en la lengua' to 'Estar en las nubes' — speak like a local.",
+  "level": "advanced",
+  "category": "advanced",
+  "whyItMatters": "Native speakers pepper their speech with idioms and slang. Understanding and using them signals that you are not just a learner — you are a speaker. They also make your Spanish more colourful, natural, and fun.",
+  "coreConcepts": [
+    "Common Spanish idioms and their origins",
+    "Regional slang: Spain vs Mexico vs Argentina vs Colombia",
+    "Colloquial expressions for everyday situations",
+    "Vulgar expressions and when not to use them",
+    "Diminutives and augmentatives as expression",
+    "Internet and youth slang",
+    "Idiomatic uses of common verbs: dar, echar, meter, poner",
+    "Proverbs: En boca cerrada no entran moscas"
+  ],
+  "lessons": [],
+  "frameworks": ["immersion-framework"],
+  "visualType": "word-cloud",
+  "relatedModules": ["regional-dialects", "spanish-culture", "fluency-mastery"],
+  "status": "coming-soon",
+  "order": 16,
+  "levelNumber": 4
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "phone-and-digital",
+  "title": "Phone and Digital",
+  "description": "Handle calls, wifi, and everyday digital life in Italian.",
+  "situation": "Staying connected: phone calls, internet, messaging, and tech basics.",
+  "order": 8,
+  "phrases": [
+    { "native": "Pronto?", "english": "Hello? (on the phone)", "pronunciation": "PRON-toh", "formality": "neutral", "tip": "Italians answer the phone with 'pronto'." },
+    { "native": "Posso avere il tuo numero?", "english": "Can I have your number?", "pronunciation": "POS-soh ah-VEH-reh eel TOO-oh NOO-meh-roh", "formality": "informal" },
+    { "native": "Ti mando un messaggio", "english": "I'll send you a message", "pronunciation": "tee MAN-doh oon mes-SAH-joh", "formality": "informal" },
+    { "native": "Qual è la password del wifi?", "english": "What's the wifi password?", "pronunciation": "kwahl eh lah pas-word del WEE-fee", "formality": "neutral" },
+    { "native": "Non ho campo", "english": "I have no signal", "pronunciation": "non oh KAM-poh", "formality": "neutral" },
+    { "native": "La batteria è scarica", "english": "The battery is dead", "pronunciation": "lah baht-teh-REE-ah eh SKAH-ree-kah", "formality": "neutral" },
+    { "native": "Posso caricare il telefono?", "english": "Can I charge my phone?", "pronunciation": "POS-soh kah-ree-KAH-reh eel teh-LEH-foh-noh", "formality": "neutral" },
+    { "native": "Ti chiamo più tardi", "english": "I'll call you later", "pronunciation": "tee kee-AH-moh pyoo TAR-dee", "formality": "informal" },
+    { "native": "Mi puoi mandare il link?", "english": "Can you send me the link?", "pronunciation": "mee pwoy man-DAH-reh eel link", "formality": "informal" },
+    { "native": "Ci sentiamo dopo", "english": "We'll talk later", "pronunciation": "chee sen-tee-AH-moh DOH-poh", "formality": "neutral" },
+    { "native": "Aggiungimi sui social", "english": "Add me on social media", "pronunciation": "ah-JOON-jee-mee soo-ee SOH-shal", "formality": "informal" },
+    { "native": "Hai ricevuto il mio messaggio?", "english": "Did you get my message?", "pronunciation": "ai ree-cheh-VOO-toh eel MEE-oh mes-SAH-joh", "formality": "informal" }
+  ]
+}

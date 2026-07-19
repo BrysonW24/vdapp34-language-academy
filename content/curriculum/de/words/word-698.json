@@ -1,11 +1,11 @@
 {
   "rank": 698,
-  "german": "entwickeln",
-  "english": "to develop",
-  "pronunciation": "ent-VIK-eln",
-  "partOfSpeech": "verb",
-  "exampleDe": "Wir entwickeln neue Software.",
-  "exampleEn": "We are developing new software.",
+  "german": "mitte",
+  "english": "middle",
+  "pronunciation": "m ɪ t ə",
+  "partOfSpeech": "adjective",
+  "exampleDe": "Dieser Ort ist sehr mittelmäßig.",
+  "exampleEn": "This place is very middle.",
   "group": "confident-350",
-  "topic": "work"
+  "topic": "descriptions"
 }

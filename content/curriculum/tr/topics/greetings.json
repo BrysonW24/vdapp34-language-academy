@@ -1,0 +1,90 @@
+{
+  "slug": "greetings",
+  "title": "Greetings & Goodbyes",
+  "titleNative": "Selamlaşma ve vedalaşma",
+  "shortSummary": "Greet people, introduce yourself, and say goodbye in Turkish, the foundation of every conversation.",
+  "level": "beginner",
+  "order": 1,
+  "icon": "👋",
+  "color": "#2f9e44",
+  "culturalNote": "Turks greet warmly and value courtesy. Merhaba is the safe, friendly hello for almost any situation, while Selam is more casual among friends and younger people. The biggest social choice is sen versus siz: use the informal sen with friends, family, and children, but use the formal, plural siz with strangers, elders, shopkeepers, and anyone older or in authority until you are invited to switch. Adding bey (for men) or hanım (for women) after a first name (Ahmet Bey, Ayşe Hanım) is a respectful default with people you do not know well. When leaving, the person staying says güle güle (go smiling) and the person going says hoşça kal (stay well), so the two farewells are not interchangeable. A handshake suits first meetings, while close friends and relatives often greet with a kiss on each cheek.",
+  "keyPhrases": [
+    { "native": "Merhaba", "english": "Hello", "pronunciation": "MEHR-hah-bah", "context": "Polite default, any time" },
+    { "native": "Selam", "english": "Hi (informal)", "pronunciation": "seh-LAHM", "context": "Casual, with friends" },
+    { "native": "Günaydın", "english": "Good morning", "pronunciation": "gewn-eye-DUHN", "context": "Used until midday" },
+    { "native": "İyi akşamlar", "english": "Good evening", "pronunciation": "ee-YEE ahk-shahm-LAHR", "context": "From late afternoon" },
+    { "native": "Nasılsınız?", "english": "How are you? (formal)", "pronunciation": "nah-suhl-suh-NUHZ", "context": "Formal, with siz" },
+    { "native": "Nasılsın?", "english": "How are you? (informal)", "pronunciation": "nah-SUHL-suhn", "context": "Casual, with sen" },
+    { "native": "İyiyim, teşekkürler", "english": "I'm well, thank you", "pronunciation": "ee-YEE-yim teh-shehk-kewr-LEHR", "context": "Standard reply" },
+    { "native": "Memnun oldum", "english": "Nice to meet you", "pronunciation": "mehm-NOON ohl-DOOM", "context": "First meeting" },
+    { "native": "Hoşça kal", "english": "Goodbye (said by the one leaving)", "pronunciation": "HOSH-chah kahl", "context": "You are the one going" },
+    { "native": "Güle güle", "english": "Goodbye (said by the one staying)", "pronunciation": "gew-LEH gew-LEH", "context": "You are staying behind" }
+  ],
+  "grammar": [
+    {
+      "rule": "Formal siz vs informal sen",
+      "explanation": "Turkish has two ways to say 'you': sen (informal singular) and siz (formal or plural). Use sen with friends, family, and children. Use siz with strangers, elders, and in shops or at work. The siz form also adds the -sınız ending to verbs and is the polite default until someone offers sen.",
+      "examples": [
+        { "native": "Nasılsın?", "en": "How are you? (informal)" },
+        { "native": "Nasılsınız?", "en": "How are you? (formal)" }
+      ],
+      "commonMistake": "Using sen with someone you just met or who is older, which can sound rude or overly familiar."
+    },
+    {
+      "rule": "Two goodbyes: hoşça kal and güle güle",
+      "explanation": "When parting, the person who is leaving says hoşça kal (stay well, informal) or hoşça kalın (formal/plural), and the person who is staying replies güle güle. They are a matched pair, not interchangeable, so you choose based on who is going and who is staying.",
+      "examples": [
+        { "native": "Hoşça kal, görüşürüz.", "en": "Goodbye, see you. (said when leaving)" },
+        { "native": "Güle güle, kendine iyi bak.", "en": "Goodbye, take care. (said when staying)" }
+      ],
+      "commonMistake": "Saying güle güle when you are the one walking out the door; the person leaving says hoşça kal."
+    }
+  ],
+  "dialogue": {
+    "setup": "Ayşe Hanım meets her new colleague Mehmet Bey in the office in the morning.",
+    "lines": [
+      { "speaker": "Ayşe Hanım", "native": "Günaydın! Nasılsınız?", "english": "Good morning! How are you?" },
+      { "speaker": "Mehmet Bey", "native": "Günaydın! İyiyim, teşekkürler. Siz nasılsınız?", "english": "Good morning! I'm well, thank you. How are you?" },
+      { "speaker": "Ayşe Hanım", "native": "Ben de iyiyim. Ben Ayşe, yeni proje müdürü.", "english": "I'm well too. I'm Ayşe, the new project manager." },
+      { "speaker": "Mehmet Bey", "native": "Memnun oldum. Ben Mehmet.", "english": "Nice to meet you. I'm Mehmet." },
+      { "speaker": "Ayşe Hanım", "native": "Ben de memnun oldum. Ekibe hoş geldiniz!", "english": "Nice to meet you too. Welcome to the team!" },
+      { "speaker": "Mehmet Bey", "native": "Çok teşekkürler. Sonra görüşürüz.", "english": "Thank you very much. See you later." },
+      { "speaker": "Ayşe Hanım", "native": "Görüşürüz, iyi çalışmalar!", "english": "See you, have a good day's work!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'Good morning' in Turkish?",
+      "correctAnswer": "Günaydın",
+      "explanation": "Günaydın is used from early morning until midday."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which is the formal way to ask 'How are you?'",
+      "options": ["Nasılsın?", "Selam", "Nasılsınız?", "Naber?"],
+      "correctAnswer": "Nasılsınız?",
+      "explanation": "Nasılsınız? uses the polite siz form; the others are casual."
+    },
+    {
+      "type": "fill-blank",
+      "question": "The person leaving says 'Hoşça _____' and the one staying replies 'güle güle'.",
+      "correctAnswer": "kal",
+      "explanation": "Hoşça kal (stay well) is said by the person who is leaving."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does a person who is STAYING say when someone leaves?",
+      "options": ["Hoşça kal", "Güle güle", "Günaydın", "Merhaba"],
+      "correctAnswer": "Güle güle",
+      "explanation": "Güle güle (go smiling) is the farewell said by the person staying behind."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: oldum / memnun",
+      "correctAnswer": "Memnun oldum",
+      "explanation": "Memnun oldum means 'Nice to meet you', literally 'I became pleased'."
+    }
+  ],
+  "status": "complete"
+}

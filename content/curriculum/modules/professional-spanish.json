@@ -1,0 +1,25 @@
+{
+  "slug": "professional-spanish",
+  "title": "Professional Spanish",
+  "shortSummary": "Take your business Spanish to an advanced level — negotiate deals, give presentations, write professional reports, and operate at a senior level in Spanish-speaking professional environments.",
+  "level": "advanced",
+  "category": "advanced",
+  "whyItMatters": "Professional fluency in Spanish is a career differentiator. Whether you are working in Latin America, Spain, or with Spanish-speaking clients globally, the ability to operate professionally in Spanish opens doors that remain closed to monolingual speakers.",
+  "coreConcepts": [
+    "Advanced email and written communication",
+    "Presentation skills in Spanish",
+    "Negotiation language and tactics",
+    "Legal and contractual vocabulary",
+    "Financial Spanish: accounting, banking, investment",
+    "Industry-specific terminology",
+    "Cross-cultural management communication",
+    "Public speaking and persuasion in Spanish"
+  ],
+  "lessons": [],
+  "frameworks": ["cultural-competence", "output-hypothesis"],
+  "visualType": "briefcase",
+  "relatedModules": ["work-business", "opinions-debates", "fluency-mastery"],
+  "status": "coming-soon",
+  "order": 19,
+  "levelNumber": 4
+}

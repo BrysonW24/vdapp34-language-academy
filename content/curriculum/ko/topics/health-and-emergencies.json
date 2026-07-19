@@ -1,0 +1,90 @@
+{
+  "slug": "health-and-emergencies",
+  "title": "Health & Emergencies",
+  "titleNative": "건강과 응급 상황",
+  "shortSummary": "Describe symptoms, visit a pharmacy or clinic, and call for help in an emergency in Korean.",
+  "level": "beginner",
+  "order": 13,
+  "icon": "🏥",
+  "color": "#e03131",
+  "culturalNote": "Korea has an excellent, affordable healthcare system, and pharmacies (약국, yakguk) are everywhere for minor ailments. For anything more serious, clinics (병원, byeongwon) are easy to access and often do not require an appointment. The key emergency numbers are 119 for fire and ambulance and 112 for police, both staffed and increasingly able to help in English in major cities. When describing symptoms you use 아파요 (apayo, it hurts) with the body part, as in 머리가 아파요 (meoriga apayo, my head hurts). Koreans value 건강 (geongang, health) highly, and there are many traditional remedies and foods believed to restore energy. In a real emergency the most important phrases are 도와주세요 (dowajuseyo, please help) and 구급차를 불러 주세요 (gugeupchareul bulleo juseyo, please call an ambulance). Staying polite even under stress is normal, and people will respond quickly and kindly to a clear request for help.",
+  "keyPhrases": [
+    { "native": "도와주세요!", "english": "Please help!", "transliteration": "dowajuseyo!", "pronunciation": "do-wa-ju-se-yo", "context": "Calling for help" },
+    { "native": "아파요", "english": "It hurts / I'm sick", "transliteration": "apayo", "pronunciation": "a-pa-yo", "context": "General symptom" },
+    { "native": "머리가 아파요", "english": "My head hurts", "transliteration": "meoriga apayo", "pronunciation": "mo-ri-ga a-pa-yo", "context": "Describing a headache" },
+    { "native": "배가 아파요", "english": "My stomach hurts", "transliteration": "baega apayo", "pronunciation": "bae-ga a-pa-yo", "context": "Stomach ache" },
+    { "native": "열이 나요", "english": "I have a fever", "transliteration": "yeori nayo", "pronunciation": "yo-ri na-yo", "context": "Reporting a fever" },
+    { "native": "약국이 어디예요?", "english": "Where is the pharmacy?", "transliteration": "yakgugi eodiyeyo?", "pronunciation": "yak-gu-gi o-di-ye-yo", "context": "Finding medicine" },
+    { "native": "병원에 가야 해요", "english": "I have to go to the hospital", "transliteration": "byeongwone gaya haeyo", "pronunciation": "byong-wo-ne ga-ya hae-yo", "context": "Needing a clinic" },
+    { "native": "구급차를 불러 주세요", "english": "Please call an ambulance", "transliteration": "gugeupchareul bulleo juseyo", "pronunciation": "gu-geup-cha-reul bul-lo ju-se-yo", "context": "Serious emergency" },
+    { "native": "약 있어요?", "english": "Do you have medicine?", "transliteration": "yak isseoyo?", "pronunciation": "yak i-sso-yo", "context": "At the pharmacy" },
+    { "native": "괜찮아요", "english": "I'm okay", "transliteration": "gwaenchanayo", "pronunciation": "gwaen-cha-na-yo", "context": "Reassuring someone" }
+  ],
+  "grammar": [
+    {
+      "rule": "Describing pain with 아파요",
+      "explanation": "To say a body part hurts, name it with the subject particle 이/가 and follow with 아파요 (apayo). 머리 (meori, head) becomes 머리가 아파요, and 배 (bae, stomach) becomes 배가 아파요.",
+      "examples": [
+        { "native": "목이 아파요. (mogi apayo.)", "en": "My throat hurts." },
+        { "native": "다리가 아파요. (dariga apayo.)", "en": "My leg hurts." }
+      ],
+      "commonMistake": "Using the object particle 을/를 with 아파요; the body part is the subject, so use 이/가."
+    },
+    {
+      "rule": "Obligation with -아/어야 해요",
+      "explanation": "To say you must do something, attach 아야 해요 or 어야 해요 to the verb stem. 가다 (gada, to go) becomes 가야 해요 (gaya haeyo, I have to go).",
+      "examples": [
+        { "native": "병원에 가야 해요. (byeongwone gaya haeyo.)", "en": "I have to go to the hospital." },
+        { "native": "약을 먹어야 해요. (yageul meogeoya haeyo.)", "en": "I have to take medicine." }
+      ],
+      "commonMistake": "Dropping 해요 at the end, which leaves the obligation meaning incomplete."
+    }
+  ],
+  "dialogue": {
+    "setup": "Nina feels unwell and asks a pharmacist for help.",
+    "lines": [
+      { "speaker": "니나", "native": "안녕하세요. 좀 아파요.", "transliteration": "annyeonghaseyo. jom apayo.", "english": "Hello. I'm feeling a bit sick." },
+      { "speaker": "약사", "native": "어디가 아프세요?", "transliteration": "eodiga apeuseyo?", "english": "Where does it hurt?" },
+      { "speaker": "니나", "native": "머리가 아프고 열이 나요.", "transliteration": "meoriga apeugo yeori nayo.", "english": "My head hurts and I have a fever." },
+      { "speaker": "약사", "native": "언제부터 아팠어요?", "transliteration": "eonjebuteo apasseoyo?", "english": "Since when have you been sick?" },
+      { "speaker": "니나", "native": "어제부터요. 약 있어요?", "transliteration": "eojebuteoyo. yak isseoyo?", "english": "Since yesterday. Do you have medicine?" },
+      { "speaker": "약사", "native": "네, 이 약을 드세요. 안 나으면 병원에 가야 해요.", "transliteration": "ne, i yageul deuseyo. an naeumyeon byeongwone gaya haeyo.", "english": "Yes, take this medicine. If you don't get better, you should go to a clinic." },
+      { "speaker": "니나", "native": "알겠어요. 감사합니다.", "transliteration": "algesseoyo. gamsahamnida.", "english": "I understand. Thank you." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'Please help!' in Korean?",
+      "correctAnswer": "도와주세요",
+      "explanation": "도와주세요 (dowajuseyo) is the urgent call for help."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which sentence means 'My head hurts'?",
+      "options": ["배가 아파요", "머리가 아파요", "열이 나요", "약 있어요?"],
+      "correctAnswer": "머리가 아파요",
+      "explanation": "머리가 아파요 (meoriga apayo) means 'my head hurts'."
+    },
+    {
+      "type": "fill-blank",
+      "question": "병원에 가___ 해요. (I have to go)",
+      "correctAnswer": "야",
+      "explanation": "The obligation pattern is stem + 아/어야 해요, so 가야 해요 means 'I have to go'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What number do you call for an ambulance in Korea?",
+      "options": ["112", "119", "911", "000"],
+      "correctAnswer": "119",
+      "explanation": "119 is for fire and ambulance in Korea; 112 is for police."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: 주세요 / 구급차를 / 불러 (please call an ambulance)",
+      "correctAnswer": "구급차를 불러 주세요",
+      "explanation": "Object, then verb, then the request: 구급차를 불러 주세요."
+    }
+  ],
+  "status": "complete"
+}

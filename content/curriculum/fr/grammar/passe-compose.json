@@ -1,0 +1,33 @@
+{
+  "slug": "passe-compose",
+  "name": "The Passé Composé",
+  "nameNative": "Le passé composé",
+  "summary": "The everyday past tense, built with avoir or être plus a past participle.",
+  "level": "pre-intermediate",
+  "order": 11,
+  "explanation": "The passé composé is how French talks about completed past actions. It has two parts: a helper verb (avoir or être) in the present, plus a past participle. J'ai mangé (I ate / I have eaten).\n\nMost verbs use avoir: j'ai parlé, tu as fini, il a vu. A small set of movement and change-of-state verbs use être: je suis allé (I went), elle est partie (she left). With être, the participle agrees with the subject, adding -e for feminine and -s for plural: elle est allée.\n\nRegular participles follow patterns by verb group: -er verbs give -é (parlé), -ir verbs give -i (fini), -re verbs give -u (vendu). Many common verbs are irregular: avoir gives eu, être gives été, faire gives fait.",
+  "pattern": "avoir / être (present) + past participle",
+  "conjugation": {
+    "-er participle": "parlé",
+    "-ir participle": "fini",
+    "-re participle": "vendu",
+    "avoir verbs": "most verbs",
+    "être verbs": "movement / change of state (aller, venir, partir, naître, mourir)"
+  },
+  "examples": [
+    { "native": "J'ai mangé une pomme.", "en": "I ate an apple." },
+    { "native": "Nous avons fini le travail.", "en": "We finished the work." },
+    { "native": "Tu as vu le film ?", "en": "Did you see the film?" },
+    { "native": "Je suis allé à Paris.", "en": "I went to Paris. (être verb)" },
+    { "native": "Elle est partie tôt.", "en": "She left early. (agreement: partie)" },
+    { "native": "Ils ont fait leurs devoirs.", "en": "They did their homework." }
+  ],
+  "commonMistakes": [
+    "Choosing the wrong helper. Movement and change-of-state verbs take être, not avoir.",
+    "Forgetting agreement with être: it is elle est allée, not elle est allé.",
+    "Using the wrong participle ending: -er gives -é, -ir gives -i, -re gives -u.",
+    "Regularising irregular participles: avoir is eu, être is été, faire is fait.",
+    "Leaving out the helper verb. You always need avoir or être plus the participle."
+  ],
+  "tip": "Ask: did the subject move from A to B or change state? If yes, use être (with agreement). Otherwise use avoir."
+}

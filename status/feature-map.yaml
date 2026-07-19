@@ -1,0 +1,133 @@
+app: vdapp34-language-academy
+audit_date: 2026-05-16
+
+surfaces:
+  - id: home
+    route: /
+    state: shipped
+    languages: [global]
+
+  - id: speaking-structure
+    route: /speaking-structure
+    state: shipped
+    languages: [global]
+    note: First visual guide; precedes the language-prefixed guide tree.
+
+  - id: language-home
+    route: /{lang}
+    state: shipped
+    languages: [es, zh, de, th]
+
+  - id: words-index
+    route: /{lang}/words
+    state: shipped
+    languages: [es, zh, de, th]
+    content_coverage:
+      es: 1000
+      zh: 1000
+      de: 1000
+      th: 1000
+
+  - id: word-group
+    route: /{lang}/words/{group}
+    state: shipped
+    languages: [es, zh, de, th]
+    groups: [essential-50, core-100, everyday-250, confident-350, fluent-250]
+
+  - id: topics-index
+    route: /{lang}/topics
+    state: partial
+    languages_shipped: [es]
+    languages_empty: [zh, de, th]
+    content_coverage:
+      es: 15
+      zh: 0
+      de: 0
+      th: 0
+
+  - id: topic-detail
+    route: /{lang}/topics/{slug}
+    state: partial
+    languages_shipped: [es]
+    languages_empty: [zh, de, th]
+
+  - id: grammar-index
+    route: /{lang}/grammar
+    state: partial
+    languages_shipped: [es]
+    languages_empty: [zh, de, th]
+    content_coverage:
+      es: 12
+      zh: 0
+      de: 0
+      th: 0
+
+  - id: grammar-rule
+    route: /{lang}/grammar/{slug}
+    state: partial
+    languages_shipped: [es]
+    languages_empty: [zh, de, th]
+
+  - id: phrases-index
+    route: /{lang}/phrases
+    state: partial
+    languages_shipped: [es]
+    languages_empty: [zh, de, th]
+    content_coverage:
+      es: 8
+      zh: 0
+      de: 0
+      th: 0
+
+  - id: phrase-pack
+    route: /{lang}/phrases/{slug}
+    state: partial
+    languages_shipped: [es]
+    languages_empty: [zh, de, th]
+
+  - id: practice
+    route: /{lang}/practice
+    state: shipped-stub
+    languages: [es, zh, de, th]
+    note: Route exists; content depth varies. Verify before claiming production.
+
+  - id: timeline
+    route: /{lang}/timeline
+    state: shipped-stub
+    languages: [es, zh, de, th]
+    note: Route exists; content depth varies. Verify before claiming production.
+
+  - id: guides-index
+    route: /{lang}/guides
+    state: shipped
+    languages: [es, zh, de, th]
+
+  - id: guide-sentence-skeleton
+    route: /{lang}/guides/sentence-skeleton
+    state: shipped
+    languages: [es, zh, de, th]
+
+  - id: guide-phrase-to-pattern
+    route: /{lang}/guides/phrase-to-pattern
+    state: shipped
+    languages: [es, zh, de, th]
+
+  - id: guide-meaning-load
+    route: /{lang}/guides/meaning-load
+    state: shipped
+    languages: [es, zh, de, th]
+
+planned:
+  - id: guide-pronunciation-pressure
+    state: planned
+    source: README.md
+
+  - id: guide-conversation-survival
+    state: planned
+    source: README.md
+
+  - id: topics-grammar-phrases-for-zh-de-th
+    state: planned
+    note: >
+      Content backfill for Chinese, German, Thai to reach Spanish-parity
+      (15 topics, 12 grammar rules, 8 phrase packs per language).

@@ -1,11 +1,13 @@
 {
   "rank": 699,
-  "german": "verbessern",
-  "english": "to improve",
-  "pronunciation": "fair-BES-ern",
-  "partOfSpeech": "verb",
-  "exampleDe": "Ich will mein Deutsch verbessern.",
-  "exampleEn": "I want to improve my German.",
+  "german": "November",
+  "english": "November",
+  "pronunciation": "n o v ɛ m b ɐ",
+  "partOfSpeech": "noun",
+  "exampleDe": "Ich mag den November.",
+  "exampleEn": "I like November.",
   "group": "confident-350",
-  "topic": "actions"
+  "topic": "basics",
+  "article": "der",
+  "gender": "masculine"
 }

@@ -1,0 +1,26 @@
+{
+  "slug": "word-order",
+  "name": "Word Order",
+  "nameDe": "Die Wortstellung",
+  "summary": "The verb-second rule and how time, manner, and place line up in a German sentence.",
+  "level": "pre-intermediate",
+  "order": 10,
+  "explanation": "The golden rule of German is that the conjugated verb sits in second position in a main clause. 'Second' means second element, not second word. If you start with something other than the subject, the subject moves after the verb: 'Heute gehe ich ins Kino' (Today I go to the cinema), where 'gehe' stays second.\n\nWhen you add details, the order is time, manner, place (TeKaMoLo): 'Ich fahre morgen mit dem Zug nach Berlin' (I travel tomorrow by train to Berlin).\n\nIn a subordinate clause introduced by words like weil (because), dass (that), or wenn (if), the conjugated verb jumps to the very end: 'Ich bleibe zu Hause, weil ich krank bin' (I stay home because I am sick).",
+  "pattern": "Main: ... verb (pos 2) ...  |  Subordinate: weil/dass ... verb (end)",
+  "examples": [
+    { "de": "Ich trinke morgens Kaffee.", "en": "I drink coffee in the mornings. (verb second)" },
+    { "de": "Morgens trinke ich Kaffee.", "en": "In the mornings I drink coffee. (subject moves after verb)" },
+    { "de": "Wir fahren heute mit dem Auto in die Stadt.", "en": "We drive into town today by car. (time, manner, place)" },
+    { "de": "Er kommt nicht, weil er arbeitet.", "en": "He is not coming because he is working. (verb at end)" },
+    { "de": "Ich weiß, dass du Recht hast.", "en": "I know that you are right. (verb at end)" },
+    { "de": "Wenn es regnet, bleiben wir zu Hause.", "en": "If it rains, we stay home." }
+  ],
+  "commonMistakes": [
+    "Putting the verb third after an opening phrase: it is 'Heute gehe ich', not 'Heute ich gehe'.",
+    "Keeping the verb in second position inside a 'weil' clause. It must go to the end.",
+    "Ordering place before time. German prefers time, then manner, then place.",
+    "Forgetting to move the subject after the verb when the sentence starts with a time or place word.",
+    "Splitting separable verbs incorrectly; in a main clause the prefix goes to the end: 'Ich stehe um 7 Uhr auf'."
+  ],
+  "tip": "Whenever you see weil, dass, wenn, ob, or da, expect the verb to land at the very end of that clause."
+}

@@ -1,0 +1,121 @@
+app: vdapp34-language-academy
+audit_date: 2026-05-16
+
+risks:
+  - id: R-001
+    title: Empty content surfaces for zh/de/th
+    severity: high
+    impact: >
+      Topic, grammar, and phrase index pages render empty for three of the four
+      shipped languages. Detail routes 404. Without surface fencing, users
+      following nav links hit dead ends.
+    mitigation: >
+      LanguageConfig.surfaces fencing landed 2026-05-16. Navigation hides links
+      to empty surfaces (desktop + mobile, including the More dropdown).
+      getLanguageSwitchHref falls back to the target language home when the
+      target lacks the current section. Topics / grammar / phrases routes
+      (index + [slug]) filter generateStaticParams by surface and notFound() at
+      runtime when the language lacks the surface. /[lang]/page.tsx sections
+      array also filters by surface. Backfill content for zh/de/th to remove
+      the fence in the long run.
+    status: mitigated-by-fence
+    owner: bryson
+
+  - id: R-002
+    title: Build cost scales with content × routes
+    severity: medium
+    impact: >
+      getWords(lang) and friends readdir + Zod-parse 1000 files per language
+      per page render. Without memoisation, full static generation re-parses
+      tens of thousands of times. Build timed out at 8 minutes in the audit
+      sandbox, and a 10-minute re-run after memoisation also hung — but the
+      hang was at framework boot (Next.js banner only), suggesting a sandbox
+      environment issue rather than a content-loader perf problem.
+    mitigation: >
+      Module-level Map caches added to academy-content.ts on 2026-05-16 for
+      getWords, getTopics, getGrammarRules, getPhrasePacks. getTopic /
+      getGrammarRule / getPhrasePack refactored to use cached lists with
+      .find() instead of separate readJsonFile per slug. generateStaticParams
+      on topics/grammar/phrases now filters out languages without the surface,
+      removing ~24 unnecessary index pages. Verify on macOS that next build
+      completes in under 2 minutes.
+    status: mitigated-pending-verification
+    owner: bryson
+
+  - id: R-003
+    title: Spanish-default redirects are permanent
+    severity: low
+    impact: >
+      next.config.js redirects /words, /topics, /grammar, /phrases, /practice,
+      /timeline to /es/* with permanent: true. Removing or reassigning the
+      default language later requires retiring those redirects with care.
+    mitigation: >
+      Document the redirects in CLAUDE.md and AGENTS.md. Don't change without
+      an ADR.
+    status: accepted
+    owner: bryson
+
+  - id: R-004
+    title: Lockfile ambiguity in monorepo root
+    severity: low
+    impact: >
+      A root package-lock.json at the 1-vivacity-digital level competes with
+      the app-local lockfile. Next.js warns on every build.
+    mitigation: >
+      outputFileTracingRoot: __dirname added to next.config.js on 2026-05-16.
+      Warning is silenced; tracing is pinned to this app's directory.
+    status: mitigated
+    owner: bryson
+
+  - id: R-005
+    title: lucide-react was pinned to an orphan version
+    severity: low
+    impact: >
+      Before 2026-05-16 the package was pinned to ^1.16.0, an old release line.
+      Risk of missing icons used in code (Compass, MessageCircleMore, etc.).
+    mitigation: >
+      Bumped to ^0.460.0 on 2026-05-16 to align with the rest of the VD estate.
+      Run npm install locally and verify all icons render.
+    status: mitigated-pending-verification
+    owner: bryson
+
+  - id: R-006
+    title: Dead content folders increase repo size
+    severity: low
+    impact: >
+      Top-level content/curriculum/{words,topics,grammar,phrases,modules}/
+      mirrored Spanish content but is unread by the loader. Empty stub
+      directories (day-in-life, frameworks, lessons, projects, tools) exist
+      with no consumers. Two disabled .git directories (.git_disabled,
+      .git.disabled-embedded-20260404) carry orphan history.
+    mitigation: >
+      __pycache__/, *.py[cod], *.egg-info/ added to .gitignore on 2026-05-16.
+      Sandbox could not action filesystem deletes — manual cleanup block
+      documented in docs/health-check-2026-05-16.md §Step 10. Pre-delete
+      sanity check (top-level mirror diff against es/) is in the same doc.
+    status: open-pending-local-cleanup
+    owner: bryson
+
+  - id: R-007
+    title: No formal accessibility audit
+    severity: medium
+    impact: >
+      App relies on Radix primitives for baseline a11y but has no recorded
+      keyboard-nav, screen-reader, or contrast audit.
+    mitigation: >
+      Schedule a manual a11y pass before any public marketing of the app.
+    status: open
+    owner: bryson
+
+  - id: R-008
+    title: No E2E or route-smoke tests
+    severity: medium
+    impact: >
+      tests/smoke.test.ts covers package metadata and JSON parseability but
+      no route renders. Regressions in shared components are caught only at
+      build time.
+    mitigation: >
+      Add Playwright smoke pass for /, /es, /zh, /de, /th, /speaking-structure,
+      and at least one /{lang}/words/{group}.
+    status: open
+    owner: bryson

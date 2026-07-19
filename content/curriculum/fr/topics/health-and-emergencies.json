@@ -1,0 +1,90 @@
+{
+  "slug": "health-and-emergencies",
+  "title": "Health & Emergencies",
+  "titleNative": "La santé et les urgences",
+  "shortSummary": "Describe symptoms, see a doctor, and get help fast in an emergency.",
+  "level": "pre-intermediate",
+  "order": 11,
+  "icon": "🩺",
+  "color": "#a0453f",
+  "culturalNote": "France has an excellent healthcare system, and pharmacies, marked with a green cross, are everywhere and staffed by pharmacists who can advise on minor problems. The European emergency number is 112; the SAMU (medical) is 15 and the police is 17. Carrying your symptoms written in French on your phone helps a lot at a clinic or pharmacy.",
+  "keyPhrases": [
+    { "native": "Je ne me sens pas bien", "english": "I don't feel well", "pronunciation": "zhuh nuh muh son pah bee-AN", "context": "General complaint" },
+    { "native": "J'ai mal à la tête", "english": "I have a headache", "pronunciation": "zhay mal ah lah TET", "context": "avoir mal à for pain" },
+    { "native": "J'ai de la fièvre", "english": "I have a fever", "pronunciation": "zhay duh lah fee-EV-ruh", "context": "A symptom" },
+    { "native": "J'ai besoin d'un médecin", "english": "I need a doctor", "pronunciation": "zhay buh-ZWAN dun mayd-SAN", "context": "Seeking help" },
+    { "native": "Appelez une ambulance", "english": "Call an ambulance", "pronunciation": "ah-play ewn on-bew-LONSS", "context": "Dial 112 or 15" },
+    { "native": "C'est une urgence", "english": "It's an emergency", "pronunciation": "say tewn ewr-ZHONSS", "context": "Urgent" },
+    { "native": "Je suis allergique à...", "english": "I'm allergic to...", "pronunciation": "zhuh swee zah-lehr-ZHEEK ah", "context": "Important info" },
+    { "native": "Où est la pharmacie ?", "english": "Where is the pharmacy?", "pronunciation": "oo eh lah far-mah-SEE", "context": "Finding medicine" },
+    { "native": "J'ai mal ici", "english": "It hurts here", "pronunciation": "zhay mal ee-SEE", "context": "Point as you say it" },
+    { "native": "Reposez-vous bien", "english": "Rest well", "pronunciation": "ruh-poh-zay VOO bee-AN", "context": "Common advice" }
+  ],
+  "grammar": [
+    {
+      "rule": "avoir mal à for pain",
+      "explanation": "To say something hurts, use avoir mal à plus the body part: j'ai mal à la tête (headache), j'ai mal au dos (backache), j'ai mal aux dents (toothache). The à contracts with le and les.",
+      "examples": [
+        { "native": "J'ai mal à la gorge.", "en": "I have a sore throat." },
+        { "native": "Il a mal au ventre.", "en": "He has a stomach ache." }
+      ],
+      "commonMistake": "Forgetting the contraction: it is mal au dos and mal aux dents, not mal à le dos."
+    },
+    {
+      "rule": "être allergique à",
+      "explanation": "To say you are allergic to something, use être allergique à: Je suis allergique aux arachides (I'm allergic to peanuts). Remember the contraction with les: aux.",
+      "examples": [
+        { "native": "Je suis allergique aux chats.", "en": "I'm allergic to cats." },
+        { "native": "Elle est allergique au lait.", "en": "She's allergic to milk." }
+      ],
+      "commonMistake": "Dropping à: the frame is être allergique à plus the thing."
+    }
+  ],
+  "dialogue": {
+    "setup": "Léa visits a pharmacy because she is not feeling well.",
+    "lines": [
+      { "speaker": "Pharmacien", "native": "Bonjour, qu'est-ce qui ne va pas ?", "english": "Hello, what's wrong?" },
+      { "speaker": "Léa", "native": "J'ai mal à la tête et j'ai de la fièvre.", "english": "I have a headache and a fever." },
+      { "speaker": "Pharmacien", "native": "Depuis quand avez-vous ces symptômes ?", "english": "Since when have you had these symptoms?" },
+      { "speaker": "Léa", "native": "Depuis hier soir.", "english": "Since yesterday evening." },
+      { "speaker": "Pharmacien", "native": "Êtes-vous allergique à un médicament ?", "english": "Are you allergic to any medicine?" },
+      { "speaker": "Léa", "native": "Non, à rien.", "english": "No, to nothing." },
+      { "speaker": "Pharmacien", "native": "Prenez ces comprimés et reposez-vous bien.", "english": "Take these tablets and rest well." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'I have a headache'?",
+      "correctAnswer": "J'ai mal à la tête",
+      "explanation": "avoir mal à plus the body part (la tête)."
+    },
+    {
+      "type": "fill-blank",
+      "question": "Je suis allergique _____ chats. (to the, plural)",
+      "correctAnswer": "aux",
+      "explanation": "à + les contracts to aux."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which means 'It's an emergency'?",
+      "options": ["C'est délicieux", "C'est une urgence", "C'est loin", "C'est cher"],
+      "correctAnswer": "C'est une urgence",
+      "explanation": "C'est une urgence means 'it's an emergency'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which means 'I have a fever'?",
+      "options": ["J'ai faim", "J'ai de la fièvre", "J'ai froid", "J'ai mal"],
+      "correctAnswer": "J'ai de la fièvre",
+      "explanation": "J'ai de la fièvre means 'I have a fever'."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: médecin / besoin / d'un / j'ai",
+      "correctAnswer": "J'ai besoin d'un médecin",
+      "explanation": "J'ai besoin de (I need) plus 'un médecin'."
+    }
+  ],
+  "status": "complete"
+}

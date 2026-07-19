@@ -1,0 +1,25 @@
+{
+  "slug": "work-business",
+  "title": "Work & Business Spanish",
+  "shortSummary": "Navigate the professional world in Spanish — write emails, attend meetings, discuss projects, and handle job interviews. Essential for anyone working with Spanish-speaking colleagues or clients.",
+  "level": "intermediate",
+  "category": "strategy",
+  "whyItMatters": "Professional Spanish opens career doors. If you can communicate effectively in a business context, you become valuable to any company with Spanish-speaking markets. Business Spanish follows specific conventions that differ from casual speech.",
+  "coreConcepts": [
+    "Email conventions: Estimado/a, Atentamente, Saludos cordiales",
+    "Meeting vocabulary: reunión, orden del día, acta, plazo",
+    "Job vocabulary: puesto, sueldo, contrato, experiencia",
+    "Phone conversations: ¿Dígame? / ¿De parte de quién?",
+    "Formal register: usted, subjunctive in business contexts",
+    "Presenting ideas: Me gustaría proponer...",
+    "Negotiation phrases",
+    "CV and cover letter conventions in Spanish-speaking countries"
+  ],
+  "lessons": [],
+  "frameworks": ["cultural-competence"],
+  "visualType": "office",
+  "relatedModules": ["conditional-tense", "opinions-debates", "professional-spanish"],
+  "status": "coming-soon",
+  "order": 13,
+  "levelNumber": 3
+}

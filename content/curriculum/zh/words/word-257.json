@@ -1,12 +1,13 @@
 {
   "rank": 257,
-  "chinese": "慢",
-  "characters": "慢",
-  "pinyin": "màn",
-  "english": "slow",
-  "partOfSpeech": "adjective",
-  "exampleZh": "请说慢一点。",
-  "exampleEn": "Please speak more slowly.",
+  "chinese": "系",
+  "characters": "系",
+  "pinyin": "xì",
+  "english": "to Tie",
+  "pronunciation": "xi",
+  "partOfSpeech": "verb",
+  "exampleZh": "我想系。",
+  "exampleEn": "I want to Tie.",
   "group": "everyday-250",
-  "topic": "descriptions"
+  "topic": "actions"
 }

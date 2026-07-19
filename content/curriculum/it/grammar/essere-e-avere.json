@@ -1,0 +1,34 @@
+{
+  "slug": "essere-e-avere",
+  "name": "Essere and Avere (to be / to have)",
+  "nameNative": "Essere e avere",
+  "summary": "The two most important Italian verbs, both irregular and used everywhere.",
+  "level": "beginner",
+  "order": 3,
+  "explanation": "Essere (to be) and avere (to have) are the backbone of Italian. Both are irregular, so you simply memorise them.\n\nEssere: sono, sei, è, siamo, siete, sono. Use it for identity, origin, and description (sono australiano, I am Australian).\n\nAvere: ho, hai, ha, abbiamo, avete, hanno. Use it for possession (ho una macchina, I have a car). Italian also uses avere where English uses 'to be' for age, hunger, and thirst: ho fame (I am hungry), ho vent'anni (I am twenty).",
+  "pattern": "sono/sei/è ... ho/hai/ha ...",
+  "conjugation": {
+    "io": "sono / ho",
+    "tu": "sei / hai",
+    "lui/lei": "è / ha",
+    "noi": "siamo / abbiamo",
+    "voi": "siete / avete",
+    "loro": "sono / hanno"
+  },
+  "examples": [
+    { "native": "Sono italiano.", "en": "I am Italian." },
+    { "native": "Sei stanco?", "en": "Are you tired?" },
+    { "native": "È un bravo medico.", "en": "He is a good doctor." },
+    { "native": "Ho due fratelli.", "en": "I have two brothers." },
+    { "native": "Hai fame?", "en": "Are you hungry?" },
+    { "native": "Abbiamo una casa a Firenze.", "en": "We have a house in Florence." }
+  ],
+  "commonMistakes": [
+    "Using essere for age or hunger. Italian says ho vent'anni and ho fame, not sono.",
+    "Dropping the silent h in ho, hai, ha, hanno. The h is written but never pronounced.",
+    "Confusing è (is) with e (and). The accent changes the meaning entirely.",
+    "Saying sono for 'they have'. They have is hanno, with avere.",
+    "Mixing up siete (you all are) and sei (you are)."
+  ],
+  "tip": "Note that io and loro share the same essere form: sono. Context and the verb ending make it clear."
+}

@@ -1,0 +1,92 @@
+{
+  "slug": "transport",
+  "title": "Transport",
+  "titleEs": "El Transporte",
+  "shortSummary": "Navigate buses, trains, taxis, and flights. Buy tickets, understand schedules, and get around in Spanish-speaking cities.",
+  "level": "beginner",
+  "order": 10,
+  "icon": "🚌",
+  "color": "#dc2626",
+  "culturalNote": "Public transport in major Spanish-speaking cities is generally excellent and affordable. Madrid and Barcelona have extensive metro systems. In Latin American cities, 'colectivos' (shared minibuses) are common and follow set routes marked by numbers. Taxis in many countries don't use metres — agree on a price beforehand. Ride-sharing apps like Uber operate in many Latin American cities but may face legal grey areas.",
+  "keyPhrases": [
+    { "spanish": "¿Dónde está la parada de autobús?", "english": "Where is the bus stop?", "pronunciation": "DOHN-deh ehs-TAH lah pah-RAH-dah deh ow-toh-BOOS", "context": "Finding public transport stops" },
+    { "spanish": "Un billete de ida y vuelta, por favor", "english": "A return ticket, please", "pronunciation": "oon bee-YEH-teh deh EE-dah ee BWEL-tah", "context": "'Ida' = one way, 'ida y vuelta' = return" },
+    { "spanish": "¿A qué hora sale el tren?", "english": "What time does the train leave?", "pronunciation": "ah keh OH-rah SAH-leh ehl trehn", "context": "Checking departure times" },
+    { "spanish": "¿Cuánto tarda en llegar?", "english": "How long does it take to get there?", "pronunciation": "KWAHN-toh TAR-dah ehn yeh-GAHR", "context": "Asking about journey duration" },
+    { "spanish": "Quiero ir al aeropuerto", "english": "I want to go to the airport", "pronunciation": "kee-EH-roh eer ahl ah-eh-roh-PWEHR-toh", "context": "Telling a taxi driver your destination" },
+    { "spanish": "¿Este autobús va al centro?", "english": "Does this bus go to the centre?", "pronunciation": "EHS-teh ow-toh-BOOS bah ahl SEHN-troh", "context": "Confirming the bus route" },
+    { "spanish": "¿Dónde tengo que bajar?", "english": "Where do I need to get off?", "pronunciation": "DOHN-deh TEHN-goh keh bah-HAHR", "context": "Asking which stop to exit" },
+    { "spanish": "La próxima parada, por favor", "english": "The next stop, please", "pronunciation": "lah PROHK-see-mah pah-RAH-dah pohr fah-BOHR", "context": "Telling the driver you want to get off" },
+    { "spanish": "¿Hay metro en esta ciudad?", "english": "Is there a metro in this city?", "pronunciation": "eye MEH-troh ehn EHS-tah see-oo-DAHD", "context": "Asking about metro availability" },
+    { "spanish": "Necesito un taxi al hotel", "english": "I need a taxi to the hotel", "pronunciation": "neh-seh-SEE-toh oon TAHK-see ahl oh-TEHL", "context": "Requesting a taxi" }
+  ],
+  "grammar": [
+    {
+      "rule": "Ir (to go) — irregular verb",
+      "explanation": "'Ir' is completely irregular: voy, vas, va, vamos, vais, van. It's one of the most used verbs in Spanish. Use 'ir a' + place for destination, and 'ir en' + transport for the method.",
+      "examples": [
+        { "es": "Voy al trabajo en metro", "en": "I go to work by metro" },
+        { "es": "Vamos a la estación", "en": "We're going to the station" },
+        { "es": "¿Vas en autobús o en taxi?", "en": "Are you going by bus or taxi?" }
+      ],
+      "commonMistake": "Saying 'yo vo' or 'yo io' instead of 'yo voy' — 'ir' is completely irregular."
+    },
+    {
+      "rule": "Tener que + infinitive (have to)",
+      "explanation": "To express obligation, use 'tener que' + infinitive: 'tengo que ir' (I have to go). This is the most common way to say 'must' or 'have to' in everyday Spanish.",
+      "examples": [
+        { "es": "Tengo que bajar en la próxima", "en": "I have to get off at the next one" },
+        { "es": "Tienes que comprar un billete", "en": "You have to buy a ticket" },
+        { "es": "Tenemos que hacer transbordo", "en": "We have to change/transfer" }
+      ],
+      "commonMistake": "Using 'tener de' instead of 'tener que' — always use 'que' before the infinitive."
+    }
+  ],
+  "dialogue": {
+    "setup": "A traveller asks for help at a train station in Madrid.",
+    "lines": [
+      { "speaker": "Viajero", "spanish": "Buenos días. Quiero ir a Barcelona.", "english": "Good morning. I want to go to Barcelona." },
+      { "speaker": "Taquillera", "spanish": "¿Ida o ida y vuelta?", "english": "One way or return?" },
+      { "speaker": "Viajero", "spanish": "Ida y vuelta, por favor. ¿Cuánto cuesta?", "english": "Return, please. How much is it?" },
+      { "speaker": "Taquillera", "spanish": "Son noventa y cinco euros. El tren sale a las diez.", "english": "It's 95 euros. The train leaves at ten." },
+      { "speaker": "Viajero", "spanish": "¿Cuánto tarda?", "english": "How long does it take?" },
+      { "speaker": "Taquillera", "spanish": "El AVE tarda dos horas y media.", "english": "The AVE (high-speed train) takes two and a half hours." },
+      { "speaker": "Viajero", "spanish": "Perfecto. ¿De qué andén sale?", "english": "Perfect. Which platform does it leave from?" },
+      { "speaker": "Taquillera", "spanish": "Andén número cuatro. Tiene que estar quince minutos antes.", "english": "Platform four. You need to be there fifteen minutes early." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'I go to work by bus'?",
+      "correctAnswer": "Voy al trabajo en autobús",
+      "explanation": "'Ir a' + destination, 'ir en' + transport method."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does 'ida y vuelta' mean?",
+      "options": ["One way", "Return/round trip", "First class", "Express"],
+      "correctAnswer": "Return/round trip",
+      "explanation": "'Ida' = going, 'vuelta' = return. Together they mean a return ticket."
+    },
+    {
+      "type": "fill-blank",
+      "question": "_____ que comprar un billete. (I have to buy a ticket)",
+      "correctAnswer": "Tengo",
+      "explanation": "'Tener que' + infinitive = to have to. 'Tengo que comprar' = I have to buy."
+    },
+    {
+      "type": "translate",
+      "question": "How do you ask 'What time does the train leave?'",
+      "correctAnswer": "¿A qué hora sale el tren?",
+      "explanation": "'Salir' = to leave/depart. 'Sale' is the él/ella form."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: autobús / al / va / este / centro",
+      "correctAnswer": "¿Este autobús va al centro?",
+      "explanation": "Demonstrative + noun + verb + destination."
+    }
+  ],
+  "status": "complete"
+}

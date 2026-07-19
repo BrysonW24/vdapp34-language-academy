@@ -1,0 +1,26 @@
+{
+  "slug": "negation",
+  "name": "Negation",
+  "nameEs": "La Negación",
+  "summary": "Make sentences negative in Spanish — simply put 'no' before the verb. Learn double negatives and negative words.",
+  "level": "beginner",
+  "order": 5,
+  "explanation": "Making a sentence negative in Spanish is straightforward: place 'no' directly before the conjugated verb. 'Hablo español' becomes 'No hablo español'. There's no equivalent of English 'don't' or 'doesn't' — just 'no'.\n\nSpanish uses double negatives, and unlike English, they reinforce each other rather than cancelling out. 'No tengo nada' literally means 'I don't have nothing' but translates as 'I don't have anything'. This is correct and natural in Spanish. You can also place the negative word before the verb without 'no': 'Nada tengo' or 'Nunca voy'.\n\nKey negative words: nada (nothing), nadie (nobody), nunca/jamás (never), tampoco (neither/not either), ni...ni (neither...nor), ningún/ninguno/ninguna (none/no). These can go before the verb (no 'no' needed) or after the verb (with 'no' before it).",
+  "pattern": "no + verb | negative word + verb | no + verb + negative word",
+  "examples": [
+    { "es": "No hablo francés", "en": "I don't speak French" },
+    { "es": "No tengo nada", "en": "I don't have anything (double negative = correct)" },
+    { "es": "Nunca como carne", "en": "I never eat meat" },
+    { "es": "No conozco a nadie aquí", "en": "I don't know anyone here" },
+    { "es": "Tampoco me gusta", "en": "I don't like it either" },
+    { "es": "No quiero ni café ni té", "en": "I want neither coffee nor tea" }
+  ],
+  "commonMistakes": [
+    "Placing 'no' after the verb: 'Hablo no español' should be 'No hablo español'",
+    "Thinking double negatives are wrong: 'No tengo nada' is perfectly correct Spanish",
+    "Forgetting 'no' with post-verb negatives: 'Voy nunca' should be 'No voy nunca' (or 'Nunca voy')",
+    "Using 'no' with pre-verb negatives: 'No nunca voy' is redundant — say 'Nunca voy'",
+    "Confusing 'también' (also/too) with 'tampoco' (neither/not either)"
+  ],
+  "tip": "The simplest rule: if the negative word comes AFTER the verb, you need 'no' before the verb too. If the negative word comes BEFORE the verb, drop the 'no'."
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "emergencies",
+  "title": "Emergencies",
+  "description": "Get help fast, describe a problem, and reach a doctor or the police in Filipino.",
+  "situation": "Urgent situations: calling for help, reporting an accident, illness, or theft.",
+  "order": 7,
+  "phrases": [
+    { "native": "Tulong po!", "english": "Help!", "pronunciation": "TOO-long po", "formality": "formal", "tip": "The single most important emergency word to know." },
+    { "native": "Tumawag po kayo ng pulis", "english": "Call the police", "pronunciation": "too-MA-wag po ka-YO nang poo-LIS", "formality": "formal", "tip": "The nationwide emergency number is 911." },
+    { "native": "Kailangan ko ng doktor", "english": "I need a doctor", "pronunciation": "ka-ee-LA-ngan ko nang dok-TOR", "formality": "neutral" },
+    { "native": "May aksidente po", "english": "There has been an accident", "pronunciation": "may ak-si-DEN-te po", "formality": "formal" },
+    { "native": "Masama ang pakiramdam ko", "english": "I feel sick", "pronunciation": "ma-SA-ma ang pa-kee-ram-DAM ko", "formality": "neutral" },
+    { "native": "Masakit po ang dibdib ko", "english": "My chest hurts", "pronunciation": "ma-sa-KIT po ang dib-DIB ko", "formality": "formal", "tip": "Swap dibdib for any body part: ulo (head), tiyan (stomach)." },
+    { "native": "Nasaan po ang pinakamalapit na ospital?", "english": "Where is the nearest hospital?", "pronunciation": "na-sa-AN po ang pee-na-ka-ma-LA-pit na os-pi-TAL", "formality": "formal" },
+    { "native": "Ninakaw po ang wallet ko", "english": "My wallet was stolen", "pronunciation": "ni-NA-kaw po ang WO-let ko", "formality": "formal" },
+    { "native": "Nawawala po ako", "english": "I am lost", "pronunciation": "na-wa-WA-la po a-KO", "formality": "formal" },
+    { "native": "May allergy po ako sa gamot", "english": "I am allergic to medicine", "pronunciation": "may A-ler-ji po a-KO sa ga-MOT", "formality": "formal", "tip": "Critical to say before any treatment." },
+    { "native": "Pakitawagan po ang pamilya ko", "english": "Please call my family", "pronunciation": "pa-kee-ta-WA-gan po ang pa-MIL-ya ko", "formality": "formal" },
+    { "native": "Bilisan po natin, mahalaga ito", "english": "Let's hurry, this is important", "pronunciation": "bi-li-SAN po NA-tin, ma-ha-la-GA ee-TO", "formality": "formal" }
+  ]
+}

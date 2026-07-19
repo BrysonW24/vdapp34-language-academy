@@ -1,13 +1,13 @@
 {
   "rank": 305,
-  "chinese": "爸爸",
-  "characters": "爸爸",
-  "pinyin": "bàba",
-  "english": "father/dad",
-  "pronunciation": "bah-bah (4th tone, neutral)",
+  "chinese": "金",
+  "characters": "金",
+  "pinyin": "jīn",
+  "english": "gold",
+  "pronunciation": "jin",
   "partOfSpeech": "noun",
-  "exampleZh": "爸爸在看电视。",
-  "exampleEn": "Dad is watching TV.",
+  "exampleZh": "这个黄金很重要。",
+  "exampleEn": "This gold is important.",
   "group": "everyday-250",
-  "topic": "family"
+  "topic": "basics"
 }

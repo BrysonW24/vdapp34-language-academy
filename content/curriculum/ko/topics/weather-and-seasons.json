@@ -1,0 +1,90 @@
+{
+  "slug": "weather-and-seasons",
+  "title": "Weather & Seasons",
+  "titleNative": "날씨와 계절",
+  "shortSummary": "Talk about the weather and Korea's four distinct seasons in everyday Korean.",
+  "level": "beginner",
+  "order": 12,
+  "icon": "🌤️",
+  "color": "#1c7ed6",
+  "culturalNote": "Korea has four sharply defined seasons, and they shape daily life and conversation. Spring (봄, bom) brings cherry blossoms and the famous 벚꽃 (beotkkot) viewing, while summer (여름, yeoreum) is hot, humid, and includes the rainy 장마 (jangma) monsoon period. Autumn (가을, gaeul) is crisp and prized for its red and gold foliage (단풍, danpung), and winter (겨울, gyeoul) is cold and dry with occasional heavy snow. Weather is common small talk, and Koreans often comment on the 미세먼지 (misemeonji, fine dust) air-quality levels, especially in spring, checking apps before going out. Seasonal foods and activities are taken seriously: 삼계탕 (samgyetang, ginseng chicken soup) in summer to build stamina, and warm street foods in winter. Commenting that the weather is 좋아요 (joayo, nice) or 추워요 (chuwoyo, cold) is a friendly, safe way to open a conversation.",
+  "keyPhrases": [
+    { "native": "오늘 날씨가 어때요?", "english": "How is the weather today?", "transliteration": "oneul nalssiga eottaeyo?", "pronunciation": "o-neul nal-ssi-ga o-ttae-yo", "context": "Common small talk" },
+    { "native": "날씨가 좋아요", "english": "The weather is nice", "transliteration": "nalssiga joayo", "pronunciation": "nal-ssi-ga jo-a-yo", "context": "Pleasant day" },
+    { "native": "더워요", "english": "It's hot", "transliteration": "deowoyo", "pronunciation": "do-wo-yo", "context": "Summer weather" },
+    { "native": "추워요", "english": "It's cold", "transliteration": "chuwoyo", "pronunciation": "chu-wo-yo", "context": "Winter weather" },
+    { "native": "비가 와요", "english": "It's raining", "transliteration": "biga wayo", "pronunciation": "bi-ga wa-yo", "context": "Rainy day" },
+    { "native": "눈이 와요", "english": "It's snowing", "transliteration": "nuni wayo", "pronunciation": "nu-ni wa-yo", "context": "Winter snow" },
+    { "native": "봄을 좋아해요", "english": "I like spring", "transliteration": "bomeul joahaeyo", "pronunciation": "bo-meul jo-a-hae-yo", "context": "Talking about seasons" },
+    { "native": "가을이 제일 좋아요", "english": "Autumn is the best", "transliteration": "gaeuri jeil joayo", "pronunciation": "ga-eu-ri je-il jo-a-yo", "context": "Stating a preference" },
+    { "native": "우산을 가져가세요", "english": "Take an umbrella", "transliteration": "usaneul gajyeogaseyo", "pronunciation": "u-sa-neul ga-jyo-ga-se-yo", "context": "Advice on a rainy day" },
+    { "native": "미세먼지가 심해요", "english": "The fine dust is bad", "transliteration": "misemeonjiga simhaeyo", "pronunciation": "mi-se-mon-ji-ga sim-hae-yo", "context": "Air quality concern in Korea" }
+  ],
+  "grammar": [
+    {
+      "rule": "Describing states with adjective + 요",
+      "explanation": "Korean adjectives act like verbs and conjugate the same way. 덥다 (deopda, hot) becomes 더워요 (deowoyo, it's hot), and 춥다 (chupda, cold) becomes 추워요 (chuwoyo). No separate 'is' verb is needed.",
+      "examples": [
+        { "native": "날씨가 좋아요. (nalssiga joayo.)", "en": "The weather is nice." },
+        { "native": "오늘은 추워요. (oneureun chuwoyo.)", "en": "Today is cold." }
+      ],
+      "commonMistake": "Adding 이에요 after an adjective; adjectives already conjugate, so 추워요 needs no extra 'is'."
+    },
+    {
+      "rule": "Likes and dislikes with 좋아해요",
+      "explanation": "To say you like something, use 을/를 좋아해요 (joahaeyo). 봄 (bom, spring) becomes 봄을 좋아해요 (I like spring). The thing liked takes the object particle.",
+      "examples": [
+        { "native": "여름을 좋아해요. (yeoreumeul joahaeyo.)", "en": "I like summer." },
+        { "native": "비를 안 좋아해요. (bireul an joahaeyo.)", "en": "I don't like rain." }
+      ],
+      "commonMistake": "Confusing 좋아요 (it is good) with 좋아해요 (I like it); the second needs an object."
+    }
+  ],
+  "dialogue": {
+    "setup": "Two coworkers, Jihun and Claire, chat about the weather and seasons over coffee.",
+    "lines": [
+      { "speaker": "지훈", "native": "오늘 날씨가 어때요?", "transliteration": "oneul nalssiga eottaeyo?", "english": "How is the weather today?" },
+      { "speaker": "클레어", "native": "좀 추워요. 바람도 불어요.", "transliteration": "jom chuwoyo. baramdo bureoyo.", "english": "It's a bit cold. The wind is blowing too." },
+      { "speaker": "지훈", "native": "겨울이니까요. 클레어 씨는 무슨 계절을 좋아해요?", "transliteration": "gyeourinikkayo. keulleeo ssineun museun gyejeoreul joahaeyo?", "english": "It's winter, after all. Which season do you like, Claire?" },
+      { "speaker": "클레어", "native": "저는 가을이 제일 좋아요. 단풍이 예뻐요.", "transliteration": "jeoneun gaeuri jeil joayo. danpungi yeppeoyo.", "english": "I like autumn best. The foliage is pretty." },
+      { "speaker": "지훈", "native": "저도요. 여름은 너무 더워요.", "transliteration": "jeodoyo. yeoreumeun neomu deowoyo.", "english": "Me too. Summer is too hot." },
+      { "speaker": "클레어", "native": "내일은 비가 온대요.", "transliteration": "naeireun biga ondaeyo.", "english": "They say it'll rain tomorrow." },
+      { "speaker": "지훈", "native": "그럼 우산을 가져가세요!", "transliteration": "geureom usaneul gajyeogaseyo!", "english": "Then take an umbrella!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you ask 'How is the weather today?' in Korean?",
+      "correctAnswer": "오늘 날씨가 어때요?",
+      "explanation": "오늘 날씨가 어때요? (oneul nalssiga eottaeyo) asks about today's weather."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which sentence means 'It's raining'?",
+      "options": ["눈이 와요", "비가 와요", "더워요", "추워요"],
+      "correctAnswer": "비가 와요",
+      "explanation": "비가 와요 (biga wayo) means 'it's raining'; 눈이 와요 means 'it's snowing'."
+    },
+    {
+      "type": "fill-blank",
+      "question": "봄을 좋아_____. (I like spring)",
+      "correctAnswer": "해요",
+      "explanation": "좋아해요 (joahaeyo) means 'like', so 봄을 좋아해요 means 'I like spring'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Why do Koreans often check 미세먼지 levels?",
+      "options": ["To plan meals", "Because of fine dust air quality", "To choose a season", "To find a station"],
+      "correctAnswer": "Because of fine dust air quality",
+      "explanation": "미세먼지 (misemeonji) is fine dust; people check it, especially in spring, before going out."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: 좋아요 / 제일 / 가을이 (autumn is the best)",
+      "correctAnswer": "가을이 제일 좋아요",
+      "explanation": "Subject, then 제일 (the most), then adjective: 가을이 제일 좋아요."
+    }
+  ],
+  "status": "complete"
+}

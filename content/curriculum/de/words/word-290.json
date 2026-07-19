@@ -1,11 +1,11 @@
 {
   "rank": 290,
-  "german": "denken",
-  "english": "to think",
-  "pronunciation": "DEN-ken",
+  "german": "kosten",
+  "english": "to cost",
+  "pronunciation": "k o s t ə n",
   "partOfSpeech": "verb",
-  "exampleDe": "Ich denke oft an dich.",
-  "exampleEn": "I think of you often.",
+  "exampleDe": "Ich möchte kosten.",
+  "exampleEn": "I want to cost.",
   "group": "everyday-250",
-  "topic": "communication"
+  "topic": "shopping"
 }

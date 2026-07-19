@@ -1,13 +1,13 @@
 {
   "rank": 311,
-  "chinese": "妻子",
-  "characters": "妻子",
-  "pinyin": "qīzi",
-  "english": "wife",
-  "pronunciation": "chee-dzuh (1st tone, neutral)",
+  "chinese": "平台",
+  "characters": "平台",
+  "pinyin": "píng tái",
+  "english": "platform",
+  "pronunciation": "ping-tai",
   "partOfSpeech": "noun",
-  "exampleZh": "他的妻子很漂亮。",
-  "exampleEn": "His wife is very beautiful.",
+  "exampleZh": "这个平台很重要。",
+  "exampleEn": "This platform is important.",
   "group": "everyday-250",
-  "topic": "family"
+  "topic": "basics"
 }

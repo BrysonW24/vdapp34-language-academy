@@ -1,0 +1,33 @@
+{
+  "slug": "adjective-agreement",
+  "name": "Adjective Agreement",
+  "nameNative": "L'accordo dell'aggettivo",
+  "summary": "Italian adjectives change their ending to match the gender and number of the noun.",
+  "level": "beginner",
+  "order": 4,
+  "explanation": "Italian adjectives agree with the noun in gender and number. Most adjectives end in -o and have four forms: -o (masc. singular), -a (fem. singular), -i (masc. plural), -e (fem. plural). So alto (tall) becomes alto, alta, alti, alte.\n\nA second group ends in -e and has only two forms: -e (singular, both genders) and -i (plural). So grande (big) becomes grande and grandi.\n\nAdjectives usually come after the noun (una macchina rossa, a red car), though a few common ones can come before.",
+  "pattern": "noun + adjective (matching gender + number)",
+  "conjugation": {
+    "masc. singular": "il libro rosso",
+    "fem. singular": "la borsa rossa",
+    "masc. plural": "i libri rossi",
+    "fem. plural": "le borse rosse",
+    "-e type": "un film interessante / film interessanti"
+  },
+  "examples": [
+    { "native": "un ragazzo alto", "en": "a tall boy" },
+    { "native": "una ragazza alta", "en": "a tall girl" },
+    { "native": "due caffè caldi", "en": "two hot coffees" },
+    { "native": "le case nuove", "en": "the new houses" },
+    { "native": "un libro interessante", "en": "an interesting book" },
+    { "native": "delle storie interessanti", "en": "some interesting stories" }
+  ],
+  "commonMistakes": [
+    "Leaving the adjective in its dictionary -o form regardless of the noun.",
+    "Putting the colour or description before the noun. Italian usually says casa bianca, not bianca casa.",
+    "Forgetting that -e adjectives still change in the plural (grande to grandi).",
+    "Making a feminine plural end in -i. It should be -e (le ragazze italiane).",
+    "Matching the adjective to the English noun instead of the Italian one."
+  ],
+  "tip": "Mismatched genders take the masculine plural: Marco e Maria sono italiani."
+}

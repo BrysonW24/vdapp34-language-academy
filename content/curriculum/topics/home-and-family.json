@@ -1,0 +1,92 @@
+{
+  "slug": "home-and-family",
+  "title": "Home & Family",
+  "titleEs": "Hogar y Familia",
+  "shortSummary": "Describe your home, rooms, and furniture. Talk about your family members, relationships, and living situation.",
+  "level": "beginner",
+  "order": 8,
+  "icon": "🏠",
+  "color": "#7c3aed",
+  "culturalNote": "Family is the cornerstone of Hispanic culture. It's common for adult children to live with their parents until marriage, and multigenerational households are normal. Extended family gatherings every weekend are a tradition. The concept of 'familia' often extends beyond blood relatives to include close family friends, who might be called 'tío' or 'tía' as a sign of affection.",
+  "keyPhrases": [
+    { "spanish": "Vivo en un piso", "english": "I live in a flat", "pronunciation": "BEE-boh ehn oon PEE-soh", "context": "'Piso' in Spain, 'apartamento' or 'departamento' in Latin America" },
+    { "spanish": "Tengo dos hermanos", "english": "I have two siblings", "pronunciation": "TEHN-goh dohs ehr-MAH-nohs", "context": "'Hermanos' can mean brothers or siblings (mixed gender)" },
+    { "spanish": "Mi madre se llama Carmen", "english": "My mother's name is Carmen", "pronunciation": "mee MAH-dreh seh YAH-mah KAR-mehn", "context": "Using possessives to talk about family" },
+    { "spanish": "La cocina es grande", "english": "The kitchen is big", "pronunciation": "lah koh-SEE-nah ehs GRAHN-deh", "context": "Describing rooms in your home" },
+    { "spanish": "Mi habitación tiene una cama doble", "english": "My room has a double bed", "pronunciation": "mee ah-bee-tah-see-OHN tee-EH-neh OO-nah KAH-mah DOH-bleh", "context": "Describing what's in a room" },
+    { "spanish": "Estamos muy unidos", "english": "We're very close (as a family)", "pronunciation": "ehs-TAH-mohs moo-ee oo-NEE-dohs", "context": "Describing family bonds" },
+    { "spanish": "Mi hermana mayor vive en Madrid", "english": "My older sister lives in Madrid", "pronunciation": "mee ehr-MAH-nah mah-YOHR BEE-beh ehn mah-DREED", "context": "Mayor = older, menor = younger for siblings" },
+    { "spanish": "Compartimos un piso", "english": "We share a flat", "pronunciation": "kohm-par-TEE-mohs oon PEE-soh", "context": "Common among young people in Spanish cities" },
+    { "spanish": "El salón tiene un sofá y una tele", "english": "The living room has a sofa and a TV", "pronunciation": "ehl sah-LOHN tee-EH-neh oon soh-FAH ee OO-nah TEH-leh", "context": "Listing items in a room" },
+    { "spanish": "Mis abuelos viven cerca", "english": "My grandparents live nearby", "pronunciation": "mees ah-BWEH-lohs BEE-behn SEHR-kah", "context": "Extended family is often geographically close" }
+  ],
+  "grammar": [
+    {
+      "rule": "Possessive adjectives: mi, tu, su, nuestro",
+      "explanation": "Possessive adjectives go before the noun and agree in number (not gender, except nuestro/vuestro): mi/mis, tu/tus, su/sus, nuestro(a)/nuestros(as), vuestro(a)/vuestros(as), su/sus.",
+      "examples": [
+        { "es": "Mi casa es pequeña", "en": "My house is small" },
+        { "es": "Mis padres son de México", "en": "My parents are from Mexico" },
+        { "es": "Nuestra familia es grande", "en": "Our family is big" }
+      ],
+      "commonMistake": "Forgetting plural: 'mi padres' should be 'mis padres' — the possessive must match the noun's number."
+    },
+    {
+      "rule": "Tener for describing what you have/own",
+      "explanation": "'Tener' (to have) is used to describe possessions, family members, and room contents. It's irregular: tengo, tienes, tiene, tenemos, tenéis, tienen.",
+      "examples": [
+        { "es": "Tengo tres hermanos", "en": "I have three siblings" },
+        { "es": "La casa tiene un jardín", "en": "The house has a garden" },
+        { "es": "¿Tienes hijos?", "en": "Do you have children?" }
+      ],
+      "commonMistake": "Confusing 'tiene' (he/she/it has) with 'tienes' (you have) — the 's' matters."
+    }
+  ],
+  "dialogue": {
+    "setup": "Rosa shows her new flatmate Pablo around their shared apartment.",
+    "lines": [
+      { "speaker": "Rosa", "spanish": "Bienvenido, Pablo. Te enseño el piso.", "english": "Welcome, Pablo. Let me show you the flat." },
+      { "speaker": "Pablo", "spanish": "Gracias, Rosa. ¡Es muy bonito!", "english": "Thanks, Rosa. It's very nice!" },
+      { "speaker": "Rosa", "spanish": "Esta es la cocina. Es pequeña pero tiene todo.", "english": "This is the kitchen. It's small but has everything." },
+      { "speaker": "Pablo", "spanish": "Perfecto. ¿Y el baño?", "english": "Perfect. And the bathroom?" },
+      { "speaker": "Rosa", "spanish": "El baño está al fondo del pasillo. Lo compartimos.", "english": "The bathroom is at the end of the hall. We share it." },
+      { "speaker": "Pablo", "spanish": "¿Vives sola o tienes familia aquí?", "english": "Do you live alone or do you have family here?" },
+      { "speaker": "Rosa", "spanish": "Mis padres viven en Sevilla. Mi hermana vive cerca, a dos calles.", "english": "My parents live in Seville. My sister lives nearby, two streets away." },
+      { "speaker": "Pablo", "spanish": "Mi familia está lejos, en Buenos Aires. Los echo de menos.", "english": "My family is far away, in Buenos Aires. I miss them." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'I have two brothers' in Spanish?",
+      "correctAnswer": "Tengo dos hermanos",
+      "explanation": "'Tengo' = I have. 'Hermanos' = brothers/siblings."
+    },
+    {
+      "type": "fill-blank",
+      "question": "_____ padres viven en Colombia. (My parents live in Colombia)",
+      "correctAnswer": "Mis",
+      "explanation": "'Padres' is plural, so use 'mis' (not 'mi')."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which is correct for 'Our house is big'?",
+      "options": ["Nuestro casa es grande", "Nuestra casa es grande", "Nuestros casa es grande", "Mi casa es grande"],
+      "correctAnswer": "Nuestra casa es grande",
+      "explanation": "'Casa' is feminine, so use 'nuestra' (not 'nuestro')."
+    },
+    {
+      "type": "translate",
+      "question": "How do you say 'The kitchen is small'?",
+      "correctAnswer": "La cocina es pequeña",
+      "explanation": "'Cocina' is feminine, so the adjective is 'pequeña' (not 'pequeño')."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: hermana / mi / mayor / es / María",
+      "correctAnswer": "Mi hermana mayor es María",
+      "explanation": "Possessive + noun + adjective (mayor) + verb + name."
+    }
+  ],
+  "status": "complete"
+}

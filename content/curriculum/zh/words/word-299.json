@@ -1,13 +1,13 @@
 {
   "rank": 299,
-  "chinese": "水果",
-  "characters": "水果",
-  "pinyin": "shuǐguǒ",
-  "english": "fruit",
-  "pronunciation": "shway-gwor (3rd tone, 3rd tone)",
-  "partOfSpeech": "noun",
-  "exampleZh": "我喜欢吃水果。",
-  "exampleEn": "I like eating fruit.",
+  "chinese": "笑",
+  "characters": "笑",
+  "pinyin": "xiào",
+  "english": "to laugh",
+  "pronunciation": "xiao",
+  "partOfSpeech": "verb",
+  "exampleZh": "我想笑。",
+  "exampleEn": "I want to laugh.",
   "group": "everyday-250",
-  "topic": "food-and-drink"
+  "topic": "actions"
 }

@@ -1,0 +1,90 @@
+{
+  "slug": "weather-and-seasons",
+  "title": "Weather & Seasons",
+  "titleDe": "Wetter und Jahreszeiten",
+  "shortSummary": "Talk about the weather and the four seasons, a favourite topic of German small talk.",
+  "level": "elementary",
+  "order": 9,
+  "icon": "🌦️",
+  "color": "#2f4f79",
+  "culturalNote": "Weather is the safest small-talk topic in Germany and a reliable way to start a friendly chat. Germans love the outdoors in every season: spring walks, summer lakes and beer gardens, golden autumn forests, and cosy winters. The saying goes that there is no bad weather, only the wrong clothing ('Es gibt kein schlechtes Wetter, nur falsche Kleidung').",
+  "keyPhrases": [
+    { "german": "Wie ist das Wetter?", "english": "What's the weather like?", "pronunciation": "vee ist dahs VET-ter", "context": "The core question" },
+    { "german": "Es ist sonnig", "english": "It's sunny", "pronunciation": "es ist ZON-nikh", "context": "Good weather" },
+    { "german": "Es regnet", "english": "It's raining", "pronunciation": "es RAYG-net", "context": "A full verb, not 'es ist regnet'" },
+    { "german": "Es schneit", "english": "It's snowing", "pronunciation": "es shnite", "context": "Winter weather" },
+    { "german": "Es ist kalt / warm", "english": "It's cold / warm", "pronunciation": "es ist kahlt / varm", "context": "Temperature" },
+    { "german": "der Frühling", "english": "spring", "pronunciation": "dair FROO-ling", "context": "Season" },
+    { "german": "der Sommer", "english": "summer", "pronunciation": "dair ZOM-mer", "context": "Season" },
+    { "german": "der Herbst", "english": "autumn", "pronunciation": "dair hairpst", "context": "Season" },
+    { "german": "der Winter", "english": "winter", "pronunciation": "dair VIN-ter", "context": "Season" },
+    { "german": "Wie viel Grad sind es?", "english": "How many degrees is it?", "pronunciation": "vee feel graht zint es", "context": "Asking the temperature" }
+  ],
+  "grammar": [
+    {
+      "rule": "Weather verbs with 'es'",
+      "explanation": "Many weather expressions are complete verbs that always use the dummy subject 'es' (it): es regnet (it rains), es schneit (it snows), es donnert (it thunders). There is no separate 'is'.",
+      "examples": [
+        { "de": "Es regnet heute.", "en": "It is raining today." },
+        { "de": "Im Winter schneit es oft.", "en": "In winter it often snows." }
+      ],
+      "commonMistake": "Adding 'ist': it is 'Es regnet', not 'Es ist regnet'."
+    },
+    {
+      "rule": "im for months and seasons",
+      "explanation": "Use 'im' (in + dem) with seasons and months: im Sommer, im Winter, im Januar. Use 'im Frühling' for spring.",
+      "examples": [
+        { "de": "Im Sommer ist es warm.", "en": "In summer it is warm." },
+        { "de": "Im Dezember schneit es manchmal.", "en": "In December it sometimes snows." }
+      ],
+      "commonMistake": "Saying 'in Sommer'. Seasons take 'im' (in dem)."
+    }
+  ],
+  "dialogue": {
+    "setup": "Klara and Ben plan their weekend and check the weather forecast.",
+    "lines": [
+      { "speaker": "Klara", "german": "Wie ist das Wetter am Wochenende?", "english": "What's the weather like at the weekend?" },
+      { "speaker": "Ben", "german": "Am Samstag ist es sonnig und warm.", "english": "On Saturday it is sunny and warm." },
+      { "speaker": "Klara", "german": "Schön! Und am Sonntag?", "english": "Nice! And on Sunday?" },
+      { "speaker": "Ben", "german": "Am Sonntag regnet es leider.", "english": "On Sunday it rains, unfortunately." },
+      { "speaker": "Klara", "german": "Dann gehen wir am Samstag an den See.", "english": "Then we'll go to the lake on Saturday." },
+      { "speaker": "Ben", "german": "Gute Idee. Wie viel Grad sind es?", "english": "Good idea. How many degrees is it?" },
+      { "speaker": "Klara", "german": "Fünfundzwanzig Grad. Perfektes Badewetter!", "english": "Twenty-five degrees. Perfect swimming weather!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'It's raining'?",
+      "correctAnswer": "Es regnet",
+      "explanation": "regnen is a full verb; no 'ist' is needed."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which season is 'der Herbst'?",
+      "options": ["spring", "summer", "autumn", "winter"],
+      "correctAnswer": "autumn",
+      "explanation": "der Herbst means autumn (fall)."
+    },
+    {
+      "type": "fill-blank",
+      "question": "_____ Sommer ist es warm. (in summer)",
+      "correctAnswer": "Im",
+      "explanation": "Seasons take 'im' (in dem)."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which sentence is correct?",
+      "options": ["Es ist schneit", "Es schneit", "Es schneits", "Es ist schnee"],
+      "correctAnswer": "Es schneit",
+      "explanation": "schneien is a full verb: 'es schneit'."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: das / wie / Wetter / ist",
+      "correctAnswer": "Wie ist das Wetter",
+      "explanation": "Question word wie, verb ist second, then the subject."
+    }
+  ],
+  "status": "complete"
+}

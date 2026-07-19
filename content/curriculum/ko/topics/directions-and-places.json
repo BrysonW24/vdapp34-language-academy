@@ -1,0 +1,90 @@
+{
+  "slug": "directions-and-places",
+  "title": "Directions & Places",
+  "titleNative": "길과 장소",
+  "shortSummary": "Ask for directions, understand left and right, and find places around town in Korean.",
+  "level": "beginner",
+  "order": 5,
+  "icon": "🗺️",
+  "color": "#0c8599",
+  "culturalNote": "Korean cities are dense and well signposted, but addresses follow a road-and-building system that can confuse visitors, so asking a person for directions is common and welcomed. To stop a stranger politely you say 실례합니다 (sillyehamnida, excuse me) before your question. Koreans often help generously, sometimes walking you part of the way, and a polite 감사합니다 (gamsahamnida) in return is expected. Landmarks matter more than street names in everyday speech, so directions are usually given relative to a subway exit, a convenience store, or a well-known cafe. Subway stations have numbered exits (출구, chulgu), and Koreans frequently arrange to meet at a specific exit number. When someone helps you, a slight bow of the head along with your thanks shows the respect that Korean social interaction values.",
+  "keyPhrases": [
+    { "native": "실례합니다", "english": "Excuse me", "transliteration": "sillyehamnida", "pronunciation": "sil-lye-ham-ni-da", "context": "Before asking a stranger" },
+    { "native": "화장실이 어디예요?", "english": "Where is the toilet?", "transliteration": "hwajangsiri eodiyeyo?", "pronunciation": "hwa-jang-si-ri o-di-ye-yo", "context": "Asking for the toilet" },
+    { "native": "지하철역이 어디예요?", "english": "Where is the subway station?", "transliteration": "jihacheoryeogi eodiyeyo?", "pronunciation": "ji-ha-cho-ryo-gi o-di-ye-yo", "context": "Finding the subway" },
+    { "native": "왼쪽으로 가세요", "english": "Go to the left", "transliteration": "oenjjogeuro gaseyo", "pronunciation": "wen-jjo-geu-ro ga-se-yo", "context": "Giving a left turn" },
+    { "native": "오른쪽으로 가세요", "english": "Go to the right", "transliteration": "oreunjjogeuro gaseyo", "pronunciation": "o-reun-jjo-geu-ro ga-se-yo", "context": "Giving a right turn" },
+    { "native": "쭉 가세요", "english": "Go straight ahead", "transliteration": "jjuk gaseyo", "pronunciation": "jjuk ga-se-yo", "context": "Telling someone to continue forward" },
+    { "native": "여기에서 가까워요?", "english": "Is it near here?", "transliteration": "yeogieseo gakkawoyo?", "pronunciation": "yo-gi-e-so ga-kka-wo-yo", "context": "Asking about distance" },
+    { "native": "걸어서 가요", "english": "Go on foot", "transliteration": "georeoseo gayo", "pronunciation": "go-ro-so ga-yo", "context": "Walking there" },
+    { "native": "몇 번 출구예요?", "english": "Which exit number is it?", "transliteration": "myeot beon chulguyeyo?", "pronunciation": "myot bon chul-gu-ye-yo", "context": "Subway exits in Korea" },
+    { "native": "편의점 옆에 있어요", "english": "It's next to the convenience store", "transliteration": "pyeonuijeom yeope isseoyo", "pronunciation": "pyo-nui-jom yo-pe i-sso-yo", "context": "Giving a landmark" }
+  ],
+  "grammar": [
+    {
+      "rule": "Asking 'where' with 어디",
+      "explanation": "어디 (eodi) means 'where'. To ask where something is, use the pattern 'noun + 이/가 + 어디예요?'. 화장실 (hwajangsil, toilet) becomes 화장실이 어디예요?, literally 'where is the toilet?'.",
+      "examples": [
+        { "native": "역이 어디예요? (yeogi eodiyeyo?)", "en": "Where is the station?" },
+        { "native": "은행이 어디예요? (eunhaengi eodiyeyo?)", "en": "Where is the bank?" }
+      ],
+      "commonMistake": "Forgetting the subject particle 이/가 before 어디예요; 화장실 needs 이, giving 화장실이."
+    },
+    {
+      "rule": "The direction particle 으로 / 로",
+      "explanation": "To mark the direction of movement, attach 으로 after a consonant and 로 after a vowel. 왼쪽 (oenjjok, left) becomes 왼쪽으로 (oenjjogeuro, to the left), used with 가세요 (go).",
+      "examples": [
+        { "native": "오른쪽으로 가세요. (oreunjjogeuro gaseyo.)", "en": "Go to the right." },
+        { "native": "이쪽으로 오세요. (ijjogeuro oseyo.)", "en": "Come this way." }
+      ],
+      "commonMistake": "Using 로 after a consonant; 왼쪽 ends in a consonant, so it takes 으로."
+    }
+  ],
+  "dialogue": {
+    "setup": "A lost tourist, Emma, asks a local for the subway station.",
+    "lines": [
+      { "speaker": "엠마", "native": "실례합니다, 지하철역이 어디예요?", "transliteration": "sillyehamnida, jihacheoryeogi eodiyeyo?", "english": "Excuse me, where is the subway station?" },
+      { "speaker": "행인", "native": "여기에서 쭉 가세요.", "transliteration": "yeogieseo jjuk gaseyo.", "english": "Go straight ahead from here." },
+      { "speaker": "엠마", "native": "여기에서 가까워요?", "transliteration": "yeogieseo gakkawoyo?", "english": "Is it near here?" },
+      { "speaker": "행인", "native": "네, 가까워요. 편의점 옆에 있어요.", "transliteration": "ne, gakkawoyo. pyeonuijeom yeope isseoyo.", "english": "Yes, it's near. It's next to the convenience store." },
+      { "speaker": "엠마", "native": "그 다음에는요?", "transliteration": "geu daeumeneunyo?", "english": "And after that?" },
+      { "speaker": "행인", "native": "거기에서 왼쪽으로 가세요.", "transliteration": "geogieseo oenjjogeuro gaseyo.", "english": "From there, go to the left." },
+      { "speaker": "엠마", "native": "정말 감사합니다!", "transliteration": "jeongmal gamsahamnida!", "english": "Thank you very much!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'Go straight ahead' in Korean?",
+      "correctAnswer": "쭉 가세요",
+      "explanation": "쭉 가세요 (jjuk gaseyo) tells someone to keep going forward."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which phrase means 'Go to the right'?",
+      "options": ["왼쪽으로 가세요", "오른쪽으로 가세요", "쭉 가세요", "걸어서 가요"],
+      "correctAnswer": "오른쪽으로 가세요",
+      "explanation": "오른쪽 (oreunjjok) is right; 왼쪽 (oenjjok) is left."
+    },
+    {
+      "type": "fill-blank",
+      "question": "화장실___ 어디예요? (subject particle after a consonant)",
+      "correctAnswer": "이",
+      "explanation": "화장실 ends in a consonant, so the subject particle is 이, giving 화장실이."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does 몇 번 출구예요? ask about in Korea?",
+      "options": ["The price", "The time", "The exit number", "The day"],
+      "correctAnswer": "The exit number",
+      "explanation": "출구 (chulgu) means exit; Korean subway stations have numbered exits."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: 가세요 / 왼쪽으로 (go to the left)",
+      "correctAnswer": "왼쪽으로 가세요",
+      "explanation": "Direction then verb: 왼쪽으로 가세요."
+    }
+  ],
+  "status": "complete"
+}

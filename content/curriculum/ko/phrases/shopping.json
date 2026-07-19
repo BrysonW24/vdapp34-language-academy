@@ -1,0 +1,21 @@
+{
+  "slug": "shopping",
+  "title": "Shopping",
+  "description": "Ask prices, sizes, and discounts, and pay like a local in Korean shops and markets.",
+  "situation": "Shops and markets: browsing, asking for sizes and colours, prices, and paying.",
+  "order": 4,
+  "phrases": [
+    { "native": "그냥 구경할게요", "transliteration": "geunyang gugyeonghalgeyo", "english": "I'm just looking, thanks", "pronunciation": "geu-nyahng goo-gyong-hahl-geh-yo", "formality": "neutral", "tip": "Polite way to wave off help without committing to buy." },
+    { "native": "이거 얼마예요?", "transliteration": "igeo eolmayeyo?", "english": "How much is this?", "pronunciation": "ee-go ol-mah-yeh-yo", "formality": "neutral" },
+    { "native": "너무 비싸요", "transliteration": "neomu bissayo", "english": "It's too expensive", "pronunciation": "no-moo bee-ssah-yo", "formality": "neutral", "tip": "At traditional markets this can open gentle haggling; not in fixed-price stores." },
+    { "native": "좀 깎아 주세요", "transliteration": "jom kkakka juseyo", "english": "Please give me a discount", "pronunciation": "jom kkah-kkah joo-seh-yo", "formality": "neutral", "tip": "Only at markets like Namdaemun, never at department stores." },
+    { "native": "다른 색 있어요?", "transliteration": "dareun saek isseoyo?", "english": "Do you have another colour?", "pronunciation": "dah-reun sek ee-sso-yo", "formality": "neutral" },
+    { "native": "더 큰 거 있어요?", "transliteration": "deo keun geo isseoyo?", "english": "Do you have a bigger one?", "pronunciation": "do keun go ee-sso-yo", "formality": "neutral", "tip": "Swap 큰 (big) for 작은 (jageun, small) when you need smaller." },
+    { "native": "입어 봐도 돼요?", "transliteration": "ibeo bwado dwaeyo?", "english": "Can I try it on?", "pronunciation": "ee-bo bwah-doh dweh-yo", "formality": "neutral" },
+    { "native": "이거 살게요", "transliteration": "igeo salgeyo", "english": "I'll take this one", "pronunciation": "ee-go sahl-geh-yo", "formality": "neutral" },
+    { "native": "포장해 주세요", "transliteration": "pojanghae juseyo", "english": "Please wrap it / bag it", "pronunciation": "poh-jahng-heh joo-seh-yo", "formality": "neutral", "tip": "Plastic bags often cost extra; carry your own where you can." },
+    { "native": "현금만 돼요?", "transliteration": "hyeongeumman dwaeyo?", "english": "Is it cash only?", "pronunciation": "hyon-geum-mahn dweh-yo", "formality": "neutral", "tip": "Small market stalls may be cash only; most shops take cards." },
+    { "native": "영수증 주세요", "transliteration": "yeongsujeung juseyo", "english": "A receipt, please", "pronunciation": "yong-soo-jeung joo-seh-yo", "formality": "neutral" },
+    { "native": "환불 돼요?", "transliteration": "hwanbul dwaeyo?", "english": "Can I get a refund?", "pronunciation": "hwahn-bool dweh-yo", "formality": "neutral", "tip": "Keep the receipt; refund rules vary by shop." }
+  ]
+}

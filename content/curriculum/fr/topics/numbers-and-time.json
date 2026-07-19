@@ -1,0 +1,90 @@
+{
+  "slug": "numbers-and-time",
+  "title": "Numbers & Time",
+  "titleNative": "Les nombres et l'heure",
+  "shortSummary": "Count, tell the time, and handle dates and prices, the numbers you use every day.",
+  "level": "beginner",
+  "order": 2,
+  "icon": "🕐",
+  "color": "#1f8a5b",
+  "culturalNote": "French counting has famous quirks above sixty: 70 is soixante-dix (sixty-ten), 80 is quatre-vingts (four-twenties), and 90 is quatre-vingt-dix (four-twenty-ten). The 24-hour clock is standard for schedules and appointments, so 8pm is vingt heures. France also uses a comma for decimals and a space for thousands, and prices are in euros.",
+  "keyPhrases": [
+    { "native": "un, deux, trois", "english": "one, two, three", "pronunciation": "un, duh, trwah", "context": "The first numbers" },
+    { "native": "dix", "english": "ten", "pronunciation": "deess", "context": "A key milestone" },
+    { "native": "soixante-dix", "english": "seventy", "pronunciation": "swah-sont-DEESS", "context": "Literally 'sixty-ten'" },
+    { "native": "quatre-vingts", "english": "eighty", "pronunciation": "kat-ruh-VAN", "context": "Literally 'four-twenties'" },
+    { "native": "cent", "english": "hundred", "pronunciation": "son", "context": "For prices and counting" },
+    { "native": "Quelle heure est-il ?", "english": "What time is it?", "pronunciation": "kel UHR eh-TEEL", "context": "Asking the time" },
+    { "native": "Il est trois heures", "english": "It's three o'clock", "pronunciation": "eel eh trwah ZUHR", "context": "Telling the hour" },
+    { "native": "trois heures et demie", "english": "half past three", "pronunciation": "trwah ZUHR ay duh-MEE", "context": "Half past" },
+    { "native": "À quelle heure ?", "english": "At what time?", "pronunciation": "ah kel UHR", "context": "Asking when" },
+    { "native": "Combien ça coûte ?", "english": "How much does it cost?", "pronunciation": "kom-bee-AN sah KOOT", "context": "Asking a price" }
+  ],
+  "grammar": [
+    {
+      "rule": "Counting from 70 to 99",
+      "explanation": "Above 69, French builds on twenties: 70 is soixante-dix (60+10), 80 is quatre-vingts (4x20), 90 is quatre-vingt-dix (4x20+10). So 75 is soixante-quinze and 95 is quatre-vingt-quinze.",
+      "examples": [
+        { "native": "soixante-douze", "en": "seventy-two (sixty-twelve)" },
+        { "native": "quatre-vingt-cinq", "en": "eighty-five (four-twenty-five)" }
+      ],
+      "commonMistake": "Inventing septante or huitante. Standard French uses soixante-dix and quatre-vingts (though Belgium and Switzerland differ)."
+    },
+    {
+      "rule": "Telling the time with heures",
+      "explanation": "Use Il est plus the number plus heures: Il est deux heures (it's two o'clock). Add et demie for half past, et quart for quarter past, moins le quart for quarter to.",
+      "examples": [
+        { "native": "Il est sept heures et quart.", "en": "It's quarter past seven." },
+        { "native": "Il est midi.", "en": "It's noon." }
+      ],
+      "commonMistake": "Dropping heures: it is deux heures, not just deux for a clock time."
+    }
+  ],
+  "dialogue": {
+    "setup": "Léa calls the cinema to ask about a film and ticket prices.",
+    "lines": [
+      { "speaker": "Léa", "native": "Bonjour, à quelle heure commence le film ?", "english": "Hello, what time does the film start?" },
+      { "speaker": "Caissier", "native": "Il commence à vingt heures trente.", "english": "It starts at 8:30pm." },
+      { "speaker": "Léa", "native": "Combien coûte une place ?", "english": "How much is a ticket?" },
+      { "speaker": "Caissier", "native": "Douze euros la place.", "english": "Twelve euros each." },
+      { "speaker": "Léa", "native": "Je voudrais deux places, s'il vous plaît.", "english": "I would like two tickets, please." },
+      { "speaker": "Caissier", "native": "Ça fait vingt-quatre euros.", "english": "That's twenty-four euros." },
+      { "speaker": "Léa", "native": "Merci beaucoup. Bonne soirée !", "english": "Thank you very much. Have a good evening!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'eighty' in French?",
+      "correctAnswer": "quatre-vingts",
+      "explanation": "Literally 'four-twenties': quatre-vingts."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is 'soixante-dix'?",
+      "options": ["sixty", "seventy", "eighty", "ninety"],
+      "correctAnswer": "seventy",
+      "explanation": "soixante-dix is 'sixty-ten', which is 70."
+    },
+    {
+      "type": "fill-blank",
+      "question": "Quelle _____ est-il ? (asking the time)",
+      "correctAnswer": "heure",
+      "explanation": "Quelle heure est-il? means 'what time is it?'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which phrase asks the price?",
+      "options": ["Quelle heure est-il ?", "À quelle heure ?", "Combien ça coûte ?", "Comment ça va ?"],
+      "correctAnswer": "Combien ça coûte ?",
+      "explanation": "Combien ça coûte? means 'how much does it cost?'."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: heures / trois / il / est",
+      "correctAnswer": "Il est trois heures",
+      "explanation": "Il est (it is) plus the hour: trois heures."
+    }
+  ],
+  "status": "complete"
+}

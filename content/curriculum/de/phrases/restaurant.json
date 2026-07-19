@@ -1,0 +1,21 @@
+{
+  "slug": "restaurant",
+  "title": "At the Restaurant",
+  "description": "Order food and drinks, ask for the bill, and handle a meal out in German.",
+  "situation": "Cafes and restaurants: getting a table, ordering, asking questions about the menu, and paying.",
+  "order": 3,
+  "phrases": [
+    { "german": "Einen Tisch für zwei, bitte", "english": "A table for two, please", "pronunciation": "EYE-nen tish foor tsvy BIT-tuh", "formality": "neutral" },
+    { "german": "Die Speisekarte, bitte", "english": "The menu, please", "pronunciation": "dee SHPY-zuh-kar-tuh BIT-tuh", "formality": "neutral" },
+    { "german": "Ich hätte gern...", "english": "I would like...", "pronunciation": "ikh HET-tuh gairn", "formality": "formal", "tip": "The most polite way to order. Literally 'I would gladly have'." },
+    { "german": "Was empfehlen Sie?", "english": "What do you recommend?", "pronunciation": "vahs emp-FAY-len zee", "formality": "formal" },
+    { "german": "Ein Bier, bitte", "english": "A beer, please", "pronunciation": "ine beer BIT-tuh", "formality": "neutral" },
+    { "german": "Ein Glas Wasser, bitte", "english": "A glass of water, please", "pronunciation": "ine glahs VAH-ser BIT-tuh", "formality": "neutral", "tip": "Tap water is 'Leitungswasser'; restaurants usually serve bottled." },
+    { "german": "Ich bin Vegetarier", "english": "I'm a vegetarian", "pronunciation": "ikh bin veh-geh-TAH-ree-er", "formality": "neutral", "tip": "Women say 'Vegetarierin'." },
+    { "german": "Zum Wohl!", "english": "Cheers!", "pronunciation": "tsoom vohl", "formality": "neutral", "tip": "Also 'Prost!' Make eye contact when you clink glasses." },
+    { "german": "Das schmeckt gut", "english": "This tastes good", "pronunciation": "dahs shmekt goot", "formality": "neutral" },
+    { "german": "Die Rechnung, bitte", "english": "The bill, please", "pronunciation": "dee REKH-noong BIT-tuh", "formality": "neutral" },
+    { "german": "Stimmt so", "english": "Keep the change", "pronunciation": "shtimt zoh", "formality": "neutral", "tip": "Tipping is usually 5 to 10 percent, rounded up." },
+    { "german": "Getrennt oder zusammen?", "english": "Separately or together?", "pronunciation": "guh-TRENT OH-der tsoo-ZAH-men", "formality": "neutral", "tip": "The waiter often asks this; splitting the bill is normal in Germany." }
+  ]
+}

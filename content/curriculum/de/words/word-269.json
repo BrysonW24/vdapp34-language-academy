@@ -1,13 +1,11 @@
 {
   "rank": 269,
-  "german": "Jahr",
-  "english": "year",
-  "pronunciation": "YAHR",
-  "partOfSpeech": "noun",
-  "gender": "neuter",
-  "article": "das",
-  "exampleDe": "Dieses Jahr reisen wir nach Italien.",
-  "exampleEn": "This year we are travelling to Italy.",
+  "german": "entwicklung",
+  "english": "development",
+  "pronunciation": "ɛ n t v ɪ k l ʊ ŋ",
+  "partOfSpeech": "adjective",
+  "exampleDe": "Dieser Ort ist sehr entwicklungsgeschichtlich.",
+  "exampleEn": "This place is very development.",
   "group": "everyday-250",
-  "topic": "time"
+  "topic": "descriptions"
 }

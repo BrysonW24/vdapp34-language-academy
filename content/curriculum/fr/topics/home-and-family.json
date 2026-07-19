@@ -1,0 +1,90 @@
+{
+  "slug": "home-and-family",
+  "title": "Home & Family",
+  "titleNative": "La maison et la famille",
+  "shortSummary": "Talk about your family members and describe where you live.",
+  "level": "elementary",
+  "order": 8,
+  "icon": "🏠",
+  "color": "#9b3b8f",
+  "culturalNote": "Family meals, especially the long Sunday lunch, are a cherished French tradition where several generations gather. Family ties are warm but young adults often move out for study or work. In cities many people rent apartments, and the cosy, welcoming feel of a home is valued. Possessive adjectives and family vocabulary come up constantly in everyday chat.",
+  "keyPhrases": [
+    { "native": "ma famille", "english": "my family", "pronunciation": "mah fah-MEE", "context": "The core noun" },
+    { "native": "mon père / ma mère", "english": "my father / my mother", "pronunciation": "mon PEHR / mah MEHR", "context": "Parents" },
+    { "native": "mon frère / ma sœur", "english": "my brother / my sister", "pronunciation": "mon FREHR / mah SUHR", "context": "Siblings" },
+    { "native": "As-tu des frères et sœurs ?", "english": "Do you have siblings?", "pronunciation": "ah tew day FREHR ay SUHR", "context": "Common question" },
+    { "native": "J'ai deux enfants", "english": "I have two children", "pronunciation": "zhay duh zon-FON", "context": "Talking about kids" },
+    { "native": "J'habite dans un appartement", "english": "I live in a flat", "pronunciation": "zhah-BEET don zun ah-par-tuh-MON", "context": "Describing your home" },
+    { "native": "le salon", "english": "the living room", "pronunciation": "luh sah-LON", "context": "A room" },
+    { "native": "la cuisine", "english": "the kitchen", "pronunciation": "lah kwee-ZEEN", "context": "A room" },
+    { "native": "Nous habitons ensemble", "english": "We live together", "pronunciation": "noo zah-bee-TON on-SON-bluh", "context": "Living arrangements" },
+    { "native": "J'ai un chien", "english": "I have a dog", "pronunciation": "zhay un shee-AN", "context": "Pets" }
+  ],
+  "grammar": [
+    {
+      "rule": "avoir for family and possession",
+      "explanation": "Use avoir to say what family or things you have: J'ai un frère (I have a brother). The article stays: un, une, des.",
+      "examples": [
+        { "native": "J'ai une sœur.", "en": "I have a sister." },
+        { "native": "Ils ont trois enfants.", "en": "They have three children." }
+      ],
+      "commonMistake": "Using être for possession: it is J'ai un frère, not Je suis un frère."
+    },
+    {
+      "rule": "Possessives match the family member",
+      "explanation": "Possessives agree with the gender of the family member: mon père (m), ma mère (f), mes parents (plural). Before a feminine noun starting with a vowel, use mon: mon amie.",
+      "examples": [
+        { "native": "C'est ma mère.", "en": "This is my mother." },
+        { "native": "Où sont tes parents ?", "en": "Where are your parents?" }
+      ],
+      "commonMistake": "Matching the possessive to yourself instead of the family member's gender."
+    }
+  ],
+  "dialogue": {
+    "setup": "Paul shows his friend Léa a family photo on his phone.",
+    "lines": [
+      { "speaker": "Léa", "native": "C'est ta famille ?", "english": "Is that your family?" },
+      { "speaker": "Paul", "native": "Oui. Ce sont mes parents et ma sœur.", "english": "Yes. These are my parents and my sister." },
+      { "speaker": "Léa", "native": "As-tu un frère aussi ?", "english": "Do you have a brother too?" },
+      { "speaker": "Paul", "native": "Non, juste une sœur. Mais nous avons un chien.", "english": "No, just a sister. But we have a dog." },
+      { "speaker": "Léa", "native": "Mignon ! Ta sœur habite encore chez vous ?", "english": "Cute! Does your sister still live at home?" },
+      { "speaker": "Paul", "native": "Non, elle habite dans un appartement à Lyon.", "english": "No, she lives in a flat in Lyon." },
+      { "speaker": "Léa", "native": "Super, son propre appartement !", "english": "Nice, her own flat!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'I have a brother'?",
+      "correctAnswer": "J'ai un frère",
+      "explanation": "avoir is used for possession: J'ai un frère."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which means 'my sister'?",
+      "options": ["mon sœur", "ma sœur", "mes sœur", "ma frère"],
+      "correctAnswer": "ma sœur",
+      "explanation": "sœur is feminine, so the possessive is ma."
+    },
+    {
+      "type": "fill-blank",
+      "question": "As-tu des frères et _____ ? (sisters)",
+      "correctAnswer": "sœurs",
+      "explanation": "sœurs is the plural of sœur (sister)."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which is the kitchen?",
+      "options": ["le salon", "la cuisine", "la chambre", "le jardin"],
+      "correctAnswer": "la cuisine",
+      "explanation": "la cuisine means the kitchen."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: famille / c'est / ma",
+      "correctAnswer": "C'est ma famille",
+      "explanation": "C'est (this is) plus the possessive phrase."
+    }
+  ],
+  "status": "complete"
+}

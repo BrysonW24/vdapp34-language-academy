@@ -1,0 +1,21 @@
+{
+  "slug": "emergencies",
+  "title": "Emergencies",
+  "description": "Phrases you hope never to need: asking for help, finding a doctor, and explaining a problem.",
+  "situation": "Urgent situations: calling for help, medical needs, lost items, and contacting the police.",
+  "order": 7,
+  "phrases": [
+    { "native": "मदद कीजिए!", "transliteration": "madad kijiye!", "english": "Help!", "pronunciation": "MUH-dud KEE-jee-yeh", "formality": "formal", "tip": "Say it loudly and clearly to get attention." },
+    { "native": "डॉक्टर को बुलाइए", "transliteration": "doctor ko bulaiye", "english": "Call a doctor", "pronunciation": "DOCK-tar koh boo-LAA-ee-yeh", "formality": "formal" },
+    { "native": "मुझे अस्पताल जाना है", "transliteration": "mujhe aspataal jaana hai", "english": "I need to go to the hospital", "pronunciation": "MOO-jheh us-puh-TAAL JAA-naa hai", "formality": "neutral", "tip": "Aspataal means hospital." },
+    { "native": "मैं बीमार हूँ", "transliteration": "main beemaar hoon", "english": "I am sick", "pronunciation": "main bee-MAAR hoon", "formality": "neutral" },
+    { "native": "मुझे दर्द हो रहा है", "transliteration": "mujhe dard ho raha hai", "english": "I am in pain", "pronunciation": "MOO-jheh durd hoh RUH-haa hai", "formality": "neutral", "tip": "Dard means pain. Point to where it hurts to be clear." },
+    { "native": "पुलिस को बुलाइए", "transliteration": "police ko bulaiye", "english": "Call the police", "pronunciation": "po-LEES koh boo-LAA-ee-yeh", "formality": "formal", "tip": "The all-India emergency number is 112." },
+    { "native": "मेरा सामान चोरी हो गया", "transliteration": "mera saamaan chori ho gaya", "english": "My belongings were stolen", "pronunciation": "MEH-raa SAA-maan CHOH-ree hoh GUH-yaa", "formality": "neutral" },
+    { "native": "मैं रास्ता भूल गया हूँ", "transliteration": "main raasta bhool gaya hoon", "english": "I am lost", "pronunciation": "main RAAS-taa bhool GUH-yaa hoon", "formality": "neutral", "tip": "A woman says bhool gayi hoon." },
+    { "native": "मुझे एलर्जी है", "transliteration": "mujhe allergy hai", "english": "I have an allergy", "pronunciation": "MOO-jheh allergy hai", "formality": "neutral" },
+    { "native": "नज़दीकी दवाई की दुकान कहाँ है?", "transliteration": "nazdeeki davaai ki dukaan kahaan hai?", "english": "Where is the nearest pharmacy?", "pronunciation": "nuz-DEE-kee duh-VAA-ee kee doo-KAAN kuh-HAAN hai", "formality": "neutral", "tip": "Davaai ki dukaan means medicine shop or pharmacy." },
+    { "native": "कृपया जल्दी कीजिए", "transliteration": "kripya jaldi kijiye", "english": "Please hurry", "pronunciation": "KRIP-yaa JUL-dee KEE-jee-yeh", "formality": "formal" },
+    { "native": "मुझे अपने दूतावास से संपर्क करना है", "transliteration": "mujhe apne dootaavaas se sampark karna hai", "english": "I need to contact my embassy", "pronunciation": "MOO-jheh UP-neh doo-taa-VAAS seh SUM-park KAR-naa hai", "formality": "neutral", "tip": "Dootaavaas means embassy." }
+  ]
+}

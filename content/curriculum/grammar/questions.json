@@ -1,0 +1,26 @@
+{
+  "slug": "questions",
+  "name": "Asking Questions",
+  "nameEs": "Las Preguntas",
+  "summary": "Form questions in Spanish using question words (qué, dónde, cuándo, cómo, por qué, cuánto, quién) and yes/no intonation.",
+  "level": "beginner",
+  "order": 6,
+  "explanation": "Spanish questions come in two types: yes/no questions and information questions. Yes/no questions are formed simply by changing your intonation — raise your voice at the end. The word order can stay the same as a statement, or you can invert the subject and verb: '¿Tú hablas español?' or '¿Hablas tú español?'\n\nInformation questions use question words (interrogatives), which always carry an accent mark: qué (what), dónde (where), cuándo (when), cómo (how), por qué (why), cuánto/a/os/as (how much/many), quién/quiénes (who), cuál/cuáles (which). The question word goes at the beginning of the sentence.\n\nSpanish uses inverted question marks (¿) at the beginning and regular question marks (?) at the end. This helps readers know a question is coming. In informal texting, many people skip the inverted mark, but it's required in formal writing.",
+  "pattern": "¿Question word + verb + (subject)? | ¿Verb + subject + complement?",
+  "examples": [
+    { "es": "¿Qué quieres?", "en": "What do you want?" },
+    { "es": "¿Dónde está el baño?", "en": "Where is the bathroom?" },
+    { "es": "¿Cuándo llega el tren?", "en": "When does the train arrive?" },
+    { "es": "¿Cómo te llamas?", "en": "What's your name? (How do you call yourself?)" },
+    { "es": "¿Por qué estudias español?", "en": "Why do you study Spanish?" },
+    { "es": "¿Cuántos años tienes?", "en": "How old are you? (How many years do you have?)" }
+  ],
+  "commonMistakes": [
+    "Forgetting accent marks on question words: 'que' (that) vs '¿qué?' (what?) — the accent changes the meaning",
+    "Confusing 'por qué' (why — two words) with 'porque' (because — one word)",
+    "Using 'do/does' like English: '¿Tú hablas español?' is correct — no auxiliary verb needed",
+    "Mixing up 'qué' (what) with 'cuál' (which): '¿Cuál es tu nombre?' is correct for 'What is your name?' (not '¿Qué es tu nombre?')",
+    "Forgetting the inverted question mark (¿) at the start"
+  ],
+  "tip": "Remember: 'por qué' (why) is two words with accents; 'porque' (because) is one word without an accent. This is one of the most common spelling mistakes even native speakers make."
+}

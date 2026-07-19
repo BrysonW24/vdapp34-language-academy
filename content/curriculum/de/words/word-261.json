@@ -1,11 +1,11 @@
 {
   "rank": 261,
-  "german": "morgen",
-  "english": "tomorrow",
-  "pronunciation": "MOR-gen",
-  "partOfSpeech": "adverb",
-  "exampleDe": "Morgen gehen wir ins Kino.",
-  "exampleEn": "Tomorrow we are going to the cinema.",
+  "german": "super",
+  "english": "super",
+  "pronunciation": "z u p ɐ",
+  "partOfSpeech": "adjective",
+  "exampleDe": "Dieser Ort ist sehr super.",
+  "exampleEn": "This place is very super.",
   "group": "everyday-250",
-  "topic": "time"
+  "topic": "descriptions"
 }

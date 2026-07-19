@@ -1,0 +1,21 @@
+{
+  "slug": "directions",
+  "title": "Asking Directions",
+  "description": "Find your way around an Italian town and understand the answers you get back.",
+  "situation": "Getting around on foot or by transport: asking where places are and following directions.",
+  "order": 5,
+  "phrases": [
+    { "native": "Dov'è la stazione?", "english": "Where is the station?", "pronunciation": "doh-VEH lah stah-tsee-OH-neh", "formality": "neutral" },
+    { "native": "Come arrivo al centro?", "english": "How do I get to the centre?", "pronunciation": "KOH-meh ah-REE-voh al CHEN-troh", "formality": "neutral" },
+    { "native": "È lontano?", "english": "Is it far?", "pronunciation": "eh lon-TAH-noh", "formality": "neutral" },
+    { "native": "È vicino", "english": "It's nearby", "pronunciation": "eh vee-CHEE-noh", "formality": "neutral" },
+    { "native": "Sempre dritto", "english": "Straight ahead", "pronunciation": "SEM-preh DREET-toh", "formality": "neutral" },
+    { "native": "Giri a destra", "english": "Turn right", "pronunciation": "JEE-ree ah DES-trah", "formality": "formal" },
+    { "native": "Giri a sinistra", "english": "Turn left", "pronunciation": "JEE-ree ah see-NEES-trah", "formality": "formal" },
+    { "native": "Mi sono perso", "english": "I'm lost", "pronunciation": "mee SOH-noh PER-soh", "formality": "neutral", "tip": "Women say 'persa'." },
+    { "native": "Può mostrarmi sulla mappa?", "english": "Can you show me on the map?", "pronunciation": "pwoh mos-TRAR-mee SOOL-lah MAP-pah", "formality": "formal" },
+    { "native": "Quanto ci vuole?", "english": "How long does it take?", "pronunciation": "KWAN-toh chee VWOH-leh", "formality": "neutral" },
+    { "native": "A che ora parte il treno?", "english": "What time does the train leave?", "pronunciation": "ah keh OH-rah PAR-teh eel TREH-noh", "formality": "neutral" },
+    { "native": "Un biglietto, per favore", "english": "One ticket, please", "pronunciation": "oon bee-LYET-toh", "formality": "neutral" }
+  ]
+}

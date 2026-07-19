@@ -1,11 +1,13 @@
 {
   "rank": 162,
-  "german": "lesen",
-  "english": "to read",
-  "pronunciation": "LAY-zen",
-  "partOfSpeech": "verb",
-  "exampleDe": "Sie liest ein interessantes Buch.",
-  "exampleEn": "She is reading an interesting book.",
+  "german": "leute",
+  "english": "people",
+  "pronunciation": "l ɔ ɪ t ə",
+  "partOfSpeech": "noun",
+  "exampleDe": "Viele Leute warten draußen.",
+  "exampleEn": "Many people are waiting outside.",
   "group": "everyday-250",
-  "topic": "education"
+  "topic": "people",
+  "article": "die",
+  "gender": "feminine"
 }

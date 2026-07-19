@@ -1,0 +1,26 @@
+{
+  "slug": "complements",
+  "name": "Complements with 得",
+  "nameZh": "程度补语",
+  "summary": "Describe how an action is done by adding 得 plus a description after the verb.",
+  "level": "pre-intermediate",
+  "order": 11,
+  "explanation": "To say how well or how an action is performed, Chinese adds a complement after the verb with 得 (de): 他说得很好 (tā shuō de hěn hǎo) = he speaks very well. The pattern is Verb + 得 + description.\n\nIf the verb has an object, you repeat the verb: 他说中文说得很好 (he speaks Chinese very well). The first 说 takes the object, the second 说 takes the 得 complement.\n\nNote that this 得 (de) is different from the structural particle 的 and the aspect 地. Here 得 links a verb to a comment on how it was done, very often with 很 plus an adjective.",
+  "pattern": "Verb + 得 + (很 +) adjective  |  Verb + Object + Verb + 得 + ...",
+  "examples": [
+    { "zh": "他跑得很快。", "en": "He runs very fast." },
+    { "zh": "你写得不错。", "en": "You write quite well." },
+    { "zh": "她唱歌唱得很好听。", "en": "She sings very nicely. (verb repeated)" },
+    { "zh": "我睡得不好。", "en": "I didn't sleep well." },
+    { "zh": "你说得太快了。", "en": "You speak too fast." },
+    { "zh": "他做得很认真。", "en": "He does it very carefully." }
+  ],
+  "commonMistakes": [
+    "Confusing 得 with 的 or 地. This complement uses 得 (de), placed right after the verb.",
+    "Forgetting to repeat the verb when there is an object: 说中文说得好, not 说中文得好.",
+    "Dropping 很 before the adjective, which can make it sound comparative or unfinished.",
+    "Putting the description before the verb. The complement always follows 得.",
+    "Negating the wrong part. Negate the complement, as in 跑得不快 (does not run fast)."
+  ],
+  "tip": "Pattern to memorise: Verb + 得 + how. If there is an object, say the verb twice so 得 still hugs the verb."
+}

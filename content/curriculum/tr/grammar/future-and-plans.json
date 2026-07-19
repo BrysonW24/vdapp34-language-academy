@@ -1,0 +1,34 @@
+{
+  "slug": "future-and-plans",
+  "name": "Future Tense and Plans (-ecek / -acak)",
+  "nameNative": "Gelecek zaman (-ecek / -acak)",
+  "summary": "Talk about what will happen and what you plan to do, using the future suffix -ecek or -acak.",
+  "level": "pre-intermediate",
+  "order": 12,
+  "explanation": "To speak about the future, Turkish adds the suffix -ecek or -acak to the verb stem. Gel- (come) becomes gelecek (he will come), and bak- (look) becomes bakacak (he will look). The choice between -ecek and -acak is two-way harmony: -ecek after a front vowel, -acak after a back vowel.\n\nWhen a personal ending that starts with a vowel follows, the final k softens to ğ: gelecek + im becomes geleceğim (I will come), and bakacak + ım becomes bakacağım (I will look). This softening is regular and happens every time a vowel ending attaches.\n\nIf the stem ends in a vowel, a buffer -y- appears before the suffix: bekle- becomes bekleyeceğim (I will wait), and oku- becomes okuyacağım (I will read). The full set of endings is -im, -sin, nothing, -iz, -siniz, -ler, giving geleceğim, geleceksin, gelecek, geleceğiz, geleceksiniz, gelecekler.",
+  "pattern": "stem (+ buffer y) + ecek/acak + personal ending (k softens to ğ before a vowel)",
+  "conjugation": {
+    "ben": "geleceğim",
+    "sen": "geleceksin",
+    "o": "gelecek",
+    "biz": "geleceğiz",
+    "siz": "geleceksiniz",
+    "onlar": "gelecekler"
+  },
+  "examples": [
+    { "native": "Yarın geleceğim.", "en": "I will come tomorrow." },
+    { "native": "Ne zaman başlayacaksın?", "en": "When will you start?" },
+    { "native": "Tatilde İstanbul'a gideceğiz.", "en": "We will go to Istanbul on holiday." },
+    { "native": "Akşam ne yapacaksınız?", "en": "What will you do in the evening?" },
+    { "native": "Onu bekleyeceğim.", "en": "I will wait for him." },
+    { "native": "Bu kitabı okuyacağım.", "en": "I will read this book." }
+  ],
+  "commonMistakes": [
+    "Keeping the hard k before a vowel ending, saying gelecekim instead of geleceğim.",
+    "Choosing the wrong harmony form, saying bakecek instead of bakacak.",
+    "Forgetting the buffer -y- after a vowel stem, saying bekleeceğim instead of bekleyeceğim.",
+    "Dropping the personal ending and leaving a bare gelecek when you mean 'I will come'.",
+    "Mixing the future with the -iyor present when describing a firm plan; a scheduled future event usually takes -ecek."
+  ],
+  "tip": "Learn geleceğim (I will come) and bakacağım (I will look) as twin models. The k becomes ğ whenever an ending with a vowel follows, every single time."
+}

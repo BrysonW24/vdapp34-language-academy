@@ -1,0 +1,25 @@
+{
+  "slug": "subjunctive-mood",
+  "title": "The Subjunctive Mood",
+  "shortSummary": "Enter the world of the subjunctive — the mood that expresses wishes, doubts, emotions, and hypotheticals. This is where intermediate learners become advanced speakers.",
+  "level": "intermediate",
+  "category": "strategy",
+  "whyItMatters": "The subjunctive is what separates intermediate speakers from advanced ones. It lets you express nuance — 'I hope that', 'I doubt that', 'It is important that'. Without it, your Spanish sounds flat and overly simple.",
+  "coreConcepts": [
+    "When to use the subjunctive vs indicative",
+    "Present subjunctive conjugation",
+    "WEIRDO triggers: Wishes, Emotions, Impersonal expressions, Recommendations, Doubt, Ojalá",
+    "Subjunctive with que clauses",
+    "Common subjunctive triggers: espero que, dudo que, es importante que",
+    "Subjunctive in relative clauses",
+    "Imperfect subjunctive for past hypotheticals",
+    "Si clauses: conditions and wishes"
+  ],
+  "lessons": [],
+  "frameworks": ["grammar-spiral", "error-correction"],
+  "visualType": "mood-diagram",
+  "relatedModules": ["present-tense", "conditional-tense", "opinions-debates"],
+  "status": "coming-soon",
+  "order": 10,
+  "levelNumber": 3
+}

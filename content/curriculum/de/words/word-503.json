@@ -1,13 +1,11 @@
 {
   "rank": 503,
-  "german": "Lampe",
-  "english": "lamp",
-  "pronunciation": "LAHM-peh",
-  "partOfSpeech": "noun",
-  "gender": "feminine",
-  "article": "die",
-  "exampleDe": "Die Lampe ist kaputt.",
-  "exampleEn": "The lamp is broken.",
+  "german": "konnten",
+  "english": "could",
+  "pronunciation": "k ɔ n t ə n",
+  "partOfSpeech": "verb",
+  "exampleDe": "Wir konnten später gehen.",
+  "exampleEn": "We could go later.",
   "group": "confident-350",
-  "topic": "home"
+  "topic": "actions"
 }

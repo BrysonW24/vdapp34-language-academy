@@ -1,11 +1,11 @@
 {
   "rank": 291,
-  "german": "glauben",
-  "english": "to believe, to think",
-  "pronunciation": "GLOW-ben",
+  "german": "könnten",
+  "english": "might",
+  "pronunciation": "k œ n t ə n",
   "partOfSpeech": "verb",
-  "exampleDe": "Ich glaube, er hat recht.",
-  "exampleEn": "I think he is right.",
+  "exampleDe": "Er könnten später kommen.",
+  "exampleEn": "He might come later.",
   "group": "everyday-250",
-  "topic": "communication"
+  "topic": "actions"
 }

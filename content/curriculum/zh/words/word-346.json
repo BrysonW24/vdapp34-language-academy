@@ -1,13 +1,13 @@
 {
   "rank": 346,
-  "chinese": "洗",
-  "characters": "洗",
-  "pinyin": "xǐ",
-  "english": "to wash",
-  "pronunciation": "shee (3rd tone, dips then rises)",
-  "partOfSpeech": "verb",
-  "exampleZh": "请先洗手。",
-  "exampleEn": "Please wash your hands first.",
+  "chinese": "任",
+  "characters": "任",
+  "pinyin": "rèn",
+  "english": "appoint",
+  "pronunciation": "ren",
+  "partOfSpeech": "pronoun",
+  "exampleZh": "任在这里。",
+  "exampleEn": "Appoint are here.",
   "group": "everyday-250",
-  "topic": "daily-life"
+  "topic": "basics"
 }

@@ -1,11 +1,11 @@
 {
   "rank": 603,
-  "german": "außerdem",
-  "english": "besides, moreover",
-  "pronunciation": "OW-ser-daym",
-  "partOfSpeech": "adverb",
-  "exampleDe": "Außerdem habe ich keine Zeit.",
-  "exampleEn": "Besides, I don't have time.",
+  "german": "partei",
+  "english": "party",
+  "pronunciation": "p a ɐ t a ɪ",
+  "partOfSpeech": "adjective",
+  "exampleDe": "Das ist sehr partei.",
+  "exampleEn": "That is very party.",
   "group": "confident-350",
-  "topic": "basics"
+  "topic": "descriptions"
 }

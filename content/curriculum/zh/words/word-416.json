@@ -1,13 +1,13 @@
 {
   "rank": 416,
-  "chinese": "身体",
-  "characters": "身体",
-  "pinyin": "shēntǐ",
-  "english": "body, health",
-  "pronunciation": "shun-tee (1st, 3rd)",
+  "chinese": "责任",
+  "characters": "责任",
+  "pinyin": "zé rèn",
+  "english": "responsibility",
+  "pronunciation": "ze-ren",
   "partOfSpeech": "noun",
-  "exampleZh": "他的身体很好。",
-  "exampleEn": "His health is very good.",
+  "exampleZh": "这个责任很重要。",
+  "exampleEn": "This responsibility is important.",
   "group": "confident-350",
-  "topic": "health"
+  "topic": "basics"
 }

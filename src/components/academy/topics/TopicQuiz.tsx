@@ -68,7 +68,7 @@ export function TopicQuiz({ questions, topicSlug }: TopicQuizProps) {
     return (
       <Card>
         <CardContent className="p-8 text-center space-y-4">
-          <div className="text-4xl font-serif font-semibold text-editorial-ink">
+          <div className="text-3xl font-serif font-semibold text-editorial-ink">
             {score} / {questions.length}
           </div>
           <p className="text-editorial-muted">

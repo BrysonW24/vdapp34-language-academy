@@ -1,0 +1,90 @@
+{
+  "slug": "home-and-family",
+  "title": "Home & Family",
+  "titleZh": "家庭与住所",
+  "shortSummary": "Talk about your family members and describe where you live.",
+  "level": "elementary",
+  "order": 8,
+  "icon": "🏠",
+  "color": "#a0453f",
+  "culturalNote": "Family is the heart of Chinese culture, and respect for elders runs deep, reflected in the famous value of 孝 (filial piety). Family terms are very precise: there are different words for an older brother (哥哥) and a younger brother (弟弟), and for relatives on the mother's versus the father's side. Many families span three generations, and grandparents often play a big role in raising children.",
+  "keyPhrases": [
+    { "chinese": "我的家", "pinyin": "wǒ de jiā", "english": "my home / family", "context": "家 means both" },
+    { "chinese": "爸爸 / 妈妈", "pinyin": "bàba / māma", "english": "dad / mum", "context": "Parents" },
+    { "chinese": "哥哥 / 弟弟", "pinyin": "gēge / dìdi", "english": "older brother / younger brother", "context": "Age matters" },
+    { "chinese": "姐姐 / 妹妹", "pinyin": "jiějie / mèimei", "english": "older sister / younger sister", "context": "Age matters" },
+    { "chinese": "你家有几口人？", "pinyin": "nǐ jiā yǒu jǐ kǒu rén?", "english": "How many people in your family?", "context": "口 counts family members" },
+    { "chinese": "我有一个孩子", "pinyin": "wǒ yǒu yí ge háizi", "english": "I have one child", "context": "Talking about kids" },
+    { "chinese": "我住在公寓", "pinyin": "wǒ zhù zài gōngyù", "english": "I live in a flat", "context": "Describing your home" },
+    { "chinese": "客厅", "pinyin": "kètīng", "english": "living room", "context": "A room" },
+    { "chinese": "厨房", "pinyin": "chúfáng", "english": "kitchen", "context": "A room" },
+    { "chinese": "我们住在一起", "pinyin": "wǒmen zhù zài yìqǐ", "english": "We live together", "context": "Living arrangements" }
+  ],
+  "grammar": [
+    {
+      "rule": "有 for 'have' and 'there is'",
+      "explanation": "有 (yǒu) means 'have' or 'there is/are': 我有两个姐姐 (I have two older sisters). It is negated only with 没, never 不: 我没有兄弟 (I have no brothers).",
+      "examples": [
+        { "zh": "我有一个弟弟。", "en": "I have a younger brother." },
+        { "zh": "我家有四口人。", "en": "There are four people in my family." }
+      ],
+      "commonMistake": "Negating 有 with 不: it is 没有, not 不有."
+    },
+    {
+      "rule": "The measure word 口 for family",
+      "explanation": "When counting family members, Chinese uses the special measure word 口 (kǒu): 三口人 (three people in the family). For people in general, the measure word is 个.",
+      "examples": [
+        { "zh": "我家有五口人。", "en": "My family has five people." },
+        { "zh": "三个学生", "en": "three students (general 个)" }
+      ],
+      "commonMistake": "Using 个 when counting family size. Family members take 口: 三口人."
+    }
+  ],
+  "dialogue": {
+    "setup": "Lin shows her classmate a family photo on her phone.",
+    "lines": [
+      { "speaker": "同学", "chinese": "这是你的家人吗？", "pinyin": "Zhè shì nǐ de jiārén ma?", "english": "Is this your family?" },
+      { "speaker": "林", "chinese": "对，这是我爸爸、妈妈和姐姐。", "pinyin": "Duì, zhè shì wǒ bàba, māma hé jiějie.", "english": "Yes, this is my dad, mum, and older sister." },
+      { "speaker": "同学", "chinese": "你家有几口人？", "pinyin": "Nǐ jiā yǒu jǐ kǒu rén?", "english": "How many people in your family?" },
+      { "speaker": "林", "chinese": "四口人。你呢？", "pinyin": "Sì kǒu rén. Nǐ ne?", "english": "Four. And you?" },
+      { "speaker": "同学", "chinese": "我家有三口人，我没有兄弟姐妹。", "pinyin": "Wǒ jiā yǒu sān kǒu rén, wǒ méiyǒu xiōngdì jiěmèi.", "english": "Three, I have no siblings." },
+      { "speaker": "林", "chinese": "你姐姐住在家里吗？", "pinyin": "Nǐ jiějie zhù zài jiā lǐ ma?", "english": "Does your sister live at home?" },
+      { "speaker": "同学", "chinese": "不，她住在北京。", "pinyin": "Bù, tā zhù zài Běijīng.", "english": "No, she lives in Beijing." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'I have one child'?",
+      "correctAnswer": "我有一个孩子",
+      "explanation": "有 (have) + 一个 (one) + 孩子 (child)."
+    },
+    {
+      "type": "fill-blank",
+      "question": "我_____有兄弟。 (I have no brothers)",
+      "correctAnswer": "没",
+      "explanation": "有 is negated with 没, giving 没有."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which means 'older brother'?",
+      "options": ["弟弟", "哥哥", "姐姐", "妹妹"],
+      "correctAnswer": "哥哥",
+      "explanation": "哥哥 is older brother; 弟弟 is younger brother."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which measure word counts family members?",
+      "options": ["个", "口", "本", "杯"],
+      "correctAnswer": "口",
+      "explanation": "Family size uses 口: 三口人."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: 人 / 几口 / 有 / 你家",
+      "correctAnswer": "你家有几口人",
+      "explanation": "你家 (your family) + 有 + 几口人 (how many people)."
+    }
+  ],
+  "status": "complete"
+}

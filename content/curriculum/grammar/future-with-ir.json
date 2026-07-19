@@ -1,0 +1,34 @@
+{
+  "slug": "future-with-ir",
+  "name": "Future with Ir + a + Infinitive",
+  "nameEs": "El Futuro con Ir + a + Infinitivo",
+  "summary": "Express future plans and intentions using 'ir a' + infinitive — the easiest and most common way to talk about the future in Spanish.",
+  "level": "pre-intermediate",
+  "order": 12,
+  "explanation": "The simplest way to talk about the future in Spanish is 'ir a' + infinitive, which works exactly like English 'going to': 'Voy a comer' (I'm going to eat), 'Vamos a viajar' (We're going to travel). This construction is more common in spoken Spanish than the formal future tense.\n\nConjugate 'ir' in the present tense (voy, vas, va, vamos, vais, van), add 'a', then the infinitive of the main verb. It works for plans, intentions, predictions, and near-future actions. It's incredibly versatile and you can use it in almost any future context.\n\nSpanish also has a formal future tense (hablaré, comerás, vivirá) with its own conjugation endings. However, 'ir a + infinitive' is far more common in everyday conversation, especially in Latin America. The formal future is used more for predictions, promises, and formal writing. At this level, mastering 'ir a' gives you everything you need.",
+  "pattern": "ir (conjugated) + a + infinitive verb",
+  "conjugation": {
+    "yo": "voy a + infinitive (voy a estudiar)",
+    "tu": "vas a + infinitive (vas a comer)",
+    "el": "va a + infinitive (va a salir)",
+    "nosotros": "vamos a + infinitive (vamos a viajar)",
+    "vosotros": "vais a + infinitive (vais a ver)",
+    "ellos": "van a + infinitive (van a llegar)"
+  },
+  "examples": [
+    { "es": "Voy a estudiar español esta noche", "en": "I'm going to study Spanish tonight" },
+    { "es": "¿Qué vas a hacer mañana?", "en": "What are you going to do tomorrow?" },
+    { "es": "Vamos a ir a la playa", "en": "We're going to go to the beach" },
+    { "es": "Va a llover esta tarde", "en": "It's going to rain this afternoon" },
+    { "es": "No van a venir a la fiesta", "en": "They're not going to come to the party" },
+    { "es": "¿Cuándo vas a volver?", "en": "When are you going to come back?" }
+  ],
+  "commonMistakes": [
+    "Forgetting the 'a': 'voy estudiar' should be 'voy a estudiar'",
+    "Conjugating both verbs: 'voy a estudio' should be 'voy a estudiar' — only 'ir' conjugates, the main verb stays infinitive",
+    "Using the wrong form of ir: 'yo va a comer' should be 'yo voy a comer'",
+    "Redundancy with ir: 'voy a ir' (I'm going to go) is correct but sounds redundant — it's still perfectly valid Spanish",
+    "Not negating correctly: the 'no' goes before 'ir': 'no voy a salir' (I'm not going to go out)"
+  ],
+  "tip": "This is the most useful future construction for beginners because you only need to know one verb conjugation (ir) to talk about any future action. 'Voy a + infinitive' covers 90% of future situations in conversation."
+}

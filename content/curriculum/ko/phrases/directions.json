@@ -1,0 +1,21 @@
+{
+  "slug": "directions",
+  "title": "Asking Directions",
+  "description": "Find your way, ask for landmarks, and use the subway in Korea.",
+  "situation": "Getting around: asking where things are, how to get there, and using transport.",
+  "order": 5,
+  "phrases": [
+    { "native": "실례합니다", "transliteration": "sillyehamnida", "english": "Excuse me (to start a question)", "pronunciation": "shil-lyeh-hahm-nee-dah", "formality": "formal", "tip": "The polite opener before stopping a stranger to ask for help." },
+    { "native": "지하철역 어디예요?", "transliteration": "jihacheoryeok eodiyeyo?", "english": "Where is the subway station?", "pronunciation": "jee-hah-chol-lyok oh-dee-yeh-yo", "formality": "neutral", "tip": "Swap in 버스 정류장 (beoseu jeongnyujang) for 'bus stop'." },
+    { "native": "여기가 어디예요?", "transliteration": "yeogiga eodiyeyo?", "english": "Where am I? / Where is this?", "pronunciation": "yo-gee-gah oh-dee-yeh-yo", "formality": "neutral" },
+    { "native": "어떻게 가요?", "transliteration": "eotteoke gayo?", "english": "How do I get there?", "pronunciation": "oh-tto-keh gah-yo", "formality": "neutral" },
+    { "native": "여기에서 멀어요?", "transliteration": "yeogieseo meoreoyo?", "english": "Is it far from here?", "pronunciation": "yo-gee-eh-so mo-ro-yo", "formality": "neutral", "tip": "Answer might be 가까워요 (gakkawoyo, it's close) or 멀어요 (it's far)." },
+    { "native": "똑바로 가세요", "transliteration": "ttokbaro gaseyo", "english": "Go straight ahead", "pronunciation": "ttok-bah-roh gah-seh-yo", "formality": "neutral", "tip": "A reply you will hear; learn it to follow directions." },
+    { "native": "왼쪽으로 가세요", "transliteration": "oenjjogeuro gaseyo", "english": "Go to the left", "pronunciation": "wen-jjo-geu-roh gah-seh-yo", "formality": "neutral", "tip": "Right is 오른쪽 (oreunjjok)." },
+    { "native": "걸어서 갈 수 있어요?", "transliteration": "georeoseo gal su isseoyo?", "english": "Can I walk there?", "pronunciation": "go-ro-so gahl soo ee-sso-yo", "formality": "neutral" },
+    { "native": "택시 타는 게 나아요?", "transliteration": "taeksi taneun ge naayo?", "english": "Is it better to take a taxi?", "pronunciation": "tek-shee tah-neun geh nah-ah-yo", "formality": "neutral" },
+    { "native": "이 주소로 가 주세요", "transliteration": "i jusoro ga juseyo", "english": "Please go to this address", "pronunciation": "ee joo-soh-roh gah joo-seh-yo", "formality": "neutral", "tip": "Show the address on your phone to the taxi driver as you say it." },
+    { "native": "몇 번 출구예요?", "transliteration": "myeot beon chulguyeyo?", "english": "Which exit number is it?", "pronunciation": "myot bon chool-goo-yeh-yo", "formality": "neutral", "tip": "Seoul subway exits are numbered; locals give directions by exit number." },
+    { "native": "지도 좀 보여 주세요", "transliteration": "jido jom boyeo juseyo", "english": "Please show me on the map", "pronunciation": "jee-doh jom boh-yo joo-seh-yo", "formality": "neutral" }
+  ]
+}

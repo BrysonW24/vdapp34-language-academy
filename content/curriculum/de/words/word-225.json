@@ -1,13 +1,11 @@
 {
   "rank": 225,
-  "german": "Kind",
-  "english": "child",
-  "pronunciation": "KINT",
-  "partOfSpeech": "noun",
-  "gender": "neuter",
-  "article": "das",
-  "exampleDe": "Das Kind spielt im Garten.",
-  "exampleEn": "The child is playing in the garden.",
+  "german": "gegeben",
+  "english": "to given",
+  "pronunciation": "ɡ ə ɡ e b ə n",
+  "partOfSpeech": "verb",
+  "exampleDe": "Ich möchte gegeben.",
+  "exampleEn": "I want to given.",
   "group": "everyday-250",
-  "topic": "family"
+  "topic": "actions"
 }

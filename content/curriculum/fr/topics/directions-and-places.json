@@ -1,0 +1,90 @@
+{
+  "slug": "directions-and-places",
+  "title": "Directions & Places",
+  "titleNative": "Directions et lieux",
+  "shortSummary": "Ask for and understand directions, and name the places around a French town.",
+  "level": "elementary",
+  "order": 6,
+  "icon": "🗺️",
+  "color": "#2f5fa0",
+  "culturalNote": "French towns are often built around a central square (la place) with a church, a town hall (la mairie), and cafés. People are generally happy to give directions, especially if you open politely with Excusez-moi. In cities the metro and tram are easy and clear, and street signs use distances and landmarks rather than compass points.",
+  "keyPhrases": [
+    { "native": "Excusez-moi, où est... ?", "english": "Excuse me, where is...?", "pronunciation": "ehks-kew-zay MWAH, oo EH", "context": "Polite opening" },
+    { "native": "Comment aller à... ?", "english": "How do I get to...?", "pronunciation": "koh-mon tah-lay AH", "context": "Asking the way" },
+    { "native": "tout droit", "english": "straight ahead", "pronunciation": "too DRWAH", "context": "Direction" },
+    { "native": "à gauche / à droite", "english": "left / right", "pronunciation": "ah GOHSH / ah DRWAHT", "context": "Turning" },
+    { "native": "au coin", "english": "at the corner", "pronunciation": "oh KWAN", "context": "Location" },
+    { "native": "en face de", "english": "opposite", "pronunciation": "on fass duh", "context": "Across from" },
+    { "native": "près d'ici", "english": "near here", "pronunciation": "preh dee-SEE", "context": "Close by" },
+    { "native": "C'est loin ?", "english": "Is it far?", "pronunciation": "say LWAN", "context": "Checking distance" },
+    { "native": "la station de métro", "english": "the metro station", "pronunciation": "lah stah-see-ON duh may-TROH", "context": "Transport" },
+    { "native": "Je suis perdu", "english": "I'm lost", "pronunciation": "zhuh swee pehr-DEW", "context": "When you need help" }
+  ],
+  "grammar": [
+    {
+      "rule": "aller à and the contractions",
+      "explanation": "Use aller à to talk about going somewhere, and remember à contracts with le and les: au (à + le) and aux (à + les). Comment aller au musée ? but à la gare.",
+      "examples": [
+        { "native": "Comment aller au centre-ville ?", "en": "How do I get to the town centre? (au)" },
+        { "native": "Je vais à la pharmacie.", "en": "I'm going to the pharmacy. (à la)" }
+      ],
+      "commonMistake": "Writing à le: it must contract to au. à la and à l' stay as they are."
+    },
+    {
+      "rule": "Imperative for directions",
+      "explanation": "Directions often come as polite commands. For vous, just use the verb form: Allez tout droit (go straight), Tournez à gauche (turn left), Prenez la première rue (take the first street).",
+      "examples": [
+        { "native": "Allez tout droit.", "en": "Go straight ahead." },
+        { "native": "Tournez à droite.", "en": "Turn right." }
+      ],
+      "commonMistake": "Adding vous after the verb in the imperative: it is Allez, not Allez vous (which becomes reflexive)."
+    }
+  ],
+  "dialogue": {
+    "setup": "A tourist stops a passer-by near the square to find the train station.",
+    "lines": [
+      { "speaker": "Touriste", "native": "Excusez-moi, comment aller à la gare ?", "english": "Excuse me, how do I get to the station?" },
+      { "speaker": "Passant", "native": "Allez tout droit jusqu'au feu.", "english": "Go straight ahead to the traffic light." },
+      { "speaker": "Touriste", "native": "Et ensuite ?", "english": "And then?" },
+      { "speaker": "Passant", "native": "Puis tournez à gauche. C'est en face de la poste.", "english": "Then turn left. It's opposite the post office." },
+      { "speaker": "Touriste", "native": "C'est loin ?", "english": "Is it far?" },
+      { "speaker": "Passant", "native": "Non, cinq minutes à pied.", "english": "No, five minutes on foot." },
+      { "speaker": "Touriste", "native": "Merci beaucoup pour votre aide !", "english": "Thank you very much for your help!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'straight ahead'?",
+      "correctAnswer": "tout droit",
+      "explanation": "tout droit is the phrase for 'straight ahead'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which is correct for 'to the museum' (le musée)?",
+      "options": ["à le musée", "au musée", "à la musée", "aux musée"],
+      "correctAnswer": "au musée",
+      "explanation": "à + le contracts to au."
+    },
+    {
+      "type": "fill-blank",
+      "question": "Tournez à _____. (turn left)",
+      "correctAnswer": "gauche",
+      "explanation": "à gauche is 'to the left'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does 'en face de' mean?",
+      "options": ["near", "opposite", "straight ahead", "at the corner"],
+      "correctAnswer": "opposite",
+      "explanation": "en face de means 'opposite / across from'."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: gare / à / la / aller / comment",
+      "correctAnswer": "Comment aller à la gare",
+      "explanation": "Comment aller (how to get) + à la gare (to the station)."
+    }
+  ],
+  "status": "complete"
+}

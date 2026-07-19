@@ -1,0 +1,90 @@
+{
+  "slug": "personal-info",
+  "title": "Personal Information",
+  "titleNative": "Informações pessoais",
+  "shortSummary": "Say your name, age, nationality, and where you live so people can get to know you.",
+  "level": "beginner",
+  "order": 2,
+  "icon": "🪪",
+  "color": "#7a3fa0",
+  "culturalNote": "Brazilians love to chat and will warmly ask where you are from, often delighted that you are learning their language. Note that Portuguese uses ter (to have) for age: você tem quantos anos? literally asks 'how many years do you have?' Nationalities are adjectives that agree with gender, written in lowercase: a man is australiano, a woman australiana. Saying estou aprendendo português (I'm learning Portuguese) almost always earns encouragement and patience, since Brazilians appreciate the effort enormously.",
+  "keyPhrases": [
+    { "native": "Meu nome é...", "english": "My name is...", "pronunciation": "MEH-oo NOH-mee eh", "context": "Introducing yourself" },
+    { "native": "Como você se chama?", "english": "What's your name?", "pronunciation": "KOH-moo voh-SEH see SHAH-mah", "context": "Asking a name" },
+    { "native": "Eu sou australiano", "english": "I'm Australian", "pronunciation": "EH-oo soh ows-trah-lee-AH-noo", "context": "Stating nationality" },
+    { "native": "Tenho trinta anos", "english": "I'm thirty years old", "pronunciation": "TEH-nyoo TREEN-tah AH-noos", "context": "Using ter for age" },
+    { "native": "Quantos anos você tem?", "english": "How old are you?", "pronunciation": "KWAN-toos AH-noos voh-SEH tayn", "context": "Asking age" },
+    { "native": "Moro em Sydney", "english": "I live in Sydney", "pronunciation": "MOH-roo ayn SID-nee", "context": "Where you live" },
+    { "native": "De onde você é?", "english": "Where are you from?", "pronunciation": "jee ON-jee voh-SEH eh", "context": "Asking origin" },
+    { "native": "Falo um pouco de português", "english": "I speak a little Portuguese", "pronunciation": "FAH-loo oon POH-koo jee por-too-GES", "context": "Managing expectations" },
+    { "native": "Sou casado", "english": "I'm married", "pronunciation": "soh kah-ZAH-doo", "context": "Marital status" },
+    { "native": "Trabalho como professor", "english": "I work as a teacher", "pronunciation": "trah-BAH-lyoo KOH-moo proh-feh-SOR", "context": "Saying your job" }
+  ],
+  "grammar": [
+    {
+      "rule": "Ter for age",
+      "explanation": "Portuguese uses ter (to have), not ser, for age. You say how many years you 'have'. Tenho vinte anos literally means 'I have twenty years'.",
+      "examples": [
+        { "native": "Tenho vinte e cinco anos.", "en": "I'm twenty-five." },
+        { "native": "Minha filha tem cinco anos.", "en": "My daughter is five." }
+      ],
+      "commonMistake": "Saying sou vinte anos with ser. Age always uses tenho with ter."
+    },
+    {
+      "rule": "Nationality adjectives agree",
+      "explanation": "Nationality words are adjectives and change with gender. A man is brasileiro or australiano, a woman is brasileira or australiana. They are written in lowercase.",
+      "examples": [
+        { "native": "O Pedro é brasileiro.", "en": "Pedro is Brazilian." },
+        { "native": "A Ana é brasileira.", "en": "Ana is Brazilian." }
+      ],
+      "commonMistake": "Capitalising nationalities or leaving them masculine for a woman."
+    }
+  ],
+  "dialogue": {
+    "setup": "Bia chats with Tom, a traveller she meets at a hostel.",
+    "lines": [
+      { "speaker": "Bia", "native": "Oi! Como você se chama?", "english": "Hi! What's your name?" },
+      { "speaker": "Tom", "native": "Meu nome é Tom. E você?", "english": "My name is Tom. And you?" },
+      { "speaker": "Bia", "native": "Eu sou a Bia. De onde você é?", "english": "I'm Bia. Where are you from?" },
+      { "speaker": "Tom", "native": "Sou australiano, de Sydney.", "english": "I'm Australian, from Sydney." },
+      { "speaker": "Bia", "native": "Que legal! Quantos anos você tem?", "english": "How cool! How old are you?" },
+      { "speaker": "Tom", "native": "Tenho vinte e oito anos. Estou aprendendo português.", "english": "I'm twenty-eight. I'm learning Portuguese." },
+      { "speaker": "Bia", "native": "Você fala muito bem! Prazer, Tom.", "english": "You speak really well! Nice to meet you, Tom." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'My name is Ana' in Portuguese?",
+      "correctAnswer": "Meu nome é Ana",
+      "explanation": "Meu nome é means 'my name is'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which verb does Portuguese use for age?",
+      "options": ["ser", "estar", "ter", "ir"],
+      "correctAnswer": "ter",
+      "explanation": "Tenho trinta anos uses ter, not ser."
+    },
+    {
+      "type": "fill-blank",
+      "question": "_____ em Sydney. (I live)",
+      "correctAnswer": "Moro",
+      "explanation": "Morar means to live; the eu form is moro."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "How would a woman say 'I'm Australian'?",
+      "options": ["Sou australiano", "Sou australiana", "Tenho australiana", "Sou australianos"],
+      "correctAnswer": "Sou australiana",
+      "explanation": "Nationality adjectives agree; a woman uses australiana."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: você / onde / de / é",
+      "correctAnswer": "De onde você é",
+      "explanation": "De onde você é? means 'Where are you from?'"
+    }
+  ],
+  "status": "complete"
+}

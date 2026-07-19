@@ -1,0 +1,26 @@
+{
+  "slug": "questions",
+  "name": "Asking Questions",
+  "nameZh": "提问",
+  "summary": "Form questions with the particle 吗 or with question words, keeping normal word order.",
+  "level": "beginner",
+  "order": 3,
+  "explanation": "The easiest Chinese question just adds 吗 (ma) to the end of a statement: 你好 (you are well) becomes 你好吗？(are you well?). The word order does not change at all.\n\nFor open questions, you replace the unknown part with a question word, again with no reordering: 你叫什么名字？(you are called what name?). The key question words are 什么 (shénme, what), 谁 (shéi, who), 哪里 (nǎlǐ, where), 什么时候 (shénme shíhou, when), 为什么 (wèishénme, why), 怎么 (zěnme, how), and 多少 / 几 (duōshao / jǐ, how many).\n\nThere is also an A-not-A form: 你是不是学生？(are you or are you not a student?), which is a natural alternative to using 吗.",
+  "pattern": "Statement + 吗?  |  replace the unknown with a question word",
+  "examples": [
+    { "zh": "你是学生吗？", "en": "Are you a student? (吗 question)" },
+    { "zh": "你叫什么名字？", "en": "What is your name? (what)" },
+    { "zh": "他在哪里？", "en": "Where is he? (where)" },
+    { "zh": "你什么时候来？", "en": "When are you coming? (when)" },
+    { "zh": "这是多少钱？", "en": "How much is this? (how much)" },
+    { "zh": "你是不是老师？", "en": "Are you a teacher? (A-not-A form)" }
+  ],
+  "commonMistakes": [
+    "Reordering the sentence like English: the words stay in statement order; you just add 吗 or a question word.",
+    "Using 吗 together with a question word: 你叫什么名字吗 is wrong. Pick one or the other.",
+    "Confusing 几 (for small numbers, under ten) with 多少 (for larger or unknown amounts).",
+    "Forgetting that 怎么 means 'how' but 怎么样 (zěnmeyàng) asks 'how is it / what do you think'.",
+    "Adding rising intonation but no 吗. In writing you need the particle or a question word."
+  ],
+  "tip": "Start with 吗. Turning any statement into a yes/no question is as simple as adding one syllable to the end."
+}

@@ -1,12 +1,13 @@
 {
   "rank": 180,
-  "chinese": "起",
-  "characters": "起",
-  "pinyin": "qǐ",
-  "english": "to get up/to rise",
-  "partOfSpeech": "verb",
-  "exampleZh": "他每天六点起床。",
-  "exampleEn": "He gets up at six every day.",
+  "chinese": "人士",
+  "characters": "人士",
+  "pinyin": "rén shì",
+  "english": "person",
+  "pronunciation": "ren-shi",
+  "partOfSpeech": "noun",
+  "exampleZh": "这个人士很重要。",
+  "exampleEn": "This person is important.",
   "group": "everyday-250",
-  "topic": "daily-life"
+  "topic": "people"
 }

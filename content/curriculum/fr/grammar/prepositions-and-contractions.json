@@ -1,0 +1,33 @@
+{
+  "slug": "prepositions-and-contractions",
+  "name": "Prepositions & Contractions",
+  "nameNative": "Les prépositions et les contractions",
+  "summary": "Learn à and de, and the mandatory contractions au, aux, du, des.",
+  "level": "pre-intermediate",
+  "order": 12,
+  "explanation": "Two prepositions do a huge amount of work in French: à (to, at) and de (of, from). They form mandatory contractions when followed by le or les.\n\nWith à: à + le = au, à + les = aux. So je vais au cinéma (to the cinema), je parle aux enfants (to the children). With de: de + le = du, de + les = des. So je viens du marché (from the market), la couleur des fleurs (the colour of the flowers).\n\nNo contraction happens with la or l': à la maison, de l'école. For cities use à (à Paris) and for most countries use en (en France) or au (au Japon).",
+  "pattern": "à + le = au, à + les = aux  |  de + le = du, de + les = des",
+  "conjugation": {
+    "à + le": "au cinéma",
+    "à + les": "aux enfants",
+    "de + le": "du marché",
+    "de + les": "des fleurs",
+    "no contraction": "à la, de la, à l', de l'"
+  },
+  "examples": [
+    { "native": "Je vais au restaurant.", "en": "I'm going to the restaurant. (à + le)" },
+    { "native": "Il parle aux étudiants.", "en": "He is talking to the students. (à + les)" },
+    { "native": "Nous rentrons du travail.", "en": "We are coming back from work. (de + le)" },
+    { "native": "C'est la fin des vacances.", "en": "It's the end of the holidays. (de + les)" },
+    { "native": "Je suis à la maison.", "en": "I am at home. (no contraction with la)" },
+    { "native": "Elle habite à Paris.", "en": "She lives in Paris. (à with a city)" }
+  ],
+  "commonMistakes": [
+    "Writing à le or de le: they must contract to au and du.",
+    "Contracting with la or l': it stays à la maison and de l'école.",
+    "Forgetting aux and des in the plural: it is aux enfants and des fleurs.",
+    "Using à for countries: most take en (en France) or au (au Canada).",
+    "Confusing the contraction des with the partitive des (some)."
+  ],
+  "tip": "Remember the four contractions as a set: au, aux, du, des. They are not optional; à le and de le never appear in correct French."
+}

@@ -1,0 +1,90 @@
+{
+  "slug": "travel-and-accommodation",
+  "title": "Travel & Accommodation",
+  "titleNative": "Viaggi e alloggio",
+  "shortSummary": "Book a room, check in, and handle a hotel or B&B stay while travelling in Italy.",
+  "level": "beginner",
+  "order": 10,
+  "icon": "🧳",
+  "color": "#1f6f8b",
+  "culturalNote": "Italy offers everything from grand hotels to the family-run B&B and the agriturismo, a farm stay popular in the countryside. On checking in you must hand over your passport or ID, as hotels are legally required to register guests. Breakfast (la colazione) is often included and served until mid-morning. A city tax (la tassa di soggiorno) is commonly added per person per night and paid separately in cash. Booking ahead is wise in summer and around Italian public holidays, when popular destinations fill quickly.",
+  "keyPhrases": [
+    { "native": "Ho una prenotazione", "english": "I have a reservation", "pronunciation": "oh OO-nah preh-noh-tah-tsee-OH-neh", "context": "Checking in" },
+    { "native": "Avete camere libere?", "english": "Do you have rooms available?", "pronunciation": "ah-VEH-teh KAH-meh-reh LEE-beh-reh", "context": "No booking" },
+    { "native": "una camera doppia", "english": "a double room", "pronunciation": "OO-nah KAH-meh-rah DOP-pee-ah", "context": "Room type" },
+    { "native": "per due notti", "english": "for two nights", "pronunciation": "per DOO-eh NOT-tee", "context": "Length of stay" },
+    { "native": "La colazione è inclusa?", "english": "Is breakfast included?", "pronunciation": "lah koh-lah-tsee-OH-neh eh een-KLOO-zah", "context": "Common question" },
+    { "native": "A che ora è il check-out?", "english": "What time is checkout?", "pronunciation": "ah keh OH-rah eh eel chek-owt", "context": "Departure" },
+    { "native": "C'è il wifi?", "english": "Is there wifi?", "pronunciation": "cheh eel WEE-fee", "context": "Amenities" },
+    { "native": "Posso lasciare le valigie?", "english": "Can I leave my luggage?", "pronunciation": "POS-soh lah-SHAH-reh leh vah-LEE-jeh", "context": "Before or after the stay" },
+    { "native": "Vorrei fare il check-out", "english": "I'd like to check out", "pronunciation": "vor-RAY FAH-reh eel chek-owt", "context": "Leaving" },
+    { "native": "Dov'è la camera?", "english": "Where is the room?", "pronunciation": "doh-VEH lah KAH-meh-rah", "context": "Finding your room" }
+  ],
+  "grammar": [
+    {
+      "rule": "Avete for 'do you have' (formal/plural)",
+      "explanation": "When addressing staff, Italians often use the voi form avete (you have) to a business, even one person behind a desk. Avete camere libere? asks the establishment, not just the individual.",
+      "examples": [
+        { "native": "Avete una camera singola?", "en": "Do you have a single room?" },
+        { "native": "Avete il parcheggio?", "en": "Do you have parking?" }
+      ],
+      "commonMistake": "Using hai (informal 'you have') with hotel staff, which is too casual."
+    },
+    {
+      "rule": "Per to express duration",
+      "explanation": "Use per (for) to state how long: per due notti (for two nights), per una settimana (for a week). It answers 'for how long'.",
+      "examples": [
+        { "native": "Resto per tre giorni.", "en": "I'm staying for three days." },
+        { "native": "Una camera per una notte.", "en": "A room for one night." }
+      ],
+      "commonMistake": "Leaving out per and just stating the number, which sounds incomplete."
+    }
+  ],
+  "dialogue": {
+    "setup": "A guest arrives at a small hotel in Verona.",
+    "lines": [
+      { "speaker": "Receptionist", "native": "Buonasera, ha una prenotazione?", "english": "Good evening, do you have a reservation?" },
+      { "speaker": "Ospite", "native": "Sì, una camera doppia per due notti.", "english": "Yes, a double room for two nights." },
+      { "speaker": "Receptionist", "native": "Perfetto. Il passaporto, per favore.", "english": "Perfect. Your passport, please." },
+      { "speaker": "Ospite", "native": "Eccolo. La colazione è inclusa?", "english": "Here it is. Is breakfast included?" },
+      { "speaker": "Receptionist", "native": "Sì, dalle sette alle dieci.", "english": "Yes, from seven to ten." },
+      { "speaker": "Ospite", "native": "Ottimo. A che ora è il check-out?", "english": "Great. What time is checkout?" },
+      { "speaker": "Receptionist", "native": "Alle undici. Buon soggiorno!", "english": "At eleven. Enjoy your stay!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'I have a reservation' in Italian?",
+      "correctAnswer": "Ho una prenotazione",
+      "explanation": "Prenotazione is a reservation or booking."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does per due notti mean?",
+      "options": ["two rooms", "for two nights", "at two o'clock", "the second night"],
+      "correctAnswer": "for two nights",
+      "explanation": "Per expresses duration: for two nights."
+    },
+    {
+      "type": "fill-blank",
+      "question": "_____ camere libere? (do you have, to staff)",
+      "correctAnswer": "Avete",
+      "explanation": "Avete is the voi form used with a business."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which word means 'double room'?",
+      "options": ["camera singola", "camera doppia", "colazione", "valigia"],
+      "correctAnswer": "camera doppia",
+      "explanation": "Doppia is double; singola is single."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: inclusa / colazione / è / la",
+      "correctAnswer": "La colazione è inclusa",
+      "explanation": "La colazione è inclusa means 'breakfast is included'."
+    }
+  ],
+  "status": "complete"
+}

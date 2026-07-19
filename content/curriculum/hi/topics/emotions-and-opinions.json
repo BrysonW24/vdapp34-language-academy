@@ -1,0 +1,90 @@
+{
+  "slug": "emotions-and-opinions",
+  "title": "Emotions & Opinions",
+  "titleNative": "भावनाएँ और राय",
+  "shortSummary": "Express how you feel and share your opinions politely in Hindi conversation.",
+  "level": "pre-intermediate",
+  "order": 15,
+  "icon": "💭",
+  "color": "#862e9c",
+  "culturalNote": "Indians value warmth and harmony in conversation, so opinions are often softened with phrases like 'mujhe lagta hai' (I think) and disagreements are expressed gently rather than bluntly. Emotions are commonly described using the verb hona or lagna: khushi hai (there is happiness) or mujhe dukh hai (I have sorrow). Open displays of anger toward elders or strangers are avoided, and indirectness is a sign of respect, not evasiveness. Agreement is shown with a warm 'bilkul' (absolutely) or 'sahi baat hai' (that's right). When you disagree, beginning with 'shaayad' (perhaps) or 'mujhe lagta hai ki' (I feel that) keeps the tone friendly. The familiar Indian head-wobble can mean yes, okay, or 'I'm listening', so read it together with the words rather than on its own.",
+  "keyPhrases": [
+    { "native": "मुझे लगता है कि ...", "transliteration": "mujhe lagta hai ki ...", "english": "I think that ...", "pronunciation": "MOO-jhay LUG-taa hai ki", "context": "Giving an opinion" },
+    { "native": "मैं बहुत खुश हूँ", "transliteration": "main bahut khush hoon", "english": "I am very happy", "pronunciation": "main buh-HOOT khush hoon", "context": "Expressing joy" },
+    { "native": "मुझे दुख है", "transliteration": "mujhe dukh hai", "english": "I am sad", "pronunciation": "MOO-jhay dookh hai", "context": "Expressing sadness" },
+    { "native": "मुझे डर लग रहा है", "transliteration": "mujhe dar lag raha hai", "english": "I am feeling afraid", "pronunciation": "MOO-jhay dar lug ruh-HAA hai", "context": "Expressing fear" },
+    { "native": "यह सही बात है", "transliteration": "yah sahi baat hai", "english": "That's right / true", "pronunciation": "yuh SUH-hee baat hai", "context": "Agreeing" },
+    { "native": "मैं सहमत नहीं हूँ", "transliteration": "main sahmat nahin hoon", "english": "I do not agree", "pronunciation": "main SUH-mut nuh-HEEN hoon", "context": "Disagreeing politely" },
+    { "native": "मेरे ख्याल से ...", "transliteration": "mere khayaal se ...", "english": "In my opinion ...", "pronunciation": "MAY-ray khuh-YAAL say", "context": "Opening an opinion" },
+    { "native": "मुझे यह अच्छा नहीं लगता", "transliteration": "mujhe yah achha nahin lagta", "english": "I don't like this", "pronunciation": "MOO-jhay yuh UCH-chaa nuh-HEEN LUG-taa", "context": "Mild dislike" },
+    { "native": "आपको क्या लगता है?", "transliteration": "aapko kya lagta hai?", "english": "What do you think?", "pronunciation": "AAP-koh kyaa LUG-taa hai", "context": "Asking an opinion" },
+    { "native": "बिल्कुल सही!", "transliteration": "bilkul sahi!", "english": "Absolutely right!", "pronunciation": "BIL-kul SUH-hee", "context": "Strong agreement" }
+  ],
+  "grammar": [
+    {
+      "rule": "Mujhe lagta hai ki for opinions",
+      "explanation": "To state an opinion, use mujhe lagta hai ki (I think that) and follow it with a full clause. Ki (कि) is the connector 'that', and the second clause keeps normal Subject-Object-Verb order.",
+      "examples": [
+        { "native": "मुझे लगता है कि यह फ़िल्म अच्छी है। (mujhe lagta hai ki yah film achhi hai.)", "en": "I think that this film is good." },
+        { "native": "मुझे लगता है कि कल बारिश होगी। (mujhe lagta hai ki kal baarish hogi.)", "en": "I think it will rain tomorrow." }
+      ],
+      "commonMistake": "Dropping ki before the second clause; the connector is needed after lagta hai."
+    },
+    {
+      "rule": "Emotions with hona vs lagna",
+      "explanation": "Some feelings use a simple state with hona: main khush hoon (I am happy), mujhe dukh hai (I have sorrow). Others, especially sensations that 'come over you', use lagna: mujhe dar lagta hai (I feel fear), mujhe sharm aati hai (I feel shy).",
+      "examples": [
+        { "native": "मैं बहुत खुश हूँ। (main bahut khush hoon.)", "en": "I am very happy." },
+        { "native": "मुझे डर लग रहा है। (mujhe dar lag raha hai.)", "en": "I am feeling afraid." }
+      ],
+      "commonMistake": "Saying main dar hoon for 'I am afraid'; fear uses the lagna pattern mujhe dar lagta hai."
+    }
+  ],
+  "dialogue": {
+    "setup": "Two colleagues, Nidhi and Sameer, discuss a film they both watched.",
+    "lines": [
+      { "speaker": "Nidhi", "native": "समीर, आपको वह फ़िल्म कैसी लगी?", "transliteration": "Sameer, aapko vah film kaisi lagi?", "english": "Sameer, how did you find that film?" },
+      { "speaker": "Sameer", "native": "मुझे लगता है कि वह बहुत अच्छी थी।", "transliteration": "mujhe lagta hai ki vah bahut achhi thi.", "english": "I think it was very good." },
+      { "speaker": "Nidhi", "native": "सच में? मुझे यह अच्छा नहीं लगा।", "transliteration": "sach mein? mujhe yah achha nahin laga.", "english": "Really? I didn't like it." },
+      { "speaker": "Sameer", "native": "क्यों? आपको क्या लगता है?", "transliteration": "kyon? aapko kya lagta hai?", "english": "Why? What do you think?" },
+      { "speaker": "Nidhi", "native": "मेरे ख्याल से कहानी बहुत लंबी थी।", "transliteration": "mere khayaal se kahaani bahut lambi thi.", "english": "In my opinion the story was too long." },
+      { "speaker": "Sameer", "native": "हाँ, यह सही बात है। अंत थोड़ा धीमा था।", "transliteration": "haan, yah sahi baat hai. ant thoda dheema tha.", "english": "Yes, that's true. The ending was a bit slow." },
+      { "speaker": "Nidhi", "native": "बिल्कुल! फिर भी संगीत बहुत अच्छा था।", "transliteration": "bilkul! phir bhi sangeet bahut achha tha.", "english": "Absolutely! Still, the music was very good." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'I think that ...' to open an opinion in Hindi?",
+      "correctAnswer": "मुझे लगता है कि ... (mujhe lagta hai ki ...)",
+      "explanation": "Mujhe lagta hai ki introduces an opinion, with ki meaning 'that'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which phrase politely expresses disagreement?",
+      "options": ["बिल्कुल सही!", "यह सही बात है", "मैं सहमत नहीं हूँ", "मैं बहुत खुश हूँ"],
+      "correctAnswer": "मैं सहमत नहीं हूँ",
+      "explanation": "Sahmat nahin hoon means 'I do not agree'."
+    },
+    {
+      "type": "fill-blank",
+      "question": "मुझे डर _____ रहा है। (I am feeling afraid)",
+      "correctAnswer": "लग (lag)",
+      "explanation": "Fear uses the lagna pattern: dar lag raha hai."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does 'आपको क्या लगता है? (aapko kya lagta hai?)' ask?",
+      "options": ["How are you?", "What do you want?", "What do you think?", "Where are you going?"],
+      "correctAnswer": "What do you think?",
+      "explanation": "Lagta hai here means 'seems/think', so this asks for an opinion."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: हूँ / मैं / खुश / बहुत (I am very happy)",
+      "correctAnswer": "मैं बहुत खुश हूँ (main bahut khush hoon)",
+      "explanation": "Subject, intensifier, adjective, then the verb hoon at the end."
+    }
+  ],
+  "status": "complete"
+}

@@ -1,0 +1,90 @@
+{
+  "slug": "food-and-restaurants",
+  "title": "Food & Restaurants",
+  "titleNative": "음식과 식당",
+  "shortSummary": "Order food, ask for the bill, and navigate a Korean restaurant with confidence.",
+  "level": "beginner",
+  "order": 4,
+  "icon": "🍚",
+  "color": "#e8590c",
+  "culturalNote": "Korean dining is communal and shaped by table etiquette. Meals centre on rice (밥, bap) with shared side dishes called 반찬 (banchan) that are refilled for free, plus a main dish everyone reaches into. To call a server you say 여기요 (yeogiyo, over here) or 저기요 (jeogiyo), which is normal and not rude. Respect for elders runs through the meal: you wait for the oldest person to lift their spoon first, and when pouring drinks for someone senior you use two hands and turn slightly away to drink. The most useful courtesy phrase is 잘 먹겠습니다 (jal meokgesseumnida, I will eat well) before eating and 잘 먹었습니다 (jal meogeosseumnida, I ate well) afterwards, said to whoever provided the meal. Spice level varies, so it is common to ask 안 매워요? (an maewoyo, is it not spicy?) before ordering.",
+  "keyPhrases": [
+    { "native": "메뉴 좀 주세요", "english": "Please give me the menu", "transliteration": "menyu jom juseyo", "pronunciation": "me-nyu jom ju-se-yo", "context": "Sitting down at a restaurant" },
+    { "native": "이거 주세요", "english": "I'll have this one, please", "transliteration": "igeo juseyo", "pronunciation": "i-go ju-se-yo", "context": "Ordering by pointing" },
+    { "native": "비빔밥 하나 주세요", "english": "One bibimbap, please", "transliteration": "bibimbap hana juseyo", "pronunciation": "bi-bim-bap ha-na ju-se-yo", "context": "Ordering a specific dish" },
+    { "native": "물 좀 주세요", "english": "Some water, please", "transliteration": "mul jom juseyo", "pronunciation": "mul jom ju-se-yo", "context": "Asking for water" },
+    { "native": "맛있어요", "english": "It's delicious", "transliteration": "masisseoyo", "pronunciation": "ma-si-sso-yo", "context": "Complimenting the food" },
+    { "native": "안 매워요?", "english": "Is it not spicy?", "transliteration": "an maewoyo?", "pronunciation": "an mae-wo-yo", "context": "Checking the spice level" },
+    { "native": "잘 먹겠습니다", "english": "I will eat well (before eating)", "transliteration": "jal meokgesseumnida", "pronunciation": "jal mok-get-seum-ni-da", "context": "Polite phrase before a meal" },
+    { "native": "여기요", "english": "Excuse me (calling a server)", "transliteration": "yeogiyo", "pronunciation": "yo-gi-yo", "context": "Getting the server's attention" },
+    { "native": "계산서 주세요", "english": "The bill, please", "transliteration": "gyesanseo juseyo", "pronunciation": "gye-san-so ju-se-yo", "context": "Asking for the bill" },
+    { "native": "포장해 주세요", "english": "Please pack it to take away", "transliteration": "pojanghae juseyo", "pronunciation": "po-jang-hae ju-se-yo", "context": "Ordering takeaway" }
+  ],
+  "grammar": [
+    {
+      "rule": "Requests with -주세요",
+      "explanation": "To ask for something politely, attach 주세요 (juseyo, please give) after the item. 물 (mul, water) becomes 물 주세요. It works for objects and, with a verb stem plus 아/어, for actions.",
+      "examples": [
+        { "native": "김치 주세요. (gimchi juseyo.)", "en": "Kimchi, please." },
+        { "native": "포장해 주세요. (pojanghae juseyo.)", "en": "Please pack it to take away." }
+      ],
+      "commonMistake": "Dropping 주세요 and just naming the food, which sounds like a demand rather than a request."
+    },
+    {
+      "rule": "Counting dishes with 하나, 둘",
+      "explanation": "When ordering quantities of food, use native Korean numbers after the dish: 비빔밥 하나 (bibimbap hana, one bibimbap), 커피 둘 (keopi dul, two coffees). The number follows the noun.",
+      "examples": [
+        { "native": "냉면 둘 주세요. (naengmyeon dul juseyo.)", "en": "Two cold noodles, please." },
+        { "native": "맥주 세 병 주세요. (maekju se byeong juseyo.)", "en": "Three bottles of beer, please." }
+      ],
+      "commonMistake": "Putting the number before the dish; in Korean the dish comes first, then the quantity."
+    }
+  ],
+  "dialogue": {
+    "setup": "Tom and a server at a Korean restaurant during a busy lunch.",
+    "lines": [
+      { "speaker": "톰", "native": "여기요, 메뉴 좀 주세요.", "transliteration": "yeogiyo, menyu jom juseyo.", "english": "Excuse me, please give me the menu." },
+      { "speaker": "종업원", "native": "네, 여기 있습니다. 뭐 드릴까요?", "transliteration": "ne, yeogi itseumnida. mwo deurilkkayo?", "english": "Yes, here it is. What can I get you?" },
+      { "speaker": "톰", "native": "비빔밥 하나 주세요. 안 매워요?", "transliteration": "bibimbap hana juseyo. an maewoyo?", "english": "One bibimbap, please. Is it not spicy?" },
+      { "speaker": "종업원", "native": "조금 매워요. 괜찮으세요?", "transliteration": "jogeum maewoyo. gwaenchaneuseyo?", "english": "It's a little spicy. Is that okay?" },
+      { "speaker": "톰", "native": "네, 괜찮아요. 물도 좀 주세요.", "transliteration": "ne, gwaenchanayo. muldo jom juseyo.", "english": "Yes, it's fine. Some water too, please." },
+      { "speaker": "종업원", "native": "네, 잠시만요. 맛있게 드세요.", "transliteration": "ne, jamsimanyo. masitge deuseyo.", "english": "Yes, one moment. Enjoy your meal." },
+      { "speaker": "톰", "native": "감사합니다. 잘 먹겠습니다!", "transliteration": "gamsahamnida. jal meokgesseumnida!", "english": "Thank you. I will eat well!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'The bill, please' in Korean?",
+      "correctAnswer": "계산서 주세요",
+      "explanation": "계산서 주세요 (gyesanseo juseyo) asks for the bill politely."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What do you say to call a server in a Korean restaurant?",
+      "options": ["감사합니다", "여기요", "맛있어요", "안녕하세요"],
+      "correctAnswer": "여기요",
+      "explanation": "여기요 (yeogiyo) or 저기요 means 'over here' and is the normal way to call a server."
+    },
+    {
+      "type": "fill-blank",
+      "question": "물 좀 _____. (please give)",
+      "correctAnswer": "주세요",
+      "explanation": "주세요 (juseyo) means 'please give', so 물 좀 주세요 asks for water."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which phrase is said politely before eating?",
+      "options": ["잘 먹었습니다", "잘 먹겠습니다", "맛있어요", "계산서 주세요"],
+      "correctAnswer": "잘 먹겠습니다",
+      "explanation": "잘 먹겠습니다 (jal meokgesseumnida) is said before a meal; 잘 먹었습니다 is said after."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: 주세요 / 하나 / 비빔밥 (one bibimbap, please)",
+      "correctAnswer": "비빔밥 하나 주세요",
+      "explanation": "Dish, then quantity, then the request: 비빔밥 하나 주세요."
+    }
+  ],
+  "status": "complete"
+}

@@ -1,0 +1,90 @@
+{
+  "slug": "emotions-and-opinions",
+  "title": "Emotions & Opinions",
+  "titleNative": "Émotions et opinions",
+  "shortSummary": "Say how you feel and share your opinion, the language of real conversation.",
+  "level": "pre-intermediate",
+  "order": 15,
+  "icon": "💬",
+  "color": "#a0453f",
+  "culturalNote": "The French enjoy debate and discussion, and sharing a clear, reasoned opinion is valued, even welcomed, in conversation. Disagreeing politely is normal and not seen as rude among friends. The phrase Je pense que (I think that) is the everyday way to open a view, and a lively exchange over a meal is a national pastime.",
+  "keyPhrases": [
+    { "native": "Je suis content", "english": "I'm happy", "pronunciation": "zhuh swee kon-TON", "context": "Women say 'contente'" },
+    { "native": "Je suis triste", "english": "I'm sad", "pronunciation": "zhuh swee TREEST", "context": "Negative feeling" },
+    { "native": "Je suis fatigué", "english": "I'm tired", "pronunciation": "zhuh swee fah-tee-GAY", "context": "Common state" },
+    { "native": "Je pense que...", "english": "I think that...", "pronunciation": "zhuh pons kuh", "context": "Opening an opinion" },
+    { "native": "À mon avis...", "english": "In my opinion...", "pronunciation": "ah mon ah-VEE", "context": "More formal opinion" },
+    { "native": "Je suis d'accord", "english": "I agree", "pronunciation": "zhuh swee dah-KOR", "context": "Agreeing" },
+    { "native": "Je ne suis pas d'accord", "english": "I disagree", "pronunciation": "zhuh nuh swee pah dah-KOR", "context": "Disagreeing" },
+    { "native": "Qu'en penses-tu ?", "english": "What do you think?", "pronunciation": "kon pons TEW", "context": "Asking an opinion" },
+    { "native": "Ça me plaît", "english": "I like it", "pronunciation": "sah muh PLEH", "context": "Expressing liking" },
+    { "native": "Ça va", "english": "It's okay", "pronunciation": "sah VAH", "context": "A mild reaction" }
+  ],
+  "grammar": [
+    {
+      "rule": "Je pense que to give an opinion",
+      "explanation": "Open an opinion with Je pense que or Je crois que (I think/believe that), then a full sentence: Je pense que le film est bon (I think the film is good).",
+      "examples": [
+        { "native": "Je pense que c'est trop cher.", "en": "I think it's too expensive." },
+        { "native": "Je crois que tu as raison.", "en": "I believe you're right." }
+      ],
+      "commonMistake": "Confusing penser (to think an opinion) with vouloir (to want)."
+    },
+    {
+      "rule": "Feelings with être, agreeing in gender",
+      "explanation": "Feelings use être plus an adjective that agrees with the speaker: Je suis content (m) / contente (f), fatigué / fatiguée. Negate with ne ... pas: je ne suis pas content.",
+      "examples": [
+        { "native": "Elle est très heureuse.", "en": "She is very happy." },
+        { "native": "Nous sommes fatigués.", "en": "We are tired." }
+      ],
+      "commonMistake": "Forgetting the feminine -e: a woman says je suis contente, not je suis content."
+    }
+  ],
+  "dialogue": {
+    "setup": "Two friends, Mara and Tim, leave the cinema and share their opinions about the film.",
+    "lines": [
+      { "speaker": "Mara", "native": "Qu'est-ce que tu penses du film ?", "english": "What do you think of the film?" },
+      { "speaker": "Tim", "native": "Je pense qu'il était très bon. Et toi ?", "english": "I think it was very good. And you?" },
+      { "speaker": "Mara", "native": "Je ne suis pas d'accord. C'était trop long pour moi.", "english": "I disagree. It was too long for me." },
+      { "speaker": "Tim", "native": "Vraiment ? Mais la musique m'a plu.", "english": "Really? But I liked the music." },
+      { "speaker": "Mara", "native": "Là, je suis d'accord. La musique était belle.", "english": "There, I agree. The music was beautiful." },
+      { "speaker": "Tim", "native": "Tu attends la suite ?", "english": "Are you looking forward to the sequel?" },
+      { "speaker": "Mara", "native": "Honnêtement, pas vraiment.", "english": "Honestly, not really." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'I agree'?",
+      "correctAnswer": "Je suis d'accord",
+      "explanation": "être d'accord means 'to agree'."
+    },
+    {
+      "type": "fill-blank",
+      "question": "Je _____ que c'est bon. (I think)",
+      "correctAnswer": "pense",
+      "explanation": "Je pense que introduces an opinion."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which phrase opens an opinion?",
+      "options": ["À mon avis", "Ça va", "Bon voyage", "Quelle heure"],
+      "correctAnswer": "À mon avis",
+      "explanation": "À mon avis means 'in my opinion'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "How does a woman correctly say 'I'm happy'?",
+      "options": ["Je suis content", "Je suis contente", "Je suis contents", "Je contente suis"],
+      "correctAnswer": "Je suis contente",
+      "explanation": "The adjective adds -e to agree with a feminine speaker."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: penses-tu / en / qu'",
+      "correctAnswer": "Qu'en penses-tu",
+      "explanation": "Qu'en penses-tu? means 'what do you think of it?'."
+    }
+  ],
+  "status": "complete"
+}

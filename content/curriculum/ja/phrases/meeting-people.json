@@ -1,0 +1,21 @@
+{
+  "slug": "meeting-people",
+  "title": "Meeting People",
+  "description": "Introduce yourself, exchange names, and make a warm first impression in Japanese.",
+  "situation": "First meetings: names, where you are from, your job, and the polite set phrases that frame every introduction.",
+  "order": 2,
+  "phrases": [
+    { "native": "はじめまして", "transliteration": "hajimemashite", "english": "Nice to meet you (first time)", "pronunciation": "hah-jee-meh-mash-teh", "formality": "formal", "tip": "Literally 'for the first time'; it opens almost every introduction." },
+    { "native": "私は田中です", "transliteration": "watashi wa Tanaka desu", "english": "I am Tanaka", "pronunciation": "wah-tah-shee wah tah-nah-kah dess", "formality": "formal", "tip": "Swap Tanaka for your own name; は (wa) marks the topic." },
+    { "native": "お名前は何ですか", "transliteration": "onamae wa nan desu ka", "english": "What is your name?", "pronunciation": "oh-nah-mah-eh wah nan dess kah", "formality": "formal", "tip": "The お (o) prefix shows respect for the other person's name." },
+    { "native": "よろしくお願いします", "transliteration": "yoroshiku onegai shimasu", "english": "Pleased to meet you / Please treat me well", "pronunciation": "yoh-roh-shee-koo oh-neh-gai shee-mahs", "formality": "formal", "tip": "Close every first meeting with this; there is no direct English match." },
+    { "native": "出身はどちらですか", "transliteration": "shusshin wa dochira desu ka", "english": "Where are you from?", "pronunciation": "shoo-sheen wah doh-chee-rah dess kah", "formality": "formal" },
+    { "native": "オーストラリアから来ました", "transliteration": "Oosutoraria kara kimashita", "english": "I came from Australia", "pronunciation": "oh-stoh-rah-ree-ah kah-rah kee-mash-tah", "formality": "formal", "tip": "から (kara) means 'from'; replace the country as needed." },
+    { "native": "お仕事は何ですか", "transliteration": "oshigoto wa nan desu ka", "english": "What is your job?", "pronunciation": "oh-shee-goh-toh wah nan dess kah", "formality": "formal" },
+    { "native": "会えて嬉しいです", "transliteration": "aete ureshii desu", "english": "I'm happy to meet you", "pronunciation": "ah-eh-teh oo-reh-shee dess", "formality": "neutral" },
+    { "native": "名刺をどうぞ", "transliteration": "meishi o douzo", "english": "Here is my business card", "pronunciation": "may-shee oh doh-zoh", "formality": "formal", "tip": "Offer and receive cards with both hands; it is a respected ritual." },
+    { "native": "趣味は何ですか", "transliteration": "shumi wa nan desu ka", "english": "What are your hobbies?", "pronunciation": "shoo-mee wah nan dess kah", "formality": "neutral" },
+    { "native": "また会いましょう", "transliteration": "mata aimashou", "english": "Let's meet again", "pronunciation": "mah-tah ai-mah-shoh", "formality": "neutral" },
+    { "native": "連絡してもいいですか", "transliteration": "renraku shite mo ii desu ka", "english": "May I contact you?", "pronunciation": "ren-rah-koo shteh moh ee dess kah", "formality": "formal" }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "emergencies",
+  "title": "Emergency Phrases",
+  "description": "12 critical phrases for emergencies — medical, safety, and urgent situations. Print these out and keep them accessible.",
+  "situation": "Medical emergencies, accidents, theft, police interaction, and urgent help situations.",
+  "order": 7,
+  "phrases": [
+    { "spanish": "¡Ayuda!", "english": "Help!", "pronunciation": "ah-YOO-dah", "formality": "neutral", "tip": "Also '¡Socorro!' for more urgent/desperate situations" },
+    { "spanish": "Llame a la policía", "english": "Call the police", "pronunciation": "YAH-meh ah lah poh-lee-SEE-ah", "formality": "formal" },
+    { "spanish": "Llame a una ambulancia", "english": "Call an ambulance", "pronunciation": "YAH-meh ah OO-nah ahm-boo-LAHN-see-ah", "formality": "formal" },
+    { "spanish": "Necesito un médico", "english": "I need a doctor", "pronunciation": "neh-seh-SEE-toh oon MEH-dee-koh", "formality": "neutral" },
+    { "spanish": "Me han robado", "english": "I've been robbed", "pronunciation": "meh ahn rroh-BAH-doh", "formality": "neutral", "tip": "Go to the nearest police station ('comisaría') to file a report" },
+    { "spanish": "He perdido mi pasaporte", "english": "I've lost my passport", "pronunciation": "eh pehr-DEE-doh mee pah-sah-POHR-teh", "formality": "neutral" },
+    { "spanish": "¿Dónde está el hospital más cercano?", "english": "Where is the nearest hospital?", "pronunciation": "DOHN-deh ehs-TAH ehl ohs-pee-TAHL mahs sehr-KAH-noh", "formality": "formal" },
+    { "spanish": "Soy alérgico/alérgica a...", "english": "I'm allergic to...", "pronunciation": "soy ah-LEHR-hee-koh/kah ah", "formality": "neutral", "tip": "Carry this info written down: penicilina, mariscos, frutos secos" },
+    { "spanish": "Tengo un seguro de viaje", "english": "I have travel insurance", "pronunciation": "TEHN-goh oon seh-GOO-roh deh bee-AH-heh", "formality": "formal" },
+    { "spanish": "¡Fuego!", "english": "Fire!", "pronunciation": "FWEH-goh", "formality": "neutral" },
+    { "spanish": "Necesito contactar a mi embajada", "english": "I need to contact my embassy", "pronunciation": "neh-seh-SEE-toh kohn-tahk-TAHR ah mee ehm-bah-HAH-dah", "formality": "formal" },
+    { "spanish": "No me siento bien", "english": "I don't feel well", "pronunciation": "noh meh see-EHN-toh bee-EHN", "formality": "neutral" }
+  ]
+}

@@ -1,12 +1,13 @@
 {
   "rank": 171,
-  "chinese": "买",
-  "characters": "买",
-  "pinyin": "mǎi",
-  "english": "to buy",
-  "partOfSpeech": "verb",
-  "exampleZh": "我想买一本书。",
-  "exampleEn": "I want to buy a book.",
+  "chinese": "而是",
+  "characters": "而是",
+  "pinyin": "ér shì",
+  "english": "Rather",
+  "pronunciation": "er-shi",
+  "partOfSpeech": "conjunction",
+  "exampleZh": "我想去，而是今天很忙。",
+  "exampleEn": "I want to go, but I am busy today.",
   "group": "everyday-250",
-  "topic": "actions"
+  "topic": "basics"
 }

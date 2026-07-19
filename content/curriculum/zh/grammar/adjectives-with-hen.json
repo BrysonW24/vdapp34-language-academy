@@ -1,0 +1,26 @@
+{
+  "slug": "adjectives-with-hen",
+  "name": "Adjectives with 很",
+  "nameZh": "形容词和很",
+  "summary": "Chinese adjectives act like verbs and usually pair with 很, dropping the word for 'is'.",
+  "level": "beginner",
+  "order": 5,
+  "explanation": "A big surprise for beginners: with adjectives, Chinese does not use 是 (shì, to be). Instead the adjective behaves like a verb and is normally preceded by 很 (hěn): 我很忙 (wǒ hěn máng) = I am busy.\n\nHere 很 is often just a connector and does not always mean 'very'. Saying 我忙 alone sounds incomplete or comparative, so 很 fills the gap. To truly stress 'very', you can use 非常 (fēicháng).\n\nTo negate, put 不 before the adjective: 我不忙 (wǒ bù máng) = I am not busy. The 很 drops in the negative.",
+  "pattern": "Subject + 很 + adjective  |  negative: Subject + 不 + adjective",
+  "examples": [
+    { "zh": "她很高。", "en": "She is tall." },
+    { "zh": "今天很冷。", "en": "Today is cold." },
+    { "zh": "这个菜很好吃。", "en": "This dish is delicious." },
+    { "zh": "我不累。", "en": "I am not tired. (no 很 in the negative)" },
+    { "zh": "他非常忙。", "en": "He is extremely busy. (真 stress with 非常)" },
+    { "zh": "你的中文很好。", "en": "Your Chinese is very good." }
+  ],
+  "commonMistakes": [
+    "Adding 是 before an adjective: it is 我很高, not 我是高.",
+    "Dropping 很 in a plain positive statement, which makes it sound comparative or unfinished.",
+    "Keeping 很 in the negative: it is 我不忙, not 我不很忙.",
+    "Translating 很 always as 'very'. In a neutral sentence it is just the standard connector.",
+    "Treating adjectives as needing a separate verb. The adjective is the predicate itself."
+  ],
+  "tip": "Picture the pattern Subject + 很 + adjective as a fixed frame. Slot any adjective into it and you have a correct sentence."
+}

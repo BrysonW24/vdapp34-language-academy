@@ -1,0 +1,21 @@
+{
+  "slug": "survival",
+  "title": "Survival Thai",
+  "description": "The essential phrases to get by anywhere in Thailand. Learn these first.",
+  "situation": "Absolute basics: greetings, please, thank you, help, and signalling when you do not understand.",
+  "order": 1,
+  "phrases": [
+    { "thai": "สวัสดี", "pronunciation": "sa-wat-dee", "english": "Hello / Goodbye", "formality": "neutral", "tip": "Add ครับ (khrap) if you are male, ค่ะ (kha) if female, to be polite." },
+    { "thai": "ขอบคุณ", "pronunciation": "khop-khun", "english": "Thank you", "formality": "neutral", "tip": "Politer with the particle: ขอบคุณครับ / ขอบคุณค่ะ." },
+    { "thai": "ขอโทษ", "pronunciation": "kho-thot", "english": "Sorry / Excuse me", "formality": "neutral", "tip": "Works to apologise and to get attention." },
+    { "thai": "ใช่ / ไม่ใช่", "pronunciation": "chai / mai-chai", "english": "Yes / No", "formality": "neutral", "tip": "Thai often echoes the verb instead of a plain yes/no." },
+    { "thai": "ไม่เป็นไร", "pronunciation": "mai-pen-rai", "english": "It's okay / No worries", "formality": "neutral", "tip": "A famous, very useful Thai phrase." },
+    { "thai": "ไม่เข้าใจ", "pronunciation": "mai-khao-jai", "english": "I don't understand", "formality": "neutral", "tip": "The single most useful survival phrase." },
+    { "thai": "พูดภาษาอังกฤษได้ไหม", "pronunciation": "phuut paasaa angkrit dai mai", "english": "Do you speak English?", "formality": "neutral" },
+    { "thai": "พูดช้าๆ ได้ไหม", "pronunciation": "phuut chaa-chaa dai mai", "english": "Can you speak slowly?", "formality": "neutral" },
+    { "thai": "เท่าไหร่", "pronunciation": "thao-rai", "english": "How much?", "formality": "neutral" },
+    { "thai": "ห้องน้ำอยู่ที่ไหน", "pronunciation": "hong-nam yuu thii-nai", "english": "Where is the toilet?", "formality": "neutral" },
+    { "thai": "ช่วยด้วย", "pronunciation": "chuay-duay", "english": "Help!", "formality": "neutral" },
+    { "thai": "ลาก่อน", "pronunciation": "laa-kon", "english": "Goodbye", "formality": "neutral", "tip": "Casual: แล้วเจอกัน (laeo joe kan), see you." }
+  ]
+}

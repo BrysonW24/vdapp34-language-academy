@@ -1,0 +1,26 @@
+{
+  "slug": "articles",
+  "name": "Definite & Indefinite Articles",
+  "nameEs": "Los Artículos Definidos e Indefinidos",
+  "summary": "Master el, la, los, las (the) and un, una (a/an) — the building blocks of every Spanish noun phrase.",
+  "level": "beginner",
+  "order": 1,
+  "explanation": "Every noun in Spanish has a gender (masculine or feminine) and number (singular or plural). Articles must match both. Definite articles (el, la, los, las) translate to 'the' and refer to specific things. Indefinite articles (un, una, unos, unas) translate to 'a/an/some' and refer to non-specific things.\n\nUnlike English, Spanish uses definite articles with general concepts: 'Me gusta el chocolate' (I like chocolate — all chocolate in general). This is one of the most common mistakes English speakers make. Spanish also uses articles with titles ('el señor García'), days of the week ('el lunes' = on Monday), and languages after certain verbs.\n\nThe neuter article 'lo' exists but isn't used with nouns — it's used with adjectives to create abstract concepts: 'lo bueno' (the good thing), 'lo importante' (what's important). This is a more advanced usage you'll encounter as you progress.",
+  "pattern": "el/la/los/las + noun (definite) | un/una/unos/unas + noun (indefinite)",
+  "examples": [
+    { "es": "El libro es interesante", "en": "The book is interesting" },
+    { "es": "La casa es grande", "en": "The house is big" },
+    { "es": "Los niños juegan en el parque", "en": "The children play in the park" },
+    { "es": "Las manzanas son rojas", "en": "The apples are red" },
+    { "es": "Tengo un gato y una perra", "en": "I have a (male) cat and a (female) dog" },
+    { "es": "Me gusta el café", "en": "I like coffee (in general — article required)" }
+  ],
+  "commonMistakes": [
+    "Dropping the article with general concepts: 'Me gusta café' should be 'Me gusta el café'",
+    "Wrong gender: 'la libro' should be 'el libro' — libro is masculine",
+    "Forgetting that 'el' + 'a' = 'al' and 'de' + 'el' = 'del' (mandatory contractions)",
+    "Using 'un' before feminine nouns starting with stressed 'a': it's 'el agua' but 'las aguas' — the noun is still feminine",
+    "Adding articles before professions with ser: 'Soy un profesor' should usually be 'Soy profesor'"
+  ],
+  "tip": "When in doubt about gender, remember: most nouns ending in -o are masculine, most ending in -a are feminine. But watch out for exceptions like 'el día' (masculine) and 'la mano' (feminine)."
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "location-particles",
+  "name": "Location Particles (에 and 에서)",
+  "nameNative": "장소 조사 (에/에서)",
+  "summary": "Tell where things are and where actions happen with the particles 에 and 에서.",
+  "level": "elementary",
+  "order": 11,
+  "explanation": "Two particles handle location in Korean, and the difference is important. 에 (e) marks a destination or a static location: where you go, where something exists, or a point in time. 학교에 가요 (hakgyoe gayo, I go to school) and 집에 있어요 (jibe isseoyo, I am at home) both use 에.\n\n에서 (eseo) marks the place where an action happens. If a verb describes an activity like eating, studying, or working, the location takes 에서: 식당에서 밥을 먹어요 (sikdangeseo babeul meogeoyo, I eat at the restaurant). 에서 also means 'from' a starting point: 서울에서 왔어요 (I came from Seoul).\n\nA simple test: with 있다/없다 (to exist) and verbs of going or arriving, use 에. With active verbs that do something at a place, use 에서. 에 also attaches to time words: 세 시에 (at three o'clock), 월요일에 (on Monday).",
+  "pattern": "place + 에 (location/destination/time)  |  place + 에서 (action location / from)",
+  "conjugation": {
+    "destination": "학교에 가요 (go to school)",
+    "static location": "집에 있어요 (be at home)",
+    "action location": "카페에서 공부해요 (study at the cafe)",
+    "from (origin)": "서울에서 왔어요 (came from Seoul)",
+    "time point": "세 시에 만나요 (meet at three)"
+  },
+  "examples": [
+    { "native": "회사에 가요. (hoesae gayo.)", "en": "I go to the office." },
+    { "native": "가방이 책상 위에 있어요. (gabangi chaeksang wie isseoyo.)", "en": "The bag is on the desk." },
+    { "native": "도서관에서 공부해요. (doseogwaneseo gongbuhaeyo.)", "en": "I study at the library." },
+    { "native": "호주에서 왔어요. (hojueseo wasseoyo.)", "en": "I came from Australia." },
+    { "native": "여섯 시에 저녁을 먹어요. (yeoseot sie jeonyeogeul meogeoyo.)", "en": "I eat dinner at six o'clock." },
+    { "native": "공원에서 친구를 만났어요. (gongwoneseo chingureul mannasseoyo.)", "en": "I met a friend at the park." }
+  ],
+  "commonMistakes": [
+    "Using 에 with an active verb. Actions like eating or studying take 에서: 식당에서 먹어요, not 식당에 먹어요.",
+    "Using 에서 with 있다/없다. Existence and location take 에: 집에 있어요, not 집에서 있어요.",
+    "Forgetting that 에서 also means 'from' a starting point, as in 서울에서 왔어요.",
+    "Attaching 에서 to a time word. Times take 에: 세 시에, never 세 시에서.",
+    "Dropping the particle after a place. Korean needs 에 or 에서 to show the location's role."
+  ],
+  "tip": "Still verbs and destinations take 에; busy action verbs take 에서. Time always takes 에."
+}

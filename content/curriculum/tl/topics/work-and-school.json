@@ -1,0 +1,90 @@
+{
+  "slug": "work-and-school",
+  "title": "Work & School",
+  "titleNative": "Trabaho at Paaralan",
+  "shortSummary": "Talk about jobs, studies, and the workday in Filipino, from the classroom to the office.",
+  "level": "beginner",
+  "order": 9,
+  "icon": "💼",
+  "color": "#1971c2",
+  "culturalNote": "Education is deeply valued in Filipino families, often seen as the path out of poverty, and parents make great sacrifices, including working overseas as OFWs (Overseas Filipino Workers), so children can study. Respect for teachers (guro) runs high; students address them as Ma'am or Sir even outside school. Many Filipinos are bilingual at work, switching between Filipino and English, a blend playfully called Taglish. Workplaces value pakikisama (getting along) and harmony, so colleagues often share food and join after-work bonding. Punctuality matters at the office even where social events run on Filipino time. Graduations are major family celebrations, and earning a diploma honours the whole family's sacrifice, reflecting the strong sense of utang na loob children feel toward their parents.",
+  "keyPhrases": [
+    { "native": "Saan ka nagtatrabaho?", "english": "Where do you work?", "pronunciation": "sa-AN ka nag-ta-tra-BA-ho", "context": "Asking about a job" },
+    { "native": "Nagtatrabaho ako sa opisina.", "english": "I work in an office.", "pronunciation": "nag-ta-tra-BA-ho a-KO sa o-pi-SI-na", "context": "Stating a workplace" },
+    { "native": "Estudyante pa ako.", "english": "I am still a student.", "pronunciation": "es-tud-YAN-te pa a-KO", "context": "If you study" },
+    { "native": "Ano ang kurso mo?", "english": "What is your course?", "pronunciation": "a-NO ang KUR-so mo", "context": "Asking about studies" },
+    { "native": "Nag-aaral ako ng inhinyeriya.", "english": "I study engineering.", "pronunciation": "nag-a-A-ral a-KO nang in-hin-yer-YA", "context": "Field of study" },
+    { "native": "Guro ang trabaho ko.", "english": "My job is teaching.", "pronunciation": "GU-ro ang tra-BA-ho ko", "context": "Stating a profession" },
+    { "native": "May meeting kami mamaya.", "english": "We have a meeting later.", "pronunciation": "may MI-ting ka-MI ma-MA-ya", "context": "Office talk" },
+    { "native": "Marami akong gagawin.", "english": "I have a lot to do.", "pronunciation": "ma-ra-MI a-KONG ga-ga-WIN", "context": "Being busy" },
+    { "native": "Anong oras ka uuwi?", "english": "What time will you go home?", "pronunciation": "a-NONG O-ras ka u-U-wi", "context": "End of workday" },
+    { "native": "Pasado na ako sa exam!", "english": "I passed the exam!", "pronunciation": "pa-SA-do na a-KO sa ek-SAM", "context": "Sharing good news" }
+  ],
+  "grammar": [
+    {
+      "rule": "Forming verbs from work words with mag-",
+      "explanation": "The prefix mag- turns a noun into a verb of doing. Trabaho (work) becomes magtrabaho (to work); aral (study) becomes mag-aral (to study). The habitual form doubles a syllable: nagtatrabaho (works), nag-aaral (studies).",
+      "examples": [
+        { "native": "Nagtatrabaho ako sa bangko.", "en": "I work at a bank." },
+        { "native": "Nag-aaral siya sa unibersidad.", "en": "She studies at university." }
+      ],
+      "commonMistake": "Forgetting the hyphen and doubling in mag-aaral; aral starts with a vowel, so it is nag-aaral, not nagaaral."
+    },
+    {
+      "rule": "Future tense by doubling without nag-",
+      "explanation": "For future actions, double the first syllable of the verb stem but keep it in the basic (mag- or -um-) future shape: uuwi (will go home), gagawin (will do), bibili (will buy). This expresses an action that has not happened yet.",
+      "examples": [
+        { "native": "Uuwi ako mamaya.", "en": "I will go home later." },
+        { "native": "Marami akong gagawin bukas.", "en": "I have a lot to do tomorrow." }
+      ],
+      "commonMistake": "Using the past form when you mean the future, for example umuwi (went home) instead of uuwi (will go home)."
+    }
+  ],
+  "dialogue": {
+    "setup": "Old classmates Bea and Carlo catch up about work and study.",
+    "lines": [
+      { "speaker": "Bea", "native": "Kumusta, Carlo? Saan ka na nagtatrabaho?", "english": "How are you, Carlo? Where do you work now?" },
+      { "speaker": "Carlo", "native": "Nagtatrabaho ako sa opisina sa Makati. Ikaw?", "english": "I work in an office in Makati. And you?" },
+      { "speaker": "Bea", "native": "Estudyante pa ako. Nag-aaral ako ng accounting.", "english": "I am still a student. I study accounting." },
+      { "speaker": "Carlo", "native": "Galing! Mahirap ba ang kurso mo?", "english": "Nice! Is your course difficult?" },
+      { "speaker": "Bea", "native": "Medyo, pero pasado na ako sa exam kahapon!", "english": "A bit, but I passed the exam yesterday!" },
+      { "speaker": "Carlo", "native": "Congrats! Ako, may meeting pa ako mamaya.", "english": "Congrats! As for me, I still have a meeting later." },
+      { "speaker": "Bea", "native": "Sige, ingat sa trabaho. Salamat sa kuwento!", "english": "Okay, take care at work. Thanks for the chat!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you ask 'Where do you work?' in Filipino?",
+      "correctAnswer": "Saan ka nagtatrabaho?",
+      "explanation": "Saan (where) plus the habitual verb nagtatrabaho (work)."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does 'guro' mean?",
+      "options": ["Doctor", "Teacher", "Driver", "Engineer"],
+      "correctAnswer": "Teacher",
+      "explanation": "Guro means teacher, a deeply respected role in Filipino culture."
+    },
+    {
+      "type": "fill-blank",
+      "question": "Nag-_____ral ako ng inhinyeriya. (double the syllable for the habit)",
+      "correctAnswer": "a",
+      "explanation": "The habitual study verb is nag-aaral (studies)."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which sentence means 'I will go home later'?",
+      "options": ["Umuwi ako mamaya", "Uuwi ako mamaya", "Umuuwi ako kahapon", "Uwi na ako"],
+      "correctAnswer": "Uuwi ako mamaya",
+      "explanation": "Uuwi is the future form; umuwi is past."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: opisina / sa / ako / nagtatrabaho",
+      "correctAnswer": "Nagtatrabaho ako sa opisina",
+      "explanation": "Nagtatrabaho ako sa opisina means 'I work in an office'."
+    }
+  ],
+  "status": "complete"
+}

@@ -1,7 +1,9 @@
+const path = require('path')
+
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
-  transpilePackages: ['three'],
+  outputFileTracingRoot: __dirname,
   images: {
     unoptimized: true,
   },
@@ -47,6 +49,6 @@ const nextConfig = {
       ],
     },
   ],
-};
+}
 
-module.exports = nextConfig;
+module.exports = nextConfig

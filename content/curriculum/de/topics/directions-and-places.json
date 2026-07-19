@@ -1,0 +1,90 @@
+{
+  "slug": "directions-and-places",
+  "title": "Directions & Places",
+  "titleDe": "Wegbeschreibung und Orte",
+  "shortSummary": "Ask for and understand directions, and name the places around a German town.",
+  "level": "elementary",
+  "order": 6,
+  "icon": "🗺️",
+  "color": "#2f4f79",
+  "culturalNote": "German towns are built around a central Marktplatz (market square) and are very walkable and cyclable, with excellent public transport. People generally give precise, accurate directions and will often walk you part of the way. Knowing the difference between the U-Bahn (underground), S-Bahn (suburban rail), and Straßenbahn (tram) helps a lot in any city.",
+  "keyPhrases": [
+    { "german": "Wo ist...?", "english": "Where is...?", "pronunciation": "voh ist", "context": "The core question" },
+    { "german": "Wie komme ich zum Bahnhof?", "english": "How do I get to the station?", "pronunciation": "vee KOM-muh ikh tsoom BAHN-hohf", "context": "Asking for a route" },
+    { "german": "geradeaus", "english": "straight ahead", "pronunciation": "guh-RAH-duh-ows", "context": "A key direction word" },
+    { "german": "nach links / nach rechts", "english": "to the left / to the right", "pronunciation": "nahkh links / nahkh rekhts", "context": "Turning directions" },
+    { "german": "an der Ecke", "english": "at the corner", "pronunciation": "ahn dair EK-kuh", "context": "Describing a location" },
+    { "german": "gegenüber", "english": "opposite", "pronunciation": "GAY-gen-oo-ber", "context": "Across from something" },
+    { "german": "in der Nähe", "english": "nearby", "pronunciation": "in dair NAY-uh", "context": "Close by" },
+    { "german": "Ist es weit?", "english": "Is it far?", "pronunciation": "ist es vyte", "context": "Checking distance" },
+    { "german": "die Haltestelle", "english": "the stop (bus/tram)", "pronunciation": "dee HAL-tuh-shtel-uh", "context": "Public transport" },
+    { "german": "Ich habe mich verlaufen", "english": "I'm lost", "pronunciation": "ikh HAH-buh mikh fer-LOW-fen", "context": "When you need help" }
+  ],
+  "grammar": [
+    {
+      "rule": "zum and zur (to the)",
+      "explanation": "To say 'to the' for a destination, German contracts: zu + dem = zum (masculine/neuter) and zu + der = zur (feminine). 'Wie komme ich zum Markt?' but 'zur Post'.",
+      "examples": [
+        { "de": "Wie komme ich zum Bahnhof?", "en": "How do I get to the station? (masculine)" },
+        { "de": "Wie komme ich zur Apotheke?", "en": "How do I get to the pharmacy? (feminine)" }
+      ],
+      "commonMistake": "Using zum for feminine places: it is zur Apotheke, not zum Apotheke."
+    },
+    {
+      "rule": "Imperative for directions",
+      "explanation": "Directions often come as polite commands with Sie: take the verb, add the subject Sie. 'Gehen Sie geradeaus' (Go straight), 'Nehmen Sie die erste Straße links'.",
+      "examples": [
+        { "de": "Gehen Sie geradeaus.", "en": "Go straight ahead." },
+        { "de": "Biegen Sie rechts ab.", "en": "Turn right." }
+      ],
+      "commonMistake": "Forgetting to include Sie in the formal command: it is 'Gehen Sie', not just 'Gehen'."
+    }
+  ],
+  "dialogue": {
+    "setup": "A tourist stops a passer-by near the town square to find the train station.",
+    "lines": [
+      { "speaker": "Tourist", "german": "Entschuldigung, wie komme ich zum Bahnhof?", "english": "Excuse me, how do I get to the station?" },
+      { "speaker": "Passant", "german": "Gehen Sie geradeaus bis zur Ampel.", "english": "Go straight ahead to the traffic light." },
+      { "speaker": "Tourist", "german": "Und dann?", "english": "And then?" },
+      { "speaker": "Passant", "german": "Dann biegen Sie links ab. Der Bahnhof ist gegenüber der Post.", "english": "Then turn left. The station is opposite the post office." },
+      { "speaker": "Tourist", "german": "Ist es weit?", "english": "Is it far?" },
+      { "speaker": "Passant", "german": "Nein, nur fünf Minuten zu Fuß.", "english": "No, just five minutes on foot." },
+      { "speaker": "Tourist", "german": "Vielen Dank für Ihre Hilfe!", "english": "Thank you very much for your help!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'straight ahead'?",
+      "correctAnswer": "geradeaus",
+      "explanation": "geradeaus is the single word for 'straight ahead'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which is correct for a feminine destination (die Post)?",
+      "options": ["zum Post", "zur Post", "zu Post", "zer Post"],
+      "correctAnswer": "zur Post",
+      "explanation": "zu + der = zur for feminine nouns."
+    },
+    {
+      "type": "fill-blank",
+      "question": "Gehen _____ geradeaus. (formal command)",
+      "correctAnswer": "Sie",
+      "explanation": "The formal imperative keeps Sie after the verb."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does 'gegenüber' mean?",
+      "options": ["nearby", "opposite", "straight ahead", "around the corner"],
+      "correctAnswer": "opposite",
+      "explanation": "gegenüber means 'opposite' or 'across from'."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: komme / wie / zum / ich / Bahnhof",
+      "correctAnswer": "Wie komme ich zum Bahnhof",
+      "explanation": "Question word wie, verb komme second, then ich, then the destination."
+    }
+  ],
+  "status": "complete"
+}

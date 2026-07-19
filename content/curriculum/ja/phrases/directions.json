@@ -1,0 +1,21 @@
+{
+  "slug": "directions",
+  "title": "Asking Directions",
+  "description": "Find your way, ask where things are, and understand simple directions in Japanese.",
+  "situation": "Getting around: finding stations, landmarks, and shops, and following left, right, and straight-ahead directions.",
+  "order": 5,
+  "phrases": [
+    { "native": "すみません、道を教えてください", "transliteration": "sumimasen, michi o oshiete kudasai", "english": "Excuse me, please show me the way", "pronunciation": "soo-mee-mah-sen, mee-chee oh oh-shee-eh-teh koo-dah-sai", "formality": "formal" },
+    { "native": "駅はどこですか", "transliteration": "eki wa doko desu ka", "english": "Where is the station?", "pronunciation": "eh-kee wah doh-koh dess kah", "formality": "neutral", "tip": "Swap 駅 (eki, station) for any place you are looking for." },
+    { "native": "まっすぐ行ってください", "transliteration": "massugu itte kudasai", "english": "Go straight ahead", "pronunciation": "mahs-soo-goo eet-teh koo-dah-sai", "formality": "neutral" },
+    { "native": "右に曲がってください", "transliteration": "migi ni magatte kudasai", "english": "Turn right", "pronunciation": "mee-gee nee mah-gaht-teh koo-dah-sai", "formality": "neutral", "tip": "左 (hidari) is left; just swap the word to ask for a left turn." },
+    { "native": "近いですか", "transliteration": "chikai desu ka", "english": "Is it close?", "pronunciation": "chee-kai dess kah", "formality": "neutral" },
+    { "native": "歩いて行けますか", "transliteration": "aruite ikemasu ka", "english": "Can I walk there?", "pronunciation": "ah-roo-ee-teh ee-keh-mahs kah", "formality": "neutral" },
+    { "native": "どのくらいかかりますか", "transliteration": "dono kurai kakarimasu ka", "english": "How long does it take?", "pronunciation": "doh-noh koo-rai kah-kah-ree-mahs kah", "formality": "neutral" },
+    { "native": "地図を見せてください", "transliteration": "chizu o misete kudasai", "english": "Please show me on the map", "pronunciation": "chee-zoo oh mee-seh-teh koo-dah-sai", "formality": "formal" },
+    { "native": "この近くにコンビニはありますか", "transliteration": "kono chikaku ni konbini wa arimasu ka", "english": "Is there a convenience store near here?", "pronunciation": "koh-noh chee-kah-koo nee kon-bee-nee wah ah-ree-mahs kah", "formality": "neutral" },
+    { "native": "道に迷いました", "transliteration": "michi ni mayoimashita", "english": "I'm lost", "pronunciation": "mee-chee nee mah-yoy-mash-tah", "formality": "neutral", "tip": "A clear way to ask for help when you have no idea where you are." },
+    { "native": "ここはどこですか", "transliteration": "koko wa doko desu ka", "english": "Where am I (where is this place)?", "pronunciation": "koh-koh wah doh-koh dess kah", "formality": "neutral" },
+    { "native": "ありがとうございました", "transliteration": "arigatou gozaimashita", "english": "Thank you very much (for the help)", "pronunciation": "ah-ree-gah-toh goh-zai-mash-tah", "formality": "formal", "tip": "The past form ました thanks someone for help already given." }
+  ]
+}

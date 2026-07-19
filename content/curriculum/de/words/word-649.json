@@ -1,13 +1,11 @@
 {
   "rank": 649,
-  "german": "Vorteil",
-  "english": "advantage",
-  "pronunciation": "FOR-tyle",
-  "partOfSpeech": "noun",
-  "gender": "masculine",
-  "article": "der",
-  "exampleDe": "Das ist ein großer Vorteil.",
-  "exampleEn": "That is a big advantage.",
+  "german": "hält",
+  "english": "to holds",
+  "pronunciation": "h ɛ l t",
+  "partOfSpeech": "verb",
+  "exampleDe": "Er hält das heute.",
+  "exampleEn": "He holds that today.",
   "group": "confident-350",
-  "topic": "descriptions"
+  "topic": "actions"
 }

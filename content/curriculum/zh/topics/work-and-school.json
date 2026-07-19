@@ -1,0 +1,90 @@
+{
+  "slug": "work-and-school",
+  "title": "Work & School",
+  "titleZh": "工作与学习",
+  "shortSummary": "Talk about your job, your studies, and daily working life in Mandarin.",
+  "level": "pre-intermediate",
+  "order": 12,
+  "icon": "💼",
+  "color": "#6d28d9",
+  "culturalNote": "Education is highly valued in China, and the high school exam, the 高考 (gāokǎo), is one of the most important moments in a young person's life. In the workplace, relationships and respect for seniority matter, and modesty about your own achievements is seen as good manners. Exchanging a name card with both hands is a small but appreciated courtesy.",
+  "keyPhrases": [
+    { "chinese": "你做什么工作？", "pinyin": "nǐ zuò shénme gōngzuò?", "english": "What work do you do?", "context": "Asking about a job" },
+    { "chinese": "我在...工作", "pinyin": "wǒ zài... gōngzuò", "english": "I work at...", "context": "Naming your workplace" },
+    { "chinese": "我是老师", "pinyin": "wǒ shì lǎoshī", "english": "I'm a teacher", "context": "Stating your role" },
+    { "chinese": "我学习...", "pinyin": "wǒ xuéxí...", "english": "I study...", "context": "For students" },
+    { "chinese": "我在大学读书", "pinyin": "wǒ zài dàxué dúshū", "english": "I study at university", "context": "读书 means to study" },
+    { "chinese": "我有一个会议", "pinyin": "wǒ yǒu yí ge huìyì", "english": "I have a meeting", "context": "Work schedule" },
+    { "chinese": "我九点上班", "pinyin": "wǒ jiǔ diǎn shàngbān", "english": "I start work at nine", "context": "上班 / 下班" },
+    { "chinese": "同事", "pinyin": "tóngshì", "english": "colleague", "context": "People at work" },
+    { "chinese": "很忙", "pinyin": "hěn máng", "english": "very busy", "context": "Common reply" },
+    { "chinese": "辛苦了", "pinyin": "xīnkǔ le", "english": "Thanks for your hard work", "context": "Said to colleagues" }
+  ],
+  "grammar": [
+    {
+      "rule": "在 + place + verb for where you work",
+      "explanation": "To say where you work or study, use 在 (zài) plus the place before the verb: 我在银行工作 (I work at a bank), 我在大学学习 (I study at university).",
+      "examples": [
+        { "zh": "我在医院工作。", "en": "I work at a hospital." },
+        { "zh": "她在北京学习。", "en": "She studies in Beijing." }
+      ],
+      "commonMistake": "Putting the workplace after the verb: it is 在银行工作, not 工作在银行."
+    },
+    {
+      "rule": "是 for professions",
+      "explanation": "State your profession with 是 plus the job, no measure word needed: 我是医生 (I am a doctor), 他是工程师 (he is an engineer).",
+      "examples": [
+        { "zh": "我是学生。", "en": "I am a student." },
+        { "zh": "他是经理。", "en": "He is a manager." }
+      ],
+      "commonMistake": "Adding 个 unnecessarily. 我是医生 needs no measure word."
+    }
+  ],
+  "dialogue": {
+    "setup": "At a gathering, Nora and Wei get to know each other and talk about work.",
+    "lines": [
+      { "speaker": "Nora", "chinese": "你做什么工作？", "pinyin": "Nǐ zuò shénme gōngzuò?", "english": "What work do you do?" },
+      { "speaker": "伟", "chinese": "我在一家公司做工程师。你呢？", "pinyin": "Wǒ zài yì jiā gōngsī zuò gōngchéngshī. Nǐ ne?", "english": "I'm an engineer at a company. And you?" },
+      { "speaker": "Nora", "chinese": "我还在读书，学习医学。", "pinyin": "Wǒ hái zài dúshū, xuéxí yīxué.", "english": "I'm still studying, studying medicine." },
+      { "speaker": "伟", "chinese": "医学很难吧？", "pinyin": "Yīxué hěn nán ba?", "english": "Medicine is hard, right?" },
+      { "speaker": "Nora", "chinese": "很难，也很忙。", "pinyin": "Hěn nán, yě hěn máng.", "english": "Very hard, and very busy." },
+      { "speaker": "伟", "chinese": "辛苦了！加油！", "pinyin": "Xīnkǔ le! Jiāyóu!", "english": "Hard work! Keep it up!" },
+      { "speaker": "Nora", "chinese": "谢谢，你也是！", "pinyin": "Xièxie, nǐ yě shì!", "english": "Thanks, you too!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you ask 'What work do you do?'",
+      "correctAnswer": "你做什么工作",
+      "explanation": "你 + 做 (do) + 什么工作 (what work)."
+    },
+    {
+      "type": "fill-blank",
+      "question": "我_____银行工作。 (at)",
+      "correctAnswer": "在",
+      "explanation": "在 marks the workplace before the verb."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which is correct for 'I am a teacher'?",
+      "options": ["我一个老师", "我是老师", "我很老师", "我有老师"],
+      "correctAnswer": "我是老师",
+      "explanation": "是 links you to the profession, no measure word."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does 辛苦了 express?",
+      "options": ["You're late", "Thanks for your hard work", "I'm hungry", "See you tomorrow"],
+      "correctAnswer": "Thanks for your hard work",
+      "explanation": "辛苦了 acknowledges someone's effort."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: 工作 / 公司 / 在 / 我",
+      "correctAnswer": "我在公司工作",
+      "explanation": "我 + 在公司 (at the company) + 工作 (work)."
+    }
+  ],
+  "status": "complete"
+}

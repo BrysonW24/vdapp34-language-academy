@@ -1,0 +1,25 @@
+{
+  "slug": "everyday",
+  "title": "Everyday Slang",
+  "description": "The casual French young locals actually use - greetings, reactions, and filler you will not find in a textbook.",
+  "situation": "Hanging out with friends: reacting to news, making plans, and sounding natural instead of stiff.",
+  "order": 1,
+  "phrases": [
+    { "native": "Salut", "english": "Hi / Bye", "pronunciation": "sah-LEW", "formality": "informal", "tip": "The default casual greeting and goodbye with friends. Use 'Bonjour' with strangers or in shops." },
+    { "native": "Ça va ?", "english": "How's it going?", "pronunciation": "sah VAH", "formality": "informal", "tip": "Literally 'it goes?'. The reply is usually 'ça va' right back. The all-purpose check-in." },
+    { "native": "Quoi de neuf ?", "english": "What's up? / What's new?", "pronunciation": "kwah duh NUHF", "formality": "informal", "tip": "Literally 'what's new?'. A friendly opener between people who know each other." },
+    { "native": "Trop bien", "english": "So good / Awesome", "pronunciation": "troh bee-AN", "formality": "informal", "tip": "Literally 'too good'. 'Trop' is the go-to youth intensifier for 'really' or 'so'." },
+    { "native": "C'est ouf", "english": "That's crazy / Wild", "pronunciation": "say OOF", "formality": "informal", "tip": "'Ouf' is verlan (back-slang) for 'fou' (crazy). Very current among younger speakers." },
+    { "native": "Je kiffe", "english": "I love it / I'm into it", "pronunciation": "zhuh KEEF", "formality": "informal", "tip": "From Arabic 'kif'. 'Je kiffe ce son' = I love this track. Hugely common in casual speech." },
+    { "native": "C'est chelou", "english": "That's dodgy / sketchy", "pronunciation": "say shuh-LOO", "formality": "informal", "tip": "'Chelou' is verlan for 'louche' (shady). For anything that feels off or suspicious." },
+    { "native": "Un truc", "english": "A thing / a thingy", "pronunciation": "an TREWK", "formality": "informal", "tip": "The universal filler word when you can't name something. 'Passe-moi le truc' = pass me the whatsit." },
+    { "native": "Ça marche", "english": "Sounds good / Works for me", "pronunciation": "sah MARSH", "formality": "neutral", "tip": "Literally 'that walks'. The standard way to agree to a plan. Widely acceptable everywhere." },
+    { "native": "On se capte", "english": "Let's catch up / I'll hit you up", "pronunciation": "on suh KAPT", "formality": "informal", "tip": "Casual way to say you'll be in touch to meet up. Common in texts among friends." },
+    { "native": "Je suis dég", "english": "I'm gutted / so annoyed", "pronunciation": "zhuh swee DEG", "formality": "informal", "tip": "Short for 'dégouté' (disgusted). For disappointment, not literal disgust. 'Trop dég' = so bummed." },
+    { "native": "Je suis crevé", "english": "I'm exhausted / wiped out", "pronunciation": "zhuh swee kruh-VAY", "formality": "informal", "tip": "Literally 'punctured', like a flat tyre. The everyday way to say you're shattered." },
+    { "native": "Je suis fauché", "english": "I'm broke", "pronunciation": "zhuh swee foh-SHAY", "formality": "informal", "tip": "Literally 'mowed down'. The standard casual way to say you have no money." },
+    { "native": "On y va", "english": "Let's go", "pronunciation": "on ee VAH", "formality": "neutral", "tip": "Literally 'we go there'. The natural rallying call to head out. Fine in any casual setting." },
+    { "native": "Genre", "english": "Like / sort of", "pronunciation": "ZHAHN-ruh", "formality": "informal", "tip": "Dropped into speech as filler the same way English uses 'like'. 'Genre, j'sais pas' = like, I dunno." },
+    { "native": "Grave", "english": "Totally / for real", "pronunciation": "GRAHV", "formality": "informal", "tip": "Used alone as emphatic agreement. Someone says something true, you reply 'grave' = 'so true'." }
+  ]
+}

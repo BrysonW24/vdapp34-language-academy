@@ -1,0 +1,21 @@
+{
+  "slug": "restaurant",
+  "title": "At the Restaurant",
+  "description": "Order food and drinks, ask for the bill, and enjoy a meal out in Portuguese.",
+  "situation": "Restaurants and lanchonetes: getting a table, ordering, and paying.",
+  "order": 3,
+  "phrases": [
+    { "native": "Uma mesa para dois, por favor", "english": "A table for two, please", "pronunciation": "OO-mah MEH-zah PAH-rah doysh", "formality": "neutral" },
+    { "native": "O cardápio, por favor", "english": "The menu, please", "pronunciation": "oo kar-DAH-pee-oo", "formality": "neutral" },
+    { "native": "Eu queria...", "english": "I would like...", "pronunciation": "EH-oo keh-REE-ah", "formality": "neutral", "tip": "The polite way to order." },
+    { "native": "O que você recomenda?", "english": "What do you recommend?", "pronunciation": "oo kee voh-SEH heh-koh-MEN-dah", "formality": "neutral" },
+    { "native": "Um café, por favor", "english": "A coffee, please", "pronunciation": "oon kah-FEH", "formality": "neutral", "tip": "Um cafezinho is a small strong coffee." },
+    { "native": "Água sem gás", "english": "Still water", "pronunciation": "AH-gwah sayn gahs", "formality": "neutral", "tip": "Com gás is sparkling." },
+    { "native": "Sou vegetariano", "english": "I'm a vegetarian", "pronunciation": "soh veh-zheh-tah-ree-AH-noo", "formality": "neutral", "tip": "Women say vegetariana." },
+    { "native": "Está delicioso", "english": "It's delicious", "pronunciation": "es-TAH deh-lee-see-OH-zoo", "formality": "neutral" },
+    { "native": "A conta, por favor", "english": "The bill, please", "pronunciation": "ah KON-tah", "formality": "neutral" },
+    { "native": "Aceita cartão?", "english": "Do you take card?", "pronunciation": "ah-SAY-tah kar-TOWN", "formality": "neutral" },
+    { "native": "Está incluído o serviço?", "english": "Is service included?", "pronunciation": "es-TAH een-kloo-EE-doo oo ser-VEE-soo", "formality": "neutral", "tip": "A 10% service charge is common." },
+    { "native": "Saúde!", "english": "Cheers!", "pronunciation": "sah-OO-jee", "formality": "neutral" }
+  ]
+}

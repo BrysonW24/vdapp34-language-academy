@@ -1,0 +1,21 @@
+{
+  "slug": "restaurant",
+  "title": "At the Restaurant",
+  "description": "Order food and drinks, ask for the bill, and enjoy a meal out in Mandarin.",
+  "situation": "Restaurants and tea houses: getting a table, ordering, asking about dishes, and paying.",
+  "order": 3,
+  "phrases": [
+    { "chinese": "几位？", "pinyin": "jǐ wèi?", "english": "How many people?", "formality": "neutral", "tip": "What the waiter asks. Reply 两位 (liǎng wèi) = two people." },
+    { "chinese": "我要看菜单", "pinyin": "wǒ yào kàn càidān", "english": "I'd like to see the menu", "formality": "neutral" },
+    { "chinese": "你们有什么推荐？", "pinyin": "nǐmen yǒu shénme tuījiàn?", "english": "What do you recommend?", "formality": "neutral" },
+    { "chinese": "我要这个", "pinyin": "wǒ yào zhège", "english": "I'll have this one", "formality": "neutral", "tip": "Point at the menu and say 这个 (zhège), this one." },
+    { "chinese": "一瓶啤酒", "pinyin": "yì píng píjiǔ", "english": "A bottle of beer", "formality": "neutral" },
+    { "chinese": "一杯水", "pinyin": "yì bēi shuǐ", "english": "A glass of water", "formality": "neutral" },
+    { "chinese": "我吃素", "pinyin": "wǒ chī sù", "english": "I'm vegetarian", "formality": "neutral", "tip": "Literally 'I eat vegetarian'." },
+    { "chinese": "不要辣", "pinyin": "bú yào là", "english": "Not spicy, please", "formality": "neutral", "tip": "Very useful. 微辣 (wēi là) means mildly spicy." },
+    { "chinese": "很好吃", "pinyin": "hěn hǎochī", "english": "It's delicious", "formality": "neutral" },
+    { "chinese": "买单", "pinyin": "mǎidān", "english": "The bill, please", "formality": "neutral", "tip": "Also 结账 (jiézhàng). Tipping is not expected in China." },
+    { "chinese": "可以用手机支付吗？", "pinyin": "kěyǐ yòng shǒujī zhīfù ma?", "english": "Can I pay by phone?", "formality": "neutral", "tip": "WeChat Pay and Alipay are everywhere in China." },
+    { "chinese": "干杯！", "pinyin": "gānbēi!", "english": "Cheers!", "formality": "neutral", "tip": "Literally 'dry the cup'." }
+  ]
+}

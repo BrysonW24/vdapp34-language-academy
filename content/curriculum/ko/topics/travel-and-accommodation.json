@@ -1,0 +1,90 @@
+{
+  "slug": "travel-and-accommodation",
+  "title": "Travel & Accommodation",
+  "titleNative": "여행과 숙소",
+  "shortSummary": "Check in to a hotel, ask about your stay, and handle travel basics in Korean.",
+  "level": "beginner",
+  "order": 10,
+  "icon": "🧳",
+  "color": "#1098ad",
+  "culturalNote": "Korea offers everything from international hotels to 게스트하우스 (geseuteuhauseu, guesthouses), 모텔 (motel), and traditional 한옥 (hanok) stays in restored wooden houses. Many budget travellers also use 찜질방 (jjimjilbang), 24-hour bathhouses with shared sleeping areas, which are a uniquely Korean experience. Service is famously attentive and polite, and staff will use formal speech with guests, so you will often hear the 합니다 style at a front desk. Check-in (체크인, chekeuin) and check-out (체크아웃, chekeuaut) use English loanwords, making them easy to recognise. Tipping is not customary in Korea and can even cause confusion, so a sincere 감사합니다 is the right way to show appreciation. When asking for help, leading with 실례합니다 (excuse me) and keeping to the polite -요 form will always be well received.",
+  "keyPhrases": [
+    { "native": "예약했어요", "english": "I made a reservation", "transliteration": "yeyakhaesseoyo", "pronunciation": "ye-yak-hae-sso-yo", "context": "Arriving at a hotel" },
+    { "native": "체크인 하고 싶어요", "english": "I'd like to check in", "transliteration": "chekeuin hago sipeoyo", "pronunciation": "che-keu-in ha-go si-po-yo", "context": "At the front desk" },
+    { "native": "방 있어요?", "english": "Do you have a room?", "transliteration": "bang isseoyo?", "pronunciation": "bang i-sso-yo", "context": "Asking about availability" },
+    { "native": "하룻밤에 얼마예요?", "english": "How much per night?", "transliteration": "harutbame eolmayeyo?", "pronunciation": "ha-rut-ba-me ol-ma-ye-yo", "context": "Asking the nightly rate" },
+    { "native": "와이파이 있어요?", "english": "Is there Wi-Fi?", "transliteration": "waipai isseoyo?", "pronunciation": "wa-i-pa-i i-sso-yo", "context": "Checking amenities" },
+    { "native": "아침 식사가 포함돼요?", "english": "Is breakfast included?", "transliteration": "achim siksaga pohamdwaeyo?", "pronunciation": "a-chim sik-sa-ga po-ham-dwae-yo", "context": "Asking about meals" },
+    { "native": "체크아웃이 몇 시예요?", "english": "What time is check-out?", "transliteration": "chekeuausi myeot siyeyo?", "pronunciation": "che-keu-a-u-si myot si-ye-yo", "context": "Planning your departure" },
+    { "native": "짐을 맡길 수 있어요?", "english": "Can I leave my luggage?", "transliteration": "jimeul matgil su isseoyo?", "pronunciation": "ji-meul mat-gil su i-sso-yo", "context": "Storing bags" },
+    { "native": "택시를 불러 주세요", "english": "Please call a taxi", "transliteration": "taeksireul bulleo juseyo", "pronunciation": "taek-si-reul bul-lo ju-se-yo", "context": "Asking for transport help" },
+    { "native": "근처에 식당이 있어요?", "english": "Is there a restaurant nearby?", "transliteration": "geuncheoe sikdangi isseoyo?", "pronunciation": "geun-cho-e sik-dang-i i-sso-yo", "context": "Asking the staff for tips" }
+  ],
+  "grammar": [
+    {
+      "rule": "The past tense -았/었어요",
+      "explanation": "To put a verb in the past, add 았어요 if the last stem vowel is ㅏ or ㅗ, and 었어요 otherwise. 예약하다 (yeyakhada, to reserve) becomes 예약했어요 (yeyakhaesseoyo, I reserved).",
+      "examples": [
+        { "native": "예약했어요. (yeyakhaesseoyo.)", "en": "I made a reservation." },
+        { "native": "어제 도착했어요. (eoje dochakhaesseoyo.)", "en": "I arrived yesterday." }
+      ],
+      "commonMistake": "Using the present 해요 when you mean a completed action; the past needs 했어요."
+    },
+    {
+      "rule": "Wanting to do something with -고 싶어요",
+      "explanation": "To say you want to do an action, attach 고 싶어요 (go sipeoyo) to a verb stem. 체크인하다 (chekeuinhada) becomes 체크인하고 싶어요 (I want to check in).",
+      "examples": [
+        { "native": "쉬고 싶어요. (swigo sipeoyo.)", "en": "I want to rest." },
+        { "native": "한국에 가고 싶어요. (hanguge gago sipeoyo.)", "en": "I want to go to Korea." }
+      ],
+      "commonMistake": "Using 고 싶어요 to describe wanting a noun; for nouns use 을/를 + 원해요 or 갖고 싶어요 instead."
+    }
+  ],
+  "dialogue": {
+    "setup": "Mia arrives at a guesthouse front desk to check in.",
+    "lines": [
+      { "speaker": "미아", "native": "안녕하세요, 예약했어요.", "transliteration": "annyeonghaseyo, yeyakhaesseoyo.", "english": "Hello, I made a reservation." },
+      { "speaker": "직원", "native": "네, 성함이 어떻게 되세요?", "transliteration": "ne, seonghami eotteoke doeseyo?", "english": "Yes, what is your name, please?" },
+      { "speaker": "미아", "native": "미아예요. 체크인 하고 싶어요.", "transliteration": "miayeyo. chekeuin hago sipeoyo.", "english": "It's Mia. I'd like to check in." },
+      { "speaker": "직원", "native": "확인됐습니다. 와이파이 비밀번호는 여기 있어요.", "transliteration": "hwagindwaetseumnida. waipai bimilbeonhoneun yeogi isseoyo.", "english": "Confirmed. The Wi-Fi password is here." },
+      { "speaker": "미아", "native": "감사합니다. 아침 식사가 포함돼요?", "transliteration": "gamsahamnida. achim siksaga pohamdwaeyo?", "english": "Thank you. Is breakfast included?" },
+      { "speaker": "직원", "native": "네, 포함돼요. 체크아웃은 열한 시예요.", "transliteration": "ne, pohamdwaeyo. chekeuauseun yeolhan siyeyo.", "english": "Yes, it's included. Check-out is at eleven." },
+      { "speaker": "미아", "native": "알겠어요. 정말 감사합니다!", "transliteration": "algesseoyo. jeongmal gamsahamnida!", "english": "I understand. Thank you very much!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'I made a reservation' in Korean?",
+      "correctAnswer": "예약했어요",
+      "explanation": "예약했어요 (yeyakhaesseoyo) is the past tense of 예약하다, 'to reserve'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which phrase means 'I'd like to check in'?",
+      "options": ["체크인 하고 싶어요", "체크아웃이 몇 시예요?", "방 있어요?", "예약했어요"],
+      "correctAnswer": "체크인 하고 싶어요",
+      "explanation": "체크인 하고 싶어요 uses -고 싶어요 to express wanting to check in."
+    },
+    {
+      "type": "fill-blank",
+      "question": "쉬___ 싶어요. (want to rest)",
+      "correctAnswer": "고",
+      "explanation": "쉬고 싶어요 (swigo sipeoyo) means 'I want to rest'; the pattern is verb stem + 고 싶어요."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What custom around tipping applies in Korea?",
+      "options": ["Always tip 20 percent", "Tipping is not customary", "Tip only at hotels", "Tipping is required by law"],
+      "correctAnswer": "Tipping is not customary",
+      "explanation": "Tipping is not part of Korean culture; a polite 감사합니다 is the right thank-you."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: 얼마예요 / 하룻밤에 (how much per night)",
+      "correctAnswer": "하룻밤에 얼마예요",
+      "explanation": "하룻밤에 얼마예요? (harutbame eolmayeyo) asks the price per night."
+    }
+  ],
+  "status": "complete"
+}

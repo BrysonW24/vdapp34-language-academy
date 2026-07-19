@@ -1,11 +1,11 @@
 {
   "rank": 285,
-  "german": "sprechen",
-  "english": "to speak",
-  "pronunciation": "SHPRE-khen",
-  "partOfSpeech": "verb",
-  "exampleDe": "Sprechen Sie Englisch?",
-  "exampleEn": "Do you speak English?",
+  "german": "führt",
+  "english": "leads",
+  "pronunciation": "f y ɐ t",
+  "partOfSpeech": "adjective",
+  "exampleDe": "Das ist sehr führt.",
+  "exampleEn": "That is very leads.",
   "group": "everyday-250",
-  "topic": "communication"
+  "topic": "descriptions"
 }

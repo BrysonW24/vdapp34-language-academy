@@ -1,0 +1,32 @@
+{
+  "slug": "dative-case",
+  "name": "The Dative Case",
+  "nameDe": "Der Dativ",
+  "summary": "The case of the indirect object: to whom or for whom something happens.",
+  "level": "elementary",
+  "order": 9,
+  "explanation": "The dative marks the indirect object, usually the person who receives or benefits from an action. In 'Ich gebe dem Mann das Buch' (I give the man the book), 'dem Mann' is dative (the receiver) and 'das Buch' is accusative (the thing given).\n\nThe articles change clearly in the dative: der -> dem, die -> der, das -> dem, and plural die -> den (and the noun adds -n). So: dem Mann, der Frau, dem Kind, den Kindern.\n\nMany common verbs always take the dative, including helfen (to help), danken (to thank), gefallen (to please), and gehören (to belong). Certain prepositions also force the dative: mit, nach, bei, seit, von, zu, aus.",
+  "pattern": "der -> dem, die -> der, das -> dem, plural die -> den (+n)",
+  "cases": {
+    "masculine": "der -> dem",
+    "feminine": "die -> der",
+    "neuter": "das -> dem",
+    "plural": "die -> den (noun + n)"
+  },
+  "examples": [
+    { "de": "Ich gebe dem Kind einen Apfel.", "en": "I give the child an apple." },
+    { "de": "Kannst du mir helfen?", "en": "Can you help me? (helfen takes dative)" },
+    { "de": "Das Buch gehört der Lehrerin.", "en": "The book belongs to the teacher." },
+    { "de": "Wir fahren mit dem Bus.", "en": "We travel by bus. (mit + dative)" },
+    { "de": "Nach der Arbeit gehe ich nach Hause.", "en": "After work I go home. (nach + dative)" },
+    { "de": "Der Film gefällt mir.", "en": "I like the film. (literally: the film pleases me)" }
+  ],
+  "commonMistakes": [
+    "Using the accusative after dative prepositions: it is 'mit dem Bus', not 'mit den Bus'.",
+    "Forgetting the extra -n on plural nouns in the dative: 'mit den Kindern', not 'mit den Kinder'.",
+    "Treating helfen and danken as accusative verbs. They always take the dative: 'Ich helfe dir'.",
+    "Mixing up 'der' as masculine nominative with 'der' as feminine dative. Context and the verb tell you which.",
+    "Saying 'Ich gefalle den Film'. The thing liked is the subject: 'Der Film gefällt mir'."
+  ],
+  "tip": "Learn the dative prepositions as a rhythmic chant: aus, bei, mit, nach, seit, von, zu. Anything after them is automatically dative."
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "near-future",
+  "name": "The Near Future (aller + infinitive)",
+  "nameNative": "Le futur proche",
+  "summary": "Talk about what's going to happen with aller plus an infinitive, just like English 'going to'.",
+  "level": "elementary",
+  "order": 9,
+  "explanation": "The easiest way to talk about the future in French is the futur proche: conjugate aller (to go) in the present, then add an infinitive. Je vais manger (I am going to eat) works exactly like the English 'going to'.\n\nFirst you need aller: je vais, tu vas, il va, nous allons, vous allez, ils vont. Then attach any infinitive: je vais partir (I'm going to leave), nous allons voir (we are going to see).\n\nTo make it negative, wrap aller in ne ... pas: je ne vais pas sortir (I'm not going to go out). This form is far more common in speech than the simple future tense.",
+  "pattern": "aller (present) + infinitive",
+  "conjugation": {
+    "je": "vais + infinitive",
+    "tu": "vas + infinitive",
+    "il/elle": "va + infinitive",
+    "nous": "allons + infinitive",
+    "vous": "allez + infinitive",
+    "ils/elles": "vont + infinitive"
+  },
+  "examples": [
+    { "native": "Je vais manger.", "en": "I am going to eat." },
+    { "native": "Tu vas voir.", "en": "You are going to see." },
+    { "native": "Il va pleuvoir.", "en": "It is going to rain." },
+    { "native": "Nous allons partir demain.", "en": "We are going to leave tomorrow." },
+    { "native": "Vous allez aimer ça.", "en": "You are going to like this." },
+    { "native": "Je ne vais pas sortir ce soir.", "en": "I'm not going to go out tonight." }
+  ],
+  "commonMistakes": [
+    "Conjugating the second verb. After aller it stays an infinitive: je vais partir, not je vais pars.",
+    "Forgetting to conjugate aller itself. It must agree with the subject: nous allons, not nous va.",
+    "Placing the infinitive before aller. The order is aller + infinitive.",
+    "Negating only one part: it is je ne vais pas manger.",
+    "Using the present of the main verb to mean the future. Use aller + infinitive instead."
+  ],
+  "tip": "Think 'going to'. Conjugate aller, add the action, and you have a natural, everyday future."
+}

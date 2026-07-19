@@ -1,0 +1,34 @@
+{
+  "slug": "past-tense-preterite",
+  "name": "Past Tense — Preterite",
+  "nameEs": "El Pretérito Indefinido",
+  "summary": "Talk about completed past actions — what happened yesterday, last week, or at a specific time. The essential past tense for storytelling.",
+  "level": "pre-intermediate",
+  "order": 11,
+  "explanation": "The preterite (pretérito indefinido) is used for actions that started and finished at a specific time in the past. Think of it as the 'snapshot' tense — it captures completed events: 'Ayer comí paella' (Yesterday I ate paella), 'Viajé a España en 2023' (I travelled to Spain in 2023).\n\n-AR verbs take the endings: -é, -aste, -ó, -amos, -asteis, -aron. -ER and -IR verbs share: -í, -iste, -ió, -imos, -isteis, -ieron. Notice that -AR and -ER/-IR nosotros forms look identical to the present tense — context tells you which tense is meant.\n\nSeveral common verbs are irregular in the preterite: ir/ser (fui, fuiste, fue, fuimos, fuisteis, fueron — yes, ir and ser have the same preterite forms!), hacer (hice, hiciste, hizo...), estar (estuve...), tener (tuve...), poder (pude...), poner (puse...). These must be memorised individually.",
+  "pattern": "-AR: -é, -aste, -ó, -amos, -asteis, -aron | -ER/-IR: -í, -iste, -ió, -imos, -isteis, -ieron",
+  "conjugation": {
+    "yo": "-é / -í (hablé / comí / viví)",
+    "tu": "-aste / -iste (hablaste / comiste / viviste)",
+    "el": "-ó / -ió (habló / comió / vivió)",
+    "nosotros": "-amos / -imos (hablamos / comimos / vivimos)",
+    "vosotros": "-asteis / -isteis (hablasteis / comisteis / vivisteis)",
+    "ellos": "-aron / -ieron (hablaron / comieron / vivieron)"
+  },
+  "examples": [
+    { "es": "Ayer trabajé hasta las ocho", "en": "Yesterday I worked until eight" },
+    { "es": "¿Qué comiste anoche?", "en": "What did you eat last night?" },
+    { "es": "Fuimos al cine el sábado", "en": "We went to the cinema on Saturday" },
+    { "es": "Ella vivió en París tres años", "en": "She lived in Paris for three years" },
+    { "es": "Hice la compra esta mañana", "en": "I did the shopping this morning" },
+    { "es": "No pude ir a la fiesta", "en": "I couldn't go to the party" }
+  ],
+  "commonMistakes": [
+    "Forgetting accent marks: 'hable' (subjunctive) vs 'hablé' (preterite) — the accent matters",
+    "Using present tense for past events: 'Ayer como paella' should be 'Ayer comí paella'",
+    "Not knowing ir and ser share preterite forms: 'fui al banco' (I went) and 'fue difícil' (it was difficult)",
+    "Regularising irregular preterites: 'yo hací' should be 'yo hice'",
+    "Confusing -ar nosotros present and preterite: 'hablamos' can be present or preterite — context determines which"
+  ],
+  "tip": "Time markers help identify the preterite: ayer (yesterday), anoche (last night), la semana pasada (last week), el año pasado (last year), en 2023, hace dos días (two days ago). If you see these, use the preterite."
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "directions",
+  "title": "Asking for Directions",
+  "description": "Find your way around a German city: ask where things are and understand the answer.",
+  "situation": "Getting around: asking for places, understanding left and right, and using public transport.",
+  "order": 5,
+  "phrases": [
+    { "german": "Entschuldigung, wo ist...?", "english": "Excuse me, where is...?", "pronunciation": "ent-SHOOL-di-goong voh ist", "formality": "neutral" },
+    { "german": "Wie komme ich zum Bahnhof?", "english": "How do I get to the train station?", "pronunciation": "vee KOM-muh ikh tsoom BAHN-hohf", "formality": "neutral", "tip": "Use 'zum' for masculine/neuter places, 'zur' for feminine: zur Post." },
+    { "german": "Ist es weit?", "english": "Is it far?", "pronunciation": "ist es vyte", "formality": "neutral" },
+    { "german": "Geradeaus", "english": "Straight ahead", "pronunciation": "guh-RAH-duh-ows", "formality": "neutral" },
+    { "german": "Links / Rechts", "english": "Left / Right", "pronunciation": "links / rekhts", "formality": "neutral" },
+    { "german": "An der Ampel", "english": "At the traffic light", "pronunciation": "ahn dair AHM-pel", "formality": "neutral" },
+    { "german": "Um die Ecke", "english": "Around the corner", "pronunciation": "oom dee EK-kuh", "formality": "neutral" },
+    { "german": "Welche Linie fährt zum Zentrum?", "english": "Which line goes to the centre?", "pronunciation": "VEL-khuh LEE-nee-uh fairt tsoom TSEN-troom", "formality": "neutral", "tip": "Useful for the U-Bahn (metro) and S-Bahn (suburban train)." },
+    { "german": "Wo ist die nächste Haltestelle?", "english": "Where is the nearest stop?", "pronunciation": "voh ist dee NEKH-stuh HAL-tuh-shtel-uh", "formality": "neutral" },
+    { "german": "Können Sie es mir auf der Karte zeigen?", "english": "Can you show me on the map?", "pronunciation": "KUR-nen zee es meer owf dair KAR-tuh TSY-gen", "formality": "formal" },
+    { "german": "Ich habe mich verlaufen", "english": "I'm lost", "pronunciation": "ikh HAH-buh mikh fer-LOW-fen", "formality": "neutral", "tip": "Use 'verlaufen' on foot, 'verfahren' when driving." },
+    { "german": "Vielen Dank für Ihre Hilfe", "english": "Thank you very much for your help", "pronunciation": "FEE-len dahnk foor EE-ruh HIL-fuh", "formality": "formal" }
+  ]
+}

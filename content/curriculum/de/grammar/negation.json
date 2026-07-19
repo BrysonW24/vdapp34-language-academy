@@ -1,0 +1,26 @@
+{
+  "slug": "negation",
+  "name": "Negation: nicht & kein",
+  "nameDe": "Verneinung: nicht und kein",
+  "summary": "The two ways to say 'not' and 'no' in German, and when to use each.",
+  "level": "beginner",
+  "order": 4,
+  "explanation": "German has two main negation words. Use 'kein' to negate a noun that has an indefinite article or no article: 'Ich habe kein Auto' (I have no car). Kein takes the same endings as 'ein' and changes for gender and case: kein, keine, keinen.\n\nUse 'nicht' to negate everything else: verbs, adjectives, adverbs, or a noun with a definite article. 'Ich arbeite nicht' (I do not work), 'Das ist nicht gut' (That is not good).\n\nPosition matters. 'nicht' usually comes at the end of the sentence when negating the whole idea, but directly before the specific word it negates: 'Ich fahre nicht nach Berlin' (I am not going to Berlin).",
+  "pattern": "kein + noun (no/not a)  |  ... nicht (not + verb/adjective/phrase)",
+  "examples": [
+    { "de": "Ich habe kein Geld.", "en": "I have no money." },
+    { "de": "Das ist keine gute Idee.", "en": "That is not a good idea." },
+    { "de": "Er trinkt keinen Kaffee.", "en": "He doesn't drink coffee. (masculine accusative)" },
+    { "de": "Ich verstehe das nicht.", "en": "I don't understand that." },
+    { "de": "Sie ist nicht müde.", "en": "She is not tired." },
+    { "de": "Wir gehen heute nicht ins Kino.", "en": "We are not going to the cinema today." }
+  ],
+  "commonMistakes": [
+    "Using 'nicht' with an indefinite noun: it is 'Ich habe kein Auto', not 'Ich habe nicht ein Auto'.",
+    "Using 'kein' with a definite article: 'Ich mag den Film nicht', not 'Ich mag kein den Film'.",
+    "Forgetting that 'kein' changes for gender and case, like 'ein': keine Frau, keinen Mann.",
+    "Placing 'nicht' too early. To negate the whole sentence, it usually goes near the end.",
+    "Translating English 'don't' as a separate word. German has no 'do'; the negation attaches directly."
+  ],
+  "tip": "Quick test: if you could answer with 'a/an/some' in English, use kein. Otherwise use nicht."
+}

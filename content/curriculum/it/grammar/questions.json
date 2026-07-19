@@ -1,0 +1,34 @@
+{
+  "slug": "questions",
+  "name": "Asking Questions",
+  "nameNative": "Le domande",
+  "summary": "Italian forms yes/no questions with intonation and uses a set of question words.",
+  "level": "beginner",
+  "order": 6,
+  "explanation": "Yes/no questions in Italian are easy: keep the same word order as a statement and just raise your voice at the end. Parli inglese can be a statement or, with rising intonation, 'Do you speak English?'. There is no helper word like the English 'do'.\n\nFor information questions, start with a question word: chi (who), che / cosa / che cosa (what), dove (where), quando (when), perché (why), come (how), quanto (how much), quale (which).\n\nNote that perché means both 'why' and 'because', so the answer can reuse the same word.",
+  "pattern": "question word + verb + ... ?",
+  "conjugation": {
+    "chi": "who",
+    "che cosa / cosa": "what",
+    "dove": "where",
+    "quando": "when",
+    "perché": "why / because",
+    "come": "how"
+  },
+  "examples": [
+    { "native": "Parli inglese?", "en": "Do you speak English?" },
+    { "native": "Dove abiti?", "en": "Where do you live?" },
+    { "native": "Cosa vuoi?", "en": "What do you want?" },
+    { "native": "Quando arriva il treno?", "en": "When does the train arrive?" },
+    { "native": "Perché studi l'italiano?", "en": "Why do you study Italian?" },
+    { "native": "Quanto costa?", "en": "How much does it cost?" }
+  ],
+  "commonMistakes": [
+    "Inventing a 'do' helper. Italian has no equivalent; just use intonation.",
+    "Forgetting the accent on perché and the question word combinations.",
+    "Confusing dove (where) with dov'è (where is), which elides before è.",
+    "Using quale when you mean what; quale asks 'which one' from a set.",
+    "Dropping the rising intonation, which is the only signal in a yes/no question."
+  ],
+  "tip": "Dove, come, and cosa often contract before è: dov'è, com'è, cos'è. Listen for the elision."
+}

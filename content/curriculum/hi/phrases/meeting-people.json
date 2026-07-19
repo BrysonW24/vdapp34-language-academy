@@ -1,0 +1,21 @@
+{
+  "slug": "meeting-people",
+  "title": "Meeting People",
+  "description": "Introduce yourself, ask names, and make a warm first impression in Hindi.",
+  "situation": "First meetings: names, where you are from, and polite small talk using the respectful aap register.",
+  "order": 2,
+  "phrases": [
+    { "native": "आपका नाम क्या है?", "transliteration": "aapka naam kya hai?", "english": "What is your name?", "pronunciation": "AAP-kaa naam kyaa hai", "formality": "formal", "tip": "Aapka is the polite form. With friends you can say tumhaara naam kya hai?" },
+    { "native": "मेरा नाम राहुल है", "transliteration": "mera naam Rahul hai", "english": "My name is Rahul", "pronunciation": "MEH-raa naam Rahul hai", "formality": "neutral" },
+    { "native": "आप कैसे हैं?", "transliteration": "aap kaise hain?", "english": "How are you?", "pronunciation": "aap KAI-seh hain", "formality": "formal", "tip": "Say kaisi hain when speaking to a woman." },
+    { "native": "मैं ठीक हूँ, धन्यवाद", "transliteration": "main theek hoon, dhanyavaad", "english": "I am fine, thank you", "pronunciation": "main theek hoon DHUN-yuh-vaad", "formality": "neutral" },
+    { "native": "आप कहाँ से हैं?", "transliteration": "aap kahaan se hain?", "english": "Where are you from?", "pronunciation": "aap kuh-HAAN seh hain", "formality": "formal" },
+    { "native": "मैं ऑस्ट्रेलिया से हूँ", "transliteration": "main Australia se hoon", "english": "I am from Australia", "pronunciation": "main Australia seh hoon", "formality": "neutral" },
+    { "native": "आपसे मिलकर खुशी हुई", "transliteration": "aapse milkar khushi hui", "english": "Pleased to meet you", "pronunciation": "AAP-seh MIL-kar KHOO-shee hoo-ee", "formality": "formal", "tip": "A warm, polite phrase for first meetings." },
+    { "native": "आप क्या काम करते हैं?", "transliteration": "aap kya kaam karte hain?", "english": "What work do you do?", "pronunciation": "aap kyaa kaam KAR-teh hain", "formality": "formal", "tip": "Use karti hain when asking a woman." },
+    { "native": "मैं एक शिक्षक हूँ", "transliteration": "main ek shikshak hoon", "english": "I am a teacher", "pronunciation": "main ek SHIK-shuk hoon", "formality": "neutral" },
+    { "native": "यह मेरे दोस्त हैं", "transliteration": "yeh mere dost hain", "english": "This is my friend", "pronunciation": "yeh MEH-reh dost hain", "formality": "neutral", "tip": "The plural verb hain is also used to show respect for one person." },
+    { "native": "आपकी उम्र क्या है?", "transliteration": "aapki umar kya hai?", "english": "How old are you?", "pronunciation": "AAP-kee OO-mar kyaa hai", "formality": "formal", "tip": "Ask this only when it is socially appropriate." },
+    { "native": "मुझे हिंदी सीखना अच्छा लगता है", "transliteration": "mujhe Hindi seekhna achchha lagta hai", "english": "I enjoy learning Hindi", "pronunciation": "MOO-jheh Hindi SEEKH-naa UCH-chaa LUG-taa hai", "formality": "neutral" }
+  ]
+}

@@ -1,12 +1,13 @@
 {
   "rank": 188,
-  "chinese": "做",
-  "characters": "做",
-  "pinyin": "zuò",
-  "english": "to do/to make",
-  "partOfSpeech": "verb",
-  "exampleZh": "你在做什么？",
-  "exampleEn": "What are you doing?",
+  "chinese": "军队",
+  "characters": "军队",
+  "pinyin": "jūn duì",
+  "english": "army",
+  "pronunciation": "jun-dui",
+  "partOfSpeech": "noun",
+  "exampleZh": "这支军队很重要。",
+  "exampleEn": "This army is important.",
   "group": "everyday-250",
-  "topic": "actions"
+  "topic": "basics"
 }

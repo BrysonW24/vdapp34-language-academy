@@ -1,0 +1,26 @@
+{
+  "slug": "tenses-and-time",
+  "name": "Tenses & Time",
+  "nameTh": "กาลและเวลา",
+  "summary": "Thai shows time with small markers like กำลัง, แล้ว, and จะ rather than changing the verb.",
+  "level": "pre-intermediate",
+  "order": 8,
+  "explanation": "Since verbs never change, Thai signals time with a few markers around the unchanged verb. For an action happening now, put กำลัง (kamlang) before the verb: ผมกำลังกิน (I am eating). For a completed action, add แล้ว (laeo) at the end: ผมกินแล้ว (I have eaten).\n\nFor the future, put จะ (ja) before the verb: ผมจะไป (I will go). Plain time words like เมื่อวาน (yesterday) and พรุ่งนี้ (tomorrow) also do a lot of the work on their own.\n\nThese markers are optional when the time is already clear from context, which is why short Thai sentences often carry no tense marker at all.",
+  "pattern": "กำลัง + verb (now)  |  verb + แล้ว (done)  |  จะ + verb (future)",
+  "examples": [
+    { "th": "ผมกำลังทำงาน", "en": "I am working (right now)." },
+    { "th": "ผมกินข้าวแล้ว", "en": "I have eaten." },
+    { "th": "ผมจะไปพรุ่งนี้", "en": "I will go tomorrow." },
+    { "th": "เขากำลังนอน", "en": "He is sleeping." },
+    { "th": "หนังเริ่มแล้ว", "en": "The film has started." },
+    { "th": "เราจะกินข้าวเย็น", "en": "We will have dinner." }
+  ],
+  "commonMistakes": [
+    "Trying to change the verb for tense. Thai verbs are fixed; use markers instead.",
+    "Putting แล้ว before the verb. It goes at the end of the clause.",
+    "Putting จะ or กำลัง after the verb. They come before it.",
+    "Using both กำลัง and แล้ว together for the same idea. Pick the one that fits.",
+    "Adding markers when a time word already makes the time obvious, which sounds heavy."
+  ],
+  "tip": "Three little helpers cover most needs: กำลัง for now, แล้ว for done, จะ for the future. The verb itself never changes."
+}

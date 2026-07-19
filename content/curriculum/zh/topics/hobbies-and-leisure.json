@@ -1,0 +1,90 @@
+{
+  "slug": "hobbies-and-leisure",
+  "title": "Hobbies & Leisure",
+  "titleZh": "爱好与休闲",
+  "shortSummary": "Talk about your free time, sports, and what you like doing.",
+  "level": "elementary",
+  "order": 13,
+  "icon": "🏓",
+  "color": "#a16a1f",
+  "culturalNote": "Leisure in China blends the traditional and the modern: parks fill with people playing table tennis, practising tai chi, flying kites, and dancing in groups in the evening. Table tennis (乒乓球) and badminton are hugely popular, and a friendly game of 麻将 (mahjong) is a classic social pastime. Sharing short videos and chatting on WeChat is now part of everyday downtime too.",
+  "keyPhrases": [
+    { "chinese": "你有什么爱好？", "pinyin": "nǐ yǒu shénme àihào?", "english": "What hobbies do you have?", "context": "Starting the topic" },
+    { "chinese": "我喜欢...", "pinyin": "wǒ xǐhuan...", "english": "I like...", "context": "喜欢 = to like" },
+    { "chinese": "我喜欢看电影", "pinyin": "wǒ xǐhuan kàn diànyǐng", "english": "I like watching films", "context": "A common hobby" },
+    { "chinese": "我喜欢听音乐", "pinyin": "wǒ xǐhuan tīng yīnyuè", "english": "I like listening to music", "context": "Quiet pastimes" },
+    { "chinese": "我打乒乓球", "pinyin": "wǒ dǎ pīngpāngqiú", "english": "I play table tennis", "context": "打 for racket/ball sports" },
+    { "chinese": "我踢足球", "pinyin": "wǒ tī zúqiú", "english": "I play football", "context": "踢 for kicking sports" },
+    { "chinese": "周末", "pinyin": "zhōumò", "english": "weekend", "context": "When you have free time" },
+    { "chinese": "我跟朋友见面", "pinyin": "wǒ gēn péngyou jiànmiàn", "english": "I meet up with friends", "context": "Socialising" },
+    { "chinese": "很有意思", "pinyin": "hěn yǒuyìsi", "english": "very interesting / fun", "context": "Reacting positively" },
+    { "chinese": "你呢？", "pinyin": "nǐ ne?", "english": "And you?", "context": "Turning the question back" }
+  ],
+  "grammar": [
+    {
+      "rule": "喜欢 + verb to say what you like doing",
+      "explanation": "Use 喜欢 (xǐhuan) plus a verb to say you like an activity: 我喜欢游泳 (I like swimming). To say you dislike it, add 不: 我不喜欢.",
+      "examples": [
+        { "zh": "我喜欢看书。", "en": "I like reading." },
+        { "zh": "他不喜欢运动。", "en": "He doesn't like exercise." }
+      ],
+      "commonMistake": "Adding 很 before 喜欢 by habit. 喜欢 is a verb, so 我喜欢, not 我很喜欢 unless you mean 'really like'."
+    },
+    {
+      "rule": "打 vs 踢 vs 下 for games",
+      "explanation": "Different sports take different verbs: 打 (dǎ) for racket and ball games (打篮球 basketball), 踢 (tī, kick) for football (踢足球), and 下 (xià) for board games (下棋 play chess).",
+      "examples": [
+        { "zh": "我打篮球。", "en": "I play basketball." },
+        { "zh": "我们下棋。", "en": "We play chess." }
+      ],
+      "commonMistake": "Using 打 for football: it is 踢足球, not 打足球."
+    }
+  ],
+  "dialogue": {
+    "setup": "Two classmates, Sara and Hao, chat about their weekend plans.",
+    "lines": [
+      { "speaker": "Sara", "chinese": "你周末喜欢做什么？", "pinyin": "Nǐ zhōumò xǐhuan zuò shénme?", "english": "What do you like doing at weekends?" },
+      { "speaker": "浩", "chinese": "我喜欢打乒乓球，也喜欢看电影。", "pinyin": "Wǒ xǐhuan dǎ pīngpāngqiú, yě xǐhuan kàn diànyǐng.", "english": "I like playing table tennis, and watching films too." },
+      { "speaker": "Sara", "chinese": "我喜欢听音乐和看书。", "pinyin": "Wǒ xǐhuan tīng yīnyuè hé kàn shū.", "english": "I like listening to music and reading." },
+      { "speaker": "浩", "chinese": "这个周末你有空吗？", "pinyin": "Zhège zhōumò nǐ yǒu kòng ma?", "english": "Are you free this weekend?" },
+      { "speaker": "Sara", "chinese": "有空。我们一起打球吧。", "pinyin": "Yǒu kòng. Wǒmen yìqǐ dǎ qiú ba.", "english": "I'm free. Let's play together." },
+      { "speaker": "浩", "chinese": "好啊，很有意思！", "pinyin": "Hǎo a, hěn yǒuyìsi!", "english": "Great, that'll be fun!" },
+      { "speaker": "Sara", "chinese": "那星期六见！", "pinyin": "Nà xīngqīliù jiàn!", "english": "See you Saturday then!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'I like watching films'?",
+      "correctAnswer": "我喜欢看电影",
+      "explanation": "喜欢 (like) + 看电影 (watch films)."
+    },
+    {
+      "type": "fill-blank",
+      "question": "我_____足球。 (verb for playing football)",
+      "correctAnswer": "踢",
+      "explanation": "Football uses 踢 (kick): 踢足球."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which verb goes with table tennis?",
+      "options": ["踢", "打", "下", "跑"],
+      "correctAnswer": "打",
+      "explanation": "Racket and ball games use 打: 打乒乓球."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does 很有意思 mean?",
+      "options": ["very tired", "very interesting / fun", "very busy", "very far"],
+      "correctAnswer": "very interesting / fun",
+      "explanation": "很有意思 means 'very interesting' or 'fun'."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: 爱好 / 你 / 什么 / 有",
+      "correctAnswer": "你有什么爱好",
+      "explanation": "你 + 有 + 什么爱好 (what hobbies)."
+    }
+  ],
+  "status": "complete"
+}

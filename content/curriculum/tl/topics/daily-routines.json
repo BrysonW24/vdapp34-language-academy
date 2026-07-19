@@ -1,0 +1,90 @@
+{
+  "slug": "daily-routines",
+  "title": "Daily Routines",
+  "titleNative": "Pang-araw-araw na Gawain",
+  "shortSummary": "Describe your day, from waking up to sleeping, using everyday Filipino verbs and time words.",
+  "level": "beginner",
+  "order": 7,
+  "icon": "🕗",
+  "color": "#7048e8",
+  "culturalNote": "A typical Filipino day often starts early, especially in provinces where roosters and the heat get people moving. Mornings begin with coffee or kape and pandesal (soft bread rolls), and many families eat breakfast together. The midday heat invites a short rest, and merienda, the afternoon snack, is a cherished pause around three or four o'clock. Commutes by jeepney, tricycle, or train can be long, so people leave home early. Evenings centre on the family meal and, in many homes, prayer. Sunday is special: church in the morning and a shared family lunch are common rhythms. Filipinos value bonding time, so even busy days make room for chika (chitchat) with neighbours and loved ones.",
+  "keyPhrases": [
+    { "native": "Gumigising ako nang maaga.", "english": "I wake up early.", "pronunciation": "gu-mi-GI-sing a-KO nang ma-A-ga", "context": "Start of the day" },
+    { "native": "Nagluluto ako ng almusal.", "english": "I cook breakfast.", "pronunciation": "nag-lu-LU-to a-KO nang al-mu-SAL", "context": "Morning routine" },
+    { "native": "Naliligo ako tuwing umaga.", "english": "I bathe every morning.", "pronunciation": "na-li-LI-go a-KO tu-WING u-MA-ga", "context": "Daily habit" },
+    { "native": "Pumapasok ako sa trabaho.", "english": "I go to work.", "pronunciation": "pu-ma-PA-sok a-KO sa tra-BA-ho", "context": "Leaving for work" },
+    { "native": "Kumakain ako ng tanghalian.", "english": "I eat lunch.", "pronunciation": "ku-ma-KA-in a-KO nang tang-ha-li-AN", "context": "Midday" },
+    { "native": "Nag-meryenda ako sa hapon.", "english": "I have a snack in the afternoon.", "pronunciation": "nag-mer-YEN-da a-KO sa HA-pon", "context": "Afternoon break" },
+    { "native": "Umuuwi ako nang gabi.", "english": "I go home at night.", "pronunciation": "u-mu-U-wi a-KO nang ga-BI", "context": "End of work" },
+    { "native": "Nanonood ako ng TV.", "english": "I watch TV.", "pronunciation": "na-no-NO-od a-KO nang ti-BI", "context": "Evening leisure" },
+    { "native": "Natutulog ako nang maaga.", "english": "I sleep early.", "pronunciation": "na-tu-TU-log a-KO nang ma-A-ga", "context": "End of the day" },
+    { "native": "Tuwing araw ako ay abala.", "english": "Every day I am busy.", "pronunciation": "tu-WING A-raw a-KO ay a-ba-LA", "context": "Describing a routine" }
+  ],
+  "grammar": [
+    {
+      "rule": "Habitual present with the mag- and -um- verbs",
+      "explanation": "For ongoing or habitual actions, Filipino doubles the first syllable of the verb stem. Mag- verbs become nag- plus doubling (naglu-luto, cooks), and -um- verbs double the stem (gumi-gising, wakes up). This pattern means 'I do (regularly) / I am doing'.",
+      "examples": [
+        { "native": "Nagluluto ako araw-araw.", "en": "I cook every day." },
+        { "native": "Gumigising siya nang maaga.", "en": "She wakes up early." }
+      ],
+      "commonMistake": "Forgetting to double the syllable, for example saying nagluto (already cooked) when you mean nagluluto (cooks regularly)."
+    },
+    {
+      "rule": "Time expressions with tuwing and nang",
+      "explanation": "Tuwing means 'every' before a time word (tuwing umaga, every morning). Nang links a verb to a time or manner (umuwi nang gabi, went home at night; gumising nang maaga, woke up early).",
+      "examples": [
+        { "native": "Naliligo ako tuwing umaga.", "en": "I bathe every morning." },
+        { "native": "Natutulog siya nang maaga.", "en": "She sleeps early." }
+      ],
+      "commonMistake": "Mixing up nang and the linker na ng; for time and manner, the single word nang is correct."
+    }
+  ],
+  "dialogue": {
+    "setup": "Two coworkers, Ria and Dado, chat about their daily routines over coffee.",
+    "lines": [
+      { "speaker": "Ria", "native": "Anong oras ka gumigising, Dado?", "english": "What time do you wake up, Dado?" },
+      { "speaker": "Dado", "native": "Gumigising ako nang alas-singko para hindi ma-traffic.", "english": "I wake up at five so I don't get stuck in traffic." },
+      { "speaker": "Ria", "native": "Grabe, maaga! Nag-aalmusal ka pa ba?", "english": "Wow, early! Do you still eat breakfast?" },
+      { "speaker": "Dado", "native": "Oo, kumakain ako ng pandesal at kape bago umalis.", "english": "Yes, I eat pandesal and coffee before leaving." },
+      { "speaker": "Ria", "native": "Ako naman, nag-meryenda pa ako sa hapon palagi.", "english": "As for me, I always have a snack in the afternoon." },
+      { "speaker": "Dado", "native": "Same tayo! Anong oras ka umuuwi?", "english": "Same here! What time do you go home?" },
+      { "speaker": "Ria", "native": "Umuuwi ako nang gabi, tapos natutulog agad.", "english": "I go home at night, then sleep right away." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'I wake up early' in Filipino?",
+      "correctAnswer": "Gumigising ako nang maaga",
+      "explanation": "Gumigising is the habitual form of gising (wake up)."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which word means 'every' before a time word?",
+      "options": ["nang", "tuwing", "para", "kasi"],
+      "correctAnswer": "tuwing",
+      "explanation": "Tuwing umaga means 'every morning'."
+    },
+    {
+      "type": "fill-blank",
+      "question": "Nag_____luto ako ng almusal. (double the syllable for the habit)",
+      "correctAnswer": "lu",
+      "explanation": "The habitual form doubles the syllable: nagluluto (cooks regularly)."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is 'merienda' in Filipino daily life?",
+      "options": ["A morning prayer", "An afternoon snack", "A long sleep", "A type of jeepney"],
+      "correctAnswer": "An afternoon snack",
+      "explanation": "Merienda is the cherished snack between meals, often mid-afternoon."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: maaga / natutulog / ako / nang",
+      "correctAnswer": "Natutulog ako nang maaga",
+      "explanation": "Natutulog ako nang maaga means 'I sleep early'."
+    }
+  ],
+  "status": "complete"
+}

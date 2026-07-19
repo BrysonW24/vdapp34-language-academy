@@ -1,0 +1,90 @@
+{
+  "slug": "food-and-restaurants",
+  "title": "Food & Restaurants",
+  "titleNative": "たべものとレストラン",
+  "shortSummary": "Order food, ask for recommendations, and observe Japanese dining etiquette with confidence.",
+  "level": "beginner",
+  "order": 4,
+  "icon": "🍜",
+  "color": "#c92a2a",
+  "culturalNote": "Japanese meals are bracketed by two set phrases: itadakimasu before eating, a humble expression of gratitude for the food and everyone involved in making it, and gochisousama deshita after eating, thanking the cook. You call a server in a casual restaurant with a polite sumimasen rather than waving or clicking. Slurping noodles is perfectly acceptable and even shows enjoyment, but sticking your chopsticks upright in rice or passing food chopstick-to-chopstick is taboo because both resemble funeral rites. Tipping is not customary in Japan and can cause confusion; good service is simply expected. Many restaurants display realistic plastic food models (sampuru) in the window, so you can point if you are unsure of the name of a dish.",
+  "keyPhrases": [
+    { "native": "メニューをください", "transliteration": "menyuu o kudasai", "english": "The menu, please", "pronunciation": "MEN-yoo oh koo-da-sai", "context": "On being seated" },
+    { "native": "おすすめは何ですか", "transliteration": "osusume wa nan desu ka", "english": "What do you recommend?", "pronunciation": "oh-soo-soo-meh wah nan dess kah", "context": "Asking for a tip" },
+    { "native": "これをください", "transliteration": "kore o kudasai", "english": "I'll have this one", "pronunciation": "KO-reh oh koo-da-sai", "context": "Pointing and ordering" },
+    { "native": "水をください", "transliteration": "mizu o kudasai", "english": "Water, please", "pronunciation": "MEE-zoo oh koo-da-sai", "context": "Asking for water" },
+    { "native": "いただきます", "transliteration": "itadakimasu", "english": "Thanks for the meal (before eating)", "pronunciation": "ee-ta-da-kee-mas", "context": "Before the first bite" },
+    { "native": "おいしいです", "transliteration": "oishii desu", "english": "It's delicious", "pronunciation": "oh-EE-shee dess", "context": "Complimenting the food" },
+    { "native": "ごちそうさまでした", "transliteration": "gochisousama deshita", "english": "Thank you for the meal (after eating)", "pronunciation": "go-chee-soh-sa-ma desh-ta", "context": "After finishing" },
+    { "native": "お会計をお願いします", "transliteration": "okaikei o onegaishimasu", "english": "The bill, please", "pronunciation": "oh-KAI-kay oh oh-neh-gai-shee-mas", "context": "Asking to pay" },
+    { "native": "アレルギーがあります", "transliteration": "arerugii ga arimasu", "english": "I have an allergy", "pronunciation": "a-re-ROO-gee ga a-ree-mas", "context": "Important warning" },
+    { "native": "ベジタリアンです", "transliteration": "bejitarian desu", "english": "I'm vegetarian", "pronunciation": "beh-jee-ta-ree-an dess", "context": "Dietary need" }
+  ],
+  "grammar": [
+    {
+      "rule": "Requesting with o kudasai",
+      "explanation": "To ask for an object politely, name it, mark it with the object particle o (written を), and add kudasai ('please give me'). Mizu o kudasai means 'water, please'. This pattern works for almost anything you want handed to you.",
+      "examples": [
+        { "native": "コーヒーをください。(koohii o kudasai)", "en": "Coffee, please." },
+        { "native": "これをください。(kore o kudasai)", "en": "I'll have this, please." }
+      ],
+      "commonMistake": "Forgetting the object particle を between the noun and kudasai."
+    },
+    {
+      "rule": "Adjective + desu for opinions",
+      "explanation": "To describe food, use an adjective followed by desu. Oishii (delicious) and karai (spicy) are i-adjectives that already end in -i and simply take desu, as in oishii desu. There is no need to add anything between the adjective and desu.",
+      "examples": [
+        { "native": "おいしいです。(oishii desu)", "en": "It is delicious." },
+        { "native": "辛いですか。(karai desu ka)", "en": "Is it spicy?" }
+      ],
+      "commonMistake": "Inserting da or na between an i-adjective and desu, such as oishii na desu."
+    }
+  ],
+  "dialogue": {
+    "setup": "A diner sits down at a small ramen shop and orders.",
+    "lines": [
+      { "speaker": "店員", "native": "いらっしゃいませ。", "transliteration": "irasshaimase", "english": "Welcome." },
+      { "speaker": "客", "native": "すみません、メニューをください。", "transliteration": "sumimasen, menyuu o kudasai", "english": "Excuse me, the menu, please." },
+      { "speaker": "店員", "native": "はい。おすすめはみそラーメンです。", "transliteration": "hai. osusume wa miso raamen desu", "english": "Here you are. The recommendation is miso ramen." },
+      { "speaker": "客", "native": "じゃあ、それをください。", "transliteration": "jaa, sore o kudasai", "english": "Then I'll have that, please." },
+      { "speaker": "店員", "native": "かしこまりました。少々お待ちください。", "transliteration": "kashikomarimashita. shoushou omachi kudasai", "english": "Certainly. Please wait a moment." },
+      { "speaker": "客", "native": "いただきます。おいしいです。", "transliteration": "itadakimasu. oishii desu", "english": "Thanks for the meal. It's delicious." },
+      { "speaker": "客", "native": "ごちそうさまでした。お会計をお願いします。", "transliteration": "gochisousama deshita. okaikei o onegaishimasu", "english": "Thank you for the meal. The bill, please." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'It's delicious' in Japanese?",
+      "correctAnswer": "おいしいです (oishii desu)",
+      "explanation": "Oishii (delicious) is an i-adjective and takes desu directly."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which phrase do you say BEFORE eating?",
+      "options": ["ごちそうさまでした (gochisousama deshita)", "いただきます (itadakimasu)", "おいしいです (oishii desu)", "おはよう (ohayou)"],
+      "correctAnswer": "いただきます (itadakimasu)",
+      "explanation": "Itadakimasu expresses gratitude before the first bite; gochisousama deshita is said after."
+    },
+    {
+      "type": "fill-blank",
+      "question": "水 _____ ください。(water, please)",
+      "correctAnswer": "を (o)",
+      "explanation": "The object particle を links the noun to kudasai in a polite request."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What should you NOT do with chopsticks in Japan?",
+      "options": ["Slurp your noodles", "Stick them upright in rice", "Place them on a rest", "Use them to eat sushi"],
+      "correctAnswer": "Stick them upright in rice",
+      "explanation": "Upright chopsticks in rice resemble a funeral rite and are considered taboo."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: ください / を / これ (I'll have this, please)",
+      "correctAnswer": "これをください (kore o kudasai)",
+      "explanation": "Object + を + kudasai is the standard polite request order."
+    }
+  ],
+  "status": "complete"
+}

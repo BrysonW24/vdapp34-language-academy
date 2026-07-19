@@ -1,0 +1,32 @@
+{
+  "slug": "reflexive-verbs",
+  "name": "Reflexive Verbs",
+  "nameNative": "Os verbos reflexivos",
+  "summary": "Reflexive verbs describe actions you do to yourself, using reflexive pronouns.",
+  "level": "pre-intermediate",
+  "order": 10,
+  "explanation": "Reflexive verbs describe an action the subject does to itself: chamar-se (to be named), levantar-se (to get up), sentir-se (to feel). In the dictionary they end in -se.\n\nThe reflexive pronouns are me (myself), se (yourself/himself/herself), nos (ourselves), se (themselves). In Brazilian Portuguese the pronoun normally comes before the verb: eu me chamo, ele se levanta.\n\nMany feeling and daily-routine verbs are reflexive. In casual Brazilian speech the pronoun is sometimes dropped, but learning the correct form first is best.",
+  "pattern": "me / se / nos / se + verb",
+  "conjugation": {
+    "eu": "me chamo",
+    "você/ele/ela": "se chama",
+    "nós": "nos chamamos",
+    "vocês/eles/elas": "se chamam"
+  },
+  "examples": [
+    { "native": "Eu me chamo Lucas.", "en": "My name is Lucas." },
+    { "native": "Ela se levanta cedo.", "en": "She gets up early." },
+    { "native": "Como você se sente?", "en": "How do you feel?" },
+    { "native": "Nós nos divertimos muito.", "en": "We had a lot of fun." },
+    { "native": "Eles se preparam para sair.", "en": "They get ready to go out." },
+    { "native": "Me sinto bem hoje.", "en": "I feel good today." }
+  ],
+  "commonMistakes": [
+    "Forgetting the reflexive pronoun. Chamo Lucas means 'I call Lucas', not 'My name is Lucas'.",
+    "Using the European placement (chamo-me) when Brazilian usage is eu me chamo.",
+    "Confusing se for 'yourself' with se as part of 'if'.",
+    "Dropping the pronoun in writing where it should appear.",
+    "Mixing the pronoun with the wrong subject; eu takes me, not se."
+  ],
+  "tip": "In Brazil the reflexive pronoun usually sits before the verb, so eu me chamo sounds more natural than chamo-me."
+}

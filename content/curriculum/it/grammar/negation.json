@@ -1,0 +1,33 @@
+{
+  "slug": "negation",
+  "name": "Negation",
+  "nameNative": "La negazione",
+  "summary": "Make any Italian sentence negative by placing non before the verb.",
+  "level": "beginner",
+  "order": 7,
+  "explanation": "To make a sentence negative, put non directly before the verb. Parlo italiano (I speak Italian) becomes non parlo italiano (I don't speak Italian). Nothing else changes.\n\nItalian uses double negatives, which are correct and required. Non ho niente means 'I don't have anything' (literally 'I don't have nothing'). The non stays even when another negative word like niente (nothing), nessuno (nobody), or mai (never) is present.\n\nIf the negative word comes before the verb, you drop non: nessuno parla (nobody speaks).",
+  "pattern": "non + verb (+ niente / mai / nessuno)",
+  "conjugation": {
+    "non": "not",
+    "non ... niente": "not ... anything",
+    "non ... mai": "never",
+    "non ... nessuno": "nobody",
+    "non ... più": "no longer"
+  },
+  "examples": [
+    { "native": "Non parlo francese.", "en": "I don't speak French." },
+    { "native": "Non ho niente.", "en": "I don't have anything." },
+    { "native": "Non vado mai al cinema.", "en": "I never go to the cinema." },
+    { "native": "Non c'è nessuno.", "en": "There's nobody." },
+    { "native": "Non lavoro più qui.", "en": "I don't work here anymore." },
+    { "native": "Nessuno capisce.", "en": "Nobody understands." }
+  ],
+  "commonMistakes": [
+    "Dropping non with niente or mai. Italian keeps both: non ho mai visto.",
+    "Treating double negatives as wrong. In Italian they are required.",
+    "Placing non after the verb. It always comes immediately before it.",
+    "Keeping non when the negative word leads the sentence (nessuno viene, not non nessuno viene).",
+    "Forgetting più for 'no longer': non ... più."
+  ],
+  "tip": "Think of non as a switch that flips the verb negative, then add niente, mai, or nessuno for detail."
+}

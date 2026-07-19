@@ -1,0 +1,21 @@
+{
+  "slug": "meeting-people",
+  "title": "Meeting People",
+  "description": "Introduce yourself, ask names, and start a friendly conversation in Filipino.",
+  "situation": "First introductions: names, where you are from, and the warm small talk Filipinos love.",
+  "order": 2,
+  "phrases": [
+    { "native": "Ano po ang pangalan ninyo?", "english": "What is your name? (polite)", "pronunciation": "a-NO po ang pa-NGA-lan nin-YO", "formality": "formal", "tip": "Ninyo is the polite you; with friends use mo: ano ang pangalan mo?" },
+    { "native": "Ako si Maria", "english": "I am Maria", "pronunciation": "a-KO see ma-REE-a", "formality": "neutral", "tip": "Use si before a person's name, never ang." },
+    { "native": "Ikinagagalak kong makilala ka", "english": "Nice to meet you", "pronunciation": "ee-kee-na-ga-GA-lak kong ma-kee-LA-la ka", "formality": "neutral", "tip": "Shorter and very common: ikinagagalak ko po." },
+    { "native": "Taga-saan ka?", "english": "Where are you from?", "pronunciation": "ta-ga-sa-AN ka", "formality": "informal" },
+    { "native": "Taga-Australia ako", "english": "I am from Australia", "pronunciation": "ta-ga-aws-TRA-li-a a-KO", "formality": "neutral", "tip": "Swap in any place: taga-Maynila ako (I'm from Manila)." },
+    { "native": "Ilang taon ka na?", "english": "How old are you?", "pronunciation": "ee-LANG ta-ON ka na", "formality": "informal", "tip": "A normal, friendly question here, not rude." },
+    { "native": "May asawa ka na ba?", "english": "Are you married?", "pronunciation": "may a-SA-wa ka na ba", "formality": "informal", "tip": "Family questions are a sign of warmth, not nosiness." },
+    { "native": "Ano ang trabaho mo?", "english": "What is your job?", "pronunciation": "a-NO ang tra-BA-ho mo", "formality": "informal" },
+    { "native": "Magkano ang edad mo? Biro lang!", "english": "How old are you? Just kidding!", "pronunciation": "mag-KA-no ang e-DAD mo, BEE-ro lang", "formality": "informal", "tip": "Biro lang (just joking) keeps things light and friendly." },
+    { "native": "Saan ka nakatira?", "english": "Where do you live?", "pronunciation": "sa-AN ka na-ka-TEE-ra", "formality": "informal" },
+    { "native": "Magkita tayo ulit", "english": "Let's meet again", "pronunciation": "mag-KEE-ta TA-yo oo-LIT", "formality": "neutral", "tip": "Tayo means us, including the listener." },
+    { "native": "Pwede ba kitang i-add sa Facebook?", "english": "Can I add you on Facebook?", "pronunciation": "PWE-de ba KEE-tang ee-AD sa fays-BUK", "formality": "informal", "tip": "Facebook is hugely popular, so this is a very natural ask." }
+  ]
+}

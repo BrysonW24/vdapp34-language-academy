@@ -1,0 +1,25 @@
+{
+  "slug": "everyday",
+  "title": "Everyday Slang",
+  "description": "The casual, current expressions young Spanish speakers actually use with friends every day.",
+  "situation": "Sounding natural and relaxed - greetings, reactions, and filler you would hear hanging out with friends.",
+  "order": 1,
+  "phrases": [
+    { "spanish": "¿Qué tal?", "english": "How's it going?", "pronunciation": "keh TAHL", "formality": "informal", "tip": "The everyday casual greeting. Drop the 'hola' and just lead with this" },
+    { "spanish": "Guay", "english": "Cool / awesome", "pronunciation": "gwai", "formality": "informal", "tip": "The classic Spain word for cool. In Mexico say 'chido', in Argentina 'copado'" },
+    { "spanish": "Chido", "english": "Cool / great", "pronunciation": "CHEE-doh", "formality": "informal", "tip": "Mexican equivalent of 'guay'. '¡Qué chido!' = how cool!" },
+    { "spanish": "Tío / Tía", "english": "Dude / mate", "pronunciation": "TEE-oh / TEE-ah", "formality": "informal", "tip": "Literally 'uncle/aunt', but in Spain it just means 'mate'. Very common with friends" },
+    { "spanish": "Qué fuerte", "english": "That's intense / no way", "pronunciation": "keh FWEHR-teh", "formality": "informal", "tip": "Literally 'how strong'. A reaction to shocking or wild news, good or bad" },
+    { "spanish": "Estoy sin blanca", "english": "I'm broke", "pronunciation": "ehs-TOY seen BLAHN-kah", "formality": "informal", "tip": "Literally 'I'm without a white one' - an old coin. Means you have no money" },
+    { "spanish": "Mola", "english": "It's awesome / I love it", "pronunciation": "MOH-lah", "formality": "informal", "tip": "Spain slang. 'Me mola' = I'm into it. '¡Mola mucho!' = it's really cool" },
+    { "spanish": "Qué pasada", "english": "That's amazing", "pronunciation": "keh pah-SAH-dah", "formality": "informal", "tip": "An admiring reaction to something impressive. Playful and positive" },
+    { "spanish": "Estar de cachondeo", "english": "To be joking around", "pronunciation": "ehs-TAHR deh kah-chon-DEH-oh", "formality": "informal", "tip": "Playful, mostly Spain. '¿Estás de cachondeo?' = are you kidding me?" },
+    { "spanish": "Quedar", "english": "To meet up / hang out", "pronunciation": "keh-DAHR", "formality": "neutral", "tip": "The default verb for making plans. '¿Quedamos el sábado?' = shall we hang out Saturday?" },
+    { "spanish": "Estoy hecho polvo", "english": "I'm exhausted", "pronunciation": "ehs-TOY EH-choh POHL-boh", "formality": "informal", "tip": "Literally 'I'm turned to dust'. Use after a long day or a hard workout" },
+    { "spanish": "Vale", "english": "OK / got it", "pronunciation": "BAH-leh", "formality": "neutral", "tip": "The Spain go-to for 'OK'. Heard constantly. In Latin America use 'dale' or 'va'" },
+    { "spanish": "Flipar", "english": "To freak out / be amazed", "pronunciation": "flee-PAHR", "formality": "informal", "tip": "'Estoy flipando' = I can't believe it. Can be good or bad shock. Very Spain" },
+    { "spanish": "Currar", "english": "To work / grind", "pronunciation": "koo-RRAHR", "formality": "informal", "tip": "Slang for working a job. 'El curro' = the job or the office. Mostly Spain" },
+    { "spanish": "Ni de coña", "english": "No way / not a chance", "pronunciation": "nee deh KOH-nyah", "formality": "informal", "tip": "Mildly cheeky but not rude. A firm, playful refusal among friends" },
+    { "spanish": "¡Vamos!", "english": "Let's go! / come on!", "pronunciation": "BAH-mohs", "formality": "neutral", "tip": "Hype and encouragement. Shout it to pump someone up or cheer them on" }
+  ]
+}

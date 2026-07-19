@@ -1,0 +1,90 @@
+{
+  "slug": "directions-and-places",
+  "title": "Directions & Places",
+  "titleNative": "Indicazioni e luoghi",
+  "shortSummary": "Ask the way, understand directions, and name the places around an Italian town.",
+  "level": "beginner",
+  "order": 5,
+  "icon": "🧭",
+  "color": "#2f7a3f",
+  "culturalNote": "Italian towns are built around a central piazza, and locals often give directions in relation to landmarks like the church (la chiesa), the main square (la piazza), or the town hall (il municipio) rather than street names. Distances on foot are common, so expect answers like sempre dritto (straight ahead) and è qui vicino (it's nearby). People are generally happy to help and may even walk you part of the way. Knowing destra (right) and sinistra (left) and the verb girare (to turn) covers most of what you need.",
+  "keyPhrases": [
+    { "native": "Dov'è la stazione?", "english": "Where is the station?", "pronunciation": "doh-VEH lah stah-tsee-OH-neh", "context": "Asking location" },
+    { "native": "Come arrivo al centro?", "english": "How do I get to the centre?", "pronunciation": "KOH-meh ah-REE-voh al CHEN-troh", "context": "Asking the route" },
+    { "native": "Sempre dritto", "english": "Straight ahead", "pronunciation": "SEM-preh DREET-toh", "context": "A common direction" },
+    { "native": "Giri a destra", "english": "Turn right", "pronunciation": "JEE-ree ah DES-trah", "context": "Formal instruction" },
+    { "native": "Giri a sinistra", "english": "Turn left", "pronunciation": "JEE-ree ah see-NEES-trah", "context": "Formal instruction" },
+    { "native": "È vicino o lontano?", "english": "Is it near or far?", "pronunciation": "eh vee-CHEE-noh oh lon-TAH-noh", "context": "Checking distance" },
+    { "native": "Mi sono perso", "english": "I'm lost", "pronunciation": "mee SOH-noh PER-soh", "context": "Asking for help" },
+    { "native": "la piazza", "english": "the square", "pronunciation": "lah pee-AT-tsah", "context": "Key landmark" },
+    { "native": "il semaforo", "english": "the traffic light", "pronunciation": "eel seh-MAH-foh-roh", "context": "A reference point" },
+    { "native": "a destra del bar", "english": "to the right of the bar", "pronunciation": "ah DES-trah del bar", "context": "Relative position" }
+  ],
+  "grammar": [
+    {
+      "rule": "Dov'è and the contraction with è",
+      "explanation": "Dove (where) contracts to dov' before è (is), giving dov'è (where is). The same elision happens with com'è (how is) and cos'è (what is).",
+      "examples": [
+        { "native": "Dov'è il bagno?", "en": "Where is the toilet?" },
+        { "native": "Dov'è l'uscita?", "en": "Where is the exit?" }
+      ],
+      "commonMistake": "Writing dove è in full. Before è it must elide to dov'è."
+    },
+    {
+      "rule": "Formal commands for directions",
+      "explanation": "When a stranger gives you directions formally, the verb takes the Lei command form, often ending in -i: giri (turn), vada (go), prenda (take). With a friend you would hear the tu form gira, va', prendi.",
+      "examples": [
+        { "native": "Vada sempre dritto.", "en": "Go straight ahead. (formal)" },
+        { "native": "Prenda la prima a destra.", "en": "Take the first right. (formal)" }
+      ],
+      "commonMistake": "Mixing the tu and Lei command forms in the same polite exchange."
+    }
+  ],
+  "dialogue": {
+    "setup": "A visitor stops a local to find the museum.",
+    "lines": [
+      { "speaker": "Visitatore", "native": "Scusi, dov'è il museo?", "english": "Excuse me, where is the museum?" },
+      { "speaker": "Signora", "native": "Allora, vada sempre dritto.", "english": "So, go straight ahead." },
+      { "speaker": "Visitatore", "native": "Sempre dritto, va bene.", "english": "Straight ahead, okay." },
+      { "speaker": "Signora", "native": "Poi giri a destra al semaforo.", "english": "Then turn right at the traffic light." },
+      { "speaker": "Visitatore", "native": "È lontano?", "english": "Is it far?" },
+      { "speaker": "Signora", "native": "No, è qui vicino, cinque minuti.", "english": "No, it's nearby, five minutes." },
+      { "speaker": "Visitatore", "native": "La ringrazio molto!", "english": "Thank you very much!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'Where is the station?' in Italian?",
+      "correctAnswer": "Dov'è la stazione?",
+      "explanation": "Dov'è is the contracted form of dove è."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does sempre dritto mean?",
+      "options": ["turn left", "turn right", "straight ahead", "go back"],
+      "correctAnswer": "straight ahead",
+      "explanation": "Sempre dritto means to keep going straight."
+    },
+    {
+      "type": "fill-blank",
+      "question": "Giri a _____. (left)",
+      "correctAnswer": "sinistra",
+      "explanation": "Sinistra is left; destra is right."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which phrase means 'I'm lost'?",
+      "options": ["Mi sono perso", "Sono vicino", "Vado dritto", "È lontano"],
+      "correctAnswer": "Mi sono perso",
+      "explanation": "Mi sono perso uses the reflexive verb perdersi."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: destra / a / giri",
+      "correctAnswer": "Giri a destra",
+      "explanation": "Giri a destra means 'turn right'."
+    }
+  ],
+  "status": "complete"
+}

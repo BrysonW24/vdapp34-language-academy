@@ -1,11 +1,11 @@
 {
   "rank": 238,
-  "german": "groß",
-  "english": "big, tall",
-  "pronunciation": "GROHS",
+  "german": "jedem",
+  "english": "everyone",
+  "pronunciation": "j e b m",
   "partOfSpeech": "adjective",
-  "exampleDe": "Das Haus ist sehr groß.",
-  "exampleEn": "The house is very big.",
+  "exampleDe": "Das ist sehr jedem.",
+  "exampleEn": "That is very everyone.",
   "group": "everyday-250",
   "topic": "descriptions"
 }

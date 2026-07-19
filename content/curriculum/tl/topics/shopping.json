@@ -1,0 +1,90 @@
+{
+  "slug": "shopping",
+  "title": "Shopping",
+  "titleNative": "Pamimili",
+  "shortSummary": "Shop at markets and stores, ask prices, bargain politely, and pay in Filipino.",
+  "level": "beginner",
+  "order": 6,
+  "icon": "🛍️",
+  "color": "#d6336c",
+  "culturalNote": "Shopping in the Philippines ranges from gleaming malls to the bustling palengke (wet market) and the ever-present sari-sari store, a tiny neighbourhood shop selling everyday goods, often in tingi (small single-serving) portions. Bargaining (tawad) is expected at markets and tiangge bazaars but not in malls or supermarkets, where prices are fixed. A friendly Tawad naman, ate (a discount please, sister) often works, and a smile goes a long way. Vendors love repeat customers, the suki relationship, and may give you a better price or a small extra (dagdag) once you become a regular. Many small purchases are paid in cash, and asking Tanggap ba kayo ng card? checks whether a card is accepted.",
+  "keyPhrases": [
+    { "native": "Magkano ito?", "english": "How much is this?", "pronunciation": "mag-KA-no i-TO", "context": "Asking a price" },
+    { "native": "Ang mahal naman!", "english": "That's so expensive!", "pronunciation": "ang ma-HAL na-MAN", "context": "Reacting to a price" },
+    { "native": "Pwede bang tumawad?", "english": "Can I bargain?", "pronunciation": "PWE-de bang tu-ma-WAD", "context": "Starting a haggle" },
+    { "native": "Tawad naman, ate.", "english": "A discount please, sister.", "pronunciation": "TA-wad na-MAN A-te", "context": "Polite bargaining" },
+    { "native": "Bibilhin ko ito.", "english": "I will buy this.", "pronunciation": "bi-bil-HIN ko i-TO", "context": "Deciding to buy" },
+    { "native": "May iba pa ba kayong kulay?", "english": "Do you have other colours?", "pronunciation": "may i-BA pa ba ka-YONG ku-LAY", "context": "Asking for options" },
+    { "native": "Tanggap ba kayo ng card?", "english": "Do you accept card?", "pronunciation": "tang-GAP ba ka-YO nang card", "context": "Checking payment" },
+    { "native": "Pakibalot po.", "english": "Please wrap it.", "pronunciation": "pa-ki-BA-lot po", "context": "Asking to wrap a purchase" },
+    { "native": "Sukli ko po?", "english": "My change, please?", "pronunciation": "suk-LI ko po", "context": "Asking for change" },
+    { "native": "Tingnan ko lang muna.", "english": "Let me just look first.", "pronunciation": "ting-NAN ko lang MU-na", "context": "Browsing politely" }
+  ],
+  "grammar": [
+    {
+      "rule": "Asking permission with pwede bang",
+      "explanation": "Pwede means 'possible / allowed'. Pwede bang + verb asks 'may I / can I'. Ba is the yes-or-no question marker. The pattern is Pwede bang + verb to make a polite request.",
+      "examples": [
+        { "native": "Pwede bang tumawad?", "en": "Can I bargain?" },
+        { "native": "Pwede bang tumingin?", "en": "May I look?" }
+      ],
+      "commonMistake": "Dropping the question marker ba and saying Pwede tumawad, which sounds less polite."
+    },
+    {
+      "rule": "The pointing words ito, iyan, iyon",
+      "explanation": "Filipino has three 'this/that' words by distance: ito (this, near me), iyan (that, near you), iyon (that, far from both). Use them to point at items when shopping.",
+      "examples": [
+        { "native": "Magkano ito?", "en": "How much is this (near me)?" },
+        { "native": "Gusto ko iyan.", "en": "I want that (near you)." }
+      ],
+      "commonMistake": "Using ito for something far away instead of iyon."
+    }
+  ],
+  "dialogue": {
+    "setup": "Carla bargains for a bag at a tiangge bazaar.",
+    "lines": [
+      { "speaker": "Carla", "native": "Ate, magkano po itong bag?", "english": "Sister, how much is this bag?" },
+      { "speaker": "Tindera", "native": "Limang daang pesos po iyan.", "english": "That is five hundred pesos." },
+      { "speaker": "Carla", "native": "Ang mahal naman! Pwede bang tumawad?", "english": "That's so expensive! Can I bargain?" },
+      { "speaker": "Tindera", "native": "Sige po, magkano ang kaya ninyo?", "english": "Okay, how much can you do?" },
+      { "speaker": "Carla", "native": "Tatlong daan po, suki na ako sa inyo.", "english": "Three hundred, I am a regular here." },
+      { "speaker": "Tindera", "native": "Sige na nga po, para sa suki. Bibilhin ninyo?", "english": "Fine then, for a regular. Will you buy it?" },
+      { "speaker": "Carla", "native": "Opo, bibilhin ko ito. Pakibalot po.", "english": "Yes, I will buy this. Please wrap it." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you ask 'How much is this?' in Filipino?",
+      "correctAnswer": "Magkano ito?",
+      "explanation": "Magkano ito? asks the price of something near you."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which phrase politely asks to bargain?",
+      "options": ["Pwede bang tumawad?", "Ayoko nito", "Saan ang banyo?", "Busog na ako"],
+      "correctAnswer": "Pwede bang tumawad?",
+      "explanation": "Pwede bang tumawad? means 'Can I bargain?'"
+    },
+    {
+      "type": "fill-blank",
+      "question": "Pwede _____ tumawad? (the yes-or-no question marker)",
+      "correctAnswer": "bang",
+      "explanation": "Ba (here as bang) is the question marker; Pwede bang tumawad?"
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is a sari-sari store?",
+      "options": ["A large bank", "A tiny neighbourhood shop", "A bus terminal", "A government office"],
+      "correctAnswer": "A tiny neighbourhood shop",
+      "explanation": "A sari-sari store sells everyday goods, often in small tingi portions."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: ito / ko / bibilhin",
+      "correctAnswer": "Bibilhin ko ito",
+      "explanation": "Bibilhin ko ito means 'I will buy this'."
+    }
+  ],
+  "status": "complete"
+}

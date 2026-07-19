@@ -1,13 +1,13 @@
 {
   "rank": 502,
-  "german": "Spiegel",
-  "english": "mirror",
-  "pronunciation": "SHPEE-gel",
+  "german": "Klasse",
+  "english": "class",
+  "pronunciation": "k l a s ə",
   "partOfSpeech": "noun",
-  "gender": "masculine",
-  "article": "der",
-  "exampleDe": "Sie schaut in den Spiegel.",
-  "exampleEn": "She looks in the mirror.",
+  "exampleDe": "Diese Klasse ist wichtig.",
+  "exampleEn": "This class is important.",
   "group": "confident-350",
-  "topic": "home"
+  "topic": "work",
+  "article": "die",
+  "gender": "feminine"
 }

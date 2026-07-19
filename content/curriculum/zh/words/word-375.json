@@ -1,13 +1,13 @@
 {
   "rank": 375,
-  "chinese": "难过",
-  "characters": "难过",
-  "pinyin": "nánguò",
-  "english": "sad; upset",
-  "pronunciation": "nahn-gwor (2nd tone, 4th tone)",
-  "partOfSpeech": "adjective",
-  "exampleZh": "他很难过。",
-  "exampleEn": "He is very sad.",
+  "chinese": "实行",
+  "characters": "实行",
+  "pinyin": "shí xíng",
+  "english": "to implement",
+  "pronunciation": "shi-xing",
+  "partOfSpeech": "verb",
+  "exampleZh": "我想实行。",
+  "exampleEn": "I want to implement.",
   "group": "everyday-250",
-  "topic": "emotions"
+  "topic": "actions"
 }

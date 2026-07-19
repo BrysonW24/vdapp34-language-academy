@@ -1,0 +1,90 @@
+{
+  "slug": "travel-and-accommodation",
+  "title": "Travel & Accommodation",
+  "titleZh": "旅行与住宿",
+  "shortSummary": "Plan a trip, check into a hotel, and handle travel situations in Mandarin.",
+  "level": "pre-intermediate",
+  "order": 14,
+  "icon": "🧳",
+  "color": "#386a58",
+  "culturalNote": "China rewards travellers who plan ahead, especially around the busy national holidays like Spring Festival and the October Golden Week, when trains and sites are packed. Hotels register guests with a passport, and you may be asked for a deposit (押金) at check-in that is returned when you leave. Apps like Ctrip (携程) make booking trains and hotels straightforward, and a translation app smooths over any gaps.",
+  "keyPhrases": [
+    { "chinese": "我想订一个房间", "pinyin": "wǒ xiǎng dìng yí ge fángjiān", "english": "I'd like to book a room", "context": "Booking" },
+    { "chinese": "有空房吗？", "pinyin": "yǒu kòngfáng ma?", "english": "Do you have a room available?", "context": "Walk-in" },
+    { "chinese": "住两个晚上", "pinyin": "zhù liǎng ge wǎnshang", "english": "stay two nights", "context": "Length of stay" },
+    { "chinese": "含早餐吗？", "pinyin": "hán zǎocān ma?", "english": "Is breakfast included?", "context": "Checking inclusions" },
+    { "chinese": "几点退房？", "pinyin": "jǐ diǎn tuìfáng?", "english": "What time is check-out?", "context": "Leaving" },
+    { "chinese": "我的航班晚点了", "pinyin": "wǒ de hángbān wǎndiǎn le", "english": "My flight is delayed", "context": "Travel problems" },
+    { "chinese": "机场怎么走？", "pinyin": "jīchǎng zěnme zǒu?", "english": "How do I get to the airport?", "context": "Getting around" },
+    { "chinese": "有名的景点", "pinyin": "yǒumíng de jǐngdiǎn", "english": "famous sights", "context": "Sightseeing" },
+    { "chinese": "可以拍照吗？", "pinyin": "kěyǐ pāizhào ma?", "english": "Can I take photos?", "context": "At attractions" },
+    { "chinese": "一路平安", "pinyin": "yílù píng'ān", "english": "Have a safe trip", "context": "A warm farewell" }
+  ],
+  "grammar": [
+    {
+      "rule": "想 to express wishes politely",
+      "explanation": "想 (xiǎng) means 'would like to' and softens a request: 我想订房间 (I'd like to book a room). It is gentler than 要 (want).",
+      "examples": [
+        { "zh": "我想去长城。", "en": "I'd like to go to the Great Wall." },
+        { "zh": "我想休息一下。", "en": "I'd like to rest a moment." }
+      ],
+      "commonMistake": "Always using 要, which can sound blunt. 想 is more polite for wishes."
+    },
+    {
+      "rule": "Duration after the verb",
+      "explanation": "How long you do something comes after the verb: 住三天 (stay three days), 等十分钟 (wait ten minutes). The duration follows, unlike point-in-time, which goes before.",
+      "examples": [
+        { "zh": "我住两个晚上。", "en": "I'm staying two nights." },
+        { "zh": "我们玩了一个星期。", "en": "We travelled for a week." }
+      ],
+      "commonMistake": "Putting duration before the verb. A length of time follows the verb: 住两天, not 两天住."
+    }
+  ],
+  "dialogue": {
+    "setup": "A guest checks into a hotel and speaks with the receptionist.",
+    "lines": [
+      { "speaker": "客人", "chinese": "你好，我想订一个房间。", "pinyin": "Nǐ hǎo, wǒ xiǎng dìng yí ge fángjiān.", "english": "Hello, I'd like to book a room." },
+      { "speaker": "前台", "chinese": "好的，住几个晚上？", "pinyin": "Hǎo de, zhù jǐ ge wǎnshang?", "english": "Okay, how many nights?" },
+      { "speaker": "客人", "chinese": "两个晚上。含早餐吗？", "pinyin": "Liǎng ge wǎnshang. Hán zǎocān ma?", "english": "Two nights. Is breakfast included?" },
+      { "speaker": "前台", "chinese": "含早餐，早上七点到十点。", "pinyin": "Hán zǎocān, zǎoshang qī diǎn dào shí diǎn.", "english": "Breakfast is included, 7 to 10am." },
+      { "speaker": "客人", "chinese": "几点退房？", "pinyin": "Jǐ diǎn tuìfáng?", "english": "What time is check-out?" },
+      { "speaker": "前台", "chinese": "中午十二点。请给我护照。", "pinyin": "Zhōngwǔ shí'èr diǎn. Qǐng gěi wǒ hùzhào.", "english": "Noon. Please give me your passport." },
+      { "speaker": "客人", "chinese": "好的，谢谢。", "pinyin": "Hǎo de, xièxie.", "english": "Okay, thank you." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'I'd like to book a room'?",
+      "correctAnswer": "我想订一个房间",
+      "explanation": "想 (would like) + 订 (book) + 一个房间 (a room)."
+    },
+    {
+      "type": "fill-blank",
+      "question": "我_____去长城。 (would like to)",
+      "correctAnswer": "想",
+      "explanation": "想 expresses a polite wish."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which is correct word order for 'stay two nights'?",
+      "options": ["两个晚上住", "住两个晚上", "晚上两个住", "住晚上两个"],
+      "correctAnswer": "住两个晚上",
+      "explanation": "Duration follows the verb: 住 + 两个晚上."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does 一路平安 mean?",
+      "options": ["Welcome", "Have a safe trip", "Check-out time", "No photos"],
+      "correctAnswer": "Have a safe trip",
+      "explanation": "一路平安 is a warm 'safe journey' farewell."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: 退房 / 几点",
+      "correctAnswer": "几点退房",
+      "explanation": "几点 (what time) + 退房 (check out)."
+    }
+  ],
+  "status": "complete"
+}

@@ -1,0 +1,90 @@
+{
+  "slug": "directions-and-places",
+  "title": "Directions & Places",
+  "titleNative": "みちあんない",
+  "shortSummary": "Ask where things are, understand directions, and navigate Japanese streets and stations.",
+  "level": "beginner",
+  "order": 5,
+  "icon": "🗺️",
+  "color": "#2b8a3e",
+  "culturalNote": "Japanese addresses are organised by area blocks rather than named streets, so even locals often navigate by landmarks, train stations, and koban (small neighbourhood police boxes) where officers help with directions. When you ask for help, open with sumimasen to politely get attention, and people will frequently walk you part of the way rather than just pointing. Pointing at a person is considered rude; gesturing with an open hand is softer. Stations are huge and well signposted in both Japanese and romaji, and staff at the information counter (annaijo) are used to assisting lost travellers. Bowing slightly when you thank someone for directions is the natural way to close the exchange.",
+  "keyPhrases": [
+    { "native": "駅はどこですか", "transliteration": "eki wa doko desu ka", "english": "Where is the station?", "pronunciation": "EH-kee wah DO-ko dess kah", "context": "Asking for a place" },
+    { "native": "まっすぐ行ってください", "transliteration": "massugu itte kudasai", "english": "Please go straight", "pronunciation": "ma-SOO-goo eet-teh koo-da-sai", "context": "Direction given" },
+    { "native": "右に曲がってください", "transliteration": "migi ni magatte kudasai", "english": "Please turn right", "pronunciation": "MEE-gee nee ma-gat-teh koo-da-sai", "context": "Turning" },
+    { "native": "左に曲がってください", "transliteration": "hidari ni magatte kudasai", "english": "Please turn left", "pronunciation": "hee-DA-ree nee ma-gat-teh koo-da-sai", "context": "Turning" },
+    { "native": "近いですか", "transliteration": "chikai desu ka", "english": "Is it near?", "pronunciation": "chee-KAI dess kah", "context": "Checking distance" },
+    { "native": "遠いです", "transliteration": "tooi desu", "english": "It's far", "pronunciation": "TOH-ee dess", "context": "Describing distance" },
+    { "native": "トイレはどこですか", "transliteration": "toire wa doko desu ka", "english": "Where is the toilet?", "pronunciation": "TOY-reh wah DO-ko dess kah", "context": "Essential question" },
+    { "native": "この近くにありますか", "transliteration": "kono chikaku ni arimasu ka", "english": "Is there one nearby?", "pronunciation": "KO-no chee-ka-koo nee a-ree-mas kah", "context": "Looking for a facility" },
+    { "native": "地図を見せてください", "transliteration": "chizu o misete kudasai", "english": "Please show me on the map", "pronunciation": "CHEE-zoo oh mee-seh-teh koo-da-sai", "context": "Asking for clarity" },
+    { "native": "ありがとうございました", "transliteration": "arigatou gozaimashita", "english": "Thank you (for the help)", "pronunciation": "a-ree-ga-toh go-zai-mash-ta", "context": "Closing politely" }
+  ],
+  "grammar": [
+    {
+      "rule": "The question word doko",
+      "explanation": "Doko means 'where'. The pattern [place] wa doko desu ka asks 'where is [place]?'. The location word stays at the start as the topic, and doko desu ka completes the question.",
+      "examples": [
+        { "native": "駅はどこですか。(eki wa doko desu ka)", "en": "Where is the station?" },
+        { "native": "トイレはどこですか。(toire wa doko desu ka)", "en": "Where is the toilet?" }
+      ],
+      "commonMistake": "Putting doko before wa, such as doko eki desu ka, which is ungrammatical."
+    },
+    {
+      "rule": "Existence with arimasu",
+      "explanation": "Arimasu means 'there is / exists' for non-living things and places. The particle ni marks the location of existence, so kono chikaku ni arimasu means 'it exists nearby'. For people and animals, use imasu instead.",
+      "examples": [
+        { "native": "近くにコンビニがあります。(chikaku ni konbini ga arimasu)", "en": "There is a convenience store nearby." },
+        { "native": "ここにトイレがありますか。(koko ni toire ga arimasu ka)", "en": "Is there a toilet here?" }
+      ],
+      "commonMistake": "Using arimasu for people; people and animals take imasu, not arimasu."
+    }
+  ],
+  "dialogue": {
+    "setup": "A traveller stops a passer-by to find the nearest station.",
+    "lines": [
+      { "speaker": "旅行者", "native": "すみません、駅はどこですか。", "transliteration": "sumimasen, eki wa doko desu ka", "english": "Excuse me, where is the station?" },
+      { "speaker": "通行人", "native": "まっすぐ行ってください。", "transliteration": "massugu itte kudasai", "english": "Please go straight ahead." },
+      { "speaker": "旅行者", "native": "近いですか。", "transliteration": "chikai desu ka", "english": "Is it near?" },
+      { "speaker": "通行人", "native": "はい、近いです。あの信号を右に曲がってください。", "transliteration": "hai, chikai desu. ano shingou o migi ni magatte kudasai", "english": "Yes, it's near. Please turn right at that traffic light." },
+      { "speaker": "旅行者", "native": "右ですね。近くにコンビニはありますか。", "transliteration": "migi desu ne. chikaku ni konbini wa arimasu ka", "english": "Right, I see. Is there a convenience store nearby?" },
+      { "speaker": "通行人", "native": "はい、駅の前にあります。", "transliteration": "hai, eki no mae ni arimasu", "english": "Yes, there's one in front of the station." },
+      { "speaker": "旅行者", "native": "ありがとうございました。", "transliteration": "arigatou gozaimashita", "english": "Thank you very much." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you ask 'Where is the station?' in Japanese?",
+      "correctAnswer": "駅はどこですか (eki wa doko desu ka)",
+      "explanation": "Eki (station) is the topic, and doko desu ka asks 'where is it?'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which phrase means 'Please turn right'?",
+      "options": ["左に曲がってください (hidari ni magatte kudasai)", "右に曲がってください (migi ni magatte kudasai)", "まっすぐ行ってください (massugu itte kudasai)", "遠いです (tooi desu)"],
+      "correctAnswer": "右に曲がってください (migi ni magatte kudasai)",
+      "explanation": "Migi means right; hidari means left; massugu means straight ahead."
+    },
+    {
+      "type": "fill-blank",
+      "question": "近くにコンビニが _____ 。(There is a convenience store nearby)",
+      "correctAnswer": "あります (arimasu)",
+      "explanation": "Arimasu expresses existence for non-living things like a shop."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which question word means 'where'?",
+      "options": ["なに (nani)", "どこ (doko)", "いくら (ikura)", "だれ (dare)"],
+      "correctAnswer": "どこ (doko)",
+      "explanation": "Doko asks 'where'; nani is 'what', ikura is 'how much', dare is 'who'."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: ください / 行って / まっすぐ (please go straight)",
+      "correctAnswer": "まっすぐ行ってください (massugu itte kudasai)",
+      "explanation": "Massugu (straight) + itte (go) + kudasai (please) gives the polite instruction."
+    }
+  ],
+  "status": "complete"
+}

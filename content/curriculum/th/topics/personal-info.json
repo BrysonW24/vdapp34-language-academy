@@ -1,0 +1,90 @@
+{
+  "slug": "personal-info",
+  "title": "Personal Information",
+  "titleTh": "ข้อมูลส่วนตัว",
+  "shortSummary": "Talk about who you are: your name, nationality, job, and where you live.",
+  "level": "beginner",
+  "order": 3,
+  "icon": "🪪",
+  "color": "#386a58",
+  "culturalNote": "Thai people almost always go by a short nickname (ชื่อเล่น) rather than their long formal name, so it is normal to ask for and use someone's nickname. The polite title คุณ (khun) goes before a first name, never the surname. Asking where someone is from or what they do is friendly small talk, and a warm smile carries a lot of social weight in Thailand.",
+  "keyPhrases": [
+    { "thai": "ผมชื่อ...", "pronunciation": "phom chuu...", "english": "My name is... (male)", "context": "Women say ฉันชื่อ" },
+    { "thai": "ชื่อเล่นคือ...", "pronunciation": "chuu-len khuu...", "english": "My nickname is...", "context": "Nicknames are normal" },
+    { "thai": "คุณชื่ออะไร", "pronunciation": "khun chuu a-rai", "english": "What's your name?", "context": "Polite question" },
+    { "thai": "ผมมาจาก...", "pronunciation": "phom maa jaak...", "english": "I'm from... (male)", "context": "Stating origin" },
+    { "thai": "ผมอยู่ที่...", "pronunciation": "phom yuu thii...", "english": "I live in...", "context": "Where you live" },
+    { "thai": "ผมเป็นนักเรียน", "pronunciation": "phom pen nak-rian", "english": "I'm a student", "context": "เป็น links to a role" },
+    { "thai": "ผมทำงานเป็น...", "pronunciation": "phom tham-ngaan pen...", "english": "I work as a...", "context": "Talking about your job" },
+    { "thai": "ผมอายุสามสิบปี", "pronunciation": "phom aa-yu saam-sip pii", "english": "I'm thirty years old", "context": "อายุ marks age" },
+    { "thai": "ผมพูดภาษาไทยนิดหน่อย", "pronunciation": "phom phuut paasaa thai nit-noi", "english": "I speak a little Thai", "context": "Useful early on" },
+    { "thai": "ยินดีที่ได้รู้จัก", "pronunciation": "yin-dee thii dai ruu-jak", "english": "Nice to meet you", "context": "Polite closing" }
+  ],
+  "grammar": [
+    {
+      "rule": "เป็น for identity (nouns)",
+      "explanation": "Use เป็น (pen) to link to a role or noun: ผมเป็นครู (I am a teacher). Remember เป็น is for nouns, while adjectives need no linking word at all.",
+      "examples": [
+        { "th": "ผมเป็นคนไทย", "en": "I am Thai." },
+        { "th": "เขาเป็นหมอ", "en": "He is a doctor." }
+      ],
+      "commonMistake": "Using เป็น before an adjective. Adjectives stand alone: อร่อย, not เป็นอร่อย."
+    },
+    {
+      "rule": "Stating age with อายุ ... ปี",
+      "explanation": "Age uses อายุ (aa-yu) plus the number plus ปี (pii, years): ผมอายุยี่สิบปี (I am twenty). No linking word is needed.",
+      "examples": [
+        { "th": "ผมอายุยี่สิบห้าปี", "en": "I am twenty-five years old." },
+        { "th": "เขาอายุสิบปี", "en": "He is ten years old." }
+      ],
+      "commonMistake": "Dropping ปี or adding เป็น. The frame is อายุ + number + ปี."
+    }
+  ],
+  "dialogue": {
+    "setup": "At a language meetup, Tom introduces himself to Ploy.",
+    "lines": [
+      { "speaker": "Tom", "thai": "สวัสดีครับ ผมชื่อทอม คุณชื่ออะไรครับ", "pronunciation": "sa-wat-dee khrap, phom chuu Tom, khun chuu a-rai khrap", "english": "Hi, my name is Tom. What's your name?" },
+      { "speaker": "พลอย", "thai": "ชื่อพลอยค่ะ ยินดีที่ได้รู้จัก", "pronunciation": "chuu Ploy kha, yin-dee thii dai ruu-jak", "english": "I'm Ploy. Nice to meet you." },
+      { "speaker": "Tom", "thai": "คุณมาจากไหนครับ", "pronunciation": "khun maa jaak nai khrap", "english": "Where are you from?" },
+      { "speaker": "พลอย", "thai": "มาจากเชียงใหม่ค่ะ อยู่ที่กรุงเทพ", "pronunciation": "maa jaak Chiang-Mai kha, yuu thii Krung-Thep", "english": "From Chiang Mai, I live in Bangkok." },
+      { "speaker": "Tom", "thai": "ผมมาจากออสเตรเลีย ผมเป็นนักเรียนครับ", "pronunciation": "phom maa jaak Australia, phom pen nak-rian khrap", "english": "I'm from Australia. I'm a student." },
+      { "speaker": "พลอย", "thai": "คุณพูดภาษาไทยเก่งนะคะ", "pronunciation": "khun phuut paasaa thai keng na kha", "english": "You speak Thai well!" },
+      { "speaker": "Tom", "thai": "ขอบคุณครับ พูดได้นิดหน่อย", "pronunciation": "khop-khun khrap, phuut dai nit-noi", "english": "Thank you, I can speak a little." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'I'm a student' (male speaker)?",
+      "correctAnswer": "ผมเป็นนักเรียน",
+      "explanation": "เป็น links you to the noun นักเรียน (student)."
+    },
+    {
+      "type": "fill-blank",
+      "question": "ผม_____คนไทย (I am Thai)",
+      "correctAnswer": "เป็น",
+      "explanation": "เป็น is used for identity with a noun."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which is correct for age?",
+      "options": ["ผมเป็นยี่สิบปี", "ผมอายุยี่สิบปี", "ผมยี่สิบ", "ผมมีอายุเป็นยี่สิบ"],
+      "correctAnswer": "ผมอายุยี่สิบปี",
+      "explanation": "Age uses อายุ + number + ปี."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What kind of name do Thai people usually go by?",
+      "options": ["surname", "full formal name", "nickname", "title only"],
+      "correctAnswer": "nickname",
+      "explanation": "Thai people almost always use a short nickname (ชื่อเล่น)."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: ไหน / มาจาก / คุณ",
+      "correctAnswer": "คุณมาจากไหน",
+      "explanation": "คุณ + มาจาก (come from) + ไหน (where)."
+    }
+  ],
+  "status": "complete"
+}

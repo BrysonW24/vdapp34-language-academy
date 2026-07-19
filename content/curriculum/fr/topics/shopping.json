@@ -1,0 +1,90 @@
+{
+  "slug": "shopping",
+  "title": "Shopping",
+  "titleNative": "Les achats",
+  "shortSummary": "Buy clothes and goods: ask for sizes, prices, and pay like a local.",
+  "level": "elementary",
+  "order": 5,
+  "icon": "🛍️",
+  "color": "#7a4fa0",
+  "culturalNote": "In small French shops it is polite to greet the staff with Bonjour on entering and Au revoir on leaving. Many shops close for a lunch break and on Sundays, so locals plan around opening hours. Markets are wonderful for fresh produce, while card payment is widely accepted, often with a minimum amount for small purchases.",
+  "keyPhrases": [
+    { "native": "Je cherche...", "english": "I'm looking for...", "pronunciation": "zhuh SHERSH", "context": "Starting a request" },
+    { "native": "Combien ça coûte ?", "english": "How much is it?", "pronunciation": "kom-bee-AN sah KOOT", "context": "Asking a price" },
+    { "native": "Avez-vous une autre taille ?", "english": "Do you have another size?", "pronunciation": "ah-vay VOO ewn OH-truh TYE", "context": "Asking for a size" },
+    { "native": "Je peux l'essayer ?", "english": "Can I try it on?", "pronunciation": "zhuh puh leh-say-YAY", "context": "Trying clothes" },
+    { "native": "C'est trop cher", "english": "It's too expensive", "pronunciation": "say troh SHEHR", "context": "Reacting to a price" },
+    { "native": "Acceptez-vous la carte ?", "english": "Do you take card?", "pronunciation": "ahk-sep-tay VOO lah KART", "context": "Paying" },
+    { "native": "Je paie en espèces", "english": "I'll pay cash", "pronunciation": "zhuh pay on ess-PESS", "context": "Paying cash" },
+    { "native": "Je regarde seulement", "english": "I'm just looking", "pronunciation": "zhuh ruh-GARD suhl-MON", "context": "Declining help" },
+    { "native": "Où est la caisse ?", "english": "Where is the till?", "pronunciation": "oo eh lah KESS", "context": "Finding the checkout" },
+    { "native": "Je le prends", "english": "I'll take it", "pronunciation": "zhuh luh PRON", "context": "Deciding to buy" }
+  ],
+  "grammar": [
+    {
+      "rule": "ce, cette, ces (this/these)",
+      "explanation": "To point at an item, use ce (m), cette (f), or ces (plural): ce pull (this jumper), cette robe (this dress), ces chaussures (these shoes). Before a masculine vowel, ce becomes cet: cet article.",
+      "examples": [
+        { "native": "Je prends cette veste.", "en": "I'll take this jacket. (feminine)" },
+        { "native": "Combien coûte ce pull ?", "en": "How much is this jumper? (masculine)" }
+      ],
+      "commonMistake": "Using ce before a feminine noun: it is cette robe, not ce robe."
+    },
+    {
+      "rule": "Comparatives with plus and moins",
+      "explanation": "Use plus (more) and moins (less) before an adjective, with que for 'than': C'est plus cher (it's more expensive), moins cher que ça (cheaper than that).",
+      "examples": [
+        { "native": "Avez-vous moins cher ?", "en": "Do you have something cheaper?" },
+        { "native": "Cette robe est plus grande.", "en": "This dress is bigger." }
+      ],
+      "commonMistake": "Forgetting que for 'than': it is plus cher que, not plus cher de."
+    }
+  ],
+  "dialogue": {
+    "setup": "Anna is buying a jacket and talks to the sales assistant.",
+    "lines": [
+      { "speaker": "Vendeuse", "native": "Bonjour ! Je peux vous aider ?", "english": "Hello! Can I help you?" },
+      { "speaker": "Anna", "native": "Oui, je cherche une veste en taille M.", "english": "Yes, I'm looking for a jacket in size M." },
+      { "speaker": "Vendeuse", "native": "Cette veste est très populaire. Vous voulez l'essayer ?", "english": "This jacket is very popular. Would you like to try it on?" },
+      { "speaker": "Anna", "native": "Volontiers. Combien ça coûte ?", "english": "Gladly. How much is it?" },
+      { "speaker": "Vendeuse", "native": "Quatre-vingt-neuf euros.", "english": "Eighty-nine euros." },
+      { "speaker": "Anna", "native": "D'accord, je la prends. Acceptez-vous la carte ?", "english": "Okay, I'll take it. Do you take card?" },
+      { "speaker": "Vendeuse", "native": "Bien sûr. La caisse est là-bas.", "english": "Of course. The till is over there." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you ask 'Do you take card?'",
+      "correctAnswer": "Acceptez-vous la carte ?",
+      "explanation": "A useful payment question."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "How do you say you are just browsing?",
+      "options": ["Je le prends", "Je regarde seulement", "C'est trop cher", "Je cherche ça"],
+      "correctAnswer": "Je regarde seulement",
+      "explanation": "Je regarde seulement means 'I'm just looking'."
+    },
+    {
+      "type": "fill-blank",
+      "question": "C'est trop _____. (too expensive)",
+      "correctAnswer": "cher",
+      "explanation": "cher means expensive; trop cher is 'too expensive'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which is correct for a feminine noun (la robe)?",
+      "options": ["ce robe", "cette robe", "ces robe", "cet robe"],
+      "correctAnswer": "cette robe",
+      "explanation": "cette is used for feminine nouns."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: coûte / ça / combien",
+      "correctAnswer": "Combien ça coûte",
+      "explanation": "Combien (how much) + ça coûte (it costs)."
+    }
+  ],
+  "status": "complete"
+}

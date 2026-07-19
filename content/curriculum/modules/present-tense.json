@@ -1,0 +1,25 @@
+{
+  "slug": "present-tense",
+  "title": "Present Tense",
+  "shortSummary": "Master the present tense — the most important tense in Spanish. Learn to conjugate regular -ar, -er, and -ir verbs, plus the essential irregular verbs ser, estar, tener, and ir. This unlocks the ability to talk about what you do, what is happening now, and your daily routine.",
+  "level": "beginner",
+  "category": "channel",
+  "whyItMatters": "The present tense is the backbone of Spanish communication. It covers what you do habitually, what is happening right now, and even near-future plans. Master this and you can hold basic conversations about almost any topic.",
+  "coreConcepts": [
+    "Regular -ar verb conjugation (hablar, comprar, trabajar)",
+    "Regular -er verb conjugation (comer, beber, leer)",
+    "Regular -ir verb conjugation (vivir, escribir, abrir)",
+    "Ser vs estar — the two 'to be' verbs",
+    "Tener (to have) and its idiomatic uses",
+    "Ir (to go) and ir + a + infinitive for future plans",
+    "Reflexive verbs: levantarse, ducharse, acostarse",
+    "Common irregular verbs: querer, poder, saber, conocer"
+  ],
+  "lessons": ["mastering-the-present-tense"],
+  "frameworks": ["grammar-spiral", "output-hypothesis"],
+  "visualType": "conjugation-table",
+  "relatedModules": ["spanish-basics", "past-tenses", "everyday-vocabulary"],
+  "status": "complete",
+  "order": 5,
+  "levelNumber": 2
+}

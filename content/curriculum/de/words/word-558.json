@@ -1,13 +1,11 @@
 {
   "rank": 558,
-  "german": "Fluss",
-  "english": "river",
-  "pronunciation": "FLOOS",
-  "partOfSpeech": "noun",
-  "gender": "masculine",
-  "article": "der",
-  "exampleDe": "Der Fluss fließt langsam.",
-  "exampleEn": "The river flows slowly.",
+  "german": "zahlen",
+  "english": "to pay",
+  "pronunciation": "t s a l ə n",
+  "partOfSpeech": "verb",
+  "exampleDe": "Ich möchte bezahlen.",
+  "exampleEn": "I want to pay.",
   "group": "confident-350",
-  "topic": "travel"
+  "topic": "shopping"
 }

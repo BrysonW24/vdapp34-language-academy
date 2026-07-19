@@ -1,0 +1,21 @@
+{
+  "slug": "survival",
+  "title": "Survival Hindi",
+  "description": "The essential phrases to get by anywhere in India. Learn these first.",
+  "situation": "Absolute basics: greetings, please, thank you, help, and signalling when you do not understand.",
+  "order": 1,
+  "phrases": [
+    { "native": "नमस्ते", "transliteration": "namaste", "english": "Hello / Greetings", "pronunciation": "nuh-muh-STEH", "formality": "neutral", "tip": "Works any time of day and with anyone. Often said with palms pressed together." },
+    { "native": "कृपया", "transliteration": "kripya", "english": "Please", "pronunciation": "KRIP-yaa", "formality": "formal", "tip": "In speech people often soften requests with zaraa (just) instead." },
+    { "native": "धन्यवाद", "transliteration": "dhanyavaad", "english": "Thank you", "pronunciation": "DHUN-yuh-vaad", "formality": "formal", "tip": "Casual everyday thanks is often just shukriya." },
+    { "native": "माफ़ कीजिए", "transliteration": "maaf kijiye", "english": "Excuse me / Sorry (polite)", "pronunciation": "MAAF KEE-jee-yeh", "formality": "formal", "tip": "Use to get attention or to apologise politely." },
+    { "native": "हाँ / नहीं", "transliteration": "haan / nahin", "english": "Yes / No", "pronunciation": "haan / nuh-HEEN", "formality": "neutral" },
+    { "native": "मुझे समझ नहीं आया", "transliteration": "mujhe samajh nahin aaya", "english": "I don't understand", "pronunciation": "MOO-jheh SUH-mujh nuh-HEEN AA-yaa", "formality": "neutral", "tip": "The single most useful survival phrase." },
+    { "native": "क्या आप अंग्रेज़ी बोलते हैं?", "transliteration": "kya aap angrezi bolte hain?", "english": "Do you speak English?", "pronunciation": "kyaa aap un-GREH-zee BOL-teh hain", "formality": "formal", "tip": "Use bolti hain if you are asking a woman." },
+    { "native": "फिर से कहिए", "transliteration": "phir se kahiye", "english": "Please say that again", "pronunciation": "fir seh KUH-hee-yeh", "formality": "formal" },
+    { "native": "यह कितने का है?", "transliteration": "yeh kitne ka hai?", "english": "How much is this?", "pronunciation": "yeh KIT-neh kaa hai", "formality": "neutral" },
+    { "native": "शौचालय कहाँ है?", "transliteration": "shauchaalay kahaan hai?", "english": "Where is the toilet?", "pronunciation": "show-CHAA-lay kuh-HAAN hai", "formality": "neutral", "tip": "Many people also say toilet kahaan hai, which everyone understands." },
+    { "native": "मुझे मदद चाहिए", "transliteration": "mujhe madad chahiye", "english": "I need help", "pronunciation": "MOO-jheh MUH-dud CHAA-hee-yeh", "formality": "neutral" },
+    { "native": "फिर मिलेंगे", "transliteration": "phir milenge", "english": "Goodbye / See you again", "pronunciation": "fir mi-LEN-geh", "formality": "neutral", "tip": "Literally 'we will meet again'. A warm, common way to part." }
+  ]
+}

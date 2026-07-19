@@ -1,12 +1,13 @@
 {
   "rank": 175,
-  "chinese": "走",
-  "characters": "走",
-  "pinyin": "zǒu",
-  "english": "to walk/to go",
-  "partOfSpeech": "verb",
-  "exampleZh": "我们走路去学校。",
-  "exampleEn": "We walk to school.",
+  "chinese": "且",
+  "characters": "且",
+  "pinyin": "qiě",
+  "english": "and",
+  "pronunciation": "qie",
+  "partOfSpeech": "conjunction",
+  "exampleZh": "我且朋友一起去。",
+  "exampleEn": "I am going with my friend.",
   "group": "everyday-250",
-  "topic": "actions"
+  "topic": "basics"
 }

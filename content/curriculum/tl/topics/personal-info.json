@@ -1,0 +1,90 @@
+{
+  "slug": "personal-info",
+  "title": "Personal Information",
+  "titleNative": "Personal na Impormasyon",
+  "shortSummary": "Share your name, where you are from, your age, and what you do, the basics of every introduction.",
+  "level": "beginner",
+  "order": 2,
+  "icon": "🪪",
+  "color": "#1c7ed6",
+  "culturalNote": "When Filipinos meet, they like to place you: where you are from (Taga-saan ka?) and who your family is matter as much as your job. Many people carry both English and Filipino names, and nicknames are beloved, so a Jose may go by Joe and a Maria by Maring. Asking about family early is warmth, not nosiness, because the family is the centre of Filipino life. With elders and customers, keep po in your answers, and it is normal to soften personal questions with a smile. Sharing your hometown or province often sparks an instant bond, especially if you turn out to be kababayan (from the same place).",
+  "keyPhrases": [
+    { "native": "Ano ang pangalan mo?", "english": "What is your name?", "pronunciation": "a-NO ang pa-NGA-lan mo", "context": "Informal question" },
+    { "native": "Ako si Maria.", "english": "I am Maria.", "pronunciation": "a-KO si ma-RI-a", "context": "Giving your name" },
+    { "native": "Taga-saan ka?", "english": "Where are you from?", "pronunciation": "ta-ga-sa-AN ka", "context": "Asking origin" },
+    { "native": "Taga-Maynila ako.", "english": "I am from Manila.", "pronunciation": "ta-ga-may-NI-la a-KO", "context": "Stating hometown" },
+    { "native": "Ilang taon ka na?", "english": "How old are you?", "pronunciation": "i-LANG ta-ON ka na", "context": "Asking age" },
+    { "native": "Dalawampung taong gulang ako.", "english": "I am twenty years old.", "pronunciation": "da-la-wam-PUNG ta-ONG GU-lang a-KO", "context": "Stating age" },
+    { "native": "Ano ang trabaho mo?", "english": "What is your job?", "pronunciation": "a-NO ang tra-BA-ho mo", "context": "Asking occupation" },
+    { "native": "Guro ako.", "english": "I am a teacher.", "pronunciation": "GU-ro a-KO", "context": "Stating your job" },
+    { "native": "Ano ang numero ng telepono mo?", "english": "What is your phone number?", "pronunciation": "a-NO ang nu-ME-ro nang te-LE-po-no mo", "context": "Exchanging contacts" },
+    { "native": "May asawa ka na ba?", "english": "Are you married?", "pronunciation": "may a-SA-wa ka na ba", "context": "Common get-to-know question" }
+  ],
+  "grammar": [
+    {
+      "rule": "The ang-marker pronoun ako and the si for names",
+      "explanation": "To say 'I am (name)', Filipino uses ako (I) and the personal marker si before a person's name. The pattern is Ako si + name. Si only goes before names, never before common nouns.",
+      "examples": [
+        { "native": "Ako si Maria.", "en": "I am Maria." },
+        { "native": "Siya si Pedro.", "en": "He is Pedro." }
+      ],
+      "commonMistake": "Saying 'Ako Maria' and dropping the marker si, or using si before a non-name like si guro."
+    },
+    {
+      "rule": "Asking questions with ano and saan",
+      "explanation": "Ano means 'what' and saan means 'where'. Filipino questions usually begin with the question word, followed by ang and the rest. Taga- attaches to a place to mean 'from (that place)'.",
+      "examples": [
+        { "native": "Ano ang trabaho mo?", "en": "What is your job?" },
+        { "native": "Taga-saan ka?", "en": "Where are you from?" }
+      ],
+      "commonMistake": "Forgetting ang after ano, for example saying Ano trabaho mo instead of Ano ang trabaho mo."
+    }
+  ],
+  "dialogue": {
+    "setup": "Two students, Liza and Ben, introduce themselves on the first day of class.",
+    "lines": [
+      { "speaker": "Liza", "native": "Hi! Ano ang pangalan mo?", "english": "Hi! What is your name?" },
+      { "speaker": "Ben", "native": "Ako si Ben. Ikaw?", "english": "I am Ben. And you?" },
+      { "speaker": "Liza", "native": "Ako si Liza. Taga-saan ka, Ben?", "english": "I am Liza. Where are you from, Ben?" },
+      { "speaker": "Ben", "native": "Taga-Cebu ako, pero nakatira ako sa Maynila ngayon.", "english": "I am from Cebu, but I live in Manila now." },
+      { "speaker": "Liza", "native": "Ah, taga-Maynila rin ako! Ano ang trabaho mo?", "english": "Ah, I am from Manila too! What is your job?" },
+      { "speaker": "Ben", "native": "Estudyante pa ako. Nag-aaral ako ng inhinyeriya.", "english": "I am still a student. I study engineering." },
+      { "speaker": "Liza", "native": "Galing! Sana magkaklase tayo. Ikinagagalak kong makilala ka.", "english": "Cool! I hope we are classmates. Nice to meet you." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'I am from Manila' in Filipino?",
+      "correctAnswer": "Taga-Maynila ako",
+      "explanation": "Taga- attaches to the place; ako means 'I'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which marker goes before a person's name?",
+      "options": ["ang", "si", "ng", "sa"],
+      "correctAnswer": "si",
+      "explanation": "Si is the personal marker placed before names, as in Ako si Maria."
+    },
+    {
+      "type": "fill-blank",
+      "question": "_____ ang pangalan mo? (the word for 'what')",
+      "correctAnswer": "Ano",
+      "explanation": "Ano means 'what' and begins the question."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does 'Ilang taon ka na?' ask?",
+      "options": ["Your name", "Your age", "Your job", "Your hometown"],
+      "correctAnswer": "Your age",
+      "explanation": "Ilang taon ka na? means 'How old are you?'"
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: ako / Maria / si",
+      "correctAnswer": "Ako si Maria",
+      "explanation": "Ako si Maria means 'I am Maria'."
+    }
+  ],
+  "status": "complete"
+}

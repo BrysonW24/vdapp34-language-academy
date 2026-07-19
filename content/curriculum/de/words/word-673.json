@@ -1,11 +1,13 @@
 {
   "rank": 673,
-  "german": "nötig",
-  "english": "necessary",
-  "pronunciation": "NER-tikh",
-  "partOfSpeech": "adjective",
-  "exampleDe": "Das ist nicht nötig.",
-  "exampleEn": "That is not necessary.",
+  "german": "August",
+  "english": "August",
+  "pronunciation": "a ʊ ɡ ʊ s t",
+  "partOfSpeech": "noun",
+  "exampleDe": "Ich mag August.",
+  "exampleEn": "I like August.",
   "group": "confident-350",
-  "topic": "descriptions"
+  "topic": "basics",
+  "article": "der",
+  "gender": "masculine"
 }

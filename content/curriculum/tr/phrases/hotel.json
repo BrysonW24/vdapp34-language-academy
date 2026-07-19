@@ -1,0 +1,21 @@
+{
+  "slug": "hotel",
+  "title": "At the Hotel",
+  "description": "Check in, ask about your room, and handle a hotel stay in Turkish.",
+  "situation": "Hotels and pensions: checking in and out, room questions, and common requests.",
+  "order": 6,
+  "phrases": [
+    { "native": "Rezervasyonum var", "english": "I have a reservation", "pronunciation": "reh-zehr-vas-yoh-NOOM var", "formality": "neutral" },
+    { "native": "Boş odanız var mı?", "english": "Do you have rooms available?", "pronunciation": "bosh oh-dah-NUHZ var muh", "formality": "formal" },
+    { "native": "Tek kişilik oda", "english": "A single room", "pronunciation": "tek kee-shee-LEEK oh-DAH", "formality": "neutral", "tip": "Çift kişilik is a double room." },
+    { "native": "Kaç gece için?", "english": "For how many nights?", "pronunciation": "kahch geh-JEH ee-CHEEN", "formality": "neutral" },
+    { "native": "Çıkış saati kaçta?", "english": "What time is checkout?", "pronunciation": "chuh-KUHSH sah-ah-TEE kahch-TAH", "formality": "neutral" },
+    { "native": "Kahvaltı dahil mi?", "english": "Is breakfast included?", "pronunciation": "kah-vahl-TUH dah-HEEL mee", "formality": "neutral" },
+    { "native": "Wifi var mı?", "english": "Is there wifi?", "pronunciation": "WEE-fee var muh", "formality": "neutral" },
+    { "native": "Klima çalışmıyor", "english": "The air conditioning isn't working", "pronunciation": "klee-MAH chah-luhsh-muh-yor", "formality": "neutral" },
+    { "native": "Bavullarımı bırakabilir miyim?", "english": "Can I leave my luggage?", "pronunciation": "bah-vool-lah-ruh-MUH buh-rah-kah-bee-LEER mee-yeem", "formality": "neutral" },
+    { "native": "Anahtar, lütfen", "english": "The key, please", "pronunciation": "ah-nah-TAR", "formality": "neutral" },
+    { "native": "Taksi çağırabilir misiniz?", "english": "Can you call a taxi?", "pronunciation": "tak-SEE chah-uh-rah-bee-LEER mee-see-neez", "formality": "formal" },
+    { "native": "Çıkış yapmak istiyorum", "english": "I'd like to check out", "pronunciation": "chuh-KUHSH yap-MAK ees-tee-yor-oom", "formality": "neutral" }
+  ]
+}

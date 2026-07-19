@@ -1,0 +1,25 @@
+{
+  "slug": "everyday",
+  "title": "Everyday Slang",
+  "description": "The casual Hindi that young Indians actually use with friends, on chats, and on the street.",
+  "situation": "Hanging out, texting, and joking around with friends in relaxed, everyday Hindi.",
+  "order": 1,
+  "phrases": [
+    { "native": "यार", "transliteration": "yaar", "english": "Mate / Dude / Buddy", "pronunciation": "yaar", "formality": "informal", "tip": "The all-purpose friendly filler. Drop it into almost any sentence with friends: 'kya yaar', 'chal yaar'. Casual, used with peers." },
+    { "native": "अरे यार", "transliteration": "are yaar", "english": "Oh man / Come on", "pronunciation": "uh-REH yaar", "formality": "informal", "tip": "An exasperated or affectionate exclamation, like 'ugh, dude'. Very common when something is annoying or surprising." },
+    { "native": "बिंदास", "transliteration": "bindaas", "english": "Carefree / Totally chill / No worries", "pronunciation": "bin-DAAS", "formality": "informal", "tip": "Bombay slang gone national. Describe a relaxed person or just say it to mean 'it's all good'." },
+    { "native": "झकास", "transliteration": "jhakaas", "english": "Awesome / Fantastic", "pronunciation": "jhuh-KAAS", "formality": "informal", "tip": "Made iconic by Bollywood actor Anil Kapoor. Playful and a little retro, but everyone gets it." },
+    { "native": "मस्त", "transliteration": "mast", "english": "Cool / Great / Awesome", "pronunciation": "must", "formality": "informal", "tip": "Hugely common. 'mast hai' means 'it's great'. Can also describe nice weather, food, or a chill mood." },
+    { "native": "टाइमपास", "transliteration": "timepass", "english": "Just killing time / so-so", "pronunciation": "TIME-paas", "formality": "informal", "tip": "From English 'time pass'. As an activity it means hanging out idly; as a verdict it means 'meh, just okay'." },
+    { "native": "फालतू", "transliteration": "faltu", "english": "Useless / Pointless / Rubbish", "pronunciation": "FAAL-too", "formality": "informal", "tip": "Dismiss something boring or worthless: 'faltu baat' (pointless talk). Mildly cheeky, fine among friends." },
+    { "native": "चल", "transliteration": "chal", "english": "Come on / Let's go / Alright then", "pronunciation": "chull", "formality": "informal", "tip": "Literally 'walk/move'. Used to mean 'let's go', 'okay fine', or to wrap up: 'chal, baad mein baat karte hain'." },
+    { "native": "बकवास", "transliteration": "bakwaas", "english": "Nonsense / Rubbish", "pronunciation": "buck-WAAS", "formality": "informal", "tip": "Call out talk or a movie you didn't like: 'pure bakwaas'. Cheeky but not vulgar." },
+    { "native": "क्या बात है!", "transliteration": "kya baat hai!", "english": "That's amazing! / Well said!", "pronunciation": "kyaa baat hai", "formality": "neutral", "tip": "Literally 'what a thing'. A warm exclamation of praise or delight. Safe with anyone." },
+    { "native": "धासू", "transliteration": "dhaasu", "english": "Killer / Super impressive", "pronunciation": "DHAA-soo", "formality": "informal", "tip": "Strong praise for something powerful or stylish, like a song or a bike. Young, energetic register." },
+    { "native": "जुगाड़", "transliteration": "jugaad", "english": "A clever hack / makeshift fix", "pronunciation": "joo-GAARH", "formality": "informal", "tip": "A celebrated Indian concept: an improvised, resourceful workaround. 'koi jugaad karte hain' means 'let's figure something out'." },
+    { "native": "थक गया", "transliteration": "thak gaya", "english": "I'm exhausted / worn out", "pronunciation": "thuck guh-YAA", "formality": "informal", "tip": "Say 'thak gaya' if you're male, 'thak gayi' if you're female. Everyday way to say you're wiped out." },
+    { "native": "फट्टू", "transliteration": "fattu", "english": "Scaredy-cat / chicken", "pronunciation": "FUT-too", "formality": "informal", "tip": "Tease a friend who's too afraid to do something. Playful ribbing only, with close friends." },
+    { "native": "सही है", "transliteration": "sahi hai", "english": "Cool / Sounds good / Fair enough", "pronunciation": "suh-HEE hai", "formality": "informal", "tip": "Literally 'it's correct'. The everyday way to agree or approve, like 'cool, works for me'." },
+    { "native": "एक नंबर", "transliteration": "ek number", "english": "Top-notch / The best", "pronunciation": "ek NUM-bar", "formality": "informal", "tip": "Literally 'number one'. Praise something as first-class: 'khaana ek number tha' (the food was the best)." }
+  ]
+}

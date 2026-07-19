@@ -1,0 +1,90 @@
+{
+  "slug": "weather-and-seasons",
+  "title": "Weather & Seasons",
+  "titleTh": "อากาศและฤดูกาล",
+  "shortSummary": "Talk about the weather and Thailand's three seasons, a friendly small-talk topic.",
+  "level": "elementary",
+  "order": 9,
+  "icon": "🌦️",
+  "color": "#2f4f79",
+  "culturalNote": "Thailand has three seasons rather than four: hot (ร้อน), rainy (ฝน), and cool (หนาว), though 'cool' is still warm by many standards. The rainy season brings short, heavy downpours, so an umbrella is handy. The hot season around April includes Songkran, the Thai New Year water festival. Talking about how hot it is today is easy, friendly small talk anywhere.",
+  "keyPhrases": [
+    { "thai": "วันนี้อากาศเป็นยังไง", "pronunciation": "wan-nii aa-kaat pen yang-ngai", "english": "How's the weather today?", "context": "The core question" },
+    { "thai": "วันนี้ร้อน", "pronunciation": "wan-nii ron", "english": "It's hot today", "context": "ร้อน hot, หนาว cool" },
+    { "thai": "ฝนตก", "pronunciation": "fon tok", "english": "It's raining", "context": "Literally 'rain falls'" },
+    { "thai": "อากาศดี", "pronunciation": "aa-kaat dee", "english": "The weather is nice", "context": "Good weather" },
+    { "thai": "หน้าร้อน", "pronunciation": "naa-ron", "english": "hot season", "context": "Season" },
+    { "thai": "หน้าฝน", "pronunciation": "naa-fon", "english": "rainy season", "context": "Season" },
+    { "thai": "หน้าหนาว", "pronunciation": "naa-naao", "english": "cool season", "context": "Season" },
+    { "thai": "ลมแรง", "pronunciation": "lom raeng", "english": "It's windy", "context": "Weather" },
+    { "thai": "กี่องศา", "pronunciation": "kii ong-saa", "english": "How many degrees?", "context": "Asking temperature" },
+    { "thai": "เอาร่มไป", "pronunciation": "ao rom pai", "english": "Take an umbrella", "context": "Practical advice" }
+  ],
+  "grammar": [
+    {
+      "rule": "ฝนตก for 'it rains'",
+      "explanation": "Weather uses simple noun-plus-verb phrases: ฝนตก (rain falls, it rains), ลมแรง (wind strong, it's windy). No word for 'it' or 'is' is needed.",
+      "examples": [
+        { "th": "ข้างนอกฝนตก", "en": "It's raining outside." },
+        { "th": "หน้าร้อนอากาศร้อนมาก", "en": "In the hot season it's very hot." }
+      ],
+      "commonMistake": "Adding 'is' or เป็น before a weather phrase. ฝนตก stands alone."
+    },
+    {
+      "rule": "หน้า for seasons",
+      "explanation": "Thai seasons use หน้า (naa, season/face) plus the weather word: หน้าร้อน (hot season), หน้าฝน (rainy season), หน้าหนาว (cool season).",
+      "examples": [
+        { "th": "หน้าฝนฝนตกบ่อย", "en": "In the rainy season it rains often." },
+        { "th": "ผมชอบหน้าหนาว", "en": "I like the cool season." }
+      ],
+      "commonMistake": "Using a different word for season. The everyday term is หน้า + weather."
+    }
+  ],
+  "dialogue": {
+    "setup": "Gah and Ton plan a weekend trip and check the weather.",
+    "lines": [
+      { "speaker": "กะ", "thai": "สุดสัปดาห์อากาศเป็นยังไงคะ", "pronunciation": "sut-sap-daa aa-kaat pen yang-ngai kha", "english": "How's the weather at the weekend?" },
+      { "speaker": "ต้น", "thai": "วันเสาร์อากาศดีครับ", "pronunciation": "wan-sao aa-kaat dee khrap", "english": "Saturday's weather is nice." },
+      { "speaker": "กะ", "thai": "วันอาทิตย์ล่ะคะ", "pronunciation": "wan-aathit la kha", "english": "What about Sunday?" },
+      { "speaker": "ต้น", "thai": "วันอาทิตย์ฝนตกครับ", "pronunciation": "wan-aathit fon tok khrap", "english": "It rains on Sunday." },
+      { "speaker": "กะ", "thai": "งั้นไปเที่ยววันเสาร์ดีกว่าค่ะ", "pronunciation": "ngan pai thiao wan-sao dee kwaa kha", "english": "Then it's better to travel on Saturday." },
+      { "speaker": "ต้น", "thai": "ดีครับ อย่าลืมเอาร่มไปนะ", "pronunciation": "dee khrap, yaa luem ao rom pai na", "english": "Good, don't forget to take an umbrella." },
+      { "speaker": "กะ", "thai": "ได้ค่ะ ขอบคุณนะคะ", "pronunciation": "dai kha, khop-khun na kha", "english": "Okay, thank you." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'It's raining'?",
+      "correctAnswer": "ฝนตก",
+      "explanation": "ฝน (rain) + ตก (falls)."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which is the rainy season?",
+      "options": ["หน้าร้อน", "หน้าฝน", "หน้าหนาว", "หน้าลม"],
+      "correctAnswer": "หน้าฝน",
+      "explanation": "หน้าฝน is the rainy season."
+    },
+    {
+      "type": "fill-blank",
+      "question": "วันนี้_____ (it's hot today)",
+      "correctAnswer": "ร้อน",
+      "explanation": "ร้อน means hot; หนาว means cool/cold."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "How many seasons does Thailand have?",
+      "options": ["two", "three", "four", "five"],
+      "correctAnswer": "three",
+      "explanation": "Thailand has hot, rainy, and cool seasons."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: ไป / ร่ม / เอา",
+      "correctAnswer": "เอาร่มไป",
+      "explanation": "เอา (take) + ร่ม (umbrella) + ไป (along)."
+    }
+  ],
+  "status": "complete"
+}

@@ -1,0 +1,90 @@
+{
+  "slug": "home-and-family",
+  "title": "Home & Family",
+  "titleNative": "Ev ve aile",
+  "shortSummary": "Talk about your family members and describe your home in Turkish.",
+  "level": "beginner",
+  "order": 8,
+  "icon": "🏠",
+  "color": "#e8590c",
+  "culturalNote": "Family is the centre of Turkish life, and relationships extend warmly to neighbours and close friends, who may be addressed with family titles out of respect. Turkish has remarkably precise kinship words: your mother's brother is dayı while your father's brother is amca, and a maternal aunt (teyze) is distinct from a paternal aunt (hala). Older people are often addressed with abi (older brother) or abla (older sister) even when not related, as a sign of affection and respect. Elders are highly respected, and many households remain close-knit, with frequent visits and shared meals across generations. The word for home, ev, carries deep warmth; an invitation to someone's ev for tea is an act of genuine hospitality, and a guest is treated with great care. Possession is shown with suffixes, so annem means 'my mother' and evimiz means 'our home'.",
+  "keyPhrases": [
+    { "native": "Bu benim ailem", "english": "This is my family", "pronunciation": "boo beh-NEEM eye-leh-EEM", "context": "Showing a photo" },
+    { "native": "annem", "english": "my mother", "pronunciation": "ahn-NEHM", "context": "Talking about parents" },
+    { "native": "babam", "english": "my father", "pronunciation": "bah-BAHM", "context": "Talking about parents" },
+    { "native": "kardeşim", "english": "my sibling", "pronunciation": "kahr-deh-SHEEM", "context": "Brother or sister" },
+    { "native": "İki çocuğum var", "english": "I have two children", "pronunciation": "ee-KEE choh-joo-OOM vahr", "context": "Describing your family" },
+    { "native": "Evli misiniz?", "english": "Are you married? (formal)", "pronunciation": "ehv-LEE mee-see-NEEZ", "context": "Polite question" },
+    { "native": "Bekarım", "english": "I'm single", "pronunciation": "beh-kah-RUHM", "context": "Answering about status" },
+    { "native": "Evimiz büyük", "english": "Our home is big", "pronunciation": "eh-vee-MEEZ bew-YEWK", "context": "Describing the house" },
+    { "native": "Kaç odanız var?", "english": "How many rooms do you have?", "pronunciation": "kahch oh-dah-NUHZ vahr", "context": "Asking about a home" },
+    { "native": "Bahçemiz var", "english": "We have a garden", "pronunciation": "bah-cheh-MEEZ vahr", "context": "Describing the home" }
+  ],
+  "grammar": [
+    {
+      "rule": "Possessive suffixes (my, your, our)",
+      "explanation": "Instead of separate words, Turkish attaches possessive endings to the noun. The endings (with vowel harmony) are -(i)m (my), -(i)n (your, sen), -(s)i (his/her), -(i)miz (our), -(i)niz (your, siz), -leri (their). So ev (home) becomes evim (my home), evin (your home), evimiz (our home).",
+      "examples": [
+        { "native": "Annem öğretmen.", "en": "My mother is a teacher." },
+        { "native": "Evimiz şehir merkezinde.", "en": "Our home is in the city centre." }
+      ],
+      "commonMistake": "Using a separate word like benim alone. You still add the suffix: benim evim, not just benim ev."
+    },
+    {
+      "rule": "Expressing 'to have' with var and a possessive",
+      "explanation": "Turkish says 'I have X' as 'my X exists'. You add a possessive ending to the thing and follow with var (or yok for 'don't have'): iki çocuğum var (I have two children, literally 'my two children exist'), bahçemiz var (we have a garden).",
+      "examples": [
+        { "native": "Bir kardeşim var.", "en": "I have one sibling." },
+        { "native": "Arabamız yok.", "en": "We don't have a car." }
+      ],
+      "commonMistake": "Forgetting the possessive ending on the owned noun. It is köpeğim var (I have a dog), not köpek var for 'I have a dog'."
+    }
+  ],
+  "dialogue": {
+    "setup": "Selin shows her new neighbour Okan a photo of her family.",
+    "lines": [
+      { "speaker": "Selin", "native": "Bak Okan, bu benim ailem.", "english": "Look Okan, this is my family." },
+      { "speaker": "Okan", "native": "Ne güzel! Bu kim?", "english": "How lovely! Who is this?" },
+      { "speaker": "Selin", "native": "Bu annem ve bu da babam.", "english": "This is my mother and this is my father." },
+      { "speaker": "Okan", "native": "Kardeşin var mı?", "english": "Do you have a sibling?" },
+      { "speaker": "Selin", "native": "Evet, bir kardeşim var. Sen evli misin?", "english": "Yes, I have one sibling. Are you married?" },
+      { "speaker": "Okan", "native": "Hayır, bekarım. Ama büyük bir ailem var.", "english": "No, I'm single. But I have a big family." },
+      { "speaker": "Selin", "native": "Çok güzel. Bir gün çay için buyurun!", "english": "Very nice. Come over for tea one day!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'my mother' in Turkish?",
+      "correctAnswer": "annem",
+      "explanation": "Anne (mother) plus the possessive -m gives annem."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which means 'I have two children'?",
+      "options": ["İki çocuk var", "İki çocuğum var", "Çocuğum iki", "Çocuk ikim var"],
+      "correctAnswer": "İki çocuğum var",
+      "explanation": "Çocuğum (my child) plus var expresses 'I have children'."
+    },
+    {
+      "type": "fill-blank",
+      "question": "Ev_____ büyük. (Our home is big)",
+      "correctAnswer": "imiz",
+      "explanation": "The possessive -imiz on ev gives evimiz, 'our home'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does 'Bekarım' mean?",
+      "options": ["I'm married", "I'm single", "I have a sibling", "I'm a teacher"],
+      "correctAnswer": "I'm single",
+      "explanation": "Bekar means single; the -ım ending means 'I am'."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: var / kardeşim / bir",
+      "correctAnswer": "Bir kardeşim var",
+      "explanation": "Bir kardeşim var means 'I have one sibling'."
+    }
+  ],
+  "status": "complete"
+}

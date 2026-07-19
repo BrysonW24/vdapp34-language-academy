@@ -1,0 +1,26 @@
+{
+  "slug": "measure-words",
+  "name": "Measure Words",
+  "nameZh": "量词",
+  "summary": "Chinese counts nouns with a measure word between the number and the noun.",
+  "level": "beginner",
+  "order": 2,
+  "explanation": "In Chinese you cannot say 'three books' directly. You need a measure word (量词) between the number and the noun: 三本书 (sān běn shū) = three (volume) books. English does this only sometimes (a sheet of paper, two cups of tea); Chinese does it every time.\n\nDifferent nouns take different measure words. 本 (běn) is for books, 个 (ge) is the general all-purpose one, 杯 (bēi) is for cups, 张 (zhāng) is for flat things like paper and tickets, and 只 (zhī) is for many animals.\n\nWhen in doubt, 个 (ge) is understood almost everywhere, so beginners can lean on it while learning the specific ones.",
+  "pattern": "Number + Measure Word + Noun",
+  "examples": [
+    { "zh": "一个人", "en": "one person (general measure word)" },
+    { "zh": "两本书", "en": "two books (本 for books)" },
+    { "zh": "三杯咖啡", "en": "three cups of coffee (杯 for cups)" },
+    { "zh": "一张票", "en": "one ticket (张 for flat things)" },
+    { "zh": "四只猫", "en": "four cats (只 for animals)" },
+    { "zh": "这个苹果很大。", "en": "This apple is big. (个 with 这, this)" }
+  ],
+  "commonMistakes": [
+    "Dropping the measure word: it is 三本书, not 三书.",
+    "Using 二 instead of 两 before a measure word: it is 两个 (liǎng ge), not 二个.",
+    "Forgetting the measure word after 这 (this) and 那 (that): it is 这个, not 这.",
+    "Using the wrong measure word. When unsure, the general 个 is usually accepted.",
+    "Putting the measure word in the wrong place. It always sits between the number and the noun."
+  ],
+  "tip": "Learn each new noun together with its measure word, the way you learned der/die/das in German. Default to 个 when you are stuck."
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "phone-and-digital",
+  "title": "Phone & Digital",
+  "description": "Stay connected: phone calls, messaging, WiFi, and apps in Korean.",
+  "situation": "Online and on the phone: calling, texting, WiFi, payment apps, and asking people to add you.",
+  "order": 8,
+  "phrases": [
+    { "native": "여보세요?", "transliteration": "yeoboseyo?", "english": "Hello? (on the phone)", "pronunciation": "yo-boh-seh-yo", "formality": "neutral", "tip": "Only used when answering or starting a phone call, never face to face." },
+    { "native": "지금 통화 괜찮아요?", "transliteration": "jigeum tonghwa gwaenchanayo?", "english": "Is it okay to talk now?", "pronunciation": "jee-geum tong-hwah gwen-chah-nah-yo", "formality": "neutral" },
+    { "native": "잘 안 들려요", "transliteration": "jal an deullyeoyo", "english": "I can't hear you well", "pronunciation": "jahl ahn deul-lyo-yo", "formality": "neutral" },
+    { "native": "문자 보낼게요", "transliteration": "munja bonaelgeyo", "english": "I'll send you a text", "pronunciation": "moon-jah boh-nel-geh-yo", "formality": "neutral" },
+    { "native": "카톡 아이디 뭐예요?", "transliteration": "katok aidi mwoyeyo?", "english": "What's your KakaoTalk ID?", "pronunciation": "kah-tok ah-ee-dee mwo-yeh-yo", "formality": "neutral", "tip": "KakaoTalk (카톡) is the default messaging app in Korea; everyone uses it." },
+    { "native": "친구 추가해 주세요", "transliteration": "chingu chugahae juseyo", "english": "Please add me as a friend", "pronunciation": "cheen-goo choo-gah-heh joo-seh-yo", "formality": "neutral" },
+    { "native": "와이파이 돼요?", "transliteration": "waipai dwaeyo?", "english": "Is there WiFi?", "pronunciation": "wah-ee-pah-ee dweh-yo", "formality": "neutral" },
+    { "native": "충전기 좀 빌릴 수 있어요?", "transliteration": "chungjeongi jom billil su isseoyo?", "english": "Can I borrow a charger?", "pronunciation": "choong-jon-gee jom beel-leel soo ee-sso-yo", "formality": "neutral" },
+    { "native": "배터리가 다 됐어요", "transliteration": "baeteoriga da dwaesseoyo", "english": "My battery is dead", "pronunciation": "beh-to-ree-gah dah dweh-sso-yo", "formality": "neutral" },
+    { "native": "유심 카드 사고 싶어요", "transliteration": "yusim kadeu sago sipeoyo", "english": "I want to buy a SIM card", "pronunciation": "yoo-sheem kah-deu sah-goh shee-po-yo", "formality": "neutral", "tip": "Look for a 유심 (USIM) counter at the airport or a convenience store." },
+    { "native": "QR 코드 찍어 주세요", "transliteration": "kyuar kodeu jjigeo juseyo", "english": "Please scan the QR code", "pronunciation": "kyoo-ahr koh-deu jjee-go joo-seh-yo", "formality": "neutral", "tip": "QR payment and check-in are everywhere; have your phone ready." },
+    { "native": "이메일로 보내 주세요", "transliteration": "imeillo bonae juseyo", "english": "Please send it by email", "pronunciation": "ee-meh-eel-loh boh-neh joo-seh-yo", "formality": "neutral" }
+  ]
+}

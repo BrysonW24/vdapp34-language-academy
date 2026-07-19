@@ -1,0 +1,90 @@
+{
+  "slug": "emotions-and-opinions",
+  "title": "Emotions & Opinions",
+  "titleDe": "Gefühle und Meinungen",
+  "shortSummary": "Say how you feel and share your opinion, the language of real conversation.",
+  "level": "pre-intermediate",
+  "order": 15,
+  "icon": "💬",
+  "color": "#a0453f",
+  "culturalNote": "Germans have a reputation for honesty and directness: if you ask for an opinion, you will usually get a frank one, and this is meant as respect, not rudeness. Sharing a clear, well-reasoned view is valued in conversation. The phrase 'Ich finde...' (I think / I find...) is the everyday way to open an opinion without sounding too formal.",
+  "keyPhrases": [
+    { "german": "Ich bin glücklich", "english": "I'm happy", "pronunciation": "ikh bin GLOOK-likh", "context": "Positive feeling" },
+    { "german": "Ich bin traurig", "english": "I'm sad", "pronunciation": "ikh bin TROW-rikh", "context": "Negative feeling" },
+    { "german": "Ich bin müde", "english": "I'm tired", "pronunciation": "ikh bin MOO-duh", "context": "Common state" },
+    { "german": "Ich freue mich", "english": "I'm glad / looking forward to it", "pronunciation": "ikh FROY-uh mikh", "context": "Reflexive verb" },
+    { "german": "Ich finde, dass...", "english": "I think that...", "pronunciation": "ikh FIN-duh dahs", "context": "Opening an opinion" },
+    { "german": "Meiner Meinung nach...", "english": "In my opinion...", "pronunciation": "MY-ner MY-noong nahkh", "context": "More formal opinion" },
+    { "german": "Ich stimme zu", "english": "I agree", "pronunciation": "ikh SHTIM-muh tsoo", "context": "Agreeing" },
+    { "german": "Das sehe ich anders", "english": "I see it differently", "pronunciation": "dahs ZAY-uh ikh AHN-ders", "context": "Polite disagreement" },
+    { "german": "Wie findest du das?", "english": "What do you think of that?", "pronunciation": "vee FIN-dest doo dahs", "context": "Asking an opinion" },
+    { "german": "Das gefällt mir", "english": "I like that", "pronunciation": "dahs guh-FELT meer", "context": "Expressing liking" }
+  ],
+  "grammar": [
+    {
+      "rule": "Reflexive verbs for feelings",
+      "explanation": "Many feeling verbs are reflexive, using a pronoun like mich (myself): 'Ich freue mich' (I'm glad), 'Ich ärgere mich' (I'm annoyed). The reflexive pronoun matches the subject.",
+      "examples": [
+        { "de": "Ich freue mich auf das Wochenende.", "en": "I'm looking forward to the weekend." },
+        { "de": "Sie fühlt sich besser.", "en": "She feels better." }
+      ],
+      "commonMistake": "Dropping the reflexive pronoun: it is 'Ich freue mich', not 'Ich freue'."
+    },
+    {
+      "rule": "dass sends the verb to the end",
+      "explanation": "When you give an opinion with 'Ich finde, dass...' or 'Ich glaube, dass...', the verb of the second clause moves to the very end: 'Ich finde, dass der Film gut ist'.",
+      "examples": [
+        { "de": "Ich glaube, dass es richtig ist.", "en": "I think that it is right." },
+        { "de": "Ich finde, dass du Recht hast.", "en": "I think that you are right." }
+      ],
+      "commonMistake": "Keeping normal word order after 'dass': the verb must go to the end."
+    }
+  ],
+  "dialogue": {
+    "setup": "Two friends, Mara and Tim, leave the cinema and share their opinions about the film.",
+    "lines": [
+      { "speaker": "Mara", "german": "Wie findest du den Film?", "english": "What do you think of the film?" },
+      { "speaker": "Tim", "german": "Ich finde, dass er sehr gut war. Und du?", "english": "I think it was very good. And you?" },
+      { "speaker": "Mara", "german": "Das sehe ich anders. Mir war er zu lang.", "english": "I see it differently. It was too long for me." },
+      { "speaker": "Tim", "german": "Wirklich? Die Musik hat mir aber gefallen.", "english": "Really? But I liked the music." },
+      { "speaker": "Mara", "german": "Da stimme ich dir zu. Die Musik war toll.", "english": "I agree with you there. The music was great." },
+      { "speaker": "Tim", "german": "Freust du dich auf den zweiten Teil?", "english": "Are you looking forward to the second part?" },
+      { "speaker": "Mara", "german": "Ehrlich gesagt, nicht so sehr.", "english": "Honestly, not so much." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'I agree'?",
+      "correctAnswer": "Ich stimme zu",
+      "explanation": "zustimmen is separable: stimme second, zu at the end."
+    },
+    {
+      "type": "fill-blank",
+      "question": "Ich freue _____. (reflexive pronoun for 'I'm glad')",
+      "correctAnswer": "mich",
+      "explanation": "freuen is reflexive: 'Ich freue mich'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which phrase opens an opinion?",
+      "options": ["Ich finde, dass...", "Ich bin müde", "Gute Reise", "Wie spät ist es?"],
+      "correctAnswer": "Ich finde, dass...",
+      "explanation": "Ich finde, dass... is the everyday way to give an opinion."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which sentence has correct word order?",
+      "options": ["Ich finde, dass der Film ist gut", "Ich finde, dass der Film gut ist", "Ich finde, der Film dass gut ist", "Ich finde gut dass der Film ist"],
+      "correctAnswer": "Ich finde, dass der Film gut ist",
+      "explanation": "After 'dass', the verb 'ist' goes to the very end."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: das / du / findest / wie",
+      "correctAnswer": "Wie findest du das",
+      "explanation": "Question word wie, verb findest second, then du and das."
+    }
+  ],
+  "status": "complete"
+}

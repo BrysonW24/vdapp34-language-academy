@@ -1,0 +1,90 @@
+{
+  "slug": "travel-and-accommodation",
+  "title": "Travel & Accommodation",
+  "titleNative": "りょこうとしゅくはく",
+  "shortSummary": "Check in, ask about your room, and handle hotel and ryokan situations while travelling.",
+  "level": "beginner",
+  "order": 10,
+  "icon": "🧳",
+  "color": "#0c8599",
+  "culturalNote": "Japan offers two very different lodging styles: modern hotels and the traditional ryokan, an inn with tatami floors, futon bedding, and often an onsen (hot spring bath). At a ryokan you remove your shoes at the entrance, wear the provided yukata robe, and may be served an elaborate multi-course dinner in your room. Check-in is efficient and polite, and staff bow deeply on arrival and departure. Bathing etiquette in shared baths is strict: you wash thoroughly before entering the communal water, and bathing suits are not worn. Many onsen still do not permit visible tattoos, so check ahead. Tipping is not expected anywhere, and you will be looked after with omotenashi hospitality regardless. The set phrase yoroshiku onegaishimasu is useful when handing over your booking details.",
+  "keyPhrases": [
+    { "native": "予約をしました", "transliteration": "yoyaku o shimashita", "english": "I made a reservation", "pronunciation": "yo-YA-koo oh shee-mash-ta", "context": "At check-in" },
+    { "native": "チェックインをお願いします", "transliteration": "chekkuin o onegaishimasu", "english": "Check-in, please", "pronunciation": "CHEK-koo-in oh oh-neh-gai-shee-mas", "context": "Arriving" },
+    { "native": "一泊いくらですか", "transliteration": "ippaku ikura desu ka", "english": "How much per night?", "pronunciation": "EEP-pa-koo ee-koo-rah dess kah", "context": "Asking the rate" },
+    { "native": "朝食は付いていますか", "transliteration": "choushoku wa tsuite imasu ka", "english": "Is breakfast included?", "pronunciation": "CHOH-sho-koo wah tsoo-ee-teh ee-mas kah", "context": "Checking inclusions" },
+    { "native": "Wi-Fiはありますか", "transliteration": "wai-fai wa arimasu ka", "english": "Is there Wi-Fi?", "pronunciation": "WAI-fai wah a-ree-mas kah", "context": "Amenities" },
+    { "native": "部屋を見せてください", "transliteration": "heya o misete kudasai", "english": "Please show me the room", "pronunciation": "HEH-ya oh mee-seh-teh koo-da-sai", "context": "Before deciding" },
+    { "native": "鍵をください", "transliteration": "kagi o kudasai", "english": "The key, please", "pronunciation": "KA-gee oh koo-da-sai", "context": "Receiving the key" },
+    { "native": "チェックアウトは何時ですか", "transliteration": "chekkuauto wa nanji desu ka", "english": "What time is check-out?", "pronunciation": "CHEK-koo-au-toh wah NAN-jee dess kah", "context": "Departure" },
+    { "native": "荷物を預かってください", "transliteration": "nimotsu o azukatte kudasai", "english": "Please keep my luggage", "pronunciation": "NEE-mo-tsoo oh a-zoo-kat-teh koo-da-sai", "context": "Storing bags" },
+    { "native": "お世話になりました", "transliteration": "osewa ni narimashita", "english": "Thank you for your care", "pronunciation": "oh-SEH-wa nee na-ree-mash-ta", "context": "On leaving" }
+  ],
+  "grammar": [
+    {
+      "rule": "The polite past tense -mashita",
+      "explanation": "To put a polite verb into the past, change -masu to -mashita. Shimasu (do) becomes shimashita (did), so yoyaku o shimashita means 'I made a reservation'. The negative past is -masen deshita.",
+      "examples": [
+        { "native": "予約をしました。(yoyaku o shimashita)", "en": "I made a reservation." },
+        { "native": "昨日着きました。(kinou tsukimashita)", "en": "I arrived yesterday." }
+      ],
+      "commonMistake": "Saying shimasu deshita; the correct past of shimasu is shimashita, not masu plus deshita."
+    },
+    {
+      "rule": "Requesting a service with onegaishimasu",
+      "explanation": "Onegaishimasu is a versatile polite request, slightly more formal than kudasai. Attach it after a noun to ask for a service or item: chekkuin o onegaishimasu ('check-in, please'). It carries a humble, courteous nuance ideal for service settings.",
+      "examples": [
+        { "native": "会計をお願いします。(kaikei o onegaishimasu)", "en": "The bill, please." },
+        { "native": "タクシーをお願いします。(takushii o onegaishimasu)", "en": "A taxi, please." }
+      ],
+      "commonMistake": "Confusing kudasai (give me an object) with onegaishimasu (request a service); both are polite, but onegaishimasu suits services."
+    }
+  ],
+  "dialogue": {
+    "setup": "A guest arrives at a hotel front desk to check in.",
+    "lines": [
+      { "speaker": "客", "native": "すみません、チェックインをお願いします。", "transliteration": "sumimasen, chekkuin o onegaishimasu", "english": "Excuse me, check-in, please." },
+      { "speaker": "フロント", "native": "ご予約はされましたか。", "transliteration": "goyoyaku wa saremashita ka", "english": "Did you make a reservation?" },
+      { "speaker": "客", "native": "はい、予約をしました。スミスです。", "transliteration": "hai, yoyaku o shimashita. Sumisu desu", "english": "Yes, I made a reservation. I'm Smith." },
+      { "speaker": "フロント", "native": "ありがとうございます。朝食は付いています。", "transliteration": "arigatou gozaimasu. choushoku wa tsuite imasu", "english": "Thank you. Breakfast is included." },
+      { "speaker": "客", "native": "チェックアウトは何時ですか。", "transliteration": "chekkuauto wa nanji desu ka", "english": "What time is check-out?" },
+      { "speaker": "フロント", "native": "午前十一時です。こちらが鍵です。", "transliteration": "gozen juuichiji desu. kochira ga kagi desu", "english": "Eleven a.m. Here is your key." },
+      { "speaker": "客", "native": "ありがとうございます。お世話になります。", "transliteration": "arigatou gozaimasu. osewa ni narimasu", "english": "Thank you. I'll be in your care." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'I made a reservation' in Japanese?",
+      "correctAnswer": "予約をしました (yoyaku o shimashita)",
+      "explanation": "Shimashita is the polite past of suru (do), so this means 'I did a reservation'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which phrase asks 'Is breakfast included?'",
+      "options": ["鍵をください (kagi o kudasai)", "朝食は付いていますか (choushoku wa tsuite imasu ka)", "一泊いくらですか (ippaku ikura desu ka)", "部屋を見せてください (heya o misete kudasai)"],
+      "correctAnswer": "朝食は付いていますか (choushoku wa tsuite imasu ka)",
+      "explanation": "Tsuite imasu means 'is attached / included', so this asks about breakfast."
+    },
+    {
+      "type": "fill-blank",
+      "question": "チェックインをお願い _____ 。(Check-in, please)",
+      "correctAnswer": "します (shimasu)",
+      "explanation": "Onegaishimasu is the polite request phrase used for services."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is a ryokan?",
+      "options": ["A bullet train", "A traditional Japanese inn", "A convenience store", "A train station"],
+      "correctAnswer": "A traditional Japanese inn",
+      "explanation": "A ryokan is a traditional inn with tatami rooms, futon bedding, and often an onsen."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: ですか / 何時 / チェックアウトは (what time is check-out?)",
+      "correctAnswer": "チェックアウトは何時ですか (chekkuauto wa nanji desu ka)",
+      "explanation": "Topic + nanji desu ka asks 'at what time is [topic]?'."
+    }
+  ],
+  "status": "complete"
+}

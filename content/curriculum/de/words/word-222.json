@@ -1,13 +1,11 @@
 {
   "rank": 222,
-  "german": "Freund",
-  "english": "friend (male), boyfriend",
-  "pronunciation": "FROYNT",
-  "partOfSpeech": "noun",
-  "gender": "masculine",
-  "article": "der",
-  "exampleDe": "Das ist mein bester Freund.",
-  "exampleEn": "That is my best friend.",
+  "german": "neues",
+  "english": "new",
+  "pronunciation": "n ɔ ɪ ə s",
+  "partOfSpeech": "adjective",
+  "exampleDe": "Das ist sehr neues.",
+  "exampleEn": "That is very new.",
   "group": "everyday-250",
-  "topic": "family"
+  "topic": "descriptions"
 }

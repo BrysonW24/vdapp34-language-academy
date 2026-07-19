@@ -1,0 +1,21 @@
+{
+  "slug": "meeting-people",
+  "title": "Meeting People",
+  "description": "12 essential phrases for introducing yourself, making small talk, and connecting with new people in Spanish.",
+  "situation": "Social gatherings, language exchanges, networking events, or meeting neighbours.",
+  "order": 2,
+  "phrases": [
+    { "spanish": "Mucho gusto", "english": "Nice to meet you", "pronunciation": "MOO-choh GOOS-toh", "formality": "neutral", "tip": "You can also say 'Encantado/Encantada' (charmed)" },
+    { "spanish": "Me llamo...", "english": "My name is...", "pronunciation": "meh YAH-moh", "formality": "neutral" },
+    { "spanish": "¿Cómo te llamas?", "english": "What's your name? (informal)", "pronunciation": "KOH-moh teh YAH-mahs", "formality": "informal" },
+    { "spanish": "¿De dónde eres?", "english": "Where are you from? (informal)", "pronunciation": "deh DOHN-deh EH-rehs", "formality": "informal" },
+    { "spanish": "Soy de Australia", "english": "I'm from Australia", "pronunciation": "soy deh ow-STRAH-lee-ah", "formality": "neutral" },
+    { "spanish": "¿A qué te dedicas?", "english": "What do you do for a living?", "pronunciation": "ah keh teh deh-DEE-kahs", "formality": "informal", "tip": "More natural than '¿Cuál es tu trabajo?'" },
+    { "spanish": "Estoy aprendiendo español", "english": "I'm learning Spanish", "pronunciation": "ehs-TOY ah-prehn-dee-EHN-doh ehs-pah-NYOL", "formality": "neutral", "tip": "People love hearing this and will be very encouraging" },
+    { "spanish": "¿Puedes hablar más despacio?", "english": "Can you speak more slowly?", "pronunciation": "PWEH-dehs ah-BLAHR mahs dehs-PAH-see-oh", "formality": "informal" },
+    { "spanish": "¿Tienes redes sociales?", "english": "Do you have social media?", "pronunciation": "tee-EH-nehs RREH-dehs soh-see-AH-lehs", "formality": "informal", "tip": "Modern way to stay in touch" },
+    { "spanish": "¿Cuánto tiempo llevas aquí?", "english": "How long have you been here?", "pronunciation": "KWAHN-toh tee-EHM-poh YEH-bahs ah-KEE", "formality": "informal" },
+    { "spanish": "Ha sido un placer", "english": "It's been a pleasure", "pronunciation": "ah SEE-doh oon plah-SEHR", "formality": "formal" },
+    { "spanish": "Espero verte pronto", "english": "I hope to see you soon", "pronunciation": "ehs-PEH-roh BEHR-teh PROHN-toh", "formality": "informal" }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "slug": "numbers-and-time",
+  "title": "Numbers & Time",
+  "titleTh": "ตัวเลขและเวลา",
+  "shortSummary": "Count, tell the time, and handle dates and prices, the numbers you use every day.",
+  "level": "beginner",
+  "order": 2,
+  "icon": "🕐",
+  "color": "#2f4f79",
+  "culturalNote": "Thai numbers are regular and easy to build once you know one to ten, with a small quirk: 'one' becomes เอ็ด (et) in compounds, so 11 is สิบเอ็ด (sip-et). Thai also has its own clock system that divides the day into parts, but learners can rely on the simpler โมง (moong) for daytime hours and ทุ่ม (thum) for evening. Prices are counted in บาท (baht).",
+  "keyPhrases": [
+    { "thai": "หนึ่ง สอง สาม", "pronunciation": "neung song saam", "english": "one two three", "context": "First numbers" },
+    { "thai": "สิบ", "pronunciation": "sip", "english": "ten", "context": "Key building block" },
+    { "thai": "สิบเอ็ด", "pronunciation": "sip-et", "english": "eleven", "context": "'One' becomes เอ็ด in compounds" },
+    { "thai": "ยี่สิบ", "pronunciation": "yii-sip", "english": "twenty", "context": "Note ยี่ for twenty" },
+    { "thai": "หนึ่งร้อย", "pronunciation": "neung-roi", "english": "one hundred", "context": "For prices" },
+    { "thai": "กี่โมงแล้ว", "pronunciation": "kii moong laeo", "english": "What time is it?", "context": "Asking the time" },
+    { "thai": "บ่ายสองโมง", "pronunciation": "baai song moong", "english": "two in the afternoon", "context": "บ่าย marks afternoon" },
+    { "thai": "ครึ่งชั่วโมง", "pronunciation": "khreung chua-moong", "english": "half an hour", "context": "ครึ่ง means half" },
+    { "thai": "วันนี้วันที่เท่าไหร่", "pronunciation": "wan-nii wan-thii thao-rai", "english": "What's the date today?", "context": "Asking the date" },
+    { "thai": "เท่าไหร่", "pronunciation": "thao-rai", "english": "How much?", "context": "Asking a price" }
+  ],
+  "grammar": [
+    {
+      "rule": "Building numbers above ten",
+      "explanation": "Combine the tens and units: 11 is สิบเอ็ด (ten-one, with เอ็ด for one), 25 is ยี่สิบห้า (twenty-five). Note 20 uses ยี่สิบ, not สองสิบ.",
+      "examples": [
+        { "th": "สิบสอง", "en": "twelve (ten-two)" },
+        { "th": "สามสิบห้า", "en": "thirty-five (three-ten-five)" }
+      ],
+      "commonMistake": "Saying สองสิบ for twenty. It is ยี่สิบ."
+    },
+    {
+      "rule": "Telling the time with โมง",
+      "explanation": "Daytime hours use โมง (moong): บ่ายสองโมง (2pm). For half past, add ครึ่ง (khreung): บ่ายสองโมงครึ่ง (2:30pm). Evening hours use ทุ่ม.",
+      "examples": [
+        { "th": "เก้าโมงเช้า", "en": "nine in the morning" },
+        { "th": "หนึ่งทุ่ม", "en": "seven in the evening (7pm)" }
+      ],
+      "commonMistake": "Using ชั่วโมง (an hour, duration) instead of โมง for clock time."
+    }
+  ],
+  "dialogue": {
+    "setup": "Nok calls the cinema to ask about a film and ticket prices.",
+    "lines": [
+      { "speaker": "นก", "thai": "สวัสดีค่ะ หนังเริ่มกี่โมงคะ", "pronunciation": "sa-wat-dee kha, nang roem kii moong kha", "english": "Hello, what time does the film start?" },
+      { "speaker": "พนักงาน", "thai": "ทุ่มครึ่งครับ", "pronunciation": "thum-khreung khrap", "english": "Half past seven (7:30pm)." },
+      { "speaker": "นก", "thai": "ตั๋วใบละเท่าไหร่คะ", "pronunciation": "tua bai-la thao-rai kha", "english": "How much is each ticket?" },
+      { "speaker": "พนักงาน", "thai": "ใบละสองร้อยบาทครับ", "pronunciation": "bai-la song-roi baht khrap", "english": "Two hundred baht each." },
+      { "speaker": "นก", "thai": "เอาสองใบค่ะ", "pronunciation": "ao song bai kha", "english": "I'll take two." },
+      { "speaker": "พนักงาน", "thai": "รวมสี่ร้อยบาทครับ", "pronunciation": "ruam sii-roi baht khrap", "english": "Four hundred baht in total." },
+      { "speaker": "นก", "thai": "ขอบคุณค่ะ", "pronunciation": "khop-khun kha", "english": "Thank you." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'eleven' in Thai?",
+      "correctAnswer": "สิบเอ็ด",
+      "explanation": "Ten plus เอ็ด (the compound form of one)."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which is 'twenty'?",
+      "options": ["สองสิบ", "ยี่สิบ", "สิบสอง", "ยี่"],
+      "correctAnswer": "ยี่สิบ",
+      "explanation": "Twenty uses ยี่สิบ, not สองสิบ."
+    },
+    {
+      "type": "fill-blank",
+      "question": "บ่ายสองโมง_____ (half past two)",
+      "correctAnswer": "ครึ่ง",
+      "explanation": "ครึ่ง (half) makes it half past."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which word asks a price?",
+      "options": ["กี่โมง", "วันที่", "เท่าไหร่", "ที่ไหน"],
+      "correctAnswer": "เท่าไหร่",
+      "explanation": "เท่าไหร่ means 'how much'."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: แล้ว / โมง / กี่",
+      "correctAnswer": "กี่โมงแล้ว",
+      "explanation": "กี่โมงแล้ว asks 'what time is it now?'."
+    }
+  ],
+  "status": "complete"
+}

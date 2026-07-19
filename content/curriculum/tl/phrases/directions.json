@@ -1,0 +1,21 @@
+{
+  "slug": "directions",
+  "title": "Asking Directions",
+  "description": "Find your way, ask for landmarks, and take a jeepney or tricycle in the Philippines.",
+  "situation": "Getting around: asking where places are, how far, and which ride to take.",
+  "order": 5,
+  "phrases": [
+    { "native": "Nasaan po ang istasyon?", "english": "Where is the station?", "pronunciation": "na-sa-AN po ang is-tas-YON", "formality": "formal", "tip": "Swap istasyon for any place: palengke, simbahan (church), banko." },
+    { "native": "Paano po pumunta sa mall?", "english": "How do I get to the mall?", "pronunciation": "pa-A-no po poo-MOON-ta sa mol", "formality": "formal" },
+    { "native": "Malayo po ba?", "english": "Is it far?", "pronunciation": "ma-LA-yo po ba", "formality": "formal", "tip": "Opposite is malapit (near): malapit po ba?" },
+    { "native": "Diretso lang po", "english": "Just go straight", "pronunciation": "di-RET-so lang po", "formality": "formal", "tip": "A direction you'll hear constantly from locals." },
+    { "native": "Kumaliwa po", "english": "Turn left", "pronunciation": "koo-ma-LEE-wa po", "formality": "formal" },
+    { "native": "Kumanan po", "english": "Turn right", "pronunciation": "koo-MA-nan po", "formality": "formal" },
+    { "native": "Anong jeep po ang papunta sa Cubao?", "english": "Which jeep goes to Cubao?", "pronunciation": "a-NONG jip po ang pa-POON-ta sa koo-BA-o", "formality": "formal", "tip": "The jeepney is the classic, colourful public transport." },
+    { "native": "Magkano po ang pamasahe?", "english": "How much is the fare?", "pronunciation": "mag-KA-no po ang pa-ma-SA-he", "formality": "formal" },
+    { "native": "Para po!", "english": "Stop here, please!", "pronunciation": "PA-ra po", "formality": "formal", "tip": "Shout this to make a jeepney or bus stop. Essential!" },
+    { "native": "Bababa po ako dito", "english": "I'm getting off here", "pronunciation": "ba-BA-ba po a-KO DEE-to", "formality": "formal", "tip": "Bababa famously has three ba syllables in a row." },
+    { "native": "May tricycle po ba dito?", "english": "Is there a tricycle here?", "pronunciation": "may TRAY-si-kel po ba DEE-to", "formality": "formal", "tip": "Tricycles handle short trips into smaller streets." },
+    { "native": "Ligtas po ba dito sa gabi?", "english": "Is it safe here at night?", "pronunciation": "lig-TAS po ba DEE-to sa ga-BEE", "formality": "formal" }
+  ]
+}

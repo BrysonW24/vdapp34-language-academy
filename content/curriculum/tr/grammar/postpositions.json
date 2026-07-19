@@ -1,0 +1,34 @@
+{
+  "slug": "postpositions",
+  "name": "Postpositions",
+  "nameNative": "Son çekim edatları",
+  "summary": "Turkish puts its 'prepositions' after the noun, and many of them demand a specific case.",
+  "level": "pre-intermediate",
+  "order": 10,
+  "explanation": "Where English uses prepositions before a noun (with me, for you, after lunch), Turkish uses postpositions that come after the noun. Benimle means 'with me', senin için means 'for you', and yemekten sonra means 'after lunch'. The position is the mirror image of English.\n\nMany postpositions govern a particular case on the noun in front of them. Sonra (after) and önce (before) take the ablative -den, so okuldan sonra means 'after school'. Kadar (until, as much as) and için (for) usually follow a plain or genitive noun, while gibi (like) follows a plain noun: aslan gibi (like a lion).\n\nThe postposition ile (with) is special: it often shrinks into a suffix. Ile harmonises and attaches as -le or -la, with a buffer -y- after a vowel. Ali ile becomes Ali'yle, araba ile becomes arabayla, and ben ile becomes benimle. Learning which case each postposition wants is the main work here.",
+  "pattern": "noun (+ required case) + postposition (sonra, önce, için, gibi, kadar, ile)",
+  "conjugation": {
+    "ile (with)": "benimle, arabayla",
+    "için (for)": "senin için",
+    "sonra (after, + ablative)": "yemekten sonra",
+    "önce (before, + ablative)": "dersten önce",
+    "gibi (like)": "aslan gibi",
+    "kadar (until / as much as)": "akşama kadar"
+  },
+  "examples": [
+    { "native": "Benimle gel.", "en": "Come with me." },
+    { "native": "Bu hediye senin için.", "en": "This gift is for you." },
+    { "native": "Yemekten sonra çay içeriz.", "en": "We drink tea after the meal." },
+    { "native": "Dersten önce kahvaltı yaptım.", "en": "I had breakfast before the lesson." },
+    { "native": "Bir aslan gibi güçlü.", "en": "He is strong like a lion." },
+    { "native": "Akşama kadar çalışıyorum.", "en": "I work until the evening." }
+  ],
+  "commonMistakes": [
+    "Placing the postposition before the noun like an English preposition, saying için sen instead of senin için.",
+    "Forgetting the case a postposition requires, saying yemek sonra instead of yemekten sonra.",
+    "Writing ile as a separate word when it should contract, saying araba ile instead of arabayla.",
+    "Dropping the buffer -y- in the contracted form, saying Ali'le instead of Ali'yle.",
+    "Using gibi with a case-marked noun instead of a plain one, saying aslanı gibi instead of aslan gibi."
+  ],
+  "tip": "Read the phrase backwards from English: 'with me' is 'me + with' = benimle. Then check whether the postposition demands -den (sonra, önce) or a plain noun (gibi, için)."
+}

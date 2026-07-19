@@ -1,0 +1,27 @@
+{
+  "slug": "negation",
+  "name": "Negation: 不 and 没",
+  "nameZh": "否定：不和没",
+  "summary": "Chinese has two words for 'not'. Learn when to use 不 (bù) versus 没 (méi).",
+  "level": "beginner",
+  "order": 4,
+  "explanation": "Mandarin negates with two different words. Use 不 (bù) for the present and future, for habits, and for opinions or wishes: 我不喝咖啡 (wǒ bù hē kāfēi) = I don't drink coffee.\n\nUse 没 (méi) to negate the verb 有 (yǒu, to have) and to say an action did not happen in the past: 我没有时间 (wǒ méiyǒu shíjiān) = I don't have time; 我没去 (wǒ méi qù) = I didn't go.\n\nA useful rule of thumb: 不 negates the present and future, while 没 negates the past and 有. The tone of 不 also changes to bú before a fourth tone, as in 不是 (bú shì).",
+  "pattern": "不 + verb (present/future)  |  没(有) + verb (past) / 没有 (not have)",
+  "tones": "不 is bù, but becomes bú before a fourth-tone syllable (不是 = bú shì).",
+  "examples": [
+    { "zh": "我不喜欢茶。", "en": "I don't like tea. (opinion, present)" },
+    { "zh": "他明天不来。", "en": "He isn't coming tomorrow. (future)" },
+    { "zh": "我没有钱。", "en": "I don't have money. (negating 有)" },
+    { "zh": "我昨天没吃早饭。", "en": "I didn't eat breakfast yesterday. (past)" },
+    { "zh": "她不是老师。", "en": "She is not a teacher. (bú shì)" },
+    { "zh": "我还没看那个电影。", "en": "I haven't seen that film yet." }
+  ],
+  "commonMistakes": [
+    "Using 不 with 有: it is 没有 (méiyǒu), never 不有.",
+    "Using 不 for the past: a past action that did not happen takes 没, as in 我没去.",
+    "Keeping 了 with 没: a negated past drops 了, so it is 我没吃, not 我没吃了.",
+    "Forgetting the tone change of 不 to bú before a fourth tone (不是 = bú shì).",
+    "Placing the negation after the verb. 不 and 没 always go before the verb."
+  ],
+  "tip": "Two-word memory hook: 不 for now and later, 没 for the past and for 有. Master that split and negation is solved."
+}

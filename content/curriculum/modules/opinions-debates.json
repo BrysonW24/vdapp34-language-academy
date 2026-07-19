@@ -1,0 +1,25 @@
+{
+  "slug": "opinions-debates",
+  "title": "Opinions & Debates",
+  "shortSummary": "Express your views, agree, disagree, and argue a point in Spanish. From casual opinions to formal debates — develop the language skills to hold your own in any discussion.",
+  "level": "intermediate",
+  "category": "strategy",
+  "whyItMatters": "Expressing opinions is where real communication happens. Moving beyond factual statements to sharing what you think, persuading others, and engaging in discussions transforms you from a tourist into a participant.",
+  "coreConcepts": [
+    "Expressing opinions: Creo que, Pienso que, En mi opinión",
+    "Agreeing: Estoy de acuerdo, Tienes razón, Exacto",
+    "Disagreeing politely: No estoy de acuerdo, Depende, No necesariamente",
+    "Giving reasons: porque, ya que, debido a",
+    "Connecting ideas: sin embargo, además, por otro lado",
+    "Debate vocabulary: argumento, punto de vista, conclusión",
+    "Hedging and nuance: quizás, tal vez, posiblemente",
+    "Cultural norms around disagreement in Spanish-speaking cultures"
+  ],
+  "lessons": [],
+  "frameworks": ["output-hypothesis", "conversation-scaffolding"],
+  "visualType": "debate",
+  "relatedModules": ["subjunctive-mood", "conditional-tense", "spanish-culture"],
+  "status": "coming-soon",
+  "order": 12,
+  "levelNumber": 3
+}

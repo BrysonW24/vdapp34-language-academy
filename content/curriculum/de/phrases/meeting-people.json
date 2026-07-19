@@ -1,0 +1,21 @@
+{
+  "slug": "meeting-people",
+  "title": "Meeting People",
+  "description": "Introduce yourself, ask someone's name, and make a good first impression in German.",
+  "situation": "First introductions: names, where you are from, and polite small talk when meeting someone new.",
+  "order": 2,
+  "phrases": [
+    { "german": "Wie heißen Sie?", "english": "What's your name? (formal)", "pronunciation": "vee HIGH-sen zee", "formality": "formal", "tip": "Informal version: Wie heißt du?" },
+    { "german": "Ich heiße...", "english": "My name is...", "pronunciation": "ikh HIGH-suh", "formality": "neutral", "tip": "Literally 'I am called...'." },
+    { "german": "Freut mich", "english": "Nice to meet you", "pronunciation": "froyt mikh", "formality": "neutral", "tip": "Short for 'Es freut mich, Sie kennenzulernen'." },
+    { "german": "Woher kommen Sie?", "english": "Where are you from? (formal)", "pronunciation": "voh-HAIR KOM-men zee", "formality": "formal" },
+    { "german": "Ich komme aus Australien", "english": "I'm from Australia", "pronunciation": "ikh KOM-muh ows ows-TRAH-lee-en", "formality": "neutral", "tip": "Swap in your country: aus England, aus den USA." },
+    { "german": "Wie geht es Ihnen?", "english": "How are you? (formal)", "pronunciation": "vee gayt es EE-nen", "formality": "formal", "tip": "Informal: Wie geht's? (vee gayts)." },
+    { "german": "Mir geht es gut, danke", "english": "I'm doing well, thank you", "pronunciation": "meer gayt es goot DAHN-kuh", "formality": "neutral" },
+    { "german": "Was machen Sie beruflich?", "english": "What do you do for work?", "pronunciation": "vahs MAHKH-en zee buh-ROOF-likh", "formality": "formal" },
+    { "german": "Ich arbeite als...", "english": "I work as a...", "pronunciation": "ikh AR-by-tuh als", "formality": "neutral" },
+    { "german": "Sprechen wir per du?", "english": "Shall we use the informal 'you'?", "pronunciation": "SHPREKH-en veer per doo", "formality": "informal", "tip": "Switching from Sie to du is a small social milestone in Germany." },
+    { "german": "Bis bald", "english": "See you soon", "pronunciation": "bis bahlt", "formality": "neutral" },
+    { "german": "Schönen Tag noch", "english": "Have a nice day", "pronunciation": "SHUR-nen tahk nokh", "formality": "neutral", "tip": "A warm, common way to close a conversation." }
+  ]
+}

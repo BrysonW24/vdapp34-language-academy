@@ -1,0 +1,34 @@
+{
+  "slug": "possessives",
+  "name": "Possessive Articles",
+  "nameDe": "Possessivartikel",
+  "summary": "Say my, your, his, and her with words that behave just like ein.",
+  "level": "elementary",
+  "order": 8,
+  "explanation": "Possessive articles show ownership: mein (my), dein (your, informal), sein (his/its), ihr (her/their), unser (our), euer (your, plural), Ihr (your, formal).\n\nThe good news: they all take exactly the same endings as 'ein' and 'kein'. So they change for the gender and case of the thing owned, not the owner. 'mein Bruder' (my brother, masculine), 'meine Schwester' (my sister, feminine), 'mein Auto' (my car, neuter), 'meine Eltern' (my parents, plural).\n\nIn the accusative, only the masculine adds -en: 'Ich sehe meinen Bruder' (I see my brother).",
+  "pattern": "mein/dein/sein/ihr/unser ... + ein-type endings",
+  "conjugation": {
+    "my": "mein",
+    "your (informal)": "dein",
+    "his/its": "sein",
+    "her/their": "ihr",
+    "our": "unser",
+    "your (formal)": "Ihr"
+  },
+  "examples": [
+    { "de": "Das ist mein Bruder.", "en": "That is my brother. (masculine)" },
+    { "de": "Meine Schwester heißt Anna.", "en": "My sister is called Anna. (feminine)" },
+    { "de": "Wo ist dein Auto?", "en": "Where is your car? (neuter)" },
+    { "de": "Ich liebe meine Eltern.", "en": "I love my parents. (plural)" },
+    { "de": "Sie sucht ihren Schlüssel.", "en": "She is looking for her key. (masculine accusative)" },
+    { "de": "Unser Haus ist klein.", "en": "Our house is small. (neuter)" }
+  ],
+  "commonMistakes": [
+    "Matching the possessive to the owner instead of the owned noun: it is 'meine Schwester' because Schwester is feminine.",
+    "Forgetting the -e for feminine and plural: it is 'meine Mutter', not 'mein Mutter'.",
+    "Confusing 'ihr' (her/their) with 'Ihr' (formal your). Capitalisation carries the meaning.",
+    "Leaving masculine unmarked in the accusative: it is 'Ich sehe meinen Vater'.",
+    "Adding endings to the wrong stem with 'euer', which drops an e: 'eure Kinder', not 'euere Kinder'."
+  ],
+  "tip": "If you can already use ein and kein, you can use every possessive. They share one ending system."
+}

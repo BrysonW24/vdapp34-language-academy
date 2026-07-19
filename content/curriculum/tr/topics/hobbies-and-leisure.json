@@ -1,0 +1,90 @@
+{
+  "slug": "hobbies-and-leisure",
+  "title": "Hobbies & Leisure",
+  "titleNative": "Hobiler ve boş zaman",
+  "shortSummary": "Talk about your hobbies, free time, and what you like to do in Turkish.",
+  "level": "beginner",
+  "order": 14,
+  "icon": "🎨",
+  "color": "#ae3ec9",
+  "culturalNote": "Leisure in Turkey is deeply social, often built around long conversations over tea or Turkish coffee in a cafe or at home. Football (futbol) is a national passion, and the big Istanbul clubs inspire fierce, friendly loyalty; asking someone hangi takımı tutuyorsun? (which team do you support?) can spark a lively chat. Backgammon (tavla) is played everywhere in tea houses, accompanied by good-natured banter. Many Turks enjoy walks along the seaside (sahil), picnics in the countryside, and visiting family at weekends. Reading, music, and increasingly going to the gym are popular too. To say you like an activity, Turkish adds the accusative to the noun before sevmek (to love), as in müziği seviyorum (I love music), and to say you can do something it uses the ability suffix -ebil, as in yüzebilirim (I can swim).",
+  "keyPhrases": [
+    { "native": "Hobilerin ne?", "english": "What are your hobbies? (informal)", "pronunciation": "hoh-bee-leh-REEN neh", "context": "Getting to know someone" },
+    { "native": "Müzik dinlemeyi seviyorum", "english": "I love listening to music", "pronunciation": "mew-ZEEK deen-leh-meh-YEE seh-vee-YOH-room", "context": "Sharing an interest" },
+    { "native": "Kitap okuyorum", "english": "I read books", "pronunciation": "kee-TAHP oh-koo-YOH-room", "context": "A quiet hobby" },
+    { "native": "Futbol oynuyorum", "english": "I play football", "pronunciation": "foot-BOHL oy-noo-YOH-room", "context": "Sports" },
+    { "native": "Yüzmeyi seviyorum", "english": "I love swimming", "pronunciation": "yewz-meh-YEE seh-vee-YOH-room", "context": "An active hobby" },
+    { "native": "Boş zamanımda", "english": "In my free time", "pronunciation": "bohsh zah-mah-nuhm-DAH", "context": "Introducing a hobby" },
+    { "native": "Sinemaya gitmeyi severim", "english": "I like going to the cinema", "pronunciation": "see-neh-mah-YAH geet-meh-YEE seh-veh-REEM", "context": "Weekend plans" },
+    { "native": "Resim yapıyorum", "english": "I paint / draw", "pronunciation": "reh-SEEM yah-puh-YOH-room", "context": "A creative hobby" },
+    { "native": "Hangi takımı tutuyorsun?", "english": "Which team do you support?", "pronunciation": "hahn-GEE tah-kuh-MUH too-too-yohr-SOON", "context": "Talking football" },
+    { "native": "Beraber gidelim mi?", "english": "Shall we go together?", "pronunciation": "beh-rah-BEHR gee-deh-LEEM mee", "context": "Making plans" }
+  ],
+  "grammar": [
+    {
+      "rule": "Liking actions with -mEyi sevmek",
+      "explanation": "To say you like doing an activity, turn the verb into a noun with -mek/-mak, add the accusative -i, and follow with sevmek (to love): yüzmeyi seviyorum (I love swimming), okumayı seviyorum (I love reading). The verb becomes the object of 'love'.",
+      "examples": [
+        { "native": "Dans etmeyi seviyorum.", "en": "I love dancing." },
+        { "native": "Yürümeyi severim.", "en": "I like walking." }
+      ],
+      "commonMistake": "Leaving the verb in its plain form. It is yüzmeyi seviyorum, not yüzmek seviyorum."
+    },
+    {
+      "rule": "Ability with -ebil/-abil (can)",
+      "explanation": "To say you can or are able to do something, insert -ebil or -abil (with vowel harmony) before the personal ending: yüzebilirim (I can swim), gelebilirim (I can come), oynayabilirim (I can play). The negative 'cannot' uses -emez/-amaz: yüzemem (I can't swim).",
+      "examples": [
+        { "native": "Gitar çalabilirim.", "en": "I can play guitar." },
+        { "native": "Yarın gelebilirim.", "en": "I can come tomorrow." }
+      ],
+      "commonMistake": "Forgetting vowel harmony in the suffix. After a back vowel it is oynayabilirim, not oynayebilirim."
+    }
+  ],
+  "dialogue": {
+    "setup": "Ece and Kerem chat about their hobbies and plan a weekend activity.",
+    "lines": [
+      { "speaker": "Ece", "native": "Kerem, boş zamanında ne yaparsın?", "english": "Kerem, what do you do in your free time?" },
+      { "speaker": "Kerem", "native": "Genelde futbol oynarım. Sen?", "english": "Usually I play football. You?" },
+      { "speaker": "Ece", "native": "Ben müzik dinlemeyi ve kitap okumayı severim.", "english": "I love listening to music and reading books." },
+      { "speaker": "Kerem", "native": "Güzel. Yüzebilir misin?", "english": "Nice. Can you swim?" },
+      { "speaker": "Ece", "native": "Evet, yüzmeyi çok seviyorum.", "english": "Yes, I love swimming a lot." },
+      { "speaker": "Kerem", "native": "O zaman hafta sonu sahile gidelim mi?", "english": "Then shall we go to the seaside at the weekend?" },
+      { "speaker": "Ece", "native": "Harika fikir, beraber gidelim!", "english": "Great idea, let's go together!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'I read books' in Turkish?",
+      "correctAnswer": "Kitap okuyorum",
+      "explanation": "Kitap is book; okuyorum is 'I am reading'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which phrase means 'I love swimming'?",
+      "options": ["Futbol oynuyorum", "Yüzmeyi seviyorum", "Resim yapıyorum", "Müzik dinliyorum"],
+      "correctAnswer": "Yüzmeyi seviyorum",
+      "explanation": "Yüzmeyi is the object form of 'swimming'; seviyorum is 'I love'."
+    },
+    {
+      "type": "fill-blank",
+      "question": "Gitar çal_____. (I can play guitar)",
+      "correctAnswer": "abilirim",
+      "explanation": "The ability suffix -abil plus -irim gives çalabilirim, 'I can play'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does 'Hangi takımı tutuyorsun?' ask?",
+      "options": ["What are your hobbies?", "Which team do you support?", "Can you swim?", "Shall we go together?"],
+      "correctAnswer": "Which team do you support?",
+      "explanation": "Takım is team; tutmak (to hold) here means 'to support'."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: gidelim / beraber / mi",
+      "correctAnswer": "Beraber gidelim mi",
+      "explanation": "Beraber gidelim mi? means 'Shall we go together?'"
+    }
+  ],
+  "status": "complete"
+}

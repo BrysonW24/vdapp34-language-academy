@@ -1,13 +1,11 @@
 {
   "rank": 265,
-  "german": "Abend",
-  "english": "evening",
-  "pronunciation": "AH-bent",
-  "partOfSpeech": "noun",
-  "gender": "masculine",
-  "article": "der",
-  "exampleDe": "Am Abend sehen wir fern.",
-  "exampleEn": "In the evening we watch TV.",
+  "german": "einzige",
+  "english": "only",
+  "pronunciation": "a ɪ n t s ɪ ɡ ə",
+  "partOfSpeech": "adverb",
+  "exampleDe": "Er antwortet einzige.",
+  "exampleEn": "He answers only.",
   "group": "everyday-250",
-  "topic": "time"
+  "topic": "descriptions"
 }

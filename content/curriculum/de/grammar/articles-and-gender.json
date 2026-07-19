@@ -1,0 +1,32 @@
+{
+  "slug": "articles-and-gender",
+  "name": "Articles & Gender",
+  "nameDe": "Artikel und Geschlecht",
+  "summary": "Every German noun is der, die, or das. Learn how grammatical gender works and why it matters.",
+  "level": "beginner",
+  "order": 1,
+  "explanation": "German has three grammatical genders: masculine (der), feminine (die), and neuter (das). The definite article ('the') changes with gender: der Mann (the man), die Frau (the woman), das Kind (the child). The indefinite article ('a/an') is ein for masculine and neuter, eine for feminine.\n\nGender is not always logical, so the safest habit is to learn every noun together with its article, as one unit: not 'Tisch' but 'der Tisch'. There are helpful patterns: most nouns ending in -ung, -heit, -keit, -schaft are feminine; most ending in -chen or -lein are neuter; days, months, and seasons are masculine.\n\nIn the plural, all genders share one article: die. So die Manner, die Frauen, die Kinder all use die.",
+  "pattern": "der (m) / die (f) / das (n) + noun  |  plural: die + noun",
+  "conjugation": {
+    "masculine": "der Mann / ein Mann",
+    "feminine": "die Frau / eine Frau",
+    "neuter": "das Kind / ein Kind",
+    "plural": "die Kinder"
+  },
+  "examples": [
+    { "de": "Der Tisch ist groß.", "en": "The table is big. (masculine)" },
+    { "de": "Die Lampe ist neu.", "en": "The lamp is new. (feminine)" },
+    { "de": "Das Auto ist rot.", "en": "The car is red. (neuter)" },
+    { "de": "Ich habe einen Hund.", "en": "I have a dog. (masculine, accusative)" },
+    { "de": "Die Kinder spielen.", "en": "The children are playing. (plural)" },
+    { "de": "Eine Tasse Kaffee, bitte.", "en": "A cup of coffee, please. (feminine)" }
+  ],
+  "commonMistakes": [
+    "Guessing the gender instead of learning it with the noun. Always store 'der/die/das + noun' together.",
+    "Assuming English logic: 'das Mädchen' (the girl) is neuter, not feminine, because of the -chen ending.",
+    "Forgetting that the plural article is always 'die', regardless of the singular gender.",
+    "Using 'ein' for feminine nouns: it is 'eine Frau', not 'ein Frau'.",
+    "Translating 'a' as 'eine' for masculine nouns: it is 'ein Mann', not 'eine Mann'."
+  ],
+  "tip": "When you learn a new noun, say it aloud with a colour-coded habit: der = blue, die = red, das = green. Many learners visualise the article to lock in the gender."
+}

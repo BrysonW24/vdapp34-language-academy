@@ -1,0 +1,21 @@
+{
+  "slug": "directions",
+  "title": "Asking Directions",
+  "description": "Find your way around a Brazilian town and understand the answers you get back.",
+  "situation": "Getting around on foot or by transport: asking where places are and following directions.",
+  "order": 5,
+  "phrases": [
+    { "native": "Onde fica a estação?", "english": "Where is the station?", "pronunciation": "ON-jee FEE-kah ah es-tah-SOWN", "formality": "neutral" },
+    { "native": "Como chego ao centro?", "english": "How do I get to the centre?", "pronunciation": "KOH-moo SHEH-goo ow SEN-troo", "formality": "neutral" },
+    { "native": "É longe?", "english": "Is it far?", "pronunciation": "eh LON-zhee", "formality": "neutral" },
+    { "native": "É perto", "english": "It's nearby", "pronunciation": "eh PEHR-too", "formality": "neutral" },
+    { "native": "Siga em frente", "english": "Go straight ahead", "pronunciation": "SEE-gah ayn FREN-tee", "formality": "neutral" },
+    { "native": "Vire à direita", "english": "Turn right", "pronunciation": "VEE-ree ah jee-RAY-tah", "formality": "neutral" },
+    { "native": "Vire à esquerda", "english": "Turn left", "pronunciation": "VEE-ree ah es-KEHR-dah", "formality": "neutral" },
+    { "native": "Estou perdido", "english": "I'm lost", "pronunciation": "es-TOH per-JEE-doo", "formality": "neutral", "tip": "Women say perdida." },
+    { "native": "Pode mostrar no mapa?", "english": "Can you show me on the map?", "pronunciation": "POH-jee mos-TRAR noo MAH-pah", "formality": "neutral" },
+    { "native": "Quanto tempo leva?", "english": "How long does it take?", "pronunciation": "KWAN-too TEM-poo LEH-vah", "formality": "neutral" },
+    { "native": "Que horas sai o ônibus?", "english": "What time does the bus leave?", "pronunciation": "kee OH-rahs sai oo OH-nee-boos", "formality": "neutral" },
+    { "native": "Uma passagem, por favor", "english": "One ticket, please", "pronunciation": "OO-mah pah-SAH-zhayn", "formality": "neutral" }
+  ]
+}

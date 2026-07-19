@@ -1,0 +1,90 @@
+{
+  "slug": "work-and-school",
+  "title": "Work & School",
+  "titleNative": "しごととがっこう",
+  "shortSummary": "Talk about your job or studies, your workplace, and common phrases for the office and classroom.",
+  "level": "beginner",
+  "order": 9,
+  "icon": "💼",
+  "color": "#364fc7",
+  "culturalNote": "Japanese work and school culture prizes group effort, hierarchy, and effort itself. The phrase otsukaresama desu is exchanged constantly to acknowledge a colleague's hard work, and ganbarimasu ('I'll do my best') signals commitment rather than a guarantee of results. Seniority matters: you address a boss or senior by title or family name plus -san, never a first name. In schools, students clean their own classrooms, bow to the teacher at the start of class, and value diligence highly. Meetings often open with greetings and humble set phrases, and decisions tend to be reached by quiet consensus (nemawashi) before they are formally announced. Business cards (meishi) are exchanged with both hands at first meetings, and reading the card carefully is a sign of respect.",
+  "keyPhrases": [
+    { "native": "お仕事は何ですか", "transliteration": "oshigoto wa nan desu ka", "english": "What is your job?", "pronunciation": "oh-shee-GO-toh wah nan dess kah", "context": "Asking occupation" },
+    { "native": "エンジニアです", "transliteration": "enjinia desu", "english": "I'm an engineer", "pronunciation": "en-JEE-nee-a dess", "context": "Stating a job" },
+    { "native": "会社で働いています", "transliteration": "kaisha de hataraite imasu", "english": "I work at a company", "pronunciation": "KAI-sha deh ha-ta-rai-teh ee-mas", "context": "Describing work" },
+    { "native": "大学で勉強しています", "transliteration": "daigaku de benkyou shite imasu", "english": "I study at university", "pronunciation": "dai-GA-koo deh ben-kyoh shte ee-mas", "context": "Describing study" },
+    { "native": "会議は三時からです", "transliteration": "kaigi wa sanji kara desu", "english": "The meeting is from 3", "pronunciation": "KAI-gee wah SAN-jee ka-ra dess", "context": "Schedules" },
+    { "native": "お疲れ様です", "transliteration": "otsukaresama desu", "english": "Thank you for your hard work", "pronunciation": "oh-tsoo-ka-reh-sa-ma dess", "context": "Office greeting" },
+    { "native": "頑張ります", "transliteration": "ganbarimasu", "english": "I'll do my best", "pronunciation": "gan-ba-ree-mas", "context": "Showing commitment" },
+    { "native": "宿題があります", "transliteration": "shukudai ga arimasu", "english": "I have homework", "pronunciation": "shoo-koo-dai ga a-ree-mas", "context": "Student life" },
+    { "native": "質問があります", "transliteration": "shitsumon ga arimasu", "english": "I have a question", "pronunciation": "shee-tsoo-mon ga a-ree-mas", "context": "Classroom" },
+    { "native": "わかりました", "transliteration": "wakarimashita", "english": "I understand / Got it", "pronunciation": "wa-ka-ree-mash-ta", "context": "Confirming" }
+  ],
+  "grammar": [
+    {
+      "rule": "The location particle de for actions",
+      "explanation": "The particle de marks the place where an action happens. Kaisha de hataraku means 'work at a company', and daigaku de benkyou suru means 'study at university'. Compare this with ni, which marks where something exists or a destination.",
+      "examples": [
+        { "native": "図書館で勉強します。(toshokan de benkyou shimasu)", "en": "I study at the library." },
+        { "native": "家で働きます。(ie de hatarakimasu)", "en": "I work at home." }
+      ],
+      "commonMistake": "Using ni instead of de for the place of an action; de is for where the action occurs."
+    },
+    {
+      "rule": "Continuous state with -te imasu",
+      "explanation": "Adding imasu to the -te form of a verb expresses an ongoing action or state. Hataraite imasu means 'I am working / I work (currently)', and sunde imasu means 'I live (am living)'. It is the natural way to describe your present occupation.",
+      "examples": [
+        { "native": "日本語を勉強しています。(nihongo o benkyou shite imasu)", "en": "I am studying Japanese." },
+        { "native": "東京に住んでいます。(toukyou ni sunde imasu)", "en": "I live in Tokyo." }
+      ],
+      "commonMistake": "Forgetting to change the verb to its -te form before adding imasu."
+    }
+  ],
+  "dialogue": {
+    "setup": "At a networking event, Sarah and Mr Yamada discuss their work.",
+    "lines": [
+      { "speaker": "山田", "native": "お仕事は何ですか。", "transliteration": "oshigoto wa nan desu ka", "english": "What is your job?" },
+      { "speaker": "サラ", "native": "エンジニアです。IT会社で働いています。", "transliteration": "enjinia desu. ai-tii gaisha de hataraite imasu", "english": "I'm an engineer. I work at an IT company." },
+      { "speaker": "山田", "native": "そうですか。お忙しいですか。", "transliteration": "sou desu ka. oisogashii desu ka", "english": "Is that so? Are you busy?" },
+      { "speaker": "サラ", "native": "はい、今日は会議が三時からあります。", "transliteration": "hai, kyou wa kaigi ga sanji kara arimasu", "english": "Yes, today I have a meeting from three o'clock." },
+      { "speaker": "山田", "native": "頑張ってください。", "transliteration": "ganbatte kudasai", "english": "Please do your best." },
+      { "speaker": "サラ", "native": "ありがとうございます。頑張ります。", "transliteration": "arigatou gozaimasu. ganbarimasu", "english": "Thank you. I'll do my best." },
+      { "speaker": "山田", "native": "お疲れ様です。", "transliteration": "otsukaresama desu", "english": "Thank you for your hard work." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'I work at a company' in Japanese?",
+      "correctAnswer": "会社で働いています (kaisha de hataraite imasu)",
+      "explanation": "De marks the workplace and -te imasu describes the ongoing activity."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which particle marks the place where an action happens?",
+      "options": ["に (ni)", "で (de)", "を (o)", "の (no)"],
+      "correctAnswer": "で (de)",
+      "explanation": "De marks the location of an action; ni marks existence or destination."
+    },
+    {
+      "type": "fill-blank",
+      "question": "大学 _____ 勉強しています。(I study at university)",
+      "correctAnswer": "で (de)",
+      "explanation": "The action of studying happens at the university, so it takes de."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does 'otsukaresama desu' express?",
+      "options": ["Good morning", "Acknowledgement of hard work", "I have a question", "See you tomorrow"],
+      "correctAnswer": "Acknowledgement of hard work",
+      "explanation": "Otsukaresama desu thanks colleagues for their effort, used throughout the workday."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: あります / が / 質問 (I have a question)",
+      "correctAnswer": "質問があります (shitsumon ga arimasu)",
+      "explanation": "Subject + が + arimasu expresses that a question exists / you have one."
+    }
+  ],
+  "status": "complete"
+}

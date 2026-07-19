@@ -1,0 +1,33 @@
+{
+  "slug": "possessives",
+  "name": "Possessives",
+  "nameNative": "Os possessivos",
+  "summary": "Portuguese possessives agree with the thing owned and often take an article.",
+  "level": "beginner",
+  "order": 8,
+  "explanation": "Portuguese possessives (my, your, his) agree in gender and number with the thing owned, not the owner. So 'my' is meu, minha, meus, minhas depending on the noun.\n\nIn Brazil the possessive often takes the definite article, though it can be dropped: o meu carro or meu carro (my car). Both are correct in speech.\n\nThe word seu/sua is ambiguous: with você it means 'your', but it can also mean his/her/their. To be clear, Brazilians often use dele (his), dela (her), or deles (their) after the noun: o carro dele (his car).",
+  "pattern": "(article) + possessive + noun (both agreeing)",
+  "conjugation": {
+    "meu / minha": "my",
+    "seu / sua": "your (or his/her)",
+    "nosso / nossa": "our",
+    "dele / dela": "his / her",
+    "deles / delas": "their"
+  },
+  "examples": [
+    { "native": "o meu livro", "en": "my book" },
+    { "native": "a minha casa", "en": "my house" },
+    { "native": "os meus amigos", "en": "my friends" },
+    { "native": "a sua bolsa", "en": "your bag" },
+    { "native": "o carro dele", "en": "his car" },
+    { "native": "a casa deles", "en": "their house" }
+  ],
+  "commonMistakes": [
+    "Matching the possessive to the owner. Minha agrees with the object: minha casa.",
+    "Relying on seu when you mean his or her; use dele or dela to be clear.",
+    "Using meu with a feminine noun. It must be minha (minha mãe).",
+    "Forgetting the possessive still agrees in the plural: meus, minhas.",
+    "Assuming the article is wrong; in Brazil both o meu carro and meu carro are fine."
+  ],
+  "tip": "When seu could be confused, just put dele or dela after the noun: o livro dela (her book) is crystal clear."
+}

@@ -1,13 +1,13 @@
 {
   "rank": 331,
-  "chinese": "站",
-  "characters": "站",
-  "pinyin": "zhàn",
-  "english": "station; stop; to stand",
-  "pronunciation": "jahn (4th tone, sharp falling)",
-  "partOfSpeech": "noun",
-  "exampleZh": "下一站是哪里？",
-  "exampleEn": "Where is the next stop?",
+  "chinese": "一条",
+  "characters": "一条",
+  "pinyin": "yī tiáo",
+  "english": "one piece",
+  "pronunciation": "yi-tiao",
+  "partOfSpeech": "number",
+  "exampleZh": "我只要一条。",
+  "exampleEn": "I only need one.",
   "group": "everyday-250",
-  "topic": "transport"
+  "topic": "numbers"
 }

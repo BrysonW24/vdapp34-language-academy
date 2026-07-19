@@ -1,11 +1,11 @@
 {
   "rank": 612,
-  "german": "während",
-  "english": "while, during",
-  "pronunciation": "VAY-rent",
-  "partOfSpeech": "conjunction",
-  "exampleDe": "Während ich koche, liest du.",
-  "exampleEn": "While I cook, you read.",
+  "german": "reden",
+  "english": "to talk",
+  "pronunciation": "ʀ e d ə n",
+  "partOfSpeech": "verb",
+  "exampleDe": "Ich möchte reden.",
+  "exampleEn": "I want to talk.",
   "group": "confident-350",
-  "topic": "time"
+  "topic": "actions"
 }

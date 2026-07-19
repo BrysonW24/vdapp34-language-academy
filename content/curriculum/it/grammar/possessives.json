@@ -1,0 +1,34 @@
+{
+  "slug": "possessives",
+  "name": "Possessives",
+  "nameNative": "I possessivi",
+  "summary": "Italian possessives agree with the thing owned and usually take an article.",
+  "level": "beginner",
+  "order": 8,
+  "explanation": "Italian possessives (my, your, his) agree in gender and number with the thing owned, not the owner. So 'my' is mio, mia, miei, mie depending on the noun.\n\nUnusually, the possessive normally takes the definite article: il mio libro (my book), la mia casa (my house). The article matches the noun too.\n\nThe big exception is singular, unmodified family members, which drop the article: mio padre (my father), mia sorella (my sister). But the article returns in the plural or with an adjective: i miei fratelli (my brothers).",
+  "pattern": "article + possessive + noun (both agreeing)",
+  "conjugation": {
+    "il mio / la mia": "my",
+    "il tuo / la tua": "your",
+    "il suo / la sua": "his/her",
+    "il nostro / la nostra": "our",
+    "il vostro / la vostra": "your (pl.)",
+    "il loro / la loro": "their"
+  },
+  "examples": [
+    { "native": "il mio libro", "en": "my book" },
+    { "native": "la mia macchina", "en": "my car" },
+    { "native": "i miei amici", "en": "my friends" },
+    { "native": "mia madre", "en": "my mother" },
+    { "native": "il loro cane", "en": "their dog" },
+    { "native": "le nostre idee", "en": "our ideas" }
+  ],
+  "commonMistakes": [
+    "Matching the possessive to the owner. Suo agrees with the object, so la sua casa is his or her house.",
+    "Dropping the article everywhere. Only singular family members lose it.",
+    "Keeping the article off plural family (i miei fratelli needs it).",
+    "Forgetting that loro never changes form but still takes the article.",
+    "Using mio with a feminine noun. It must be mia (la mia borsa)."
+  ],
+  "tip": "Because suo can mean his or her, add di lui or di lei to be clear: la casa di lei (her house)."
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "emergencies",
+  "title": "Emergencies",
+  "description": "Get help fast: medical, police, and urgent situations explained in clear Japanese.",
+  "situation": "Urgent help: calling for assistance, reporting illness or accidents, finding a hospital, and contacting police.",
+  "order": 7,
+  "phrases": [
+    { "native": "助けて", "transliteration": "tasukete", "english": "Help!", "pronunciation": "tah-soo-keh-teh", "formality": "neutral", "tip": "A short, urgent cry for help; raise your voice and say it clearly." },
+    { "native": "救急車を呼んでください", "transliteration": "kyuukyuusha o yonde kudasai", "english": "Please call an ambulance", "pronunciation": "kyoo-kyoo-shah oh yon-deh koo-dah-sai", "formality": "formal", "tip": "The emergency number for fire and ambulance in Japan is 119." },
+    { "native": "警察を呼んでください", "transliteration": "keisatsu o yonde kudasai", "english": "Please call the police", "pronunciation": "kay-sah-tsoo oh yon-deh koo-dah-sai", "formality": "formal", "tip": "The police number in Japan is 110." },
+    { "native": "病院はどこですか", "transliteration": "byouin wa doko desu ka", "english": "Where is the hospital?", "pronunciation": "byoh-een wah doh-koh dess kah", "formality": "neutral" },
+    { "native": "気分が悪いです", "transliteration": "kibun ga warui desu", "english": "I feel sick / unwell", "pronunciation": "kee-boon gah wah-roo-ee dess", "formality": "neutral" },
+    { "native": "けがをしました", "transliteration": "kega o shimashita", "english": "I am injured", "pronunciation": "keh-gah oh shee-mash-tah", "formality": "neutral" },
+    { "native": "薬が必要です", "transliteration": "kusuri ga hitsuyou desu", "english": "I need medicine", "pronunciation": "koo-soo-ree gah hee-tsoo-yoh dess", "formality": "neutral" },
+    { "native": "財布を盗まれました", "transliteration": "saifu o nusumaremashita", "english": "My wallet was stolen", "pronunciation": "sai-foo oh noo-soo-mah-reh-mash-tah", "formality": "neutral" },
+    { "native": "道に迷って困っています", "transliteration": "michi ni mayotte komatte imasu", "english": "I'm lost and in trouble", "pronunciation": "mee-chee nee mah-yoht-teh koh-maht-teh ee-mahs", "formality": "neutral" },
+    { "native": "英語を話せる人はいますか", "transliteration": "eigo o hanaseru hito wa imasu ka", "english": "Is there someone who speaks English?", "pronunciation": "ay-goh oh hah-nah-seh-roo hee-toh wah ee-mahs kah", "formality": "formal" },
+    { "native": "アレルギーがあります", "transliteration": "arerugii ga arimasu", "english": "I have an allergy", "pronunciation": "ah-reh-roo-gee gah ah-ree-mahs", "formality": "neutral", "tip": "Critical at hospitals; name the cause, e.g. ペニシリン (penishirin, penicillin)." },
+    { "native": "大使館に連絡したいです", "transliteration": "taishikan ni renraku shitai desu", "english": "I want to contact my embassy", "pronunciation": "tai-shee-kan nee ren-rah-koo shee-tai dess", "formality": "neutral" }
+  ]
+}

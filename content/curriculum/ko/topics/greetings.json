@@ -1,0 +1,90 @@
+{
+  "slug": "greetings",
+  "title": "Greetings & Goodbyes",
+  "titleNative": "인사",
+  "shortSummary": "Greet people, introduce yourself, and say goodbye in Korean, the foundation of every conversation.",
+  "level": "beginner",
+  "order": 1,
+  "icon": "👋",
+  "color": "#2f5fa0",
+  "culturalNote": "Korean greetings are tied to politeness levels and a slight bow. The everyday polite greeting is 안녕하세요 (annyeonghaseyo), used for hello at any time of day with people you do not know well, and it comes with a small bow of the head. With close friends of the same age you can drop to the casual 안녕 (annyeong). Age and seniority matter enormously: you raise your level of politeness for anyone older or in a position above you, and a deeper bow shows greater respect. When saying goodbye, Korean splits into two phrases depending on who is leaving: say 안녕히 가세요 (annyeonghi gaseyo, go in peace) to the person leaving, and 안녕히 계세요 (annyeonghi gyeseyo, stay in peace) if you are the one leaving. Getting this pair right is a small thing that native speakers notice and appreciate.",
+  "keyPhrases": [
+    { "native": "안녕하세요", "english": "Hello (polite)", "transliteration": "annyeonghaseyo", "pronunciation": "an-nyong-ha-se-yo", "context": "Polite default, any time of day" },
+    { "native": "안녕", "english": "Hi / Bye (casual)", "transliteration": "annyeong", "pronunciation": "an-nyong", "context": "Close friends, same age" },
+    { "native": "안녕하십니까", "english": "Hello (formal)", "transliteration": "annyeonghasimnikka", "pronunciation": "an-nyong-ha-shim-ni-kka", "context": "Formal, business or announcements" },
+    { "native": "처음 뵙겠습니다", "english": "Nice to meet you (first time)", "transliteration": "cheoeum boepgesseumnida", "pronunciation": "cho-eum bwep-get-seum-ni-da", "context": "First meeting, polite" },
+    { "native": "만나서 반갑습니다", "english": "Pleased to meet you", "transliteration": "mannaseo bangapseumnida", "pronunciation": "man-na-so ban-gap-seum-ni-da", "context": "After introductions" },
+    { "native": "잘 지내세요?", "english": "How are you? (polite)", "transliteration": "jal jinaeseyo?", "pronunciation": "jal ji-nae-se-yo", "context": "Asking after someone's wellbeing" },
+    { "native": "잘 지내요", "english": "I'm well", "transliteration": "jal jinaeyo", "pronunciation": "jal ji-nae-yo", "context": "Standard reply" },
+    { "native": "안녕히 가세요", "english": "Goodbye (to person leaving)", "transliteration": "annyeonghi gaseyo", "pronunciation": "an-nyong-hi ga-se-yo", "context": "You stay, they go" },
+    { "native": "안녕히 계세요", "english": "Goodbye (you are leaving)", "transliteration": "annyeonghi gyeseyo", "pronunciation": "an-nyong-hi gye-se-yo", "context": "You leave, they stay" },
+    { "native": "또 만나요", "english": "See you again", "transliteration": "tto mannayo", "pronunciation": "tto man-na-yo", "context": "Friendly closing" }
+  ],
+  "grammar": [
+    {
+      "rule": "The polite -요 ending",
+      "explanation": "Most everyday Korean speech ends in -요 (yo), which makes a sentence polite without being stiffly formal. Learners should default to this level. Dropping the -요 makes speech casual and is only safe with close friends or those clearly younger.",
+      "examples": [
+        { "native": "잘 지내요. (jal jinaeyo.)", "en": "I'm well." },
+        { "native": "또 만나요. (tto mannayo.)", "en": "See you again." }
+      ],
+      "commonMistake": "Dropping -요 with someone older or a stranger, which sounds rude or overly familiar."
+    },
+    {
+      "rule": "Two ways to say goodbye",
+      "explanation": "Korean chooses the goodbye phrase based on who is moving. Say 안녕히 가세요 (annyeonghi gaseyo) to someone who is leaving while you stay, and 안녕히 계세요 (annyeonghi gyeseyo) when you yourself are leaving and they stay.",
+      "examples": [
+        { "native": "안녕히 가세요. (annyeonghi gaseyo.)", "en": "Goodbye (to the one leaving)." },
+        { "native": "안녕히 계세요. (annyeonghi gyeseyo.)", "en": "Goodbye (said by the one leaving)." }
+      ],
+      "commonMistake": "Using 가세요 when you are the one walking out the door; you should say 계세요."
+    }
+  ],
+  "dialogue": {
+    "setup": "Minji meets her new colleague Mr Park at the office in the morning.",
+    "lines": [
+      { "speaker": "민지", "native": "안녕하세요! 잘 지내세요?", "transliteration": "annyeonghaseyo! jal jinaeseyo?", "english": "Hello! How are you?" },
+      { "speaker": "박 과장님", "native": "네, 안녕하세요. 잘 지내요.", "transliteration": "ne, annyeonghaseyo. jal jinaeyo.", "english": "Yes, hello. I'm well." },
+      { "speaker": "민지", "native": "처음 뵙겠습니다. 저는 민지입니다.", "transliteration": "cheoeum boepgesseumnida. jeoneun minjiimnida.", "english": "Nice to meet you. I'm Minji." },
+      { "speaker": "박 과장님", "native": "만나서 반갑습니다. 박입니다.", "transliteration": "mannaseo bangapseumnida. bagimnida.", "english": "Pleased to meet you. I'm Park." },
+      { "speaker": "민지", "native": "팀에 오신 것을 환영합니다!", "transliteration": "time osin geoseul hwanyeonghamnida!", "english": "Welcome to the team!" },
+      { "speaker": "박 과장님", "native": "감사합니다. 또 만나요.", "transliteration": "gamsahamnida. tto mannayo.", "english": "Thank you. See you again." },
+      { "speaker": "민지", "native": "네, 안녕히 가세요!", "transliteration": "ne, annyeonghi gaseyo!", "english": "Yes, goodbye!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'Hello' (polite) in Korean?",
+      "correctAnswer": "안녕하세요",
+      "explanation": "안녕하세요 (annyeonghaseyo) is the everyday polite greeting used at any time of day."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which phrase do you say to a person who is leaving while you stay?",
+      "options": ["안녕히 계세요", "안녕히 가세요", "안녕", "또 만나요"],
+      "correctAnswer": "안녕히 가세요",
+      "explanation": "안녕히 가세요 (annyeonghi gaseyo) means 'go in peace' and is said to the one departing."
+    },
+    {
+      "type": "fill-blank",
+      "question": "잘 _____? (polite 'how are you')",
+      "correctAnswer": "지내세요",
+      "explanation": "잘 지내세요? (jal jinaeseyo) asks 'how are you?' politely."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which greeting is the most formal?",
+      "options": ["안녕", "안녕하세요", "안녕하십니까", "또 만나요"],
+      "correctAnswer": "안녕하십니까",
+      "explanation": "안녕하십니까 (annyeonghasimnikka) is the formal hello used in business and announcements."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: 반갑습니다 / 만나서 (pleased to meet you)",
+      "correctAnswer": "만나서 반갑습니다",
+      "explanation": "만나서 반갑습니다 (mannaseo bangapseumnida) means 'pleased to meet you'."
+    }
+  ],
+  "status": "complete"
+}

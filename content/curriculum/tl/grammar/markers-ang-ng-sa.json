@@ -1,0 +1,34 @@
+{
+  "slug": "markers-ang-ng-sa",
+  "name": "The Markers ang, ng, and sa",
+  "nameNative": "Mga pananda: ang, ng, at sa",
+  "summary": "Master the three little words that organise every Filipino sentence: ang, ng, and sa.",
+  "level": "beginner",
+  "order": 2,
+  "explanation": "Filipino does not change word endings the way English does. Instead, small marker words show each noun's role. The three core markers are ang, ng, and sa.\n\nAng marks the focus or subject of the sentence, the thing the sentence is really about (Kumain ang bata, the child ate). Ng (pronounced nang) marks an object or a possessor (Kumain ng mansanas, ate an apple; bahay ng bata, the child's house). Sa marks location, direction, or a recipient (Pumunta sa palengke, went to the market).\n\nFor people's names there is a parallel set: si replaces ang (Kumain si Ana), ni replaces ng (libro ni Ana, Ana's book), and kay replaces sa (Ibigay kay Ana, give to Ana). Learning these markers is the single biggest key to reading Filipino sentence structure.",
+  "pattern": "ang = focus | ng = object/possessor | sa = location/direction",
+  "conjugation": {
+    "ang (common)": "marks the subject/focus",
+    "si (names)": "marks a named subject/focus",
+    "ng (common)": "marks object or possessor",
+    "ni (names)": "marks a named object/possessor",
+    "sa (common)": "marks location/direction/recipient",
+    "kay (names)": "marks a named location/recipient"
+  },
+  "examples": [
+    { "native": "Maganda ang bahay.", "en": "The house is beautiful." },
+    { "native": "Bumili siya ng tinapay.", "en": "He/She bought bread." },
+    { "native": "Pupunta ako sa Maynila.", "en": "I will go to Manila." },
+    { "native": "Aklat ni Maria ito.", "en": "This is Maria's book." },
+    { "native": "Ibigay mo kay Jose.", "en": "Give it to Jose." },
+    { "native": "Nasa mesa ang pagkain.", "en": "The food is on the table." }
+  ],
+  "commonMistakes": [
+    "Using ang for the object. The object usually takes ng, not ang.",
+    "Spelling ng as it sounds (nang). It is written ng but pronounced nang.",
+    "Using ang with a person's name. Names take si, not ang.",
+    "Mixing up ng (object/possessor) and sa (location/direction).",
+    "Forgetting to switch to ni or kay when the noun is a personal name."
+  ],
+  "tip": "Think of ang as a spotlight on the subject, ng as the doer-or-object glue, and sa as the where-and-to-whom marker."
+}

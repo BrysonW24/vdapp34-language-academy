@@ -1,0 +1,21 @@
+{
+  "slug": "hotel",
+  "title": "At the Hotel",
+  "description": "Check in, ask about your room, and handle requests at a Japanese hotel or ryokan.",
+  "situation": "Accommodation: reservations, check-in and check-out, room questions, wifi, and getting help from the front desk.",
+  "order": 6,
+  "phrases": [
+    { "native": "予約しています", "transliteration": "yoyaku shite imasu", "english": "I have a reservation", "pronunciation": "yoh-yah-koo shteh ee-mahs", "formality": "formal" },
+    { "native": "チェックインをお願いします", "transliteration": "chekku in o onegai shimasu", "english": "I'd like to check in", "pronunciation": "chek-koo een oh oh-neh-gai shee-mahs", "formality": "formal" },
+    { "native": "チェックアウトは何時ですか", "transliteration": "chekku auto wa nanji desu ka", "english": "What time is check-out?", "pronunciation": "chek-koo ow-toh wah nan-jee dess kah", "formality": "neutral" },
+    { "native": "wifiのパスワードは何ですか", "transliteration": "waifai no pasuwaado wa nan desu ka", "english": "What is the wifi password?", "pronunciation": "wai-fai noh pahs-wah-doh wah nan dess kah", "formality": "neutral" },
+    { "native": "朝食は付いていますか", "transliteration": "choushoku wa tsuite imasu ka", "english": "Is breakfast included?", "pronunciation": "choh-shoh-koo wah tsoo-ee-teh ee-mahs kah", "formality": "neutral" },
+    { "native": "部屋を変えてもらえますか", "transliteration": "heya o kaete moraemasu ka", "english": "Could I change rooms?", "pronunciation": "heh-yah oh kah-eh-teh moh-rah-eh-mahs kah", "formality": "formal" },
+    { "native": "鍵をなくしました", "transliteration": "kagi o nakushimashita", "english": "I lost my key", "pronunciation": "kah-gee oh nah-koo-shee-mash-tah", "formality": "neutral" },
+    { "native": "タオルをもう一枚ください", "transliteration": "taoru o mou ichimai kudasai", "english": "One more towel, please", "pronunciation": "tah-oh-roo oh moh ee-chee-mai koo-dah-sai", "formality": "neutral", "tip": "一枚 (ichimai) is the counter for flat things like towels and paper." },
+    { "native": "荷物を預けられますか", "transliteration": "nimotsu o azukeraremasu ka", "english": "Can I leave my luggage?", "pronunciation": "nee-moh-tsoo oh ah-zoo-keh-rah-reh-mahs kah", "formality": "formal", "tip": "Useful before check-in or after check-out on travel days." },
+    { "native": "近くにおすすめの場所はありますか", "transliteration": "chikaku ni osusume no basho wa arimasu ka", "english": "Are there recommended places nearby?", "pronunciation": "chee-kah-koo nee oh-soo-soo-meh noh bah-shoh wah ah-ree-mahs kah", "formality": "neutral" },
+    { "native": "タクシーを呼んでもらえますか", "transliteration": "takushii o yonde moraemasu ka", "english": "Could you call a taxi for me?", "pronunciation": "tah-koo-shee oh yon-deh moh-rah-eh-mahs kah", "formality": "formal" },
+    { "native": "お世話になりました", "transliteration": "osewa ni narimashita", "english": "Thank you for everything (on leaving)", "pronunciation": "oh-seh-wah nee nah-ree-mash-tah", "formality": "formal", "tip": "A warm set phrase to thank staff for looking after you during your stay." }
+  ]
+}

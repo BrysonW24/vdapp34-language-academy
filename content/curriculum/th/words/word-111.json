@@ -1,0 +1,12 @@
+{
+  "rank": 111,
+  "thai": "พูด",
+  "transliteration": "phut",
+  "english": "speak",
+  "pronunciation": "phut",
+  "partOfSpeech": "noun",
+  "exampleTh": "การพูดนี้เป็นสิ่งสำคัญ",
+  "exampleEn": "This speak is important.",
+  "group": "core-100",
+  "topic": "basics"
+}

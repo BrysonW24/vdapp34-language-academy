@@ -1,0 +1,21 @@
+{
+  "slug": "survival",
+  "title": "Survival Chinese",
+  "description": "The essential phrases to get by in any Mandarin-speaking situation. Learn these first.",
+  "situation": "Absolute basics: greetings, please, thank you, help, and signalling when you do not understand.",
+  "order": 1,
+  "phrases": [
+    { "chinese": "你好", "pinyin": "nǐ hǎo", "english": "Hello", "formality": "neutral" },
+    { "chinese": "请", "pinyin": "qǐng", "english": "Please", "formality": "neutral", "tip": "Goes before a verb: 请坐 (qǐng zuò) = please sit." },
+    { "chinese": "谢谢", "pinyin": "xièxie", "english": "Thank you", "formality": "neutral", "tip": "Reply with 不客气 (bú kèqi), you're welcome." },
+    { "chinese": "对不起", "pinyin": "duìbuqǐ", "english": "Sorry", "formality": "neutral", "tip": "Use 不好意思 (bù hǎoyìsi) for a lighter 'excuse me'." },
+    { "chinese": "是 / 不是", "pinyin": "shì / bú shì", "english": "Yes / No (to be)", "formality": "neutral", "tip": "Chinese has no single yes/no; you echo the verb." },
+    { "chinese": "我听不懂", "pinyin": "wǒ tīng bu dǒng", "english": "I don't understand", "formality": "neutral", "tip": "Literally 'I listen but don't understand'." },
+    { "chinese": "你会说英语吗？", "pinyin": "nǐ huì shuō Yīngyǔ ma?", "english": "Do you speak English?", "formality": "neutral" },
+    { "chinese": "请再说一遍", "pinyin": "qǐng zài shuō yí biàn", "english": "Please say it again", "formality": "neutral" },
+    { "chinese": "多少钱？", "pinyin": "duōshao qián?", "english": "How much money?", "formality": "neutral" },
+    { "chinese": "厕所在哪里？", "pinyin": "cèsuǒ zài nǎlǐ?", "english": "Where is the toilet?", "formality": "neutral", "tip": "洗手间 (xǐshǒujiān) is a politer word for toilet." },
+    { "chinese": "我需要帮助", "pinyin": "wǒ xūyào bāngzhù", "english": "I need help", "formality": "neutral" },
+    { "chinese": "再见", "pinyin": "zàijiàn", "english": "Goodbye", "formality": "neutral", "tip": "Literally 'again see'. Casual: 拜拜 (bàibai)." }
+  ]
+}

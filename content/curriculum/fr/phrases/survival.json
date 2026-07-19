@@ -1,0 +1,87 @@
+{
+  "slug": "survival",
+  "title": "Survival French",
+  "description": "The essential phrases to get by anywhere in France. Learn these first.",
+  "situation": "Absolute basics: greetings, please, thank you, help, and signalling when you do not understand.",
+  "order": 1,
+  "phrases": [
+    {
+      "native": "Bonjour",
+      "english": "Hello / Good day",
+      "pronunciation": "bon-ZHOOR",
+      "formality": "neutral",
+      "tip": "Always greet with Bonjour first; skipping it can seem rude in France."
+    },
+    {
+      "native": "S'il vous plaît",
+      "english": "Please (formal)",
+      "pronunciation": "seel voo PLEH",
+      "formality": "formal",
+      "tip": "Informal: s'il te plait."
+    },
+    {
+      "native": "Merci",
+      "english": "Thank you",
+      "pronunciation": "mehr-SEE",
+      "formality": "neutral",
+      "tip": "Merci beaucoup is 'thank you very much'."
+    },
+    {
+      "native": "Excusez-moi",
+      "english": "Excuse me",
+      "pronunciation": "ehks-kew-zay MWAH",
+      "formality": "formal",
+      "tip": "Use to get attention or apologise."
+    },
+    {
+      "native": "Oui / Non",
+      "english": "Yes / No",
+      "pronunciation": "wee / nohn",
+      "formality": "neutral"
+    },
+    {
+      "native": "Je ne comprends pas",
+      "english": "I don't understand",
+      "pronunciation": "zhuh nuh kom-PRON pah",
+      "formality": "neutral",
+      "tip": "The single most useful survival phrase."
+    },
+    {
+      "native": "Parlez-vous anglais ?",
+      "english": "Do you speak English?",
+      "pronunciation": "par-lay VOO on-GLEH",
+      "formality": "formal"
+    },
+    {
+      "native": "Pouvez-vous répéter ?",
+      "english": "Can you repeat that?",
+      "pronunciation": "poo-vay VOO ruh-pay-TAY",
+      "formality": "formal"
+    },
+    {
+      "native": "C'est combien ?",
+      "english": "How much is it?",
+      "pronunciation": "say kom-bee-AHN",
+      "formality": "neutral"
+    },
+    {
+      "native": "Où sont les toilettes ?",
+      "english": "Where is the toilet?",
+      "pronunciation": "oo son lay twah-LET",
+      "formality": "neutral"
+    },
+    {
+      "native": "J'ai besoin d'aide",
+      "english": "I need help",
+      "pronunciation": "zhay buh-ZWAN ded",
+      "formality": "neutral"
+    },
+    {
+      "native": "Au revoir",
+      "english": "Goodbye",
+      "pronunciation": "oh ruh-VWAHR",
+      "formality": "neutral",
+      "tip": "Casual: salut (also means hi)."
+    }
+  ]
+}

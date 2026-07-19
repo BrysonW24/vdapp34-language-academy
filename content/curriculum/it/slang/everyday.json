@@ -1,0 +1,25 @@
+{
+  "slug": "everyday",
+  "title": "Everyday Slang",
+  "description": "The casual Italian young locals actually say - greetings, reactions, and filler you will not find in a textbook.",
+  "situation": "Hanging out with friends: reacting to news, making plans, and sounding natural instead of stiff.",
+  "order": 1,
+  "phrases": [
+    { "native": "Ciao", "english": "Hi / Bye", "pronunciation": "CHOW", "formality": "informal", "tip": "The default casual greeting and goodbye with friends. Use 'Salve' or 'Buongiorno' with strangers or in shops." },
+    { "native": "Come va?", "english": "How's it going?", "pronunciation": "KOH-meh VAH", "formality": "informal", "tip": "Literally 'how does it go?'. The all-purpose check-in. Reply is usually 'Tutto bene' (all good)." },
+    { "native": "Figo", "english": "Cool / Awesome", "pronunciation": "FEE-goh", "formality": "informal", "tip": "The go-to word for anything cool. 'Che figo!' = how cool! Northern roots but used everywhere now." },
+    { "native": "Che figata", "english": "How awesome / What a great thing", "pronunciation": "keh fee-GAH-tah", "formality": "informal", "tip": "An enthusiastic reaction to good news or something impressive. 'Che figata!' = that's so cool!" },
+    { "native": "Boh", "english": "Dunno / No idea", "pronunciation": "BOH", "formality": "informal", "tip": "A shrug turned into a sound. The perfect one-word reply when you have no clue. Italians use it constantly." },
+    { "native": "Dai!", "english": "Come on! / Go on!", "pronunciation": "DYE", "formality": "informal", "tip": "Hugely versatile: encouragement, disbelief, or gentle nagging. 'Ma dai!' = no way! / you're kidding!" },
+    { "native": "Che casino", "english": "What a mess / What chaos", "pronunciation": "keh kah-ZEE-noh", "formality": "informal", "tip": "For any chaotic or confusing situation. Literally a noisy mess. Mildly cheeky but everyday, not rude." },
+    { "native": "In gamba", "english": "Sharp / On the ball / Take care", "pronunciation": "een GAHM-bah", "formality": "informal", "tip": "Literally 'in leg'. Calls someone capable and switched-on. Also a warm sign-off: 'Stai in gamba!'" },
+    { "native": "Sclerare", "english": "To lose it / freak out", "pronunciation": "skleh-RAH-reh", "formality": "informal", "tip": "Youth slang for losing your temper or panicking. 'Sto sclerando' = I'm losing my mind. Very casual." },
+    { "native": "Magari", "english": "I wish! / Maybe", "pronunciation": "mah-GAH-ree", "formality": "neutral", "tip": "As a wistful exclamation it means 'if only!'. In a sentence it softens to 'maybe / perhaps'. Used everywhere." },
+    { "native": "Sto morto", "english": "I'm dead tired / wiped out", "pronunciation": "stoh MOR-toh", "formality": "informal", "tip": "Literally 'I'm dead'. The everyday way to say you're exhausted. 'Sono morto' is the fuller form." },
+    { "native": "Sono al verde", "english": "I'm broke", "pronunciation": "SOH-noh ahl VEHR-deh", "formality": "informal", "tip": "Literally 'I'm at the green'. The standard casual way to say you have no money." },
+    { "native": "Cioè", "english": "I mean / like", "pronunciation": "choh-EH", "formality": "informal", "tip": "Dropped into speech as filler the way English uses 'like' or 'I mean'. Note the grave accent: 'cioè'." },
+    { "native": "Tranquillo", "english": "Chill / No worries", "pronunciation": "trahn-KWEEL-loh", "formality": "informal", "tip": "Reassures someone to relax. 'Tranqui' is the clipped youth version. 'Stai tranquillo' = take it easy." },
+    { "native": "Beccarsi", "english": "To meet up / catch up", "pronunciation": "behk-KAR-see", "formality": "informal", "tip": "Casual way to arrange a hangout. 'Ci becchiamo dopo' = let's meet up later. Common in texts among friends." },
+    { "native": "Spaccare", "english": "To rock / be amazing", "pronunciation": "spah-KAH-reh", "formality": "informal", "tip": "Literally 'to smash'. High praise: 'Spacchi!' = you're killing it! For someone or something that's great." }
+  ]
+}

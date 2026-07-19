@@ -1,0 +1,25 @@
+{
+  "slug": "everyday",
+  "title": "Everyday Slang",
+  "description": "Sixteen casual German expressions young native speakers actually use - the slang that makes you sound natural, not like a textbook.",
+  "situation": "Hanging out with friends, texting, and everyday casual chat where formal German would sound stiff.",
+  "order": 1,
+  "phrases": [
+    { "german": "Na?", "english": "Hey, how's it going?", "pronunciation": "nah", "formality": "informal", "tip": "The classic German one-word greeting. A reply of 'Na?' back means 'good, you?' - the whole exchange can be just two 'Na's." },
+    { "german": "geil", "english": "awesome / sick / cool", "pronunciation": "gile (rhymes with 'mile')", "formality": "informal", "tip": "Hugely common for 'great', e.g. 'Das ist voll geil'. Literally it can mean something cruder, but in everyday speech it just means 'awesome'." },
+    { "german": "krass", "english": "crazy / intense / wild", "pronunciation": "krahss", "formality": "informal", "tip": "Works for both good and bad shock - 'Das ist ja krass!' is 'whoa, that's insane'. The go-to reaction word for under-30s." },
+    { "german": "Alter", "english": "dude / man", "pronunciation": "AHL-ter", "formality": "informal", "tip": "Friendly address term among (mostly male) friends. Literally 'old one'. Also used alone as an exclamation: 'Alter!' = 'no way / oh man'." },
+    { "german": "Bock haben", "english": "to be up for something", "pronunciation": "BOK HAH-ben", "formality": "informal", "tip": "'Ich hab Bock' = 'I'm keen', 'keinen Bock' = 'can't be bothered'. Literally 'to have goat'. Everyday and very common." },
+    { "german": "abhängen", "english": "to hang out / chill", "pronunciation": "AHP-heng-en", "formality": "informal", "tip": "'Wir hängen einfach ab' = 'we're just hanging out'. The casual word for doing nothing in particular with friends." },
+    { "german": "chillen", "english": "to chill / relax", "pronunciation": "CHIL-len", "formality": "informal", "tip": "Borrowed from English and fully German now. 'Lass uns chillen' = 'let's chill'. Also 'chillig' as an adjective for a laid-back vibe." },
+    { "german": "Digga", "english": "bro / mate", "pronunciation": "DIG-ah", "formality": "informal", "tip": "Northern (very Hamburg/Berlin) friendly address term, like 'Alter'. Used a lot in youth speech and rap; only with friends, never with strangers or elders." },
+    { "german": "Auf keinen Fall", "english": "no way", "pronunciation": "owf KY-nen fahl", "formality": "neutral", "tip": "Literally 'in no case'. A firm 'absolutely not'. Widely acceptable in any setting, formal or casual." },
+    { "german": "Bock null", "english": "zero interest / not a chance", "pronunciation": "bok nool", "formality": "informal", "tip": "Playful 'null Bock' variant meaning 'I have no desire to do that'. Very casual, only with friends." },
+    { "german": "Das ist mir Wurst", "english": "I couldn't care less", "pronunciation": "dass ist meer voorst", "formality": "informal", "tip": "Literally 'that's sausage to me'. A classic, slightly playful way to say you don't care either way." },
+    { "german": "Quatsch", "english": "nonsense / rubbish", "pronunciation": "kvatch", "formality": "informal", "tip": "'Red keinen Quatsch' = 'don't talk nonsense'. Also a warm dismissal: 'Quatsch!' = 'oh come on, don't be silly'. Mildly cheeky, never rude." },
+    { "german": "Ich bin total platt", "english": "I'm totally wiped out", "pronunciation": "ikh bin toh-TAHL plat", "formality": "informal", "tip": "Literally 'I'm totally flat'. Used for both exhaustion and being amazed/speechless, depending on tone." },
+    { "german": "Lass mal", "english": "nah, leave it / never mind", "pronunciation": "lass mahl", "formality": "informal", "tip": "Short for 'lass es mal'. A breezy way to wave something off. 'mal' is the all-purpose German filler softener sprinkled everywhere." },
+    { "german": "Los geht's", "english": "let's go / here we go", "pronunciation": "lohss gayts", "formality": "neutral", "tip": "Literally 'off it goes'. The standard rallying cry to get moving or start something. Fine in any setting." },
+    { "german": "Voll", "english": "totally / really", "pronunciation": "foll", "formality": "informal", "tip": "Intensifier filler used by younger speakers, e.g. 'Das ist voll cool' = 'that's really cool'. Literally 'full'. Sprinkle it before adjectives." }
+  ]
+}

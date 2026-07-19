@@ -1,0 +1,34 @@
+{
+  "slug": "reflexive-verbs",
+  "name": "Reflexive Verbs",
+  "nameEs": "Los Verbos Reflexivos",
+  "summary": "Learn verbs where the action reflects back to the subject — essential for daily routines like waking up, showering, and getting dressed.",
+  "level": "elementary",
+  "order": 10,
+  "explanation": "Reflexive verbs describe actions that the subject performs on themselves. They're identified by the '-se' ending in the infinitive: levantarse (to get up), ducharse (to shower), vestirse (to get dressed). The reflexive pronoun (me, te, se, nos, os, se) must match the subject and goes before the conjugated verb.\n\nMany daily routine verbs are reflexive: despertarse (wake up), levantarse (get up), ducharse (shower), lavarse (wash), vestirse (get dressed), peinarse (comb hair), sentarse (sit down), acostarse (go to bed). Some verbs change meaning when they become reflexive: 'ir' (to go) vs 'irse' (to leave), 'dormir' (to sleep) vs 'dormirse' (to fall asleep), 'llamar' (to call) vs 'llamarse' (to be called/named).\n\nWith infinitives, the pronoun can attach to the end: 'Quiero levantarme temprano' or go before the conjugated verb: 'Me quiero levantar temprano'. Both are equally correct.",
+  "pattern": "me/te/se/nos/os/se + conjugated verb | OR conjugated verb + infinitive with pronoun attached",
+  "conjugation": {
+    "yo": "me levanto",
+    "tu": "te levantas",
+    "el": "se levanta",
+    "nosotros": "nos levantamos",
+    "vosotros": "os levantáis",
+    "ellos": "se levantan"
+  },
+  "examples": [
+    { "es": "Me despierto a las siete", "en": "I wake up at seven" },
+    { "es": "¿A qué hora te acuestas?", "en": "What time do you go to bed?" },
+    { "es": "Se ducha antes de desayunar", "en": "He/She showers before having breakfast" },
+    { "es": "Nos sentamos aquí", "en": "We sit down here" },
+    { "es": "Quiero irme ya", "en": "I want to leave now" },
+    { "es": "¿Cómo te llamas?", "en": "What's your name? (How do you call yourself?)" }
+  ],
+  "commonMistakes": [
+    "Forgetting the reflexive pronoun: 'levanto a las siete' is incomplete — 'me levanto a las siete'",
+    "Wrong pronoun: 'me levantas' doesn't work — the pronoun must match the subject: 'te levantas'",
+    "Not recognising meaning changes: 'dormir' (to sleep) vs 'dormirse' (to fall asleep) are different",
+    "Placing the pronoun after the conjugated verb: 'levanto me' should be 'me levanto'",
+    "Using reflexive when not needed: 'me como una manzana' is emphatic/colloquial — 'como una manzana' is standard"
+  ],
+  "tip": "Think of reflexive verbs as 'self-verbs': levantarse = to lift oneself up, lavarse = to wash oneself, vestirse = to dress oneself. If the action goes back to the person doing it, it's likely reflexive."
+}

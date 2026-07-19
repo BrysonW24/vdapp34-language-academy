@@ -1,12 +1,13 @@
 {
   "rank": 267,
-  "chinese": "长",
-  "characters": "长",
-  "pinyin": "cháng",
-  "english": "long",
-  "partOfSpeech": "adjective",
-  "exampleZh": "这条路很长。",
-  "exampleEn": "This road is very long.",
+  "chinese": "加强",
+  "characters": "加强",
+  "pinyin": "jiā qiáng",
+  "english": "to strengthen",
+  "pronunciation": "jia-qiang",
+  "partOfSpeech": "verb",
+  "exampleZh": "我想加强。",
+  "exampleEn": "I want to strengthen.",
   "group": "everyday-250",
-  "topic": "descriptions"
+  "topic": "actions"
 }

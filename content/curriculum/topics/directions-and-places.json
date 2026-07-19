@@ -1,0 +1,102 @@
+{
+  "slug": "directions-and-places",
+  "title": "Directions & Places",
+  "titleEs": "Direcciones y Lugares",
+  "shortSummary": "Ask for and understand directions, find key places in a city, and navigate confidently in Spanish-speaking countries.",
+  "level": "beginner",
+  "order": 6,
+  "icon": "🗺️",
+  "color": "#1e6f5c",
+  "culturalNote": "When asking for directions in Spanish-speaking countries, people tend to give landmarks rather than street names: 'al lado de la iglesia' (next to the church) or 'frente al parque' (in front of the park). Blocks ('cuadras' in Latin America, 'manzanas' in Spain) are a common unit of distance. People are generally very willing to help — don't hesitate to ask.",
+  "keyPhrases": [
+    { "spanish": "¿Dónde está el banco?", "english": "Where is the bank?", "pronunciation": "DOHN-deh ehs-TAH ehl BAHN-koh", "context": "Asking for the location of a specific place" },
+    { "spanish": "Está a la derecha", "english": "It's on the right", "pronunciation": "ehs-TAH ah lah deh-REH-chah", "context": "Giving or receiving basic directions" },
+    { "spanish": "Siga todo recto", "english": "Go straight ahead", "pronunciation": "SEE-gah TOH-doh RREHK-toh", "context": "Common direction instruction" },
+    { "spanish": "Gire a la izquierda", "english": "Turn left", "pronunciation": "HEE-reh ah lah eez-kee-EHR-dah", "context": "Formal 'turn' — 'dobla' is informal" },
+    { "spanish": "Está cerca de aquí", "english": "It's near here", "pronunciation": "ehs-TAH SEHR-kah deh ah-KEE", "context": "Confirming something is nearby" },
+    { "spanish": "Está lejos", "english": "It's far", "pronunciation": "ehs-TAH LEH-hohs", "context": "Indicating distance" },
+    { "spanish": "¿Hay una farmacia por aquí?", "english": "Is there a pharmacy around here?", "pronunciation": "eye OO-nah far-MAH-see-ah pohr ah-KEE", "context": "Using 'hay' (there is) to find places" },
+    { "spanish": "Al lado del supermercado", "english": "Next to the supermarket", "pronunciation": "ahl LAH-doh dehl soo-pehr-mehr-KAH-doh", "context": "Using landmarks to describe locations" },
+    { "spanish": "Enfrente de la estación", "english": "In front of the station", "pronunciation": "ehn-FREHN-teh deh lah ehs-tah-see-OHN", "context": "Location relative to a landmark" },
+    { "spanish": "¿A cuántas cuadras?", "english": "How many blocks away?", "pronunciation": "ah KWAHN-tahs KWAH-drahs", "context": "Common in Latin America for measuring distance" }
+  ],
+  "grammar": [
+    {
+      "rule": "Estar for location",
+      "explanation": "Always use 'estar' (not 'ser') to describe where something or someone is located. 'El banco está en la calle principal' (The bank is on the main street). This is one of the key differences between ser and estar.",
+      "examples": [
+        { "es": "¿Dónde está el hotel?", "en": "Where is the hotel?" },
+        { "es": "La farmacia está al lado del banco", "en": "The pharmacy is next to the bank" },
+        { "es": "Estamos aquí", "en": "We are here" }
+      ],
+      "commonMistake": "Using 'ser' for location: '¿Dónde es el banco?' is incorrect — use 'está'."
+    },
+    {
+      "rule": "Hay (there is / there are)",
+      "explanation": "'Hay' is an impersonal form of 'haber' meaning 'there is' or 'there are'. It works for both singular and plural — it never changes form. Use it to ask about existence: '¿Hay un banco?' (Is there a bank?).",
+      "examples": [
+        { "es": "¿Hay un cajero automático?", "en": "Is there an ATM?" },
+        { "es": "Hay muchos restaurantes aquí", "en": "There are many restaurants here" },
+        { "es": "No hay problema", "en": "There's no problem" }
+      ],
+      "commonMistake": "Trying to conjugate 'hay': saying 'hayen' for plural — 'hay' never changes."
+    },
+    {
+      "rule": "Contractions: al and del",
+      "explanation": "Spanish has only two contractions: 'a + el = al' and 'de + el = del'. These are mandatory — you cannot say 'a el' or 'de el'. They only apply to the article 'el', not the pronoun 'él'.",
+      "examples": [
+        { "es": "Voy al banco", "en": "I'm going to the bank (a + el = al)" },
+        { "es": "Está al lado del parque", "en": "It's next to the park (de + el = del)" }
+      ],
+      "commonMistake": "Saying 'a el parque' instead of 'al parque' — the contraction is mandatory."
+    }
+  ],
+  "dialogue": {
+    "setup": "A tourist asks a local for directions to the museum in the old town.",
+    "lines": [
+      { "speaker": "Turista", "spanish": "Disculpe, ¿dónde está el museo?", "english": "Excuse me, where is the museum?" },
+      { "speaker": "Local", "spanish": "El museo está en el centro, a unos diez minutos andando.", "english": "The museum is in the centre, about ten minutes walking." },
+      { "speaker": "Turista", "spanish": "¿Cómo llego?", "english": "How do I get there?" },
+      { "speaker": "Local", "spanish": "Siga todo recto por esta calle.", "english": "Go straight ahead along this street." },
+      { "speaker": "Local", "spanish": "En la segunda calle, gire a la izquierda.", "english": "At the second street, turn left." },
+      { "speaker": "Local", "spanish": "El museo está enfrente de la plaza, al lado de la iglesia.", "english": "The museum is in front of the square, next to the church." },
+      { "speaker": "Turista", "spanish": "Muchas gracias. ¿Hay un cajero automático por aquí?", "english": "Thank you very much. Is there an ATM around here?" },
+      { "speaker": "Local", "spanish": "Sí, hay uno en la esquina, a la derecha.", "english": "Yes, there's one on the corner, on the right." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'Where is the bank?' in Spanish?",
+      "correctAnswer": "¿Dónde está el banco?",
+      "explanation": "Use 'estar' for location — '¿Dónde está...?' is the standard formula."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which verb do you use to describe WHERE something is?",
+      "options": ["Ser", "Estar", "Haber", "Tener"],
+      "correctAnswer": "Estar",
+      "explanation": "'Estar' is used for location. 'Ser' is for identity, origin, and permanent traits."
+    },
+    {
+      "type": "fill-blank",
+      "question": "Voy _____ parque. (I'm going to the park)",
+      "correctAnswer": "al",
+      "explanation": "'A + el' contracts to 'al'. This contraction is mandatory in Spanish."
+    },
+    {
+      "type": "translate",
+      "question": "How do you say 'Turn left' in Spanish?",
+      "correctAnswer": "Gire a la izquierda",
+      "explanation": "'Gire' is the formal command form of 'girar' (to turn). 'Izquierda' = left."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "'¿Hay un restaurante aquí?' means:",
+      "options": ["Where is the restaurant?", "Is there a restaurant here?", "The restaurant is here", "I want a restaurant here"],
+      "correctAnswer": "Is there a restaurant here?",
+      "explanation": "'Hay' means 'there is/there are' — it asks about existence, not specific location."
+    }
+  ],
+  "status": "complete"
+}

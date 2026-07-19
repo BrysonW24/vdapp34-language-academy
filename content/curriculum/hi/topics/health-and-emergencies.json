@@ -1,0 +1,90 @@
+{
+  "slug": "health-and-emergencies",
+  "title": "Health & Emergencies",
+  "titleNative": "स्वास्थ्य और आपातकाल",
+  "shortSummary": "Describe symptoms, ask for help, and handle urgent situations in Hindi.",
+  "level": "beginner",
+  "order": 13,
+  "icon": "🚑",
+  "color": "#e03131",
+  "culturalNote": "If you fall ill in India, pharmacies (मेडिकल स्टोर or chemist) are everywhere and pharmacists often advise on minor ailments. Many people use both modern medicine and traditional systems such as Ayurveda, and home remedies like ginger-and-tulsi tea for a cold are common. The all-India emergency number is 112, while 102 and 108 reach ambulance services in many states. When you need help, calling out 'madad kijiye' (please help) brings people quickly, as crowds tend to gather and assist. Doctors are addressed respectfully as doctor sahib or doctor-ji. It helps to learn body-part words and the phrase 'mujhe ... mein dard hai' (I have pain in my ...) so you can explain symptoms clearly even with limited Hindi.",
+  "keyPhrases": [
+    { "native": "मदद कीजिए!", "transliteration": "madad kijiye!", "english": "Please help!", "pronunciation": "MUH-dud KEE-ji-yay", "context": "Urgent call for help" },
+    { "native": "मुझे डॉक्टर चाहिए", "transliteration": "mujhe doctor chahiye", "english": "I need a doctor", "pronunciation": "MOO-jhay DOK-tar CHAA-hi-yay", "context": "Medical need" },
+    { "native": "मेरे सिर में दर्द है", "transliteration": "mere sir mein dard hai", "english": "I have a headache", "pronunciation": "MAY-ray sir mein dard hai", "context": "Describing pain" },
+    { "native": "मुझे बुखार है", "transliteration": "mujhe bukhaar hai", "english": "I have a fever", "pronunciation": "MOO-jhay boo-KHAAR hai", "context": "Symptom" },
+    { "native": "मेरे पेट में दर्द है", "transliteration": "mere pet mein dard hai", "english": "I have a stomach ache", "pronunciation": "MAY-ray pet mein dard hai", "context": "Describing pain" },
+    { "native": "एम्बुलेंस बुलाइए", "transliteration": "ambulance bulaiye", "english": "Please call an ambulance", "pronunciation": "AM-byoo-lens boo-LAA-i-yay", "context": "Emergency" },
+    { "native": "अस्पताल कहाँ है?", "transliteration": "aspataal kahaan hai?", "english": "Where is the hospital?", "pronunciation": "us-puh-TAAL kuh-HAAN hai", "context": "Finding help" },
+    { "native": "मुझे दवा चाहिए", "transliteration": "mujhe dawa chahiye", "english": "I need medicine", "pronunciation": "MOO-jhay duh-WAA CHAA-hi-yay", "context": "At the pharmacy" },
+    { "native": "यह आपातकाल है", "transliteration": "yah aapaatkaal hai", "english": "This is an emergency", "pronunciation": "yuh aa-paat-KAAL hai", "context": "Urgent" },
+    { "native": "मुझे अच्छा नहीं लग रहा", "transliteration": "mujhe achha nahin lag raha", "english": "I am not feeling well", "pronunciation": "MOO-jhay UCH-chaa nuh-HEEN lug ruh-HAA", "context": "Feeling unwell" }
+  ],
+  "grammar": [
+    {
+      "rule": "Dard hai for 'to have pain'",
+      "explanation": "To say a body part hurts, use mere/meri plus the body part plus mein dard hai (literally 'in my ... there is pain'). The body part takes mein (in), and the possessive agrees with it: mere sir mein, mere pet mein.",
+      "examples": [
+        { "native": "मेरे गले में दर्द है। (mere gale mein dard hai.)", "en": "I have a sore throat." },
+        { "native": "मेरे पैर में दर्द है। (mere pair mein dard hai.)", "en": "I have pain in my leg." }
+      ],
+      "commonMistake": "Saying main dard hai; the pain is located in a body part with mein, not in the speaker directly."
+    },
+    {
+      "rule": "Mujhe ... hai for conditions",
+      "explanation": "Illnesses and sensations use mujhe (to me) plus the condition plus hai. Mujhe bukhaar hai means 'I have a fever' (literally 'to me there is fever'). The same pattern gives mujhe khaansi hai (I have a cough).",
+      "examples": [
+        { "native": "मुझे बुखार है। (mujhe bukhaar hai.)", "en": "I have a fever." },
+        { "native": "मुझे ज़ुकाम है। (mujhe zukaam hai.)", "en": "I have a cold." }
+      ],
+      "commonMistake": "Using main (I) instead of mujhe (to me) for illnesses."
+    }
+  ],
+  "dialogue": {
+    "setup": "Emma feels unwell and speaks to a pharmacist, Dr. Mehta, at a chemist shop.",
+    "lines": [
+      { "speaker": "Emma", "native": "नमस्ते। मुझे अच्छा नहीं लग रहा।", "transliteration": "namaste. mujhe achha nahin lag raha.", "english": "Hello. I'm not feeling well." },
+      { "speaker": "Dr. Mehta", "native": "क्या हुआ? आपको क्या तकलीफ़ है?", "transliteration": "kya hua? aapko kya takleef hai?", "english": "What happened? What is troubling you?" },
+      { "speaker": "Emma", "native": "मुझे बुखार है और सिर में दर्द है।", "transliteration": "mujhe bukhaar hai aur sir mein dard hai.", "english": "I have a fever and a headache." },
+      { "speaker": "Dr. Mehta", "native": "कब से?", "transliteration": "kab se?", "english": "Since when?" },
+      { "speaker": "Emma", "native": "कल रात से। मुझे दवा चाहिए।", "transliteration": "kal raat se. mujhe dawa chahiye.", "english": "Since last night. I need medicine." },
+      { "speaker": "Dr. Mehta", "native": "यह दवा लीजिए, और आराम कीजिए।", "transliteration": "yah dawa lijiye, aur aaraam kijiye.", "english": "Take this medicine, and rest." },
+      { "speaker": "Emma", "native": "धन्यवाद। अगर ठीक न हुआ तो डॉक्टर के पास जाऊँगी।", "transliteration": "dhanyavaad. agar theek na hua to doctor ke paas jaaungi.", "english": "Thank you. If I don't get better, I'll go to a doctor." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you shout 'Please help!' in Hindi?",
+      "correctAnswer": "मदद कीजिए! (madad kijiye!)",
+      "explanation": "Madad means 'help' and kijiye is the polite request form."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which sentence means 'I have a fever'?",
+      "options": ["मुझे डॉक्टर चाहिए", "मुझे बुखार है", "अस्पताल कहाँ है?", "मेरे सिर में दर्द है"],
+      "correctAnswer": "मुझे बुखार है",
+      "explanation": "Mujhe bukhaar hai is 'to me there is a fever'."
+    },
+    {
+      "type": "fill-blank",
+      "question": "मेरे सिर _____ दर्द है। (I have a headache)",
+      "correctAnswer": "में (mein)",
+      "explanation": "The body part takes mein (in) in the pain construction."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does 'अस्पताल कहाँ है? (aspataal kahaan hai?)' ask?",
+      "options": ["Where is the doctor?", "Where is the hospital?", "Where is the medicine?", "Where is the pharmacy?"],
+      "correctAnswer": "Where is the hospital?",
+      "explanation": "Aspataal means 'hospital' and kahaan hai asks 'where is it'."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: चाहिए / मुझे / डॉक्टर (I need a doctor)",
+      "correctAnswer": "मुझे डॉक्टर चाहिए (mujhe doctor chahiye)",
+      "explanation": "Mujhe, the noun doctor, then chahiye at the end."
+    }
+  ],
+  "status": "complete"
+}

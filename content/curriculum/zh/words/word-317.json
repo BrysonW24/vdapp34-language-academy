@@ -1,13 +1,13 @@
 {
   "rank": 317,
-  "chinese": "超市",
-  "characters": "超市",
-  "pinyin": "chāoshì",
-  "english": "supermarket",
-  "pronunciation": "chaow-shir (1st tone, 4th tone)",
-  "partOfSpeech": "noun",
-  "exampleZh": "我去超市买东西。",
-  "exampleEn": "I'm going to the supermarket to buy things.",
+  "chinese": "越",
+  "characters": "越",
+  "pinyin": "yuè",
+  "english": "cross",
+  "pronunciation": "yue",
+  "partOfSpeech": "adverb",
+  "exampleZh": "他越来了。",
+  "exampleEn": "He came cross.",
   "group": "everyday-250",
-  "topic": "places"
+  "topic": "descriptions"
 }

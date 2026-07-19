@@ -1,0 +1,21 @@
+{
+  "slug": "restaurant",
+  "title": "At the Restaurant",
+  "description": "Order food, ask about dishes, and pay the bill in a Filipino carinderia or restaurant.",
+  "situation": "Eating out: getting a table, ordering, asking what's good, and settling the bill.",
+  "order": 3,
+  "phrases": [
+    { "native": "Mesa para sa dalawa po", "english": "A table for two, please", "pronunciation": "ME-sa PA-ra sa da-la-WA po", "formality": "formal", "tip": "Swap dalawa for any number: isa (one), tatlo (three)." },
+    { "native": "Pwede po bang makita ang menu?", "english": "Can I see the menu, please?", "pronunciation": "PWE-de po bang ma-KEE-ta ang me-NOO", "formality": "formal" },
+    { "native": "Ano po ang masarap dito?", "english": "What is good here?", "pronunciation": "a-NO po ang ma-sa-RAP DEE-to", "formality": "formal", "tip": "A great way to discover local specialties." },
+    { "native": "Gusto ko po ng adobo", "english": "I would like adobo", "pronunciation": "GOOS-to ko po nang a-DO-bo", "formality": "formal", "tip": "Adobo is the classic soy-and-vinegar stew, a national favourite." },
+    { "native": "Hindi po ako kumakain ng baboy", "english": "I don't eat pork", "pronunciation": "hin-DEE po a-KO koo-ma-KA-in nang BA-boy", "formality": "formal", "tip": "Useful in a country that loves lechon (roast pig)." },
+    { "native": "Isang kanin po", "english": "One rice, please", "pronunciation": "ee-SANG KA-nin po", "formality": "formal", "tip": "Rice (kanin) is the heart of nearly every Filipino meal." },
+    { "native": "Tubig po, please", "english": "Water, please", "pronunciation": "TOO-big po, plis", "formality": "formal", "tip": "Mixing in English words (called Taglish) is completely normal." },
+    { "native": "Masarap po!", "english": "It's delicious!", "pronunciation": "ma-sa-RAP po", "formality": "formal", "tip": "Cooks love to hear this. Add talaga (really) for emphasis." },
+    { "native": "Pakidagdagan po ng kanin", "english": "More rice, please", "pronunciation": "pa-kee-dag-DA-gan po nang KA-nin", "formality": "formal", "tip": "The paki- prefix turns any verb into a polite request." },
+    { "native": "Bill po", "english": "The bill, please", "pronunciation": "bil po", "formality": "formal", "tip": "You can also wave and ask for the chit." },
+    { "native": "Pwede po bang card?", "english": "Can I pay by card?", "pronunciation": "PWE-de po bang kard", "formality": "formal", "tip": "Many small eateries are cash-only, so it's worth asking first." },
+    { "native": "Sobra po ang sukli", "english": "This change is too much", "pronunciation": "SOB-ra po ang SOOK-li", "formality": "formal", "tip": "Honesty about change is appreciated and very common." }
+  ]
+}

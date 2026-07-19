@@ -1,13 +1,11 @@
 {
   "rank": 530,
-  "german": "Büro",
-  "english": "office",
-  "pronunciation": "bue-ROH",
-  "partOfSpeech": "noun",
-  "gender": "neuter",
-  "article": "das",
-  "exampleDe": "Ich arbeite im Büro.",
-  "exampleEn": "I work in the office.",
+  "german": "zudem",
+  "english": "in addition",
+  "pronunciation": "t s u d e m",
+  "partOfSpeech": "preposition",
+  "exampleDe": "Das Buch liegt zudem dem Tisch.",
+  "exampleEn": "The book is in addition the table.",
   "group": "confident-350",
-  "topic": "work"
+  "topic": "basics"
 }

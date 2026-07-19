@@ -1,0 +1,26 @@
+{
+  "slug": "adjectives",
+  "name": "Adjectives",
+  "nameTh": "คำคุณศัพท์",
+  "summary": "Thai adjectives come after the noun and act like verbs, with no word for 'to be'.",
+  "level": "elementary",
+  "order": 7,
+  "explanation": "Two things surprise English speakers. First, Thai adjectives come after the noun: บ้านใหญ่ (baan yai) = big house (house big). Second, an adjective is also the predicate, so there is no word for 'is': อาหารอร่อย (aahaan a-roi) = the food is delicious.\n\nTo say 'very', add มาก (maak) after the adjective: ร้อนมาก (very hot). For 'a little', use นิดหน่อย (nit-noi). To negate, put ไม่ before the adjective: ไม่แพง (not expensive).\n\nBecause the adjective behaves like a verb, you never need a linking 'to be' between a noun and a description.",
+  "pattern": "Noun + adjective  |  Noun + adjective + มาก (very)",
+  "examples": [
+    { "th": "บ้านใหญ่", "en": "a big house (house big)" },
+    { "th": "อาหารอร่อย", "en": "the food is delicious" },
+    { "th": "วันนี้ร้อนมาก", "en": "today is very hot" },
+    { "th": "กาแฟไม่แพง", "en": "the coffee isn't expensive" },
+    { "th": "เธอสวย", "en": "she is beautiful" },
+    { "th": "รถคันนี้เร็ว", "en": "this car is fast" }
+  ],
+  "commonMistakes": [
+    "Putting the adjective before the noun like English: it is บ้านใหญ่, not ใหญ่บ้าน.",
+    "Adding a word for 'is' before an adjective. The adjective is the predicate itself.",
+    "Using เป็น (to be) with an adjective. เป็น is for nouns, not adjectives.",
+    "Placing มาก before the adjective. 'Very' comes after: ร้อนมาก.",
+    "Forgetting that ไม่ negates the adjective directly: ไม่อร่อย (not tasty)."
+  ],
+  "tip": "Adjective after the noun, and no 'is' needed. อาหารอร่อย already means 'the food is delicious'."
+}

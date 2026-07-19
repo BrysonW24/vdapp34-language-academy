@@ -1,0 +1,21 @@
+{
+  "slug": "hotel",
+  "title": "At the Hotel",
+  "description": "Check in, ask about your room, and handle hotel basics in Mandarin.",
+  "situation": "Accommodation: checking in and out, room questions, breakfast, and requests.",
+  "order": 6,
+  "phrases": [
+    { "chinese": "我有预订", "pinyin": "wǒ yǒu yùdìng", "english": "I have a reservation", "formality": "neutral" },
+    { "chinese": "有空房吗？", "pinyin": "yǒu kòngfáng ma?", "english": "Do you have a room available?", "formality": "neutral" },
+    { "chinese": "一个单人间", "pinyin": "yí ge dānrénjiān", "english": "A single room", "formality": "neutral", "tip": "双人间 (shuāngrénjiān) is a double room." },
+    { "chinese": "住几晚？", "pinyin": "zhù jǐ wǎn?", "english": "How many nights?", "formality": "neutral" },
+    { "chinese": "含早餐吗？", "pinyin": "hán zǎocān ma?", "english": "Is breakfast included?", "formality": "neutral" },
+    { "chinese": "几点吃早餐？", "pinyin": "jǐ diǎn chī zǎocān?", "english": "What time is breakfast?", "formality": "neutral" },
+    { "chinese": "有无线网吗？", "pinyin": "yǒu wúxiànwǎng ma?", "english": "Is there Wi-Fi?", "formality": "neutral", "tip": "Often just said as WiFi in English too." },
+    { "chinese": "空调坏了", "pinyin": "kōngtiáo huài le", "english": "The air conditioning is broken", "formality": "neutral" },
+    { "chinese": "可以多给一条毛巾吗？", "pinyin": "kěyǐ duō gěi yì tiáo máojīn ma?", "english": "Could I have another towel?", "formality": "neutral" },
+    { "chinese": "几点退房？", "pinyin": "jǐ diǎn tuìfáng?", "english": "What time is check-out?", "formality": "neutral" },
+    { "chinese": "可以寄存行李吗？", "pinyin": "kěyǐ jìcún xíngli ma?", "english": "Can I store my luggage?", "formality": "neutral" },
+    { "chinese": "房间号是多少？", "pinyin": "fángjiān hào shì duōshao?", "english": "What is the room number?", "formality": "neutral" }
+  ]
+}

@@ -1,11 +1,11 @@
 {
   "rank": 296,
-  "german": "nehmen",
-  "english": "to take",
-  "pronunciation": "NAY-men",
-  "partOfSpeech": "verb",
-  "exampleDe": "Ich nehme den Bus.",
-  "exampleEn": "I am taking the bus.",
+  "german": "suchen",
+  "english": "look for",
+  "pronunciation": "z u x ə n",
+  "partOfSpeech": "preposition",
+  "exampleDe": "Möchtest du Tee suchen Kaffee?",
+  "exampleEn": "Do you want tea or coffee?",
   "group": "everyday-250",
-  "topic": "daily-life"
+  "topic": "basics"
 }

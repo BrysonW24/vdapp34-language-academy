@@ -1,0 +1,90 @@
+{
+  "slug": "daily-routines",
+  "title": "Daily Routines",
+  "titleZh": "日常生活",
+  "shortSummary": "Describe your day from morning to night using everyday verbs and time words.",
+  "level": "elementary",
+  "order": 7,
+  "icon": "⏰",
+  "color": "#386a58",
+  "culturalNote": "Daily rhythms in China often include an afternoon rest (午休), and many workplaces and schools pause for lunch and a short nap. Morning exercise is a beloved habit, with parks filling up early for tai chi, dancing, and walking. Meals anchor the day, and 'have you eaten?' doubles as a greeting precisely because food and routine are so closely tied together.",
+  "keyPhrases": [
+    { "chinese": "我早上七点起床", "pinyin": "wǒ zǎoshang qī diǎn qǐchuáng", "english": "I get up at 7am", "context": "Start of the day" },
+    { "chinese": "我吃早饭", "pinyin": "wǒ chī zǎofàn", "english": "I eat breakfast", "context": "Morning" },
+    { "chinese": "我去上班", "pinyin": "wǒ qù shàngbān", "english": "I go to work", "context": "Heading out" },
+    { "chinese": "我中午休息", "pinyin": "wǒ zhōngwǔ xiūxi", "english": "I rest at noon", "context": "Afternoon break" },
+    { "chinese": "我下班回家", "pinyin": "wǒ xiàbān huí jiā", "english": "I finish work and go home", "context": "Evening" },
+    { "chinese": "我做晚饭", "pinyin": "wǒ zuò wǎnfàn", "english": "I cook dinner", "context": "Evening routine" },
+    { "chinese": "我看电视", "pinyin": "wǒ kàn diànshì", "english": "I watch TV", "context": "Relaxing" },
+    { "chinese": "我十一点睡觉", "pinyin": "wǒ shíyī diǎn shuìjiào", "english": "I go to sleep at eleven", "context": "End of day" },
+    { "chinese": "每天", "pinyin": "měitiān", "english": "every day", "context": "Frequency word" },
+    { "chinese": "你今天做什么？", "pinyin": "nǐ jīntiān zuò shénme?", "english": "What are you doing today?", "context": "Asking about the day" }
+  ],
+  "grammar": [
+    {
+      "rule": "Time before the verb",
+      "explanation": "Clock times and time words come before the verb: 我七点起床 (I get up at seven). The time can sit right after the subject.",
+      "examples": [
+        { "zh": "我八点去上班。", "en": "I go to work at eight." },
+        { "zh": "他晚上看书。", "en": "He reads in the evening." }
+      ],
+      "commonMistake": "Putting the time after the verb like English: it is 我七点起床, not 我起床七点."
+    },
+    {
+      "rule": "Sequencing with 然后",
+      "explanation": "Use 先 (first) ... 然后 (then) to order steps: 我先吃饭，然后睡觉 (I eat first, then sleep). 然后 links the next action.",
+      "examples": [
+        { "zh": "我先洗澡，然后睡觉。", "en": "I shower first, then sleep." },
+        { "zh": "起床然后吃早饭。", "en": "Get up and then eat breakfast." }
+      ],
+      "commonMistake": "Using 然后 to mean 'and' between nouns. It links actions in sequence, not items."
+    }
+  ],
+  "dialogue": {
+    "setup": "Two friends, Jia and Ming, compare their daily routines over tea.",
+    "lines": [
+      { "speaker": "佳", "chinese": "你每天几点起床？", "pinyin": "Nǐ měitiān jǐ diǎn qǐchuáng?", "english": "What time do you get up every day?" },
+      { "speaker": "明", "chinese": "我六点半起床。你呢？", "pinyin": "Wǒ liù diǎn bàn qǐchuáng. Nǐ ne?", "english": "I get up at half past six. And you?" },
+      { "speaker": "佳", "chinese": "我七点。然后我去上班。", "pinyin": "Wǒ qī diǎn. Ránhòu wǒ qù shàngbān.", "english": "Seven. Then I go to work." },
+      { "speaker": "明", "chinese": "你晚上做什么？", "pinyin": "Nǐ wǎnshang zuò shénme?", "english": "What do you do in the evening?" },
+      { "speaker": "佳", "chinese": "我做晚饭，然后看电视。", "pinyin": "Wǒ zuò wǎnfàn, ránhòu kàn diànshì.", "english": "I cook dinner, then watch TV." },
+      { "speaker": "明", "chinese": "我晚上常常去跑步。", "pinyin": "Wǒ wǎnshang chángcháng qù pǎobù.", "english": "I often go running in the evening." },
+      { "speaker": "佳", "chinese": "很健康！", "pinyin": "Hěn jiànkāng!", "english": "Very healthy!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'I eat breakfast'?",
+      "correctAnswer": "我吃早饭",
+      "explanation": "吃 (eat) + 早饭 (breakfast)."
+    },
+    {
+      "type": "fill-blank",
+      "question": "我先吃饭，_____睡觉。 (then)",
+      "correctAnswer": "然后",
+      "explanation": "然后 links the next action in a sequence."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which sentence has correct word order?",
+      "options": ["我起床七点", "我七点起床", "七点我起床觉", "起床我七点"],
+      "correctAnswer": "我七点起床",
+      "explanation": "Time (七点) comes before the verb (起床)."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does 每天 mean?",
+      "options": ["today", "every day", "tomorrow", "this morning"],
+      "correctAnswer": "every day",
+      "explanation": "每天 means 'every day'."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: 回家 / 我 / 下班",
+      "correctAnswer": "我下班回家",
+      "explanation": "Subject 我, then 下班 (finish work) and 回家 (go home) in sequence."
+    }
+  ],
+  "status": "complete"
+}

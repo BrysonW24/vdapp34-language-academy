@@ -1,13 +1,11 @@
 {
   "rank": 477,
-  "german": "Arm",
-  "english": "arm",
-  "pronunciation": "AHRM",
-  "partOfSpeech": "noun",
-  "gender": "masculine",
-  "article": "der",
-  "exampleDe": "Sie hat starke Arme.",
-  "exampleEn": "She has strong arms.",
+  "german": "aufgrund",
+  "english": "because of",
+  "pronunciation": "a u f ɡ ʀ ʊ n t",
+  "partOfSpeech": "conjunction",
+  "exampleDe": "Ich bleibe zu Hause, aufgrund es regnet.",
+  "exampleEn": "I am staying home because it is raining.",
   "group": "confident-350",
-  "topic": "health"
+  "topic": "basics"
 }

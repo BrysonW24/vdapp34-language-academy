@@ -1,0 +1,90 @@
+{
+  "slug": "emotions-and-opinions",
+  "title": "Emotions & Opinions",
+  "titleNative": "Emozioni e opinioni",
+  "shortSummary": "Express how you feel, share opinions, and agree or disagree in Italian.",
+  "level": "pre-intermediate",
+  "order": 15,
+  "icon": "💬",
+  "color": "#d35400",
+  "culturalNote": "Italians are famously expressive, and feelings come with gesture, tone, and emphasis. Note that some states English treats with 'to be' use essere with an adjective that agrees with you: sono contento (I'm happy, male) or sono contenta (female). To give an opinion, the natural openers are penso che (I think that) and secondo me (in my opinion); secondo me is especially common and avoids the trickier grammar that penso che can trigger. Disagreeing is fine and animated discussion is enjoyed rather than avoided.",
+  "keyPhrases": [
+    { "native": "Sono felice", "english": "I'm happy", "pronunciation": "SOH-noh feh-LEE-cheh", "context": "Positive feeling" },
+    { "native": "Sono triste", "english": "I'm sad", "pronunciation": "SOH-noh TREES-teh", "context": "Negative feeling" },
+    { "native": "Sono stanco", "english": "I'm tired", "pronunciation": "SOH-noh STAN-koh", "context": "Adjective agrees with gender" },
+    { "native": "Sono arrabbiato", "english": "I'm angry", "pronunciation": "SOH-noh ar-rab-bee-AH-toh", "context": "Strong emotion" },
+    { "native": "Secondo me", "english": "In my opinion", "pronunciation": "seh-KON-doh meh", "context": "Giving an opinion" },
+    { "native": "Penso che sia giusto", "english": "I think it's right", "pronunciation": "PEN-soh keh SEE-ah JOOS-toh", "context": "Stating a view" },
+    { "native": "Sono d'accordo", "english": "I agree", "pronunciation": "SOH-noh dak-KOR-doh", "context": "Agreeing" },
+    { "native": "Non sono d'accordo", "english": "I don't agree", "pronunciation": "non SOH-noh dak-KOR-doh", "context": "Disagreeing" },
+    { "native": "Hai ragione", "english": "You're right", "pronunciation": "ai rah-JOH-neh", "context": "Conceding a point" },
+    { "native": "Mi sembra una buona idea", "english": "It seems like a good idea to me", "pronunciation": "mee SEM-brah OO-nah BWOH-nah ee-DEH-ah", "context": "Soft opinion" }
+  ],
+  "grammar": [
+    {
+      "rule": "Emotions with essere and agreement",
+      "explanation": "Many feelings use essere plus an adjective that agrees with the speaker's gender and number: sono contento (m) or sono contenta (f), siamo stanchi (m pl). Some use avere, like ho paura (I'm afraid).",
+      "examples": [
+        { "native": "Sono contenta oggi.", "en": "I'm happy today. (female)" },
+        { "native": "Siamo stanchi.", "en": "We're tired." }
+      ],
+      "commonMistake": "Leaving the adjective in the masculine form when the speaker is female: say contenta."
+    },
+    {
+      "rule": "Secondo me vs penso che",
+      "explanation": "Secondo me (in my opinion) is followed by a normal indicative sentence and is very common. Penso che (I think that) is more formal and triggers the subjunctive (penso che sia), which is why learners often prefer secondo me.",
+      "examples": [
+        { "native": "Secondo me è troppo caro.", "en": "In my opinion it's too expensive." },
+        { "native": "Penso che sia interessante.", "en": "I think it's interesting." }
+      ],
+      "commonMistake": "Using the plain indicative after penso che; it generally needs the subjunctive."
+    }
+  ],
+  "dialogue": {
+    "setup": "Giorgio and Lucia discuss a film they just saw.",
+    "lines": [
+      { "speaker": "Giorgio", "native": "Allora, ti è piaciuto il film?", "english": "So, did you like the film?" },
+      { "speaker": "Lucia", "native": "Sì, sono molto contenta. E tu?", "english": "Yes, I'm very happy with it. And you?" },
+      { "speaker": "Giorgio", "native": "Secondo me era un po' lungo.", "english": "In my opinion it was a bit long." },
+      { "speaker": "Lucia", "native": "Hai ragione, ma la storia era bella.", "english": "You're right, but the story was lovely." },
+      { "speaker": "Giorgio", "native": "Su questo sono d'accordo.", "english": "On that I agree." },
+      { "speaker": "Lucia", "native": "Penso che sia uno dei suoi migliori.", "english": "I think it's one of his best." },
+      { "speaker": "Giorgio", "native": "Forse sì. Mi sembra una buona conclusione.", "english": "Maybe so. It seems a good conclusion to me." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'In my opinion' in Italian?",
+      "correctAnswer": "Secondo me",
+      "explanation": "Secondo me is the most common way to give an opinion."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "How would a woman say 'I'm tired'?",
+      "options": ["Sono stanco", "Sono stanca", "Sono stanchi", "Ho stanca"],
+      "correctAnswer": "Sono stanca",
+      "explanation": "The adjective agrees with the speaker, so stanca for a woman."
+    },
+    {
+      "type": "fill-blank",
+      "question": "Sono _____ accordo. (I agree)",
+      "correctAnswer": "d'",
+      "explanation": "Essere d'accordo means 'to agree'; di elides to d' before accordo."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which phrase means 'you're right'?",
+      "options": ["Hai ragione", "Sono triste", "Non lo so", "Mi sembra"],
+      "correctAnswer": "Hai ragione",
+      "explanation": "Avere ragione means 'to be right'."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: d'accordo / sono / non",
+      "correctAnswer": "Non sono d'accordo",
+      "explanation": "Non sono d'accordo means 'I don't agree'."
+    }
+  ],
+  "status": "complete"
+}

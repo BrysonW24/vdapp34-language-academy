@@ -1,0 +1,90 @@
+{
+  "slug": "hobbies-and-leisure",
+  "title": "Hobbies & Leisure",
+  "titleNative": "Hobby e tempo libero",
+  "shortSummary": "Talk about what you like to do, your free time, and making plans with friends.",
+  "level": "beginner",
+  "order": 14,
+  "icon": "🎨",
+  "color": "#8e44ad",
+  "culturalNote": "Free time (il tempo libero) in Italy is deeply social. Football (il calcio) is a national passion, the evening passeggiata is a daily ritual, and a long coffee or aperitivo with friends is its own beloved pastime. To say what you like, Italian uses the verb piacere, which works back-to-front compared with English: mi piace il calcio literally means 'football is pleasing to me'. When what you like is plural, the verb changes to piacciono: mi piacciono i film. Mastering piacere unlocks talking about all your interests.",
+  "keyPhrases": [
+    { "native": "Cosa ti piace fare?", "english": "What do you like to do?", "pronunciation": "KOH-zah tee pee-AH-cheh FAH-reh", "context": "Asking interests" },
+    { "native": "Mi piace leggere", "english": "I like reading", "pronunciation": "mee pee-AH-cheh LEH-jeh-reh", "context": "Stating a hobby" },
+    { "native": "Mi piacciono i film", "english": "I like films", "pronunciation": "mee pee-AH-choh-noh ee feelm", "context": "Plural likes" },
+    { "native": "Gioco a calcio", "english": "I play football", "pronunciation": "JOH-koh ah KAL-choh", "context": "Sports" },
+    { "native": "Suono la chitarra", "english": "I play the guitar", "pronunciation": "soo-OH-noh lah kee-TAR-rah", "context": "Music" },
+    { "native": "Nel tempo libero", "english": "In my free time", "pronunciation": "nel TEM-poh LEE-beh-roh", "context": "Setting the scene" },
+    { "native": "Andiamo al cinema?", "english": "Shall we go to the cinema?", "pronunciation": "an-dee-AH-moh al CHEE-neh-mah", "context": "Making plans" },
+    { "native": "Mi piacerebbe", "english": "I would like to", "pronunciation": "mee pee-ah-cheh-REB-beh", "context": "Polite enthusiasm" },
+    { "native": "Non mi piace molto", "english": "I don't like it much", "pronunciation": "non mee pee-AH-cheh MOL-toh", "context": "Mild dislike" },
+    { "native": "Che ne dici?", "english": "What do you think?", "pronunciation": "keh neh DEE-chee", "context": "Inviting an opinion" }
+  ],
+  "grammar": [
+    {
+      "rule": "The verb piacere",
+      "explanation": "Piacere works like 'to be pleasing'. The person who likes is the indirect object (mi, ti, gli/le), and the thing liked is the subject. Use piace for one thing or an action, piacciono for plural things.",
+      "examples": [
+        { "native": "Mi piace la musica.", "en": "I like music." },
+        { "native": "Mi piacciono gli animali.", "en": "I like animals." }
+      ],
+      "commonMistake": "Treating 'I' as the subject. It's mi piace, not io piaccio, for 'I like'."
+    },
+    {
+      "rule": "Giocare a vs suonare",
+      "explanation": "Italian uses two different verbs for 'play'. Giocare a is for games and sports (gioco a tennis), while suonare is for musical instruments (suono il piano).",
+      "examples": [
+        { "native": "Giochiamo a carte.", "en": "We play cards." },
+        { "native": "Lei suona il violino.", "en": "She plays the violin." }
+      ],
+      "commonMistake": "Using giocare for an instrument. Music takes suonare."
+    }
+  ],
+  "dialogue": {
+    "setup": "Marco and Sara talk about their weekend plans.",
+    "lines": [
+      { "speaker": "Marco", "native": "Cosa ti piace fare nel tempo libero?", "english": "What do you like to do in your free time?" },
+      { "speaker": "Sara", "native": "Mi piace leggere e andare al cinema.", "english": "I like reading and going to the cinema." },
+      { "speaker": "Marco", "native": "Anche a me! Andiamo al cinema stasera?", "english": "Me too! Shall we go to the cinema tonight?" },
+      { "speaker": "Sara", "native": "Mi piacerebbe! Che film?", "english": "I'd love to! Which film?" },
+      { "speaker": "Marco", "native": "Una commedia italiana. Che ne dici?", "english": "An Italian comedy. What do you think?" },
+      { "speaker": "Sara", "native": "Perfetto, mi piacciono le commedie.", "english": "Perfect, I like comedies." },
+      { "speaker": "Marco", "native": "Allora ci vediamo alle otto.", "english": "Then see you at eight." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'I like reading' in Italian?",
+      "correctAnswer": "Mi piace leggere",
+      "explanation": "Piacere uses mi plus piace for a single action."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which is correct for 'I like films'?",
+      "options": ["Mi piace i film", "Mi piacciono i film", "Io piaccio i film", "Mi piacere i film"],
+      "correctAnswer": "Mi piacciono i film",
+      "explanation": "A plural thing liked needs piacciono."
+    },
+    {
+      "type": "fill-blank",
+      "question": "Gioco _____ calcio. (preposition)",
+      "correctAnswer": "a",
+      "explanation": "Giocare a is used for sports and games."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which verb means 'to play' an instrument?",
+      "options": ["giocare", "suonare", "cantare", "ascoltare"],
+      "correctAnswer": "suonare",
+      "explanation": "Suonare is for instruments; giocare is for games."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: cinema / al / andiamo",
+      "correctAnswer": "Andiamo al cinema",
+      "explanation": "Andiamo al cinema? means 'Shall we go to the cinema?'"
+    }
+  ],
+  "status": "complete"
+}

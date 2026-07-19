@@ -1,0 +1,33 @@
+{
+  "slug": "present-tense-regular",
+  "name": "Present Tense — Regular Verbs",
+  "nameEs": "El Presente — Verbos Regulares",
+  "summary": "Conjugate -ar, -er, and -ir verbs in the present tense — the most essential verb skill in Spanish.",
+  "level": "beginner",
+  "order": 2,
+  "explanation": "Spanish verbs come in three families based on their infinitive ending: -ar (hablar, trabajar), -er (comer, beber), and -ir (vivir, escribir). To conjugate, remove the ending and add the appropriate suffix for each person.\n\n-AR verbs are the most common and follow a predictable pattern. -ER and -IR verbs share most endings (they only differ in the nosotros and vosotros forms). Once you learn these three patterns, you can conjugate hundreds of regular verbs.\n\nThe present tense in Spanish covers more ground than in English. 'Hablo' can mean 'I speak', 'I do speak', and 'I am speaking'. There's no need for auxiliary verbs like 'do' or 'am'. Spanish also uses the present tense for near-future actions: 'Mañana trabajo' (I'm working tomorrow).",
+  "pattern": "verb stem + person ending (-o, -as/-es, -a/-e, -amos/-emos/-imos, -áis/-éis/-ís, -an/-en)",
+  "conjugation": {
+    "yo": "-o (hablo / como / vivo)",
+    "tu": "-as / -es / -es (hablas / comes / vives)",
+    "el": "-a / -e / -e (habla / come / vive)",
+    "nosotros": "-amos / -emos / -imos (hablamos / comemos / vivimos)",
+    "vosotros": "-áis / -éis / -ís (habláis / coméis / vivís)",
+    "ellos": "-an / -en / -en (hablan / comen / viven)"
+  },
+  "examples": [
+    { "es": "Hablo español un poco", "en": "I speak a little Spanish" },
+    { "es": "¿Trabajas mañana?", "en": "Do you work tomorrow?" },
+    { "es": "Comemos a las dos", "en": "We eat at two" },
+    { "es": "Ella vive en Barcelona", "en": "She lives in Barcelona" },
+    { "es": "Escriben muchos correos", "en": "They write a lot of emails" },
+    { "es": "¿Bebéis vino?", "en": "Do you all drink wine? (Spain)" }
+  ],
+  "commonMistakes": [
+    "Forgetting to remove the infinitive ending before adding the conjugation suffix",
+    "Mixing up -er and -ir endings: they're the same except for nosotros (-emos vs -imos) and vosotros (-éis vs -ís)",
+    "Using English word order with 'do': '¿Tú hablas español?' is correct — no 'do' needed",
+    "Adding subject pronouns unnecessarily: 'Yo hablo español' is correct but 'hablo español' is more natural — the verb ending tells you who"
+  ],
+  "tip": "Subject pronouns (yo, tú, él...) are usually optional in Spanish because the verb ending already tells you who's doing the action. Use them only for emphasis or to avoid confusion."
+}

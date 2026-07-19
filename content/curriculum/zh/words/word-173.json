@@ -1,12 +1,13 @@
 {
   "rank": 173,
-  "chinese": "吃",
-  "characters": "吃",
-  "pinyin": "chī",
-  "english": "to eat",
-  "partOfSpeech": "verb",
-  "exampleZh": "我们一起吃饭吧。",
-  "exampleEn": "Let's eat together.",
+  "chinese": "队",
+  "characters": "队",
+  "pinyin": "duì",
+  "english": "Team",
+  "pronunciation": "dui",
+  "partOfSpeech": "noun",
+  "exampleZh": "我喜欢团队。",
+  "exampleEn": "I like Team.",
   "group": "everyday-250",
-  "topic": "food-drink"
+  "topic": "basics"
 }

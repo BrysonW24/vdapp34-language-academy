@@ -1,0 +1,33 @@
+{
+  "slug": "to-be-ida",
+  "name": "To Be (이다)",
+  "nameNative": "서술격 조사 이다",
+  "summary": "Say what something is with 이다, the copula that turns a noun into 'A is B'.",
+  "level": "beginner",
+  "order": 5,
+  "explanation": "To say 'X is Y' in Korean, attach 이다 to the noun that follows. Unlike English 'to be', 이다 glues directly onto the noun rather than standing alone. In the polite form it becomes 이에요 after a consonant and 예요 after a vowel: 학생이에요 (haksaengieyo, am/is a student), 의사예요 (uisayeyo, am/is a doctor).\n\nKorean has a separate verb 있다 (itda) for 'there is' or 'to exist', so do not confuse it with 이다. 이다 identifies (this is a book), while 있다 says something exists or is located somewhere (the book is here).\n\nThe negative of 이다 is 아니다 (anida), 'to not be'. It takes the subject particle on the noun: 학생이 아니에요 (haksaengi anieyo, is not a student). Because 이다 is so common, mastering 이에요/예요 unlocks countless basic sentences.",
+  "pattern": "noun + 이에요 (after consonant) / 예요 (after vowel)",
+  "conjugation": {
+    "after consonant": "학생 + 이에요 = 학생이에요",
+    "after vowel": "의사 + 예요 = 의사예요",
+    "formal": "학생 + 입니다 = 학생입니다",
+    "negative": "학생이 아니에요",
+    "past": "학생이었어요 (was a student)"
+  },
+  "examples": [
+    { "native": "저는 학생이에요. (jeoneun haksaengieyo.)", "en": "I am a student." },
+    { "native": "이건 커피예요. (igeon keopiyeyo.)", "en": "This is coffee." },
+    { "native": "그분은 의사예요. (geubuneun uisayeyo.)", "en": "That person is a doctor." },
+    { "native": "여기는 서울이에요. (yeogineun seourieyo.)", "en": "This is Seoul." },
+    { "native": "저는 가수가 아니에요. (jeoneun gasuga anieyo.)", "en": "I am not a singer." },
+    { "native": "그건 제 책이었어요. (geugeon je chaegieosseoyo.)", "en": "That was my book." }
+  ],
+  "commonMistakes": [
+    "Confusing 이다 (to be / to identify) with 있다 (to exist / to have). 학생이에요 means 'is a student'; 학생이 있어요 means 'there is a student'.",
+    "Using 예요 after a consonant or 이에요 after a vowel. Match the form to the final sound: 학생이에요 but 의사예요.",
+    "Writing 이다 as a separate word. It attaches directly to the noun, with no space.",
+    "Forming the negative with 안. The negative of 이다 is the separate verb 아니다, not 안 이다.",
+    "Forgetting the subject particle 이/가 before 아니에요: 학생이 아니에요, not 학생 아니에요."
+  ],
+  "tip": "Vowel-ending noun takes 예요, consonant-ending noun takes 이에요. Say them aloud and the rhythm becomes automatic."
+}

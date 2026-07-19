@@ -1,0 +1,90 @@
+{
+  "slug": "hobbies-and-leisure",
+  "title": "Hobbies & Leisure",
+  "titleNative": "Les loisirs",
+  "shortSummary": "Talk about your free time, sports, and what you like doing, with jouer and faire.",
+  "level": "elementary",
+  "order": 13,
+  "icon": "⚽",
+  "color": "#a16a1f",
+  "culturalNote": "Leisure is taken seriously in France, from long café conversations to cinema, cycling, and weekend markets. Football, cycling, and rugby are hugely popular to watch and play, and cultural outings, museums, concerts, theatre, are part of everyday life. The verb you use for an activity depends on whether it is a ball game (jouer) or a broader pursuit (faire).",
+  "keyPhrases": [
+    { "native": "Qu'est-ce que tu aimes faire ?", "english": "What do you like doing?", "pronunciation": "kes-kuh tew em FEHR", "context": "Asking about hobbies" },
+    { "native": "J'aime jouer au football", "english": "I like playing football", "pronunciation": "zhem zhoo-AY oh foot-BOL", "context": "jouer à for sports" },
+    { "native": "J'aime écouter de la musique", "english": "I like listening to music", "pronunciation": "zhem ay-koo-TAY duh lah mew-ZEEK", "context": "A common hobby" },
+    { "native": "J'aime lire", "english": "I like reading", "pronunciation": "zhem LEER", "context": "Quiet pastimes" },
+    { "native": "Je fais du sport", "english": "I do sport", "pronunciation": "zhuh fay dew SPOR", "context": "faire du for activities" },
+    { "native": "As-tu un passe-temps ?", "english": "Do you have a hobby?", "pronunciation": "ah tew un pass-TON", "context": "Starting the topic" },
+    { "native": "J'aime faire de la randonnée", "english": "I like hiking", "pronunciation": "zhem fehr duh lah ron-doh-NAY", "context": "Outdoor activity" },
+    { "native": "le week-end", "english": "the weekend", "pronunciation": "luh week-END", "context": "Free time" },
+    { "native": "Je vois mes amis", "english": "I see my friends", "pronunciation": "zhuh vwah may zah-MEE", "context": "Socialising" },
+    { "native": "C'est amusant", "english": "It's fun", "pronunciation": "say tah-mew-ZON", "context": "Reacting positively" }
+  ],
+  "grammar": [
+    {
+      "rule": "jouer à vs jouer de vs faire de",
+      "explanation": "Use jouer à for games and sports (jouer au tennis), jouer de for instruments (jouer du piano), and faire de for broader activities (faire du yoga, faire de la danse). The à and de contract with le.",
+      "examples": [
+        { "native": "Je joue au tennis.", "en": "I play tennis. (jouer à)" },
+        { "native": "Elle joue de la guitare.", "en": "She plays guitar. (jouer de)" }
+      ],
+      "commonMistake": "Using jouer à for instruments: it is jouer du piano, not jouer au piano."
+    },
+    {
+      "rule": "aimer + infinitive",
+      "explanation": "To say you like doing something, use aimer plus an infinitive: J'aime lire (I like reading), j'aime voyager (I like travelling). No extra word for '-ing' is needed.",
+      "examples": [
+        { "native": "J'aime cuisiner.", "en": "I like cooking." },
+        { "native": "Il n'aime pas courir.", "en": "He doesn't like running." }
+      ],
+      "commonMistake": "Adding a gerund. French uses aimer plus a plain infinitive: j'aime nager, not j'aime nageant."
+    }
+  ],
+  "dialogue": {
+    "setup": "Two classmates, Sara and Léo, chat about their weekend plans.",
+    "lines": [
+      { "speaker": "Sara", "native": "Qu'est-ce que tu aimes faire le week-end ?", "english": "What do you like doing at the weekend?" },
+      { "speaker": "Léo", "native": "J'aime jouer au football et voir mes amis.", "english": "I like playing football and seeing my friends." },
+      { "speaker": "Sara", "native": "Moi, j'aime faire de la randonnée ou lire.", "english": "I like hiking or reading." },
+      { "speaker": "Léo", "native": "La randonnée, ça a l'air bien. Où vas-tu ?", "english": "Hiking sounds nice. Where do you go?" },
+      { "speaker": "Sara", "native": "À la montagne. Tu veux venir ?", "english": "In the mountains. Do you want to come?" },
+      { "speaker": "Léo", "native": "Avec plaisir ! Ça va être amusant.", "english": "Gladly! It'll be fun." },
+      { "speaker": "Sara", "native": "Super, alors à samedi !", "english": "Great, see you Saturday then!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'I like reading'?",
+      "correctAnswer": "J'aime lire",
+      "explanation": "aimer plus the infinitive lire (to read)."
+    },
+    {
+      "type": "fill-blank",
+      "question": "Je joue _____ tennis. (à + le)",
+      "correctAnswer": "au",
+      "explanation": "jouer à for sports, and à + le contracts to au."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which is correct for playing piano?",
+      "options": ["jouer au piano", "jouer du piano", "faire du piano", "jouer le piano"],
+      "correctAnswer": "jouer du piano",
+      "explanation": "Instruments use jouer de: jouer du piano."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does 'C'est amusant' mean?",
+      "options": ["It's tiring", "It's fun", "It's far", "It's expensive"],
+      "correctAnswer": "It's fun",
+      "explanation": "C'est amusant means 'it's fun'."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: faire / aimes / tu / qu'est-ce que",
+      "correctAnswer": "Qu'est-ce que tu aimes faire",
+      "explanation": "Qu'est-ce que (what) + tu aimes faire (you like to do)."
+    }
+  ],
+  "status": "complete"
+}

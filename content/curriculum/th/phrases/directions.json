@@ -1,0 +1,21 @@
+{
+  "slug": "directions",
+  "title": "Asking for Directions",
+  "description": "Find your way around a Thai town: ask where things are and understand the reply.",
+  "situation": "Getting around: asking for places, understanding left and right, and using transport.",
+  "order": 5,
+  "phrases": [
+    { "thai": "ขอโทษ ... อยู่ที่ไหน", "pronunciation": "kho-thot ... yuu thii-nai", "english": "Excuse me, where is...?", "formality": "neutral" },
+    { "thai": "ไป...ยังไง", "pronunciation": "pai ... yang-ngai", "english": "How do I get to...?", "formality": "neutral" },
+    { "thai": "ตรงไป", "pronunciation": "trong pai", "english": "Go straight", "formality": "neutral" },
+    { "thai": "เลี้ยวซ้าย", "pronunciation": "liao saai", "english": "Turn left", "formality": "neutral", "tip": "เลี้ยวขวา (liao khwaa) is turn right." },
+    { "thai": "อยู่ตรงนั้น", "pronunciation": "yuu trong-nan", "english": "It's over there", "formality": "neutral" },
+    { "thai": "ไกลไหม", "pronunciation": "klai mai", "english": "Is it far?", "formality": "neutral" },
+    { "thai": "ใกล้ๆ", "pronunciation": "klai-klai", "english": "Nearby", "formality": "neutral", "tip": "Tones differ: ไกล (klai) far, ใกล้ (klai) near." },
+    { "thai": "สถานีรถไฟฟ้า", "pronunciation": "sa-thaa-nii rot-fai-faa", "english": "BTS skytrain station", "formality": "neutral" },
+    { "thai": "ป้ายรถเมล์", "pronunciation": "paai rot-mee", "english": "bus stop", "formality": "neutral" },
+    { "thai": "ผมหลงทาง", "pronunciation": "phom long-thaang", "english": "I'm lost", "formality": "neutral" },
+    { "thai": "ช่วยพาไปได้ไหม", "pronunciation": "chuay phaa pai dai mai", "english": "Could you take me there?", "formality": "neutral" },
+    { "thai": "ขอบคุณมาก", "pronunciation": "khop-khun maak", "english": "Thank you very much", "formality": "neutral" }
+  ]
+}

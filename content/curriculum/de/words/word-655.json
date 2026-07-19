@@ -1,11 +1,11 @@
 {
   "rank": 655,
-  "german": "ehrlich",
-  "english": "honest",
-  "pronunciation": "AYR-likh",
+  "german": "schlecht",
+  "english": "bad",
+  "pronunciation": "ʃ l ɛ ç t",
   "partOfSpeech": "adjective",
-  "exampleDe": "Sei ehrlich mit mir.",
-  "exampleEn": "Be honest with me.",
+  "exampleDe": "Dieser Ort ist sehr schlecht.",
+  "exampleEn": "This place is very bad.",
   "group": "confident-350",
   "topic": "descriptions"
 }

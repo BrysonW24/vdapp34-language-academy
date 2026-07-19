@@ -1,13 +1,13 @@
 {
   "rank": 310,
-  "chinese": "丈夫",
-  "characters": "丈夫",
-  "pinyin": "zhàngfu",
-  "english": "husband",
-  "pronunciation": "jahng-foo (4th tone, neutral)",
-  "partOfSpeech": "noun",
-  "exampleZh": "她的丈夫是医生。",
-  "exampleEn": "Her husband is a doctor.",
+  "chinese": "带来",
+  "characters": "带来",
+  "pinyin": "dài lái",
+  "english": "to bring",
+  "pronunciation": "dai-lai",
+  "partOfSpeech": "verb",
+  "exampleZh": "我想带来。",
+  "exampleEn": "I want to bring.",
   "group": "everyday-250",
-  "topic": "family"
+  "topic": "actions"
 }

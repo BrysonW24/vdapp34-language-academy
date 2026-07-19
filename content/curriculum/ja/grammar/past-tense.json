@@ -1,0 +1,34 @@
+{
+  "slug": "past-tense",
+  "name": "Past Tense (mashita and ta)",
+  "nameNative": "過去形「ました・た」",
+  "summary": "Form the polite past with -ました (mashita) and the plain past with -た (ta). Both say an action already happened.",
+  "level": "elementary",
+  "order": 7,
+  "explanation": "To put a verb into the past, the polite form is easy: take the -ます verb and change ます to ました. 食べます (tabemasu, eat) becomes 食べました (tabemashita, ate); 行きます (ikimasu, go) becomes 行きました (ikimashita, went). The polite past negative is ませんでした: 行きませんでした (ikimasen deshita, did not go).\n\nThe plain past, called the -た (ta) form, is used in casual speech and inside many grammar patterns. For ichidan verbs, replace る with た: 食べる becomes 食べた (tabeta). Godan verbs follow sound-based rules: 飲む becomes 飲んだ (nonda), 書く becomes 書いた (kaita), 待つ becomes 待った (matta). These euphonic changes take practice but are very regular once learned.\n\nNouns and na-adjectives form the past with でした (polite) or だった (plain): 学生でした (gakusei deshita, was a student). I-adjectives change differently, swapping い for かった, covered in the adjectives lesson.",
+  "pattern": "[verb stem] + ました (polite)  /  plain past -た form",
+  "conjugation": {
+    "polite past": "食べました (tabemashita) - ate",
+    "polite past negative": "食べませんでした (tabemasen deshita) - did not eat",
+    "plain past (ichidan)": "食べた (tabeta) - ate",
+    "plain past (godan -mu)": "飲んだ (nonda) - drank",
+    "plain past (godan -ku)": "書いた (kaita) - wrote",
+    "noun past": "学生でした (gakusei deshita) - was a student"
+  },
+  "examples": [
+    { "native": "昨日寿司を食べました。(kinou sushi o tabemashita.)", "en": "I ate sushi yesterday." },
+    { "native": "先週京都へ行きました。(senshuu Kyouto e ikimashita.)", "en": "I went to Kyoto last week." },
+    { "native": "彼は来ませんでした。(kare wa kimasen deshita.)", "en": "He did not come." },
+    { "native": "映画を見た。(eiga o mita.)", "en": "I watched a movie. (casual)" },
+    { "native": "手紙を書きました。(tegami o kakimashita.)", "en": "I wrote a letter." },
+    { "native": "去年は学生でした。(kyonen wa gakusei deshita.)", "en": "Last year I was a student." }
+  ],
+  "commonMistakes": [
+    "Forming the polite past negative as ませんかった. It is ませんでした.",
+    "Applying ichidan rules to godan verbs in the plain past. 飲む becomes 飲んだ, not 飲た.",
+    "Using でした to make a verb past. でした is for nouns and na-adjectives, not -ます verbs.",
+    "Forgetting the euphonic sound changes in the godan -た form (kaku - kaita, matsu - matta).",
+    "Mixing plain and polite past forms in the same sentence."
+  ],
+  "tip": "Polite past is mechanical: just turn ます into ました. The plain -た form takes more practice."
+}

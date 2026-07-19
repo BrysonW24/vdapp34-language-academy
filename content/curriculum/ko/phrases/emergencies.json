@@ -1,0 +1,21 @@
+{
+  "slug": "emergencies",
+  "title": "Emergencies",
+  "description": "Get help fast: medical, police, and safety phrases you hope you never need.",
+  "situation": "Urgent situations: calling for help, reporting a problem, and reaching a doctor or police.",
+  "order": 7,
+  "phrases": [
+    { "native": "도와주세요!", "transliteration": "dowajuseyo!", "english": "Help!", "pronunciation": "doh-wah-joo-seh-yo", "formality": "neutral", "tip": "Shout this to draw attention in any emergency." },
+    { "native": "응급 상황이에요", "transliteration": "eunggeup sanghwangieyo", "english": "It's an emergency", "pronunciation": "eung-geup sahng-hwahng-ee-eh-yo", "formality": "neutral" },
+    { "native": "구급차 좀 불러 주세요", "transliteration": "gugeupcha jom bulleo juseyo", "english": "Please call an ambulance", "pronunciation": "goo-geup-chah jom bool-lo joo-seh-yo", "formality": "neutral", "tip": "The emergency number for fire and ambulance in Korea is 119." },
+    { "native": "경찰을 불러 주세요", "transliteration": "gyeongchareul bulleo juseyo", "english": "Please call the police", "pronunciation": "gyong-chah-reul bool-lo joo-seh-yo", "formality": "neutral", "tip": "The police number in Korea is 112." },
+    { "native": "아파요", "transliteration": "apayo", "english": "I'm in pain / I feel sick", "pronunciation": "ah-pah-yo", "formality": "neutral", "tip": "Point to where it hurts: 여기가 아파요 (yeogiga apayo, it hurts here)." },
+    { "native": "병원에 가야 해요", "transliteration": "byeongwone gaya haeyo", "english": "I need to go to a hospital", "pronunciation": "byong-wo-neh gah-yah heh-yo", "formality": "neutral" },
+    { "native": "약국이 어디예요?", "transliteration": "yakgugi eodiyeyo?", "english": "Where is a pharmacy?", "pronunciation": "yahk-goo-gee oh-dee-yeh-yo", "formality": "neutral" },
+    { "native": "알레르기가 있어요", "transliteration": "allereugiga isseoyo", "english": "I have an allergy", "pronunciation": "ahl-leh-reu-gee-gah ee-sso-yo", "formality": "neutral", "tip": "Name it: 땅콩 알레르기 (ttangkong, peanut), 우유 (uyu, milk)." },
+    { "native": "지갑을 잃어버렸어요", "transliteration": "jigabeul ireobeoryeosseoyo", "english": "I lost my wallet", "pronunciation": "jee-gah-beul ee-ro-bo-ryo-sso-yo", "formality": "neutral", "tip": "Swap in 여권 (yeogwon, passport) or 휴대폰 (hyudaepon, phone)." },
+    { "native": "길을 잃었어요", "transliteration": "gireul ireosseoyo", "english": "I'm lost", "pronunciation": "gee-reul ee-ro-sso-yo", "formality": "neutral" },
+    { "native": "영어 하는 사람 있어요?", "transliteration": "yeongeo haneun saram isseoyo?", "english": "Is there someone who speaks English?", "pronunciation": "yong-oh hah-neun sah-rahm ee-sso-yo", "formality": "neutral" },
+    { "native": "대사관에 연락해 주세요", "transliteration": "daesagwane yeollakhae juseyo", "english": "Please contact my embassy", "pronunciation": "deh-sah-gwah-neh yon-lahk-heh joo-seh-yo", "formality": "neutral" }
+  ]
+}

@@ -1,13 +1,13 @@
 {
   "rank": 148,
-  "chinese": "给",
-  "characters": "给",
-  "pinyin": "gěi",
-  "english": "to give; for; to",
-  "pronunciation": "gay (3rd tone, dips then rises)",
-  "partOfSpeech": "verb",
-  "exampleZh": "请给我一杯水。",
-  "exampleEn": "Please give me a glass of water.",
+  "chinese": "真是",
+  "characters": "真是",
+  "pinyin": "zhēn shì",
+  "english": "Really",
+  "pronunciation": "zhen-shi",
+  "partOfSpeech": "adverb",
+  "exampleZh": "他真是来了。",
+  "exampleEn": "He came Really.",
   "group": "core-100",
-  "topic": "actions"
+  "topic": "descriptions"
 }

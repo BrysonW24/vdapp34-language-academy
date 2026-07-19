@@ -1,0 +1,101 @@
+{
+  "slug": "numbers-and-time",
+  "title": "Numbers & Time",
+  "titleEs": "Números y La Hora",
+  "shortSummary": "Master numbers 0-100 and learn to tell the time, ask for prices, and handle dates in Spanish.",
+  "level": "beginner",
+  "order": 2,
+  "icon": "🔢",
+  "color": "#2f4f79",
+  "culturalNote": "Time is treated more flexibly in many Spanish-speaking cultures. Being 15-30 minutes late to social events is normal and expected — it's called 'la hora latina'. However, punctuality is valued in professional settings, especially in Spain. When giving prices, many Latin American countries use the dollar sign but say 'pesos' or 'soles'.",
+  "keyPhrases": [
+    { "spanish": "¿Qué hora es?", "english": "What time is it?", "pronunciation": "keh OH-rah ehs", "context": "The standard way to ask the time" },
+    { "spanish": "Son las tres", "english": "It's three o'clock", "pronunciation": "sohn lahs trehs", "context": "For all hours except 1:00 (which uses 'Es la una')" },
+    { "spanish": "Es la una y media", "english": "It's 1:30", "pronunciation": "ehs lah OO-nah ee MEH-dee-ah", "context": "'Media' means half — used for :30" },
+    { "spanish": "¿Cuánto cuesta?", "english": "How much does it cost?", "pronunciation": "KWAHN-toh KWEHS-tah", "context": "Essential for shopping and restaurants" },
+    { "spanish": "Cuesta diez euros", "english": "It costs ten euros", "pronunciation": "KWEHS-tah dee-EHS EH-oo-rohs", "context": "Stating a price" },
+    { "spanish": "Son las ocho de la mañana", "english": "It's 8 in the morning", "pronunciation": "sohn lahs OH-choh deh lah mah-NYAH-nah", "context": "Adding time of day for clarity" },
+    { "spanish": "Mi número de teléfono es...", "english": "My phone number is...", "pronunciation": "mee NOO-meh-roh deh teh-LEH-foh-noh ehs", "context": "Giving your phone number" },
+    { "spanish": "¿Cuántos años tienes?", "english": "How old are you?", "pronunciation": "KWAHN-tohs AH-nyohs tee-EH-nehs", "context": "Literally 'how many years do you have?'" },
+    { "spanish": "Tengo veinticinco años", "english": "I'm 25 years old", "pronunciation": "TEHN-goh beyn-tee-SEEN-koh AH-nyohs", "context": "In Spanish you 'have' years, not 'are' years" },
+    { "spanish": "Hoy es lunes", "english": "Today is Monday", "pronunciation": "oy ehs LOO-nehs", "context": "Days of the week are not capitalised in Spanish" }
+  ],
+  "grammar": [
+    {
+      "rule": "Telling time with ser",
+      "explanation": "Use 'es la' for 1:00 (singular) and 'son las' for all other hours (plural). Add 'y' (and) for minutes past, and 'menos' (minus) for minutes before the hour.",
+      "examples": [
+        { "es": "Es la una", "en": "It's one o'clock" },
+        { "es": "Son las cinco y cuarto", "en": "It's 5:15 (quarter past five)" },
+        { "es": "Son las diez menos diez", "en": "It's 9:50 (ten to ten)" }
+      ],
+      "commonMistake": "Saying 'son la una' instead of 'es la una' — 1:00 is singular, so use 'es'."
+    },
+    {
+      "rule": "Age uses 'tener' (to have), not 'ser' (to be)",
+      "explanation": "Unlike English where you 'are' a certain age, Spanish says you 'have' years. This is one of the most common mistakes for English speakers.",
+      "examples": [
+        { "es": "Tengo treinta años", "en": "I'm 30 years old (I have 30 years)" },
+        { "es": "Ella tiene veinte años", "en": "She is 20 years old (she has 20 years)" }
+      ],
+      "commonMistake": "Saying 'soy treinta años' (I am 30 years) instead of 'tengo treinta años' (I have 30 years)."
+    },
+    {
+      "rule": "Numbers 1-30 are single words; 31+ are compound",
+      "explanation": "Numbers 1-15 each have unique forms. 16-29 are written as one word (dieciséis, veintidós). From 31 onward, they separate: treinta y uno, cuarenta y dos, etc.",
+      "examples": [
+        { "es": "dieciséis", "en": "16 (one word)" },
+        { "es": "veintitrés", "en": "23 (one word)" },
+        { "es": "treinta y cinco", "en": "35 (three words)" }
+      ],
+      "commonMistake": "Writing 'veinte y uno' as separate words instead of the single word 'veintiuno'."
+    }
+  ],
+  "dialogue": {
+    "setup": "Ana is at a market stall buying fruit. The vendor, Don Pedro, helps her.",
+    "lines": [
+      { "speaker": "Ana", "spanish": "Buenos días. ¿Cuánto cuestan las manzanas?", "english": "Good morning. How much are the apples?" },
+      { "speaker": "Don Pedro", "spanish": "Buenos días. Dos euros el kilo.", "english": "Good morning. Two euros per kilo." },
+      { "speaker": "Ana", "spanish": "Bien, quiero tres kilos, por favor.", "english": "Good, I'd like three kilos, please." },
+      { "speaker": "Don Pedro", "spanish": "Tres kilos... son seis euros.", "english": "Three kilos... that's six euros." },
+      { "speaker": "Ana", "spanish": "Aquí tiene diez euros.", "english": "Here's ten euros." },
+      { "speaker": "Don Pedro", "spanish": "Su cambio: cuatro euros. ¡Gracias!", "english": "Your change: four euros. Thank you!" },
+      { "speaker": "Ana", "spanish": "Gracias. ¿A qué hora cierra?", "english": "Thanks. What time do you close?" },
+      { "speaker": "Don Pedro", "spanish": "Cerramos a las dos de la tarde.", "english": "We close at two in the afternoon." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'What time is it?' in Spanish?",
+      "correctAnswer": "¿Qué hora es?",
+      "explanation": "Literally 'What hour is it?' — this is the standard way to ask the time."
+    },
+    {
+      "type": "fill-blank",
+      "question": "_____ las tres y media. (It's 3:30)",
+      "correctAnswer": "Son",
+      "explanation": "Use 'son' for all hours except 1:00 (which uses 'es la una')."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "How do you say 'I'm 20 years old' in Spanish?",
+      "options": ["Soy veinte años", "Tengo veinte años", "Estoy veinte años", "Hago veinte años"],
+      "correctAnswer": "Tengo veinte años",
+      "explanation": "In Spanish you 'have' years (tener) — you don't 'are' years."
+    },
+    {
+      "type": "translate",
+      "question": "How do you say the number 17 in Spanish?",
+      "correctAnswer": "diecisiete",
+      "explanation": "Numbers 16-19 combine 'dieci-' (ten and) with the unit: diecisiete = diez y siete."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: euros / cuesta / cinco",
+      "correctAnswer": "Cuesta cinco euros",
+      "explanation": "The verb 'cuesta' (it costs) comes first, then the amount."
+    }
+  ],
+  "status": "complete"
+}

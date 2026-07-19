@@ -1,13 +1,13 @@
 {
   "rank": 123,
-  "chinese": "问",
-  "characters": "问",
-  "pinyin": "wèn",
-  "english": "to ask",
-  "pronunciation": "wun (4th tone, sharp falling)",
+  "chinese": "加",
+  "characters": "加",
+  "pinyin": "jiā",
+  "english": "to add",
+  "pronunciation": "jia",
   "partOfSpeech": "verb",
-  "exampleZh": "我想问你一个问题。",
-  "exampleEn": "I want to ask you a question.",
+  "exampleZh": "我想加。",
+  "exampleEn": "I want to add.",
   "group": "core-100",
-  "topic": "communication"
+  "topic": "actions"
 }

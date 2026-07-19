@@ -1,12 +1,13 @@
 {
   "rank": 172,
-  "chinese": "卖",
-  "characters": "卖",
-  "pinyin": "mài",
-  "english": "to sell",
+  "chinese": "肯定",
+  "characters": "肯定",
+  "pinyin": "kěn dìng",
+  "english": "to affim",
+  "pronunciation": "ken-ding",
   "partOfSpeech": "verb",
-  "exampleZh": "这家店卖水果。",
-  "exampleEn": "This shop sells fruit.",
+  "exampleZh": "我想肯定。",
+  "exampleEn": "I want to affim.",
   "group": "everyday-250",
   "topic": "actions"
 }

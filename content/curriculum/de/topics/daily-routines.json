@@ -1,0 +1,90 @@
+{
+  "slug": "daily-routines",
+  "title": "Daily Routines",
+  "titleDe": "Der Tagesablauf",
+  "shortSummary": "Describe your day from morning to night, including the separable verbs Germans use constantly.",
+  "level": "elementary",
+  "order": 7,
+  "icon": "⏰",
+  "color": "#386a58",
+  "culturalNote": "Daily life in Germany runs on structure. Many people start work early (around 8am), value a proper lunch break, and treasure Feierabend, the cherished moment when the workday ends and free time begins. Sundays are a genuine day of rest (Ruhetag) when shops close and noise rules discourage loud chores, so locals use the day for walks, family, and relaxing.",
+  "keyPhrases": [
+    { "german": "Ich stehe um sieben Uhr auf", "english": "I get up at seven o'clock", "pronunciation": "ikh SHTAY-uh oom ZEE-ben oor owf", "context": "aufstehen is separable" },
+    { "german": "Ich frühstücke", "english": "I have breakfast", "pronunciation": "ikh FROO-shtoo-kuh", "context": "Morning routine" },
+    { "german": "Ich gehe zur Arbeit", "english": "I go to work", "pronunciation": "ikh GAY-uh tsoor AR-bite", "context": "Heading out" },
+    { "german": "Ich mache eine Pause", "english": "I take a break", "pronunciation": "ikh MAHKH-uh EYE-nuh POW-zuh", "context": "During the day" },
+    { "german": "Ich komme nach Hause", "english": "I come home", "pronunciation": "ikh KOM-muh nahkh HOW-zuh", "context": "Returning home" },
+    { "german": "Ich koche das Abendessen", "english": "I cook dinner", "pronunciation": "ikh KOKH-uh dahs AH-bent-es-sen", "context": "Evening routine" },
+    { "german": "Ich sehe fern", "english": "I watch TV", "pronunciation": "ikh ZAY-uh fairn", "context": "fernsehen is separable" },
+    { "german": "Ich gehe ins Bett", "english": "I go to bed", "pronunciation": "ikh GAY-uh ins bet", "context": "End of the day" },
+    { "german": "am Morgen / am Abend", "english": "in the morning / in the evening", "pronunciation": "ahm MOR-gen / ahm AH-bent", "context": "Time of day" },
+    { "german": "Was machst du heute?", "english": "What are you doing today?", "pronunciation": "vahs mahkst doo HOY-tuh", "context": "Asking about the day" }
+  ],
+  "grammar": [
+    {
+      "rule": "Separable verbs",
+      "explanation": "Many German verbs have a prefix that separates and jumps to the end of the sentence. aufstehen (to get up): 'Ich stehe um sieben auf'. The prefix auf goes to the end.",
+      "examples": [
+        { "de": "Ich stehe früh auf.", "en": "I get up early. (aufstehen)" },
+        { "de": "Ich rufe dich später an.", "en": "I'll call you later. (anrufen)" }
+      ],
+      "commonMistake": "Keeping the prefix attached: it is 'Ich stehe auf', not 'Ich aufstehe'."
+    },
+    {
+      "rule": "Time expressions with am",
+      "explanation": "Use 'am' for parts of the day and days of the week: am Morgen, am Abend, am Montag. The exception is 'in der Nacht' (at night).",
+      "examples": [
+        { "de": "Am Morgen trinke ich Kaffee.", "en": "In the morning I drink coffee." },
+        { "de": "Am Freitag gehe ich ins Kino.", "en": "On Friday I go to the cinema." }
+      ],
+      "commonMistake": "Saying 'in dem Morgen'. Parts of the day take 'am', not 'in dem'."
+    }
+  ],
+  "dialogue": {
+    "setup": "Two friends, Jonas and Mia, compare their daily routines over coffee.",
+    "lines": [
+      { "speaker": "Jonas", "german": "Wann stehst du normalerweise auf?", "english": "When do you usually get up?" },
+      { "speaker": "Mia", "german": "Ich stehe um halb sieben auf. Und du?", "english": "I get up at half past six. And you?" },
+      { "speaker": "Jonas", "german": "Erst um acht. Ich frühstücke und gehe dann zur Arbeit.", "english": "Only at eight. I have breakfast and then go to work." },
+      { "speaker": "Mia", "german": "Was machst du am Abend?", "english": "What do you do in the evening?" },
+      { "speaker": "Jonas", "german": "Ich koche, sehe fern und gehe früh ins Bett.", "english": "I cook, watch TV, and go to bed early." },
+      { "speaker": "Mia", "german": "Ich gehe abends oft joggen.", "english": "I often go jogging in the evenings." },
+      { "speaker": "Jonas", "german": "Das klingt gesund!", "english": "That sounds healthy!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "fill-blank",
+      "question": "Ich stehe um sieben Uhr _____. (separable prefix of aufstehen)",
+      "correctAnswer": "auf",
+      "explanation": "aufstehen separates and the prefix auf goes to the end."
+    },
+    {
+      "type": "translate",
+      "question": "How do you say 'I have breakfast'?",
+      "correctAnswer": "Ich frühstücke",
+      "explanation": "frühstücken is the verb 'to have breakfast'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which is correct?",
+      "options": ["Ich fernsehe", "Ich sehe fern", "Ich sehe fernsehe", "Ich fern sehe"],
+      "correctAnswer": "Ich sehe fern",
+      "explanation": "fernsehen is separable: sehe second, fern at the end."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "How do you say 'in the morning'?",
+      "options": ["in Morgen", "am Morgen", "auf Morgen", "zu Morgen"],
+      "correctAnswer": "am Morgen",
+      "explanation": "Parts of the day take 'am'."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: gehe / Hause / nach / ich",
+      "correctAnswer": "Ich gehe nach Hause",
+      "explanation": "Subject ich, verb gehe, then 'nach Hause' (home)."
+    }
+  ],
+  "status": "complete"
+}

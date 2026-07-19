@@ -1,0 +1,21 @@
+{
+  "slug": "hotel",
+  "title": "At the Hotel",
+  "description": "12 essential phrases for checking in, making requests, and handling your stay at any Spanish-speaking hotel.",
+  "situation": "Hotel reception, room service, concierge, and check-out.",
+  "order": 6,
+  "phrases": [
+    { "spanish": "Tengo una reserva a nombre de...", "english": "I have a reservation under the name...", "pronunciation": "TEHN-goh OO-nah rreh-SEHR-bah ah NOHM-breh deh", "formality": "formal" },
+    { "spanish": "Quiero hacer una reserva", "english": "I'd like to make a reservation", "pronunciation": "kee-EH-roh ah-SEHR OO-nah rreh-SEHR-bah", "formality": "formal" },
+    { "spanish": "¿Tiene habitaciones disponibles?", "english": "Do you have rooms available?", "pronunciation": "tee-EH-neh ah-bee-tah-see-OH-nehs dees-poh-NEE-blehs", "formality": "formal" },
+    { "spanish": "Una habitación individual / doble", "english": "A single / double room", "pronunciation": "OO-nah ah-bee-tah-see-OHN een-dee-bee-DWAHL / DOH-bleh", "formality": "formal" },
+    { "spanish": "¿El desayuno está incluido?", "english": "Is breakfast included?", "pronunciation": "ehl deh-sah-YOO-noh ehs-TAH een-kloo-EE-doh", "formality": "formal" },
+    { "spanish": "¿Tiene wifi? ¿Cuál es la contraseña?", "english": "Do you have wifi? What's the password?", "pronunciation": "tee-EH-neh WEE-fee KWAHL ehs lah kohn-trah-SEH-nyah", "formality": "formal" },
+    { "spanish": "El aire acondicionado no funciona", "english": "The air conditioning isn't working", "pronunciation": "ehl AY-reh ah-kohn-dee-see-oh-NAH-doh noh foon-see-OH-nah", "formality": "formal", "tip": "Essential complaint — especially in summer" },
+    { "spanish": "¿Puede darme otra toalla?", "english": "Can you give me another towel?", "pronunciation": "PWEH-deh DAR-meh OH-trah toh-AH-yah", "formality": "formal" },
+    { "spanish": "¿Hay caja fuerte en la habitación?", "english": "Is there a safe in the room?", "pronunciation": "eye KAH-hah FWEHR-teh ehn lah ah-bee-tah-see-OHN", "formality": "formal" },
+    { "spanish": "Quiero hacer el check-out", "english": "I'd like to check out", "pronunciation": "kee-EH-roh ah-SEHR ehl check-out", "formality": "formal", "tip": "'Check-out' is used as a loanword in most Spanish hotels" },
+    { "spanish": "¿Puedo dejar las maletas hasta las tres?", "english": "Can I leave my luggage until three?", "pronunciation": "PWEH-doh deh-HAHR lahs mah-LEH-tahs AHS-tah lahs trehs", "formality": "formal" },
+    { "spanish": "¿Puede pedir un taxi para mí?", "english": "Can you order a taxi for me?", "pronunciation": "PWEH-deh peh-DEER oon TAHK-see PAH-rah mee", "formality": "formal" }
+  ]
+}

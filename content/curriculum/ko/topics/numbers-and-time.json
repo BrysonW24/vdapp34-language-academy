@@ -1,0 +1,90 @@
+{
+  "slug": "numbers-and-time",
+  "title": "Numbers & Time",
+  "titleNative": "숫자와 시간",
+  "shortSummary": "Count, tell the time, and talk about days using Korea's two number systems.",
+  "level": "beginner",
+  "order": 3,
+  "icon": "🕐",
+  "color": "#1971c2",
+  "culturalNote": "Korean uses two complete number systems, and choosing the right one is the single biggest hurdle for learners. Native Korean numbers (하나, 둘, 셋 - hana, dul, set) are used for the hour, for counting people and objects, and for ages in casual speech. Sino-Korean numbers (일, 이, 삼 - il, i, sam), which come from Chinese, are used for minutes, money, dates, phone numbers, and floors of a building. Telling the time mixes both at once: the hour is native Korean and the minutes are Sino-Korean, so 3:20 is 세 시 이십 분 (se si isip bun). Koreans also count age in a way that has recently changed: the traditional Korean age system added a year at birth and another every New Year, but the country officially moved to international age in 2023, so it is now common to clarify which you mean.",
+  "keyPhrases": [
+    { "native": "하나, 둘, 셋", "english": "One, two, three (native)", "transliteration": "hana, dul, set", "pronunciation": "ha-na, dul, set", "context": "Native numbers for hours and counting" },
+    { "native": "일, 이, 삼", "english": "One, two, three (Sino)", "transliteration": "il, i, sam", "pronunciation": "il, i, sam", "context": "Sino numbers for minutes and money" },
+    { "native": "지금 몇 시예요?", "english": "What time is it now?", "transliteration": "jigeum myeot siyeyo?", "pronunciation": "ji-geum myot si-ye-yo", "context": "Asking the time" },
+    { "native": "세 시예요", "english": "It's three o'clock", "transliteration": "se siyeyo", "pronunciation": "se si-ye-yo", "context": "Hour uses native numbers" },
+    { "native": "세 시 이십 분이에요", "english": "It's three twenty", "transliteration": "se si isip bunieyo", "pronunciation": "se si i-sip bu-ni-e-yo", "context": "Minutes use Sino numbers" },
+    { "native": "오전 / 오후", "english": "AM / PM", "transliteration": "ojeon / ohu", "pronunciation": "o-jon / o-hu", "context": "Morning versus afternoon" },
+    { "native": "오늘 무슨 요일이에요?", "english": "What day is it today?", "transliteration": "oneul museun yoirieyo?", "pronunciation": "o-neul mu-seun yo-i-ri-e-yo", "context": "Asking the day of the week" },
+    { "native": "월요일이에요", "english": "It's Monday", "transliteration": "woryoirieyo", "pronunciation": "wo-ryo-i-ri-e-yo", "context": "Giving the day" },
+    { "native": "얼마예요?", "english": "How much is it?", "transliteration": "eolmayeyo?", "pronunciation": "ol-ma-ye-yo", "context": "Prices use Sino numbers" },
+    { "native": "만 원이에요", "english": "It's ten thousand won", "transliteration": "man wonieyo", "pronunciation": "man wo-ni-e-yo", "context": "Korean currency amount" }
+  ],
+  "grammar": [
+    {
+      "rule": "Two number systems",
+      "explanation": "Native Korean numbers count hours, people, and things, while Sino-Korean numbers count minutes, money, dates, and phone numbers. You must learn which context takes which system, because using the wrong one sounds clearly off to a native speaker.",
+      "examples": [
+        { "native": "사과 세 개 (sagwa se gae)", "en": "three apples (native number)" },
+        { "native": "삼십 분 (samsip bun)", "en": "thirty minutes (Sino number)" }
+      ],
+      "commonMistake": "Using Sino numbers for the hour; the hour is always native, as in 세 시 (se si)."
+    },
+    {
+      "rule": "Telling the time: 시 and 분",
+      "explanation": "The hour takes 시 (si) with a native number and the minutes take 분 (bun) with a Sino number. So 3:20 is 세 시 이십 분 (se si isip bun), mixing both systems in one phrase.",
+      "examples": [
+        { "native": "다섯 시 삼십 분 (daseot si samsip bun)", "en": "five thirty" },
+        { "native": "열두 시 정각 (yeoldu si jeonggak)", "en": "twelve o'clock exactly" }
+      ],
+      "commonMistake": "Saying 삼 시 instead of 세 시 for three o'clock; the hour needs the native number."
+    }
+  ],
+  "dialogue": {
+    "setup": "Jisoo asks a passer-by for the time before a meeting.",
+    "lines": [
+      { "speaker": "지수", "native": "실례합니다, 지금 몇 시예요?", "transliteration": "sillyehamnida, jigeum myeot siyeyo?", "english": "Excuse me, what time is it now?" },
+      { "speaker": "행인", "native": "지금 세 시 십 분이에요.", "transliteration": "jigeum se si sip bunieyo.", "english": "It's three ten now." },
+      { "speaker": "지수", "native": "감사합니다. 오늘 무슨 요일이에요?", "transliteration": "gamsahamnida. oneul museun yoirieyo?", "english": "Thank you. What day is it today?" },
+      { "speaker": "행인", "native": "오늘은 금요일이에요.", "transliteration": "oneureun geumyoirieyo.", "english": "Today is Friday." },
+      { "speaker": "지수", "native": "회의가 네 시에 시작해요.", "transliteration": "hoeuiga ne sie sijakhaeyo.", "english": "The meeting starts at four o'clock." },
+      { "speaker": "행인", "native": "그럼 시간이 조금 있네요.", "transliteration": "geureom sigani jogeum inneyo.", "english": "Then you have a little time." },
+      { "speaker": "지수", "native": "네, 다행이에요. 감사합니다!", "transliteration": "ne, dahaengieyo. gamsahamnida!", "english": "Yes, that's a relief. Thank you!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you ask 'What time is it now?' in Korean?",
+      "correctAnswer": "지금 몇 시예요?",
+      "explanation": "지금 몇 시예요? (jigeum myeot siyeyo) asks the current time."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which number system is used for the minutes when telling the time?",
+      "options": ["Native Korean (하나, 둘)", "Sino-Korean (일, 이)", "Both at once", "Neither"],
+      "correctAnswer": "Sino-Korean (일, 이)",
+      "explanation": "Minutes (분) take Sino-Korean numbers, while the hour (시) takes native numbers."
+    },
+    {
+      "type": "fill-blank",
+      "question": "세 시 이십 ___. (the counter for minutes)",
+      "correctAnswer": "분",
+      "explanation": "분 (bun) is the counter for minutes, so 3:20 is 세 시 이십 분."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which says 'It's Monday'?",
+      "options": ["월요일이에요", "금요일이에요", "일요일이에요", "토요일이에요"],
+      "correctAnswer": "월요일이에요",
+      "explanation": "월요일 (woryoil) is Monday; the others are Friday, Sunday, and Saturday."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: 분이에요 / 세 시 / 이십 (it's three twenty)",
+      "correctAnswer": "세 시 이십 분이에요",
+      "explanation": "Hour first then minutes: 세 시 이십 분이에요."
+    }
+  ],
+  "status": "complete"
+}

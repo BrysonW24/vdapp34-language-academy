@@ -1,0 +1,151 @@
+<svg width="1600" height="1780" viewBox="0 0 1600 1780" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="140" y1="80" x2="1460" y2="1600" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FBF7EF"/>
+      <stop offset="0.55" stop-color="#F4ECDD"/>
+      <stop offset="1" stop-color="#EEE5D7"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFDF9" stop-opacity="0.98"/>
+      <stop offset="1" stop-color="#FFF8EE" stop-opacity="0.9"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="24" flood-color="#57492F" flood-opacity="0.14"/>
+    </filter>
+    <style>
+      .kicker { font: 700 13px Arial, Helvetica, sans-serif; letter-spacing: 0.24em; fill: #6E6B63; }
+      .hero { font: 700 50px Georgia, "Times New Roman", serif; fill: #1D2126; }
+      .lead { font: 400 21px Arial, Helvetica, sans-serif; fill: #64645E; }
+      .section { font: 700 14px Arial, Helvetica, sans-serif; letter-spacing: 0.12em; fill: #6A685F; }
+      .panel-title { font: 700 18px Georgia, "Times New Roman", serif; fill: #1D2126; }
+      .panel-copy { font: 400 14px Arial, Helvetica, sans-serif; fill: #4A4D51; }
+      .label { font: 700 12px Arial, Helvetica, sans-serif; letter-spacing: 0.08em; fill: #67675F; }
+      .chip { font: 700 14px Arial, Helvetica, sans-serif; fill: #1D2126; }
+      .footer { font: 400 16px Arial, Helvetica, sans-serif; fill: #4A4D51; }
+    </style>
+  </defs>
+
+  <rect width="1600" height="1780" fill="url(#bg)"/>
+  <circle cx="300" cy="220" r="240" fill="#E9DCB8" fill-opacity="0.38"/>
+  <circle cx="1380" cy="210" r="220" fill="#D0E6DD" fill-opacity="0.34"/>
+  <circle cx="1320" cy="1430" r="260" fill="#E7D9F4" fill-opacity="0.16"/>
+  <rect x="34" y="34" width="1532" height="1712" rx="32" stroke="#38414E" stroke-opacity="0.08"/>
+
+  <text x="104" y="124" class="kicker">LANGUAGE ACADEMY / SPEAKING STRUCTURE MAP</text>
+  <text x="104" y="214" class="hero">How speaking is built across four languages</text>
+  <text x="104" y="274" class="lead">
+    <tspan x="104" dy="0">All speaking is the same job underneath: express meaning, arrange a usable sentence,</tspan>
+    <tspan x="104" dy="28">control sound, and land it naturally with another person.</tspan>
+  </text>
+
+  <g filter="url(#shadow)">
+    <rect x="170" y="362" width="1260" height="170" rx="34" fill="url(#card)" stroke="#2C313B" stroke-opacity="0.08"/>
+  </g>
+  <text x="216" y="414" class="section">THE SHARED ENGINE</text>
+  <text x="216" y="456" class="panel-title" style="font-size:30px;">
+    <tspan x="216" dy="0">Intent → pattern → pronunciation</tspan>
+    <tspan x="216" dy="32">→ response</tspan>
+  </text>
+  <text x="216" y="508" class="panel-copy">
+    <tspan x="216" dy="0">What changes from language to language is where the pressure sits.</tspan>
+    <tspan x="216" dy="22">Spanish and German ask more from grammar structure. Chinese and Thai ask more from tone, particles, and situational feel.</tspan>
+  </text>
+
+  <g>
+    <rect x="880" y="472" width="126" height="34" rx="17" fill="#E5F1EA"/>
+    <text x="917" y="494" class="chip">Meaning</text>
+    <rect x="1022" y="472" width="108" height="34" rx="17" fill="#E6EEF8"/>
+    <text x="1057" y="494" class="chip">Order</text>
+    <rect x="1146" y="472" width="150" height="34" rx="17" fill="#F7E5E2"/>
+    <text x="1181" y="494" class="chip">Sound</text>
+    <rect x="1312" y="472" width="72" height="34" rx="17" fill="#F7ECD6"/>
+    <text x="1332" y="494" class="chip">Social</text>
+  </g>
+
+  <text x="106" y="620" class="section">WHERE EACH LANGUAGE CARRIES ITS WEIGHT</text>
+
+  <g filter="url(#shadow)">
+    <rect x="104" y="660" width="638" height="390" rx="30" fill="url(#card)" stroke="#386A58" stroke-opacity="0.26" stroke-width="2"/>
+  </g>
+  <rect x="142" y="700" width="106" height="34" rx="17" fill="#E5F1EA"/>
+  <text x="174" y="722" class="chip">Spanish</text>
+  <text x="142" y="786" class="panel-title" style="font-size:30px;">
+    <tspan x="142" dy="0">Speech flows when the</tspan>
+    <tspan x="142" dy="32">sentence agrees</tspan>
+  </text>
+  <text x="142" y="862" class="panel-copy">
+    <tspan x="142" dy="0">Spanish is relatively forgiving about basic order,</tspan>
+    <tspan x="142" dy="22">but it asks the speaker to keep endings, gender,</tspan>
+    <tspan x="142" dy="22">number, and verb choice aligned in real time.</tspan>
+  </text>
+  <text x="142" y="954" class="label">MAIN LOAD</text>
+  <text x="142" y="982" class="panel-copy">Agreement, verb forms, ser vs estar, article + noun matching.</text>
+  <text x="142" y="1026" class="label">BEST WAY IN</text>
+  <text x="142" y="1054" class="panel-copy">Learn reusable phrases first, then swap subjects, verbs, and details.</text>
+
+  <g filter="url(#shadow)">
+    <rect x="858" y="660" width="638" height="390" rx="30" fill="url(#card)" stroke="#2F4F79" stroke-opacity="0.26" stroke-width="2"/>
+  </g>
+  <rect x="896" y="700" width="98" height="34" rx="17" fill="#E6EEF8"/>
+  <text x="926" y="722" class="chip">German</text>
+  <text x="896" y="786" class="panel-title" style="font-size:30px;">
+    <tspan x="896" dy="0">Speech flows when the</tspan>
+    <tspan x="896" dy="32">architecture holds</tspan>
+  </text>
+  <text x="896" y="862" class="panel-copy">
+    <tspan x="896" dy="0">German often feels logical, but speaking quickly means</tspan>
+    <tspan x="896" dy="22">tracking where the verb goes, which article belongs,</tspan>
+    <tspan x="896" dy="22">and how the sentence frame stays intact.</tspan>
+  </text>
+  <text x="896" y="954" class="label">MAIN LOAD</text>
+  <text x="896" y="982" class="panel-copy">Verb position, case, article choice, noun gender, sentence frame.</text>
+  <text x="896" y="1026" class="label">BEST WAY IN</text>
+  <text x="896" y="1054" class="panel-copy">Practice small frames aloud until order feels automatic, not intellectual.</text>
+
+  <g filter="url(#shadow)">
+    <rect x="104" y="1090" width="638" height="390" rx="30" fill="url(#card)" stroke="#A0453F" stroke-opacity="0.24" stroke-width="2"/>
+  </g>
+  <rect x="142" y="1130" width="104" height="34" rx="17" fill="#F7E5E2"/>
+  <text x="172" y="1152" class="chip">Chinese</text>
+  <text x="142" y="1216" class="panel-title" style="font-size:30px;">
+    <tspan x="142" dy="0">Speech flows when sound and</tspan>
+    <tspan x="142" dy="32">pattern stay clean</tspan>
+  </text>
+  <text x="142" y="1292" class="panel-copy">
+    <tspan x="142" dy="0">Mandarin carries less weight in inflection, but more</tspan>
+    <tspan x="142" dy="22">weight in stable order, tone control, particles,</tspan>
+    <tspan x="142" dy="22">aspect markers, and measure-word habits.</tspan>
+  </text>
+  <text x="142" y="1384" class="label">MAIN LOAD</text>
+  <text x="142" y="1412" class="panel-copy">Tone, sequence, particles, classifiers, speaking in fixed patterns.</text>
+  <text x="142" y="1456" class="label">BEST WAY IN</text>
+  <text x="142" y="1484" class="panel-copy">Memorize whole speaking chunks and practice tones inside those chunks.</text>
+
+  <g filter="url(#shadow)">
+    <rect x="858" y="1090" width="638" height="390" rx="30" fill="url(#card)" stroke="#A16A1F" stroke-opacity="0.25" stroke-width="2"/>
+  </g>
+  <rect x="896" y="1130" width="74" height="34" rx="17" fill="#F7ECD6"/>
+  <text x="919" y="1152" class="chip">Thai</text>
+  <text x="896" y="1216" class="panel-title" style="font-size:30px;">
+    <tspan x="896" dy="0">Speech flows when tone and</tspan>
+    <tspan x="896" dy="32">social finish feel right</tspan>
+  </text>
+  <text x="896" y="1292" class="panel-copy">
+    <tspan x="896" dy="0">Thai can look compact on the page, but natural speech</tspan>
+    <tspan x="896" dy="22">depends on tone, particles, rhythm, classifier use,</tspan>
+    <tspan x="896" dy="22">and choosing forms that fit the relationship.</tspan>
+  </text>
+  <text x="896" y="1384" class="label">MAIN LOAD</text>
+  <text x="896" y="1412" class="panel-copy">Tone, politeness particles, pronoun choice, classifier habits, role awareness.</text>
+  <text x="896" y="1456" class="label">BEST WAY IN</text>
+  <text x="896" y="1484" class="panel-copy">Practice language as social scenes, not just vocabulary lists.</text>
+
+  <g filter="url(#shadow)">
+    <rect x="250" y="1548" width="1100" height="106" rx="28" fill="url(#card)" stroke="#2C313B" stroke-opacity="0.08"/>
+  </g>
+  <text x="304" y="1594" class="section">NATURAL LEARNING SEQUENCE</text>
+  <text x="304" y="1632" class="footer">
+    <tspan x="304" dy="0">Hear a useful phrase → repeat the chunk → notice the pattern → swap one piece → use it in a live response.</tspan>
+    <tspan x="304" dy="24">That is the shared curriculum opportunity for the academy across all four languages.</tspan>
+  </text>
+</svg>

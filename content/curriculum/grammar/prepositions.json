@@ -1,0 +1,26 @@
+{
+  "slug": "prepositions",
+  "name": "Essential Prepositions",
+  "nameEs": "Las Preposiciones Esenciales",
+  "summary": "Master a, en, de, por, para, and con — the six prepositions that appear in nearly every Spanish sentence.",
+  "level": "elementary",
+  "order": 9,
+  "explanation": "Prepositions connect words and show relationships between them. Spanish prepositions don't always map directly to English ones — 'en' can mean 'in', 'on', or 'at' depending on context. The most important ones to learn are a, en, de, por, para, and con.\n\n'A' indicates direction/destination (voy a Madrid), time (a las tres), and introduces human direct objects (the 'personal a': veo a María). 'En' covers location (estoy en casa), transport (en metro), and time periods (en enero). 'De' shows origin (soy de Chile), possession (el libro de Juan), and material (una mesa de madera).\n\nThe por vs para distinction is one of the trickiest in Spanish. Simplified: 'por' = because of, through, in exchange for, by. 'Para' = for the purpose of, in order to, destined for, deadline. Think: 'por' looks backward (cause/reason), 'para' looks forward (purpose/destination).",
+  "pattern": "a (to/at) | en (in/on/at) | de (of/from) | por (for/by/through) | para (for/in order to) | con (with)",
+  "examples": [
+    { "es": "Voy a la tienda", "en": "I'm going to the shop (a = direction)" },
+    { "es": "Estudio en la biblioteca", "en": "I study in/at the library (en = location)" },
+    { "es": "Soy de Australia", "en": "I'm from Australia (de = origin)" },
+    { "es": "Gracias por tu ayuda", "en": "Thanks for your help (por = because of)" },
+    { "es": "Este regalo es para ti", "en": "This gift is for you (para = destined for)" },
+    { "es": "Voy con mi amigo", "en": "I'm going with my friend (con = with)" }
+  ],
+  "commonMistakes": [
+    "Forgetting the personal 'a': 'Veo María' should be 'Veo a María' — human direct objects need 'a'",
+    "Confusing por and para: 'Estudio por ser médico' should be 'Estudio para ser médico' (purpose = para)",
+    "Using 'en' for direction: 'Voy en Madrid' should be 'Voy a Madrid' — movement toward uses 'a'",
+    "Forgetting contractions: 'a + el = al' and 'de + el = del' are mandatory",
+    "Translating English prepositions directly: 'pensar sobre' should be 'pensar en' (to think about)"
+  ],
+  "tip": "For por vs para, remember: POR looks back (cause, reason, exchange) and PARA looks forward (purpose, destination, deadline). 'Trabajo por dinero' (I work because of/for money) vs 'Trabajo para vivir' (I work in order to live)."
+}

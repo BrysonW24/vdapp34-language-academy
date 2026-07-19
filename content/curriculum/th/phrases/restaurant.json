@@ -1,0 +1,21 @@
+{
+  "slug": "restaurant",
+  "title": "At the Restaurant",
+  "description": "Order food and drinks, manage spice levels, and pay for a meal in Thai.",
+  "situation": "Restaurants and street food: ordering, asking about dishes, spice, and paying.",
+  "order": 3,
+  "phrases": [
+    { "thai": "ขอเมนูหน่อย", "pronunciation": "kho menu noi", "english": "May I have the menu?", "formality": "neutral", "tip": "ขอ (kho) plus a thing is the polite way to ask for it." },
+    { "thai": "ผมเอาอันนี้", "pronunciation": "phom ao an-nii", "english": "I'll have this one", "formality": "neutral", "tip": "Point and say อันนี้ (an-nii), this one." },
+    { "thai": "แนะนำอะไรดี", "pronunciation": "nae-nam a-rai dee", "english": "What do you recommend?", "formality": "neutral" },
+    { "thai": "ไม่เผ็ด", "pronunciation": "mai phet", "english": "Not spicy", "formality": "neutral", "tip": "เผ็ดนิดหน่อย (phet nit-noi) means a little spicy." },
+    { "thai": "ผมกินมังสวิรัติ", "pronunciation": "phom kin mang-sa-wi-rat", "english": "I'm vegetarian", "formality": "neutral" },
+    { "thai": "ขอน้ำเปล่า", "pronunciation": "kho nam plao", "english": "Plain water, please", "formality": "neutral" },
+    { "thai": "อร่อย", "pronunciation": "a-roi", "english": "Delicious", "formality": "neutral" },
+    { "thai": "อิ่มแล้ว", "pronunciation": "im laeo", "english": "I'm full", "formality": "neutral" },
+    { "thai": "เก็บเงินด้วย", "pronunciation": "kep ngern duay", "english": "The bill, please", "formality": "neutral", "tip": "Also เช็คบิล (chek bin). Tipping is not required." },
+    { "thai": "จ่ายเงินสด", "pronunciation": "jaai ngern sot", "english": "Pay in cash", "formality": "neutral" },
+    { "thai": "รับบัตรไหม", "pronunciation": "rap bat mai", "english": "Do you take card?", "formality": "neutral" },
+    { "thai": "เผ็ดมาก", "pronunciation": "phet maak", "english": "Very spicy", "formality": "neutral" }
+  ]
+}

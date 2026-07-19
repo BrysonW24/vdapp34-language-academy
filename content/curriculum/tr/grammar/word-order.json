@@ -1,0 +1,32 @@
+{
+  "slug": "word-order",
+  "name": "Word Order (Subject-Object-Verb)",
+  "nameNative": "Cümle yapısı",
+  "summary": "Turkish puts the verb at the end, so the sentence builds toward the action.",
+  "level": "beginner",
+  "order": 2,
+  "explanation": "Turkish sentences follow Subject-Object-Verb order, with the verb almost always last. Ben elma yiyorum means 'I apple am-eating', which English reorders to 'I am eating an apple'.\n\nBecause the verb carries the person ending and case suffixes mark each noun's role, word order is flexible for emphasis, but the neutral pattern is SOV. The most important word often sits just before the verb.\n\nDescribing words come before what they describe: adjectives before nouns (büyük ev, big house), and the possessor before the possessed.",
+  "pattern": "Subject + Object + Verb",
+  "conjugation": {
+    "subject": "ben (I)",
+    "object": "elma (apple)",
+    "verb": "yiyorum (am eating)",
+    "full sentence": "Ben elma yiyorum"
+  },
+  "examples": [
+    { "native": "Ben kitap okuyorum.", "en": "I am reading a book." },
+    { "native": "O su içiyor.", "en": "He/she is drinking water." },
+    { "native": "Biz Türkçe öğreniyoruz.", "en": "We are learning Turkish." },
+    { "native": "Ali eve gidiyor.", "en": "Ali is going home." },
+    { "native": "Büyük bir ev.", "en": "A big house." },
+    { "native": "Annem yemek yapıyor.", "en": "My mother is cooking." }
+  ],
+  "commonMistakes": [
+    "Putting the verb in the middle as in English. In Turkish it comes last.",
+    "Placing adjectives after the noun; they go before it (kırmızı araba).",
+    "Forgetting that the focus word sits right before the verb.",
+    "Adding a separate word for 'a/an' where Turkish uses bir or nothing.",
+    "Translating English order word-for-word instead of rebuilding as SOV."
+  ],
+  "tip": "When you build a sentence, save the verb for last and let everything else lead up to it."
+}

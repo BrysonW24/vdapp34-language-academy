@@ -1,13 +1,11 @@
 {
   "rank": 557,
-  "german": "Meer",
-  "english": "sea, ocean",
-  "pronunciation": "MAYR",
-  "partOfSpeech": "noun",
-  "gender": "neuter",
-  "article": "das",
-  "exampleDe": "Das Meer ist wunderschön.",
-  "exampleEn": "The sea is beautiful.",
+  "german": "vorbei",
+  "english": "over",
+  "pronunciation": "f o ɐ b a ɪ",
+  "partOfSpeech": "preposition",
+  "exampleDe": "Ich benutze vorbei jeden Tag.",
+  "exampleEn": "I use vorbei every day.",
   "group": "confident-350",
-  "topic": "travel"
+  "topic": "basics"
 }

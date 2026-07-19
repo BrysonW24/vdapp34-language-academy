@@ -1,13 +1,11 @@
 {
   "rank": 495,
-  "german": "Treppe",
-  "english": "stairs, staircase",
-  "pronunciation": "TREP-eh",
-  "partOfSpeech": "noun",
-  "gender": "feminine",
-  "article": "die",
-  "exampleDe": "Die Treppe ist steil.",
-  "exampleEn": "The stairs are steep.",
+  "german": "insgesamt",
+  "english": "in total",
+  "pronunciation": "ɪ n s ɡ ə z a m t",
+  "partOfSpeech": "preposition",
+  "exampleDe": "Das Buch liegt insgesamt dem Tisch.",
+  "exampleEn": "The book is in total the table.",
   "group": "confident-350",
-  "topic": "home"
+  "topic": "basics"
 }

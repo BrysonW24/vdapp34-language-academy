@@ -1,12 +1,13 @@
 {
   "rank": 189,
-  "chinese": "给",
-  "characters": "给",
-  "pinyin": "gěi",
-  "english": "to give",
-  "partOfSpeech": "verb",
-  "exampleZh": "请给我一杯水。",
-  "exampleEn": "Please give me a glass of water.",
+  "chinese": "大陆",
+  "characters": "大陆",
+  "pinyin": "dà lù",
+  "english": "mainland",
+  "pronunciation": "da-lu",
+  "partOfSpeech": "noun",
+  "exampleZh": "这个大陆很重要。",
+  "exampleEn": "This mainland is important.",
   "group": "everyday-250",
-  "topic": "actions"
+  "topic": "basics"
 }

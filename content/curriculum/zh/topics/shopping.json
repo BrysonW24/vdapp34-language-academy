@@ -1,0 +1,90 @@
+{
+  "slug": "shopping",
+  "title": "Shopping",
+  "titleZh": "购物",
+  "shortSummary": "Ask prices, bargain at markets, and pay by phone while shopping in Mandarin.",
+  "level": "elementary",
+  "order": 5,
+  "icon": "🛍️",
+  "color": "#6d28d9",
+  "culturalNote": "Bargaining is expected at street markets and small stalls, where the first price is rarely the real one, but fixed-price shops and supermarkets do not haggle. Cash is now rare in cities: almost everyone pays by scanning a QR code with WeChat Pay or Alipay. Prices are quoted in 块 (kuài) in speech, which is the spoken word for the formal 元 (yuán).",
+  "keyPhrases": [
+    { "chinese": "这个多少钱？", "pinyin": "zhège duōshao qián?", "english": "How much is this?", "context": "Asking a price" },
+    { "chinese": "太贵了", "pinyin": "tài guì le", "english": "Too expensive", "context": "Start of bargaining" },
+    { "chinese": "便宜一点", "pinyin": "piányi yìdiǎn", "english": "A bit cheaper", "context": "Bargaining" },
+    { "chinese": "有别的颜色吗？", "pinyin": "yǒu bié de yánsè ma?", "english": "Is there another colour?", "context": "Asking for options" },
+    { "chinese": "我可以试试吗？", "pinyin": "wǒ kěyǐ shìshi ma?", "english": "Can I try it?", "context": "Trying on" },
+    { "chinese": "我要这个", "pinyin": "wǒ yào zhège", "english": "I'll take this", "context": "Deciding to buy" },
+    { "chinese": "可以用微信吗？", "pinyin": "kěyǐ yòng Wēixìn ma?", "english": "Can I use WeChat (pay)?", "context": "Mobile payment" },
+    { "chinese": "我只是看看", "pinyin": "wǒ zhǐshì kànkan", "english": "I'm just looking", "context": "Declining help" },
+    { "chinese": "太大了", "pinyin": "tài dà le", "english": "Too big", "context": "太小了 for too small" },
+    { "chinese": "给我发票", "pinyin": "gěi wǒ fāpiào", "english": "Give me a receipt", "context": "Asking for a receipt" }
+  ],
+  "grammar": [
+    {
+      "rule": "太...了 for 'too'",
+      "explanation": "Wrap an adjective in 太 ... 了 to mean 'too': 太贵了 (too expensive), 太大了 (too big). The 了 adds a sense of reaction or complaint.",
+      "examples": [
+        { "zh": "太辣了。", "en": "Too spicy." },
+        { "zh": "太小了。", "en": "Too small." }
+      ],
+      "commonMistake": "Dropping the 了: the natural complaint is 太贵了, not just 太贵."
+    },
+    {
+      "rule": "Reduplicating verbs to soften",
+      "explanation": "Repeating a verb makes the action casual and brief, like 'have a little look': 看看 (take a look), 试试 (give it a try). It softens a request.",
+      "examples": [
+        { "zh": "我看看。", "en": "Let me take a look." },
+        { "zh": "你试试。", "en": "Give it a try." }
+      ],
+      "commonMistake": "Adding 一下 and reduplicating at once unnecessarily. Either 看看 or 看一下 is enough."
+    }
+  ],
+  "dialogue": {
+    "setup": "Anna is buying a scarf at a market stall and bargains with the seller.",
+    "lines": [
+      { "speaker": "老板", "chinese": "你好，要买围巾吗？", "pinyin": "Nǐ hǎo, yào mǎi wéijīn ma?", "english": "Hello, want to buy a scarf?" },
+      { "speaker": "Anna", "chinese": "这个多少钱？", "pinyin": "Zhège duōshao qián?", "english": "How much is this?" },
+      { "speaker": "老板", "chinese": "一百块。", "pinyin": "Yìbǎi kuài.", "english": "One hundred yuan." },
+      { "speaker": "Anna", "chinese": "太贵了，便宜一点吧。", "pinyin": "Tài guì le, piányi yìdiǎn ba.", "english": "Too expensive, a bit cheaper please." },
+      { "speaker": "老板", "chinese": "好吧，八十块。", "pinyin": "Hǎo ba, bāshí kuài.", "english": "Alright, eighty yuan." },
+      { "speaker": "Anna", "chinese": "好，我要了。可以用微信吗？", "pinyin": "Hǎo, wǒ yào le. Kěyǐ yòng Wēixìn ma?", "english": "Okay, I'll take it. Can I use WeChat?" },
+      { "speaker": "老板", "chinese": "可以，扫这里。", "pinyin": "Kěyǐ, sǎo zhèlǐ.", "english": "Sure, scan here." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you ask 'How much is this?'",
+      "correctAnswer": "这个多少钱",
+      "explanation": "这个 (this) plus 多少钱 (how much money)."
+    },
+    {
+      "type": "fill-blank",
+      "question": "太贵_____。 (too expensive)",
+      "correctAnswer": "了",
+      "explanation": "太 ... 了 means 'too'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "How do you say you are just browsing?",
+      "options": ["我要这个", "我只是看看", "太贵了", "便宜一点"],
+      "correctAnswer": "我只是看看",
+      "explanation": "我只是看看 means 'I'm just looking'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which is the spoken word for yuan?",
+      "options": ["块", "号", "点", "岁"],
+      "correctAnswer": "块",
+      "explanation": "块 (kuài) is the spoken word for 元 (yuán)."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: 一点 / 便宜",
+      "correctAnswer": "便宜一点",
+      "explanation": "便宜 (cheap) + 一点 (a bit) = 'a bit cheaper'."
+    }
+  ],
+  "status": "complete"
+}

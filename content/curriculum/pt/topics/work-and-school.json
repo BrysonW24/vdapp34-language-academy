@@ -1,0 +1,90 @@
+{
+  "slug": "work-and-school",
+  "title": "Work & School",
+  "titleNative": "Trabalho e escola",
+  "shortSummary": "Talk about your job, your studies, and your daily working life in Portuguese.",
+  "level": "beginner",
+  "order": 9,
+  "icon": "💼",
+  "color": "#34495e",
+  "culturalNote": "Asking o que você faz? (what do you do?) is friendly, everyday small talk in Brazil. Many job titles change with gender, so a male teacher is professor and a female one professora. Brazilians often blend warmth into the workplace, and the cafezinho break is part of office culture. Students talk about a escola (school) and a faculdade or a universidade (university). The word formação refers to your education or training, and people are usually happy to talk about what they studied and what they hope to do.",
+  "keyPhrases": [
+    { "native": "O que você faz?", "english": "What do you do?", "pronunciation": "oo kee voh-SEH fahs", "context": "Common opener" },
+    { "native": "Sou engenheiro", "english": "I'm an engineer", "pronunciation": "soh en-zheh-NYEH-roo", "context": "Stating a job" },
+    { "native": "Trabalho num escritório", "english": "I work in an office", "pronunciation": "trah-BAH-lyoo noon es-kree-TOH-ree-oo", "context": "Workplace" },
+    { "native": "Estudo na universidade", "english": "I study at university", "pronunciation": "es-TOO-doo nah oo-nee-ver-see-DAH-jee", "context": "Being a student" },
+    { "native": "Estudo economia", "english": "I study economics", "pronunciation": "es-TOO-doo eh-koh-noh-MEE-ah", "context": "Field of study" },
+    { "native": "Trabalho em casa", "english": "I work from home", "pronunciation": "trah-BAH-lyoo ayn KAH-zah", "context": "Remote work" },
+    { "native": "Tenho uma reunião", "english": "I have a meeting", "pronunciation": "TEH-nyoo OO-mah heh-oo-nee-OWN", "context": "Office life" },
+    { "native": "Gosto do meu trabalho", "english": "I like my job", "pronunciation": "GOS-too doo MEH-oo trah-BAH-lyoo", "context": "Opinion" },
+    { "native": "Estou de folga", "english": "I'm off today", "pronunciation": "es-TOH jee FOL-gah", "context": "Day off" },
+    { "native": "Termino às seis", "english": "I finish at six", "pronunciation": "ter-MEE-noo ahs says", "context": "End of work" }
+  ],
+  "grammar": [
+    {
+      "rule": "Jobs without an article after ser",
+      "explanation": "When stating a profession after ser, Portuguese drops the article: sou médico, sou professora. The article appears only when you add a description: sou um bom médico.",
+      "examples": [
+        { "native": "Sou estudante.", "en": "I'm a student." },
+        { "native": "Ela é uma ótima cozinheira.", "en": "She's an excellent cook." }
+      ],
+      "commonMistake": "Always inserting um or uma. Plain professions go without: sou advogado."
+    },
+    {
+      "rule": "Gostar de with contractions",
+      "explanation": "Gostar always needs de, which contracts with the article: gosto do meu trabalho (de + o), gosto da minha escola (de + a). Never drop the de.",
+      "examples": [
+        { "native": "Gosto do meu chefe.", "en": "I like my boss." },
+        { "native": "Gostamos da empresa.", "en": "We like the company." }
+      ],
+      "commonMistake": "Forgetting to contract: it is gosto do, not gosto de o."
+    }
+  ],
+  "dialogue": {
+    "setup": "Two people chat at a networking event.",
+    "lines": [
+      { "speaker": "Diego", "native": "Prazer, Diego. O que você faz?", "english": "Nice to meet you, Diego. What do you do?" },
+      { "speaker": "Helena", "native": "Sou arquiteta. E você?", "english": "I'm an architect. And you?" },
+      { "speaker": "Diego", "native": "Trabalho num banco.", "english": "I work in a bank." },
+      { "speaker": "Helena", "native": "Você gosta do seu trabalho?", "english": "Do you like your job?" },
+      { "speaker": "Diego", "native": "Gosto muito. Termino sempre às seis.", "english": "I like it a lot. I always finish at six." },
+      { "speaker": "Helena", "native": "Que bom! Eu às vezes trabalho em casa.", "english": "How nice! I sometimes work from home." },
+      { "speaker": "Diego", "native": "Isso é uma boa vantagem.", "english": "That's a nice advantage." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you ask 'What do you do?' in Portuguese?",
+      "correctAnswer": "O que você faz?",
+      "explanation": "O que você faz? is the standard informal question."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "How do you say 'I'm a teacher' (male)?",
+      "options": ["Sou um professor", "Sou professor", "Estou professor", "Tenho professor"],
+      "correctAnswer": "Sou professor",
+      "explanation": "Plain professions after ser drop the article."
+    },
+    {
+      "type": "fill-blank",
+      "question": "Gosto _____ meu trabalho. (de + o, contracted)",
+      "correctAnswer": "do",
+      "explanation": "De + o contracts to do."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does trabalho em casa mean?",
+      "options": ["I go to the office", "I work from home", "I'm on holiday", "I have a meeting"],
+      "correctAnswer": "I work from home",
+      "explanation": "Em casa means 'at home'."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: trabalho / do / gosto / meu",
+      "correctAnswer": "Gosto do meu trabalho",
+      "explanation": "Gosto do meu trabalho means 'I like my job'."
+    }
+  ],
+  "status": "complete"
+}

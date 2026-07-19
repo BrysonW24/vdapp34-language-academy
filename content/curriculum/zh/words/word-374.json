@@ -1,13 +1,13 @@
 {
   "rank": 374,
-  "chinese": "高兴",
-  "characters": "高兴",
-  "pinyin": "gāoxìng",
-  "english": "happy; glad",
-  "pronunciation": "gaow-shing (1st tone, 4th tone)",
-  "partOfSpeech": "adjective",
-  "exampleZh": "认识你很高兴。",
-  "exampleEn": "Nice to meet you.",
+  "chinese": "办",
+  "characters": "办",
+  "pinyin": "bàn",
+  "english": "to manage",
+  "pronunciation": "ban",
+  "partOfSpeech": "verb",
+  "exampleZh": "我想办。",
+  "exampleEn": "I want to manage.",
   "group": "everyday-250",
-  "topic": "emotions"
+  "topic": "actions"
 }

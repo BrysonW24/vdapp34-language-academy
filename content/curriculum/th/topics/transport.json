@@ -1,0 +1,90 @@
+{
+  "slug": "transport",
+  "title": "Transport",
+  "titleTh": "การเดินทาง",
+  "shortSummary": "Use the skytrain, taxis, tuk-tuks, and buses to get around in Thai.",
+  "level": "elementary",
+  "order": 10,
+  "icon": "🛺",
+  "color": "#386a58",
+  "culturalNote": "Getting around Thailand is varied and fun: Bangkok has the BTS skytrain and MRT subway, while tuk-tuks and motorbike taxis handle short hops. For taxis, ask the driver to use the meter (มิเตอร์), and for tuk-tuks agree the price before you set off. Ride-hailing apps like Grab make fares clear and avoid haggling. Long distances are easy by bus or by train through the national rail network.",
+  "keyPhrases": [
+    { "thai": "ไป...เท่าไหร่", "pronunciation": "pai ... thao-rai", "english": "How much to go to...?", "context": "Asking a fare" },
+    { "thai": "ใช้มิเตอร์ได้ไหม", "pronunciation": "chai meter dai mai", "english": "Can you use the meter?", "context": "For taxis" },
+    { "thai": "ไปสนามบิน", "pronunciation": "pai sa-naam-bin", "english": "Go to the airport", "context": "Giving a destination" },
+    { "thai": "รถไฟออกกี่โมง", "pronunciation": "rot-fai ok kii moong", "english": "When does the train leave?", "context": "Checking times" },
+    { "thai": "ที่นี่ลงได้ไหม", "pronunciation": "thii-nii long dai mai", "english": "Can I get off here?", "context": "On a bus or taxi" },
+    { "thai": "จอดตรงนี้", "pronunciation": "jot trong-nii", "english": "Stop here", "context": "Telling a driver" },
+    { "thai": "ป้ายต่อไป", "pronunciation": "paai tor-pai", "english": "the next stop", "context": "Bus travel" },
+    { "thai": "ขึ้นรถไฟฟ้า", "pronunciation": "kheun rot-fai-faa", "english": "take the skytrain", "context": "ขึ้น = get on" },
+    { "thai": "เปลี่ยนสายที่ไหน", "pronunciation": "plian saai thii-nai", "english": "Where do I change lines?", "context": "Metro connections" },
+    { "thai": "รถติด", "pronunciation": "rot tit", "english": "The traffic is bad", "context": "A common reality" }
+  ],
+  "grammar": [
+    {
+      "rule": "ขึ้น and ลง for getting on and off",
+      "explanation": "Use ขึ้น (kheun, go up) to board transport and ลง (long, go down) to get off: ขึ้นรถ (get on), ลงรถ (get off). The same pair works for stairs and buildings.",
+      "examples": [
+        { "th": "ผมขึ้นรถเมล์", "en": "I get on the bus." },
+        { "th": "ลงที่ป้ายหน้า", "en": "Get off at the next stop." }
+      ],
+      "commonMistake": "Using ไป for boarding. Boarding is ขึ้น; getting off is ลง."
+    },
+    {
+      "rule": "ไป + place for going somewhere",
+      "explanation": "ไป (pai, go) takes a place directly: ไปสนามบิน (go to the airport), ไปตลาด (go to the market). No extra preposition is needed.",
+      "examples": [
+        { "th": "ไปโรงแรม", "en": "Go to the hotel." },
+        { "th": "ไปสถานีรถไฟ", "en": "Go to the train station." }
+      ],
+      "commonMistake": "Adding a word for 'to' before the place. ไป plus the place is enough."
+    }
+  ],
+  "dialogue": {
+    "setup": "A traveller takes a taxi to the airport.",
+    "lines": [
+      { "speaker": "ผู้โดยสาร", "thai": "ไปสนามบินครับ ใช้มิเตอร์ได้ไหมครับ", "pronunciation": "pai sa-naam-bin khrap, chai meter dai mai khrap", "english": "To the airport, can you use the meter?" },
+      { "speaker": "คนขับ", "thai": "ได้ครับ ขึ้นรถได้เลย", "pronunciation": "dai khrap, kheun rot dai loei", "english": "Sure, hop in." },
+      { "speaker": "ผู้โดยสาร", "thai": "ใช้เวลานานไหมครับ", "pronunciation": "chai we-laa naan mai khrap", "english": "Will it take long?" },
+      { "speaker": "คนขับ", "thai": "ประมาณสี่สิบนาที รถติดหน่อยครับ", "pronunciation": "pra-maan sii-sip naa-thii, rot tit noi khrap", "english": "About forty minutes, traffic is a bit bad." },
+      { "speaker": "ผู้โดยสาร", "thai": "ไม่เป็นไรครับ", "pronunciation": "mai-pen-rai khrap", "english": "No problem." },
+      { "speaker": "คนขับ", "thai": "ถึงแล้วครับ สามร้อยบาท", "pronunciation": "theung laeo khrap, saam-roi baht", "english": "We've arrived, three hundred baht." },
+      { "speaker": "ผู้โดยสาร", "thai": "ขอบคุณครับ", "pronunciation": "khop-khun khrap", "english": "Thank you." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'Stop here'?",
+      "correctAnswer": "จอดตรงนี้",
+      "explanation": "จอด (stop/park) + ตรงนี้ (right here)."
+    },
+    {
+      "type": "fill-blank",
+      "question": "ผม_____รถเมล์ (I get on the bus)",
+      "correctAnswer": "ขึ้น",
+      "explanation": "ขึ้น means to board; ลง is to get off."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does รถติด mean?",
+      "options": ["the train is late", "the traffic is bad", "the taxi is free", "the bus is full"],
+      "correctAnswer": "the traffic is bad",
+      "explanation": "รถติด means the traffic is jammed."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which asks a taxi to use the meter?",
+      "options": ["ไปสนามบิน", "ใช้มิเตอร์ได้ไหม", "จอดตรงนี้", "รถติด"],
+      "correctAnswer": "ใช้มิเตอร์ได้ไหม",
+      "explanation": "It asks the driver to use the meter."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: กี่โมง / ออก / รถไฟ",
+      "correctAnswer": "รถไฟออกกี่โมง",
+      "explanation": "รถไฟ (train) + ออก (departs) + กี่โมง (what time)."
+    }
+  ],
+  "status": "complete"
+}

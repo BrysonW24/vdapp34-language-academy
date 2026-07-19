@@ -1,0 +1,90 @@
+{
+  "slug": "travel-and-accommodation",
+  "title": "Travel & Accommodation",
+  "titleNative": "Viagem e hospedagem",
+  "shortSummary": "Book a room, check in, and handle a hotel or pousada stay while travelling in Brazil.",
+  "level": "beginner",
+  "order": 10,
+  "icon": "🧳",
+  "color": "#1f6f8b",
+  "culturalNote": "Brazil offers everything from big city hotels to the charming pousada, a small guesthouse common in beach and historic towns. On checking in you will usually present your ID or passport. Breakfast (o café da manhã) is often generous and included, a real highlight with fresh fruit, bread, cheese, and cake. The word for booking is reserva, and travel within this huge country is often by long-distance bus (ônibus) or by plane. Brazilians are hospitable hosts, and a friendly chat at reception is part of the experience.",
+  "keyPhrases": [
+    { "native": "Tenho uma reserva", "english": "I have a reservation", "pronunciation": "TEH-nyoo OO-mah heh-ZEHR-vah", "context": "Checking in" },
+    { "native": "Tem quartos disponíveis?", "english": "Do you have rooms available?", "pronunciation": "tayn KWAR-toos jees-poh-NEE-vays", "context": "No booking" },
+    { "native": "um quarto de casal", "english": "a double room", "pronunciation": "oon KWAR-too jee kah-ZOW", "context": "Room type" },
+    { "native": "por duas noites", "english": "for two nights", "pronunciation": "por DOO-ahs NOY-tees", "context": "Length of stay" },
+    { "native": "O café da manhã está incluído?", "english": "Is breakfast included?", "pronunciation": "oo kah-FEH dah mah-NYAN es-TAH een-kloo-EE-doo", "context": "Common question" },
+    { "native": "Que horas é o check-out?", "english": "What time is checkout?", "pronunciation": "kee OH-rahs eh oo chek-owt", "context": "Departure" },
+    { "native": "Tem wifi no quarto?", "english": "Is there wifi in the room?", "pronunciation": "tayn WEE-fee noo KWAR-too", "context": "Amenities" },
+    { "native": "Posso deixar as malas?", "english": "Can I leave my luggage?", "pronunciation": "POH-soo day-SHAR ahs MAH-lahs", "context": "Before or after the stay" },
+    { "native": "Queria fazer o check-out", "english": "I'd like to check out", "pronunciation": "keh-REE-ah fah-ZEHR oo chek-owt", "context": "Leaving" },
+    { "native": "Onde fica o quarto?", "english": "Where is the room?", "pronunciation": "ON-jee FEE-kah oo KWAR-too", "context": "Finding your room" }
+  ],
+  "grammar": [
+    {
+      "rule": "Tem for 'do you have'",
+      "explanation": "When asking what a hotel offers, Brazilians use tem (third person of ter): tem quartos? (do you have rooms?), tem wifi? (is there wifi?). It serves for both 'do you have' and 'is there'.",
+      "examples": [
+        { "native": "Tem um quarto livre?", "en": "Is there a free room?" },
+        { "native": "Tem estacionamento?", "en": "Is there parking?" }
+      ],
+      "commonMistake": "Translating word-for-word from English with 'you have'; tem already covers it."
+    },
+    {
+      "rule": "Por to express duration",
+      "explanation": "Use por (for) to state how long: por duas noites (for two nights), por uma semana (for a week). It answers 'for how long'.",
+      "examples": [
+        { "native": "Fico por três dias.", "en": "I'm staying for three days." },
+        { "native": "Um quarto por uma noite.", "en": "A room for one night." }
+      ],
+      "commonMistake": "Leaving out por and just stating the number, which sounds incomplete."
+    }
+  ],
+  "dialogue": {
+    "setup": "A guest arrives at a pousada in Paraty.",
+    "lines": [
+      { "speaker": "Recepcionista", "native": "Boa noite, tem reserva?", "english": "Good evening, do you have a reservation?" },
+      { "speaker": "Hóspede", "native": "Tenho, um quarto de casal por duas noites.", "english": "I do, a double room for two nights." },
+      { "speaker": "Recepcionista", "native": "Perfeito. O documento, por favor.", "english": "Perfect. Your ID, please." },
+      { "speaker": "Hóspede", "native": "Aqui está. O café da manhã está incluído?", "english": "Here it is. Is breakfast included?" },
+      { "speaker": "Recepcionista", "native": "Sim, das sete às dez.", "english": "Yes, from seven to ten." },
+      { "speaker": "Hóspede", "native": "Ótimo. Que horas é o check-out?", "english": "Great. What time is checkout?" },
+      { "speaker": "Recepcionista", "native": "Ao meio-dia. Boa estadia!", "english": "At midday. Enjoy your stay!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'I have a reservation' in Portuguese?",
+      "correctAnswer": "Tenho uma reserva",
+      "explanation": "Reserva is a reservation or booking."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does por duas noites mean?",
+      "options": ["two rooms", "for two nights", "at two o'clock", "the second night"],
+      "correctAnswer": "for two nights",
+      "explanation": "Por expresses duration: for two nights."
+    },
+    {
+      "type": "fill-blank",
+      "question": "_____ wifi no quarto? (is there)",
+      "correctAnswer": "Tem",
+      "explanation": "Tem is the everyday way to ask 'is there'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is a pousada?",
+      "options": ["A bus station", "A small guesthouse", "A restaurant", "A beach"],
+      "correctAnswer": "A small guesthouse",
+      "explanation": "A pousada is a small, often charming guesthouse."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: casal / quarto / de / um",
+      "correctAnswer": "Um quarto de casal",
+      "explanation": "Um quarto de casal means 'a double room'."
+    }
+  ],
+  "status": "complete"
+}

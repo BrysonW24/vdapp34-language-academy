@@ -1,0 +1,34 @@
+{
+  "slug": "present-tense",
+  "name": "Present Tense (-are verbs)",
+  "nameNative": "Il presente (verbi in -are)",
+  "summary": "Conjugate regular -are verbs, the largest and most useful verb group in Italian.",
+  "level": "beginner",
+  "order": 2,
+  "explanation": "Most Italian verbs end in -are (parlare, to speak; mangiare, to eat). To conjugate them, drop the -are to get the stem (parl-) and add the present-tense endings.\n\nThe endings are: -o (io), -i (tu), -a (lui/lei), -iamo (noi), -ate (voi), -ano (loro). Because the endings are so distinct, Italian usually drops the subject pronoun: parlo already means 'I speak'.\n\nThe Italian present covers both 'I speak' and 'I am speaking', so parlo means both.",
+  "pattern": "stem + o / i / a / iamo / ate / ano",
+  "conjugation": {
+    "io": "parlo",
+    "tu": "parli",
+    "lui/lei": "parla",
+    "noi": "parliamo",
+    "voi": "parlate",
+    "loro": "parlano"
+  },
+  "examples": [
+    { "native": "Parlo italiano.", "en": "I speak Italian." },
+    { "native": "Tu abiti a Roma.", "en": "You live in Rome." },
+    { "native": "Lei ama il caffè.", "en": "She loves coffee." },
+    { "native": "Mangiamo insieme.", "en": "We eat together." },
+    { "native": "Voi lavorate molto.", "en": "You work a lot." },
+    { "native": "Loro ascoltano la musica.", "en": "They listen to music." }
+  ],
+  "commonMistakes": [
+    "Stressing the wrong syllable in loro forms. It is PARlano, not parLAno.",
+    "Adding an English continuous form. There is no 'io sono parlare'; just say parlo.",
+    "Confusing the tu ending -i with the noi ending -iamo.",
+    "Keeping the subject pronoun everywhere. Italian usually drops io, tu, lui.",
+    "Forgetting that verbs in -iare (mangiare) keep only one i in the tu form: mangi, not mangii."
+  ],
+  "tip": "Chant the endings: o, i, a, iamo, ate, ano. They fit thousands of -are verbs."
+}

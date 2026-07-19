@@ -1,13 +1,11 @@
 {
   "rank": 474,
-  "german": "Auge",
-  "english": "eye",
-  "pronunciation": "OW-geh",
-  "partOfSpeech": "noun",
-  "gender": "neuter",
-  "article": "das",
-  "exampleDe": "Sie hat blaue Augen.",
-  "exampleEn": "She has blue eyes.",
+  "german": "wieso",
+  "english": "to how come",
+  "pronunciation": "v i z o",
+  "partOfSpeech": "verb",
+  "exampleDe": "Ich möchte wieso.",
+  "exampleEn": "I want to how come.",
   "group": "confident-350",
-  "topic": "health"
+  "topic": "questions"
 }

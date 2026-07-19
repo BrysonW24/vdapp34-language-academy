@@ -1,0 +1,26 @@
+{
+  "slug": "negation",
+  "name": "Negation with ไม่",
+  "nameTh": "การปฏิเสธด้วยไม่",
+  "summary": "Make almost anything negative by placing ไม่ directly before the verb or adjective.",
+  "level": "beginner",
+  "order": 4,
+  "explanation": "Thai negation is wonderfully simple: put ไม่ (mai) right before the verb or adjective you want to negate. ผมไม่กิน (phom mai kin) = I don't eat; อันนี้ไม่แพง (an-nii mai phaeng) = this isn't expensive.\n\nThere is no equivalent of English 'do not'; ไม่ attaches straight to the word. For the past, you can add ไม่ได้ (mai dai) before the verb to mean 'did not': ผมไม่ได้ไป (I didn't go).\n\nA few fixed phrases use ไม่ too, such as ไม่เป็นไร (it's okay) and ไม่ใช่ (it's not / no).",
+  "pattern": "ไม่ + verb / adjective  |  ไม่ได้ + verb (did not)",
+  "examples": [
+    { "th": "ผมไม่ชอบ", "en": "I don't like it." },
+    { "th": "เขาไม่อยู่", "en": "He isn't here." },
+    { "th": "อันนี้ไม่อร่อย", "en": "This isn't tasty." },
+    { "th": "ผมไม่เข้าใจ", "en": "I don't understand." },
+    { "th": "ผมไม่ได้ไปเมื่อวาน", "en": "I didn't go yesterday." },
+    { "th": "ไม่ใช่", "en": "No / It's not." }
+  ],
+  "commonMistakes": [
+    "Adding an extra word like 'do'. Thai just uses ไม่ before the verb.",
+    "Placing ไม่ after the verb. It always comes directly before.",
+    "Using ไม่ alone for the past. A past 'did not' usually takes ไม่ได้ before the verb.",
+    "Saying ไม่ for plain 'no' to a yes/no question. Often you repeat the verb with ไม่: ไม่ชอบ.",
+    "Splitting ไม่ from its verb with other words. Keep them together."
+  ],
+  "tip": "One word does it all: put ไม่ right in front of the verb or adjective and you have your negative."
+}

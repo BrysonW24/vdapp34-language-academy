@@ -1,0 +1,32 @@
+{
+  "slug": "past-tense",
+  "name": "Past Tense (pretérito perfeito)",
+  "nameNative": "O pretérito perfeito",
+  "summary": "The everyday past tense for completed actions, formed by changing the verb ending.",
+  "level": "pre-intermediate",
+  "order": 11,
+  "explanation": "The pretérito perfeito is the main past tense for completed actions. Unlike English, it is a single word with its own endings, not a helper plus participle.\n\nFor -ar verbs, the endings are -ei (eu), -ou (você/ele/ela), -amos (nós), -aram (vocês/eles/elas). So falar gives falei, falou, falamos, falaram.\n\nFor -er and -ir verbs the endings are -i, -eu/-iu, -emos/-imos, -eram/-iram: comer gives comi, comeu; partir gives parti, partiu. Key irregulars include ser/ir (fui, foi), ter (tive, teve), and fazer (fiz, fez).",
+  "pattern": "stem + ei / ou / amos / aram (for -ar verbs)",
+  "conjugation": {
+    "eu": "falei",
+    "você/ele/ela": "falou",
+    "nós": "falamos",
+    "vocês/eles/elas": "falaram"
+  },
+  "examples": [
+    { "native": "Eu falei com ela.", "en": "I spoke with her." },
+    { "native": "Você comeu tudo?", "en": "Did you eat everything?" },
+    { "native": "Ela comprou um presente.", "en": "She bought a present." },
+    { "native": "Nós fomos ao Rio.", "en": "We went to Rio." },
+    { "native": "Eles chegaram tarde.", "en": "They arrived late." },
+    { "native": "Eu fiz o trabalho.", "en": "I did the work." }
+  ],
+  "commonMistakes": [
+    "Building the past with a helper verb. Portuguese uses one-word endings: falei, not 'tenho falado' for simple past.",
+    "Confusing the -ar nós form (falamos) which looks identical in present and past; context decides.",
+    "Forgetting the strong irregulars: ser and ir share fui, foi.",
+    "Using the -ar endings on -er verbs (comou instead of comeu).",
+    "Dropping the accent on forms that need it, like the eu -i ending."
+  ],
+  "tip": "Master the three regular patterns first, then memorise the high-frequency irregulars fui, tive, fiz, and disse."
+}

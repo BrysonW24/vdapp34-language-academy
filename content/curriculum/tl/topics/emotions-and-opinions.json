@@ -1,0 +1,90 @@
+{
+  "slug": "emotions-and-opinions",
+  "title": "Emotions & Opinions",
+  "titleNative": "Mga Damdamin at Opinyon",
+  "shortSummary": "Express feelings, give opinions, and agree or disagree gracefully in Filipino.",
+  "level": "pre-intermediate",
+  "order": 15,
+  "icon": "💬",
+  "color": "#5f3dc4",
+  "culturalNote": "Filipinos tend to express feelings warmly but indirectly, valuing pakikisama (smooth, harmonious relationships) and avoiding open confrontation that could cause someone to lose face (hiya). Rather than a blunt 'no', you may hear a soft Baka (maybe) or Tingnan natin (let's see), which often gently signals reluctance. The rich emotional vocabulary includes uniquely Filipino feelings: kilig (the giddy thrill of romance) and gigil (an overwhelming urge, often to squeeze something cute). Opinions are shared, but tactfully; people soften disagreement with Siguro (perhaps) or Sa tingin ko (I think) to keep the mood light. Reading between the lines matters, and showing empathy with phrases like Naiintindihan kita (I understand you) strengthens the bond that Filipinos prize above winning an argument.",
+  "keyPhrases": [
+    { "native": "Masaya ako ngayon.", "english": "I am happy today.", "pronunciation": "ma-sa-YA a-KO nga-YON", "context": "Expressing joy" },
+    { "native": "Malungkot ako kanina.", "english": "I was sad earlier.", "pronunciation": "ma-lung-KOT a-KO ka-NI-na", "context": "Expressing sadness" },
+    { "native": "Nag-aalala ako sa iyo.", "english": "I am worried about you.", "pronunciation": "nag-a-a-LA-la a-KO sa i-YO", "context": "Showing concern" },
+    { "native": "Sa tingin ko, tama ka.", "english": "I think you are right.", "pronunciation": "sa ti-NGIN ko TA-ma ka", "context": "Giving an opinion" },
+    { "native": "Sang-ayon ako sa iyo.", "english": "I agree with you.", "pronunciation": "sang-A-yon a-KO sa i-YO", "context": "Agreeing" },
+    { "native": "Hindi ako sigurado.", "english": "I am not sure.", "pronunciation": "hin-DI a-KO si-gu-RA-do", "context": "Expressing doubt" },
+    { "native": "Sa palagay ko, mali iyon.", "english": "In my view, that is wrong.", "pronunciation": "sa pa-la-GAY ko MA-li i-YON", "context": "Polite disagreement" },
+    { "native": "Naiintindihan kita.", "english": "I understand you.", "pronunciation": "na-i-in-tin-di-HAN ki-TA", "context": "Showing empathy" },
+    { "native": "Nakakatuwa naman!", "english": "How delightful!", "pronunciation": "na-ka-ka-tu-WA na-MAN", "context": "Reacting warmly" },
+    { "native": "Para sa akin, okay lang.", "english": "For me, it is fine.", "pronunciation": "PA-ra sa A-kin o-KEY lang", "context": "Stating a stance" }
+  ],
+  "grammar": [
+    {
+      "rule": "Stating feelings with adjective + ako",
+      "explanation": "Emotion adjectives go before the pronoun: Masaya ako (I am happy), Malungkot ako (I am sad), Galit ako (I am angry). Filipino does not need a separate verb 'to be'; the adjective itself carries the meaning. Add a time word like ngayon (now) or kanina (earlier) for context.",
+      "examples": [
+        { "native": "Masaya ako para sa iyo.", "en": "I am happy for you." },
+        { "native": "Takot siya sa dilim.", "en": "He is afraid of the dark." }
+      ],
+      "commonMistake": "Inserting an unnecessary 'ay' or English 'is', for example Ako ay masaya is overly formal in casual speech where Masaya ako is natural."
+    },
+    {
+      "rule": "Framing opinions with sa tingin ko and softeners",
+      "explanation": "To give an opinion, lead with sa tingin ko (I think) or sa palagay ko (in my view). To soften disagreement and protect harmony, add hedges like siguro (maybe), baka (perhaps), or medyo (somewhat) so you sound thoughtful rather than blunt.",
+      "examples": [
+        { "native": "Sa tingin ko, mas maganda ito.", "en": "I think this one is better." },
+        { "native": "Baka mali ako, pero okay lang sa akin.", "en": "Maybe I am wrong, but it is fine with me." }
+      ],
+      "commonMistake": "Disagreeing too directly with a flat Mali ka (you are wrong); soften it with Sa palagay ko or Baka to keep the conversation warm."
+    }
+  ],
+  "dialogue": {
+    "setup": "Friends Rico and Mae discuss a film they just watched, with differing opinions.",
+    "lines": [
+      { "speaker": "Rico", "native": "Ang ganda ng pelikula! Masaya talaga ako.", "english": "The movie was so good! I'm really happy." },
+      { "speaker": "Mae", "native": "Talaga? Sa tingin ko naman, medyo mabagal ang istorya.", "english": "Really? I think the story was a bit slow." },
+      { "speaker": "Rico", "native": "Naiintindihan kita, pero gusto ko ang ending.", "english": "I understand you, but I loved the ending." },
+      { "speaker": "Mae", "native": "Doon naman, sang-ayon ako sa iyo. Maganda ang ending.", "english": "On that, I agree with you. The ending was lovely." },
+      { "speaker": "Rico", "native": "Kita mo? Hindi naman tayo magkalayo ng opinyon.", "english": "See? Our opinions aren't that far apart." },
+      { "speaker": "Mae", "native": "Tama ka. Para sa akin, okay lang naman panoorin ulit.", "english": "You're right. For me, it's fine to watch it again." },
+      { "speaker": "Rico", "native": "Nakakatuwa naman, panoorin natin ulit!", "english": "How nice, let's watch it again!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'I agree with you' in Filipino?",
+      "correctAnswer": "Sang-ayon ako sa iyo",
+      "explanation": "Sang-ayon ako sa iyo expresses agreement."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which phrase politely introduces an opinion?",
+      "options": ["Sa tingin ko", "Tulong!", "Magkano ito?", "Kain tayo!"],
+      "correctAnswer": "Sa tingin ko",
+      "explanation": "Sa tingin ko (I think) frames an opinion gently."
+    },
+    {
+      "type": "fill-blank",
+      "question": "_____ ako ngayon. (the adjective for 'happy')",
+      "correctAnswer": "Masaya",
+      "explanation": "Masaya ako means 'I am happy'; the adjective comes first."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does the uniquely Filipino feeling 'kilig' describe?",
+      "options": ["Anger at a friend", "The giddy thrill of romance", "Hunger before a meal", "Fear of a typhoon"],
+      "correctAnswer": "The giddy thrill of romance",
+      "explanation": "Kilig is the giddy, butterflies-in-the-stomach feeling of romance."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: kita / naiintindihan",
+      "correctAnswer": "Naiintindihan kita",
+      "explanation": "Naiintindihan kita means 'I understand you'."
+    }
+  ],
+  "status": "complete"
+}

@@ -1,0 +1,90 @@
+{
+  "slug": "weather-and-seasons",
+  "title": "Weather & Seasons",
+  "titleNative": "Le temps et les saisons",
+  "shortSummary": "Talk about the weather and the four seasons, a favourite topic of French small talk.",
+  "level": "elementary",
+  "order": 9,
+  "icon": "🌦️",
+  "color": "#2f5fa0",
+  "culturalNote": "The weather is a comfortable, friendly topic in France, and the seasons shape daily life: café terraces in summer, markets year-round, and long holidays in August when many businesses close. France enjoys distinct seasons, from snowy Alps in winter to warm Mediterranean summers. A key quirk: weather often uses the verb faire (to make/do), as in Il fait beau.",
+  "keyPhrases": [
+    { "native": "Quel temps fait-il ?", "english": "What's the weather like?", "pronunciation": "kel ton fay-TEEL", "context": "The core question" },
+    { "native": "Il fait beau", "english": "It's nice out", "pronunciation": "eel fay BOH", "context": "Good weather" },
+    { "native": "Il fait froid / chaud", "english": "It's cold / hot", "pronunciation": "eel fay FRWAH / SHOH", "context": "Temperature" },
+    { "native": "Il pleut", "english": "It's raining", "pronunciation": "eel PLUH", "context": "Rain" },
+    { "native": "Il neige", "english": "It's snowing", "pronunciation": "eel NEZH", "context": "Snow" },
+    { "native": "le printemps", "english": "spring", "pronunciation": "luh pran-TON", "context": "Season" },
+    { "native": "l'été", "english": "summer", "pronunciation": "lay-TAY", "context": "Season" },
+    { "native": "l'automne", "english": "autumn", "pronunciation": "loh-TON", "context": "Season" },
+    { "native": "l'hiver", "english": "winter", "pronunciation": "lee-VEHR", "context": "Season" },
+    { "native": "Il fait combien de degrés ?", "english": "How many degrees is it?", "pronunciation": "eel fay kom-bee-AN duh duh-GRAY", "context": "Asking the temperature" }
+  ],
+  "grammar": [
+    {
+      "rule": "Weather with faire and il",
+      "explanation": "Many weather expressions use the impersonal il fait (literally 'it makes'): Il fait beau, il fait froid, il fait du vent. The subject is always il.",
+      "examples": [
+        { "native": "Il fait très chaud aujourd'hui.", "en": "It's very hot today." },
+        { "native": "Il fait du soleil.", "en": "It's sunny." }
+      ],
+      "commonMistake": "Using être for weather: it is Il fait froid, not Il est froid (which describes an object)."
+    },
+    {
+      "rule": "Single weather verbs and en/au for seasons",
+      "explanation": "Some weather is a single verb: il pleut (it rains), il neige (it snows). For seasons use en (en été, en hiver, en automne) but au for spring: au printemps.",
+      "examples": [
+        { "native": "En hiver, il neige souvent.", "en": "In winter it often snows." },
+        { "native": "Au printemps, il fait doux.", "en": "In spring it's mild." }
+      ],
+      "commonMistake": "Saying en printemps. Spring is the exception and takes au printemps."
+    }
+  ],
+  "dialogue": {
+    "setup": "Claire and Ben plan their weekend and check the weather forecast.",
+    "lines": [
+      { "speaker": "Claire", "native": "Quel temps fait-il ce week-end ?", "english": "What's the weather like this weekend?" },
+      { "speaker": "Ben", "native": "Samedi, il fait beau et chaud.", "english": "Saturday it's nice and warm." },
+      { "speaker": "Claire", "native": "Super ! Et dimanche ?", "english": "Great! And Sunday?" },
+      { "speaker": "Ben", "native": "Dimanche, il pleut malheureusement.", "english": "Sunday it rains, unfortunately." },
+      { "speaker": "Claire", "native": "Alors, allons au lac samedi.", "english": "So let's go to the lake on Saturday." },
+      { "speaker": "Ben", "native": "Bonne idée. Il fait combien de degrés ?", "english": "Good idea. How many degrees is it?" },
+      { "speaker": "Claire", "native": "Vingt-cinq degrés. Parfait pour nager !", "english": "Twenty-five degrees. Perfect for swimming!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'It's raining'?",
+      "correctAnswer": "Il pleut",
+      "explanation": "pleuvoir is a single weather verb: il pleut."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which season is 'l'automne'?",
+      "options": ["spring", "summer", "autumn", "winter"],
+      "correctAnswer": "autumn",
+      "explanation": "l'automne means autumn."
+    },
+    {
+      "type": "fill-blank",
+      "question": "Il _____ beau aujourd'hui. (weather verb)",
+      "correctAnswer": "fait",
+      "explanation": "Weather uses il fait: il fait beau."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which is correct for spring?",
+      "options": ["en printemps", "au printemps", "à printemps", "dans printemps"],
+      "correctAnswer": "au printemps",
+      "explanation": "Spring takes au; other seasons take en."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: fait-il / temps / quel",
+      "correctAnswer": "Quel temps fait-il",
+      "explanation": "Quel temps (what weather) + fait-il (does it make)."
+    }
+  ],
+  "status": "complete"
+}

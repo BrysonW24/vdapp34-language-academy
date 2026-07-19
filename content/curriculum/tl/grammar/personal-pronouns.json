@@ -1,0 +1,34 @@
+{
+  "slug": "personal-pronouns",
+  "name": "Personal Pronouns (ang set)",
+  "nameNative": "Mga panghalip panao (ang set)",
+  "summary": "Learn ako, ikaw, siya, kami, tayo, kayo, and sila, the everyday subject pronouns of Filipino.",
+  "level": "beginner",
+  "order": 1,
+  "explanation": "Filipino subject pronouns are called the ang set because they fill the same slot as a noun marked by ang. The basics are ako (I), ikaw or ka (you), and siya (he/she). Note that siya covers both he and she, so gender is not marked.\n\nThe plural forms carry an important distinction. Tayo means we including you, while kami means we not including you. Kayo is you (plural or polite), and sila is they. Getting tayo versus kami right is a hallmark of natural Filipino.\n\nWord order matters for ikaw and ka. Use ikaw when the pronoun comes first (Ikaw ay mabait, you are kind), but use ka when it follows the verb or adjective (Mabait ka). In everyday speech the verb-first pattern with ka is far more common.",
+  "pattern": "ako / ikaw (ka) / siya / kami / tayo / kayo / sila",
+  "conjugation": {
+    "ako": "I",
+    "ikaw / ka": "you (singular)",
+    "siya": "he / she",
+    "kami": "we (not you)",
+    "tayo": "we (and you)",
+    "sila": "they"
+  },
+  "examples": [
+    { "native": "Ako si Ana.", "en": "I am Ana." },
+    { "native": "Masaya ka ba?", "en": "Are you happy?" },
+    { "native": "Guro siya.", "en": "He/She is a teacher." },
+    { "native": "Pupunta kami sa palengke.", "en": "We (not you) are going to the market." },
+    { "native": "Kumain na tayo!", "en": "Let's eat now (you and I)!" },
+    { "native": "Taga-Cebu sila.", "en": "They are from Cebu." }
+  ],
+  "commonMistakes": [
+    "Using tayo when you mean kami. Tayo includes the listener; kami excludes them.",
+    "Putting ka at the start of a sentence. Use ikaw first, ka after the verb or adjective.",
+    "Assuming siya shows gender. It means both he and she, so context decides.",
+    "Forgetting the marker si before names: it is ako si Ana, not ako Ana.",
+    "Translating you as kayo to one friend. Kayo is plural or polite; for one peer use ikaw or ka."
+  ],
+  "tip": "When deciding tayo or kami, ask yourself: is the person I'm talking to part of this we? If yes, use tayo."
+}

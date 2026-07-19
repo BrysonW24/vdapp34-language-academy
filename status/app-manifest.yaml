@@ -1,0 +1,74 @@
+app: vdapp34-language-academy
+title: Language Academy
+description: >
+  Unified, content-driven Next.js 15 language academy serving Spanish, Chinese,
+  German, and Thai from one shared codebase via language-prefixed routes, plus
+  a cross-language visual learning guide system.
+
+owner: bryson
+audience: adult self-learners
+state: shipped-mvp
+
+doctrine:
+  agents_md: ./AGENTS.md
+  claude_md: ./CLAUDE.md
+  claude_dir: ./.claude/
+  memory_dir: ./memory/
+  readme: ./README.md
+  backlog: ./BACKLOG.md
+  roadmap: ./ROADMAP.md
+
+stack:
+  framework: next@15
+  language: typescript@5.7
+  package_manager: npm@10.8.0
+  ui:
+    - tailwindcss@3.4
+    - radix-ui
+    - shadcn-style components in src/components/ui
+    - lucide-react@0.460
+  validation: zod@3.24
+  testing: vitest@3.2
+
+runtime:
+  type: static-site
+  content_source: local-json
+  external_apis: none
+  database: none
+  auth: none
+
+routes:
+  public_root: /
+  language_prefixes: [es, zh, de, th]
+  surfaces:
+    - /{lang}
+    - /{lang}/words
+    - /{lang}/words/{group}
+    - /{lang}/topics
+    - /{lang}/topics/{slug}
+    - /{lang}/grammar
+    - /{lang}/grammar/{slug}
+    - /{lang}/phrases
+    - /{lang}/phrases/{slug}
+    - /{lang}/practice
+    - /{lang}/timeline
+    - /{lang}/guides
+    - /{lang}/guides/sentence-skeleton
+    - /{lang}/guides/phrase-to-pattern
+    - /{lang}/guides/meaning-load
+    - /speaking-structure
+
+deployment:
+  target: vercel
+  root_directory: Vivacity.ai/vd-apps/vdapp34-language-academy
+  framework_detected: nextjs
+  notes: >
+    Build is fully static. No env vars required at build time beyond the optional
+    NEXT_PUBLIC_SITE_URL. outputFileTracingRoot is pinned to this app to silence
+    the monorepo lockfile-ambiguity warning.
+
+excluded_from:
+  - academy-ecosystem
+
+last_audit: 2026-05-16
+last_audit_doc: ./docs/health-check-2026-05-16.md

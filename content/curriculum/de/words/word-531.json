@@ -1,13 +1,13 @@
 {
   "rank": 531,
-  "german": "Termin",
-  "english": "appointment",
-  "pronunciation": "tair-MEEN",
+  "german": "Ach",
+  "english": "Oh",
+  "pronunciation": "a x",
   "partOfSpeech": "noun",
-  "gender": "masculine",
-  "article": "der",
-  "exampleDe": "Ich habe einen Termin um drei.",
-  "exampleEn": "I have an appointment at three.",
+  "exampleDe": "Das Ach ist wichtig.",
+  "exampleEn": "The Oh is important.",
   "group": "confident-350",
-  "topic": "work"
+  "topic": "basics",
+  "article": "das",
+  "gender": "neuter"
 }

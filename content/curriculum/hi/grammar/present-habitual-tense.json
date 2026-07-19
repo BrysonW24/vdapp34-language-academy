@@ -1,0 +1,34 @@
+{
+  "slug": "present-habitual-tense",
+  "name": "Present Habitual Tense",
+  "nameNative": "सामान्य वर्तमान काल (saamaanya vartmaan kaal)",
+  "summary": "Express what you usually do with the -ता/-ती/-ते form plus हूँ / है / हैं.",
+  "level": "elementary",
+  "order": 5,
+  "explanation": "The present habitual is how Hindi says what someone does regularly: 'I drink tea', 'she works', 'we live here'. It is built from two parts: the habitual participle of the main verb, and the present form of होना (hona) as a helper. So 'I drink' is मैं पीता हूँ (main peeta hoon), literally 'I drinking am'.\n\nTo make the participle, drop -ना (-na) from the verb stem and add -ता (-ta) for a masculine subject, -ती (-ti) for a feminine subject, or -ते (-te) for plural or polite subjects. So from बोलना (bolna, to speak) you get बोलता (bolta), बोलती (bolti), and बोलते (bolte). The participle agrees with the subject's gender and number, then the होना helper agrees with the person.\n\nThis means a man says मैं काम करता हूँ (main kaam karta hoon) and a woman says मैं काम करती हूँ (main kaam karti hoon) for the same idea, 'I work'. With the polite आप, you always use the -ते form plus हैं: आप पढ़ते हैं (aap padhte hain, you read).",
+  "pattern": "verb stem + ta/ti/te + hoon/hai/hain (agrees with gender, number, person)",
+  "conjugation": {
+    "मैं (m): पीना": "मैं पीता हूँ (main peeta hoon, I drink)",
+    "मैं (f): पीना": "मैं पीती हूँ (main peeti hoon, I drink)",
+    "वह (m): बोलना": "वह बोलता है (voh bolta hai, he speaks)",
+    "वह (f): बोलना": "वह बोलती है (voh bolti hai, she speaks)",
+    "हम: रहना": "हम रहते हैं (ham rahte hain, we live)",
+    "आप: पढ़ना": "आप पढ़ते हैं (aap padhte hain, you read - polite)"
+  },
+  "examples": [
+    { "native": "मैं रोज़ चाय पीता हूँ। (main roz chai peeta hoon.)", "en": "I drink tea every day. (man speaking)" },
+    { "native": "वह हिंदी बोलती है। (voh Hindi bolti hai.)", "en": "She speaks Hindi." },
+    { "native": "हम मुंबई में रहते हैं। (ham Mumbai mein rahte hain.)", "en": "We live in Mumbai." },
+    { "native": "आप क्या खाते हैं? (aap kya khaate hain?)", "en": "What do you eat? (polite)" },
+    { "native": "बच्चे स्कूल जाते हैं। (bachche school jaate hain.)", "en": "The children go to school." },
+    { "native": "मेरी माँ खाना बनाती है। (meri maan khaana banaati hai.)", "en": "My mother cooks food." }
+  ],
+  "commonMistakes": [
+    "Forgetting the होना helper: saying main peeta instead of main peeta hoon.",
+    "Not matching the participle to gender: a woman saying karta hoon instead of karti hoon.",
+    "Using है (hai) with आप instead of the polite हैं (hain).",
+    "Using the -ता form for a plural subject; plurals and the polite aap need -ते (-te).",
+    "Confusing the habitual (peeta hoon, I drink) with the continuous (pee raha hoon, I am drinking)."
+  ],
+  "tip": "Think of it as two agreements: the participle agrees with gender and number, the helper agrees with the person."
+}

@@ -1,13 +1,11 @@
 {
   "rank": 626,
-  "german": "Vertrauen",
-  "english": "trust, confidence",
-  "pronunciation": "fair-TROW-en",
-  "partOfSpeech": "noun",
-  "gender": "neuter",
-  "article": "das",
-  "exampleDe": "Vertrauen muss man verdienen.",
-  "exampleEn": "Trust must be earned.",
+  "german": "seiten",
+  "english": "to pages",
+  "pronunciation": "z a ɪ n",
+  "partOfSpeech": "verb",
+  "exampleDe": "Ich möchte Seiten.",
+  "exampleEn": "I want to pages.",
   "group": "confident-350",
-  "topic": "emotions"
+  "topic": "actions"
 }

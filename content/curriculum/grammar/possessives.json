@@ -1,0 +1,26 @@
+{
+  "slug": "possessives",
+  "name": "Possessive Adjectives & Pronouns",
+  "nameEs": "Los Posesivos",
+  "summary": "Express ownership with mi/tu/su/nuestro and the long forms mío/tuyo/suyo. Essential for talking about family, belongings, and relationships.",
+  "level": "elementary",
+  "order": 8,
+  "explanation": "Spanish has two sets of possessives: short forms (before the noun) and long forms (after the noun or standalone). Short forms are used much more often in everyday speech.\n\nShort possessive adjectives: mi/mis (my), tu/tus (your informal), su/sus (his/her/your formal/their), nuestro/a/os/as (our), vuestro/a/os/as (your plural, Spain). These agree in NUMBER with the thing possessed (not the owner). Only nuestro and vuestro also agree in gender.\n\nLong possessive forms go after the noun or stand alone: mío/mía/míos/mías (mine), tuyo/a/os/as (yours), suyo/a/os/as (his/hers/yours/theirs), nuestro/a/os/as (ours), vuestro/a/os/as (yours plural). These agree in both gender AND number: 'un amigo mío' (a friend of mine), 'la casa es mía' (the house is mine).",
+  "pattern": "Short: mi(s)/tu(s)/su(s)/nuestro(a)(s) + noun | Long: noun + mío(a)(s)/tuyo(a)(s)/suyo(a)(s)",
+  "examples": [
+    { "es": "Mi casa es tu casa", "en": "My house is your house" },
+    { "es": "Sus hijos son muy simpáticos", "en": "His/Her/Their children are very nice" },
+    { "es": "Nuestra profesora es de México", "en": "Our teacher is from Mexico" },
+    { "es": "¿Es tuyo este libro?", "en": "Is this book yours?" },
+    { "es": "Un amigo mío vive en Buenos Aires", "en": "A friend of mine lives in Buenos Aires" },
+    { "es": "Mis llaves están en la mesa", "en": "My keys are on the table" }
+  ],
+  "commonMistakes": [
+    "Forgetting plural: 'mi padres' should be 'mis padres' — the possessive matches the noun's number",
+    "Gender confusion with nuestro: 'nuestro casa' should be 'nuestra casa' (casa is feminine)",
+    "Ambiguity with su/sus: 'su libro' could mean his/her/your/their book — add 'de él/de ella' if unclear",
+    "Using possessives with body parts: 'me duele mi cabeza' should be 'me duele la cabeza' — use the article, not the possessive",
+    "Mixing short and long forms: 'mi mío libro' is wrong — use one or the other"
+  ],
+  "tip": "With body parts and clothing, Spanish uses the definite article (el/la) instead of possessives: 'Me lavo las manos' (I wash my hands), not 'Me lavo mis manos'. The reflexive pronoun already tells you whose hands they are."
+}

@@ -1,0 +1,90 @@
+{
+  "slug": "hobbies-and-leisure",
+  "title": "Hobbies & Leisure",
+  "titleTh": "งานอดิเรกและเวลาว่าง",
+  "shortSummary": "Talk about your free time, sports, and what you like doing.",
+  "level": "elementary",
+  "order": 13,
+  "icon": "🏸",
+  "color": "#a16a1f",
+  "culturalNote": "Leisure in Thailand is social and relaxed, captured by the phrase สบายๆ (sabai-sabai), taking it easy. Popular pastimes include badminton (แบดมินตัน), takraw (a kick-volleyball game), shopping at night markets, and singing karaoke with friends. Watching Thai dramas and football, and meeting up to eat, are favourite ways to unwind. Muay Thai is both a national sport and a beloved spectacle.",
+  "keyPhrases": [
+    { "thai": "คุณชอบทำอะไร", "pronunciation": "khun chop tham a-rai", "english": "What do you like doing?", "context": "Starting the topic" },
+    { "thai": "ผมชอบ...", "pronunciation": "phom chop...", "english": "I like...", "context": "ชอบ = to like" },
+    { "thai": "ผมชอบดูหนัง", "pronunciation": "phom chop duu nang", "english": "I like watching films", "context": "A common hobby" },
+    { "thai": "ผมชอบฟังเพลง", "pronunciation": "phom chop fang phleng", "english": "I like listening to music", "context": "Quiet pastimes" },
+    { "thai": "ผมเล่นแบดมินตัน", "pronunciation": "phom len badminton", "english": "I play badminton", "context": "เล่น for sports/games" },
+    { "thai": "ผมชอบอ่านหนังสือ", "pronunciation": "phom chop aan nang-suu", "english": "I like reading", "context": "Reading" },
+    { "thai": "วันหยุด", "pronunciation": "wan-yut", "english": "day off / holiday", "context": "When you have free time" },
+    { "thai": "ผมไปเที่ยวกับเพื่อน", "pronunciation": "phom pai thiao kap phuean", "english": "I go out with friends", "context": "Socialising" },
+    { "thai": "สนุก", "pronunciation": "sa-nuk", "english": "fun", "context": "Reacting positively" },
+    { "thai": "คุณล่ะ", "pronunciation": "khun la", "english": "And you?", "context": "Turning the question back" }
+  ],
+  "grammar": [
+    {
+      "rule": "ชอบ + verb to say what you like",
+      "explanation": "Use ชอบ (chop) plus a verb to say you like an activity: ผมชอบว่ายน้ำ (I like swimming). To say you dislike it, add ไม่: ไม่ชอบ.",
+      "examples": [
+        { "th": "ผมชอบเล่นกีฬา", "en": "I like playing sport." },
+        { "th": "ผมไม่ชอบตื่นเช้า", "en": "I don't like getting up early." }
+      ],
+      "commonMistake": "Adding มาก by habit. ชอบ alone is 'like'; ชอบมาก is 'like a lot'."
+    },
+    {
+      "rule": "เล่น for games and sports",
+      "explanation": "Use เล่น (len, play) for sports, games, and instruments: เล่นฟุตบอล (play football), เล่นกีตาร์ (play guitar), เล่นเกม (play games).",
+      "examples": [
+        { "th": "ผมเล่นฟุตบอล", "en": "I play football." },
+        { "th": "เขาเล่นกีตาร์", "en": "He plays guitar." }
+      ],
+      "commonMistake": "Using a different verb for instruments. Thai uses เล่น for both sports and instruments."
+    }
+  ],
+  "dialogue": {
+    "setup": "Two classmates, Mint and Kong, chat about their weekend plans.",
+    "lines": [
+      { "speaker": "มิ้นท์", "thai": "วันหยุดคุณชอบทำอะไรคะ", "pronunciation": "wan-yut khun chop tham a-rai kha", "english": "What do you like doing on days off?" },
+      { "speaker": "ก้อง", "thai": "ผมชอบเล่นแบดมินตันกับดูหนังครับ", "pronunciation": "phom chop len badminton kap duu nang khrap", "english": "I like playing badminton and watching films." },
+      { "speaker": "มิ้นท์", "thai": "ผมชอบฟังเพลงกับอ่านหนังสือค่ะ", "pronunciation": "phom chop fang phleng kap aan nang-suu kha", "english": "I like listening to music and reading." },
+      { "speaker": "ก้อง", "thai": "สุดสัปดาห์นี้ว่างไหมครับ", "pronunciation": "sut-sap-daa nii waang mai khrap", "english": "Are you free this weekend?" },
+      { "speaker": "มิ้นท์", "thai": "ว่างค่ะ ไปเล่นแบดกันไหม", "pronunciation": "waang kha, pai len bad kan mai", "english": "I'm free, shall we play badminton together?" },
+      { "speaker": "ก้อง", "thai": "ดีเลยครับ น่าจะสนุก", "pronunciation": "dee loei khrap, naa-ja sa-nuk", "english": "Great, it'll be fun." },
+      { "speaker": "มิ้นท์", "thai": "งั้นเจอกันวันเสาร์นะคะ", "pronunciation": "ngan joe kan wan-sao na kha", "english": "See you Saturday then." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'I like watching films'?",
+      "correctAnswer": "ผมชอบดูหนัง",
+      "explanation": "ชอบ (like) + ดูหนัง (watch films)."
+    },
+    {
+      "type": "fill-blank",
+      "question": "ผม_____ฟุตบอล (I play football)",
+      "correctAnswer": "เล่น",
+      "explanation": "เล่น is used for sports and games."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does สนุก mean?",
+      "options": ["tired", "fun", "busy", "far"],
+      "correctAnswer": "fun",
+      "explanation": "สนุก means 'fun / enjoyable'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which means 'a day off / holiday'?",
+      "options": ["วันนี้", "วันหยุด", "ทุกวัน", "วันเกิด"],
+      "correctAnswer": "วันหยุด",
+      "explanation": "วันหยุด is a day off or holiday."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: อะไร / ทำ / ชอบ / คุณ",
+      "correctAnswer": "คุณชอบทำอะไร",
+      "explanation": "คุณ + ชอบ (like) + ทำอะไร (do what)."
+    }
+  ],
+  "status": "complete"
+}

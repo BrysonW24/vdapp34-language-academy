@@ -1,0 +1,90 @@
+{
+  "slug": "home-and-family",
+  "title": "Home & Family",
+  "titleDe": "Zuhause und Familie",
+  "shortSummary": "Talk about your family members and describe where you live.",
+  "level": "elementary",
+  "order": 8,
+  "icon": "🏠",
+  "color": "#6d28d9",
+  "culturalNote": "Family ties in Germany are warm but often more independent than in some cultures: young adults frequently move out for study or work, yet stay closely connected by phone and regular visits. Renting is the norm rather than buying, even for life, and a tidy, well-kept home is a point of quiet pride. The cosy feeling of a comfortable home has its own word: Gemütlichkeit.",
+  "keyPhrases": [
+    { "german": "meine Familie", "english": "my family", "pronunciation": "MY-nuh fah-MEE-lee-uh", "context": "The core noun" },
+    { "german": "mein Vater / meine Mutter", "english": "my father / my mother", "pronunciation": "mine FAH-ter / MY-nuh MOO-ter", "context": "Parents" },
+    { "german": "mein Bruder / meine Schwester", "english": "my brother / my sister", "pronunciation": "mine BROO-der / MY-nuh SHVES-ter", "context": "Siblings" },
+    { "german": "Hast du Geschwister?", "english": "Do you have siblings?", "pronunciation": "hahst doo guh-SHVIS-ter", "context": "Common question" },
+    { "german": "Ich habe zwei Kinder", "english": "I have two children", "pronunciation": "ikh HAH-buh tsvy KIN-der", "context": "Talking about kids" },
+    { "german": "Ich wohne in einer Wohnung", "english": "I live in a flat", "pronunciation": "ikh VOH-nuh in EYE-ner VOH-noong", "context": "Describing your home" },
+    { "german": "das Wohnzimmer", "english": "the living room", "pronunciation": "dahs VOHN-tsim-mer", "context": "A room in the home" },
+    { "german": "die Küche", "english": "the kitchen", "pronunciation": "dee KOO-khuh", "context": "A room in the home" },
+    { "german": "Wir wohnen zusammen", "english": "We live together", "pronunciation": "veer VOH-nen tsoo-ZAH-men", "context": "Living arrangements" },
+    { "german": "Ich habe einen Hund", "english": "I have a dog", "pronunciation": "ikh HAH-buh EYE-nen hoont", "context": "Pets" }
+  ],
+  "grammar": [
+    {
+      "rule": "haben in the accusative",
+      "explanation": "The verb haben (to have) takes an accusative object, so masculine articles change: 'Ich habe einen Bruder' (einen, not ein). Feminine and neuter stay the same.",
+      "examples": [
+        { "de": "Ich habe einen Sohn.", "en": "I have a son. (masculine)" },
+        { "de": "Sie hat eine Tochter.", "en": "She has a daughter. (feminine)" }
+      ],
+      "commonMistake": "Saying 'Ich habe ein Bruder'. The masculine object must be 'einen Bruder'."
+    },
+    {
+      "rule": "Possessives for family",
+      "explanation": "Possessives match the family member's gender: mein Vater (m), meine Mutter (f), mein Kind (n), meine Eltern (plural). The owner does not change the ending; the owned noun does.",
+      "examples": [
+        { "de": "Das ist meine Schwester.", "en": "This is my sister." },
+        { "de": "Wo sind deine Eltern?", "en": "Where are your parents?" }
+      ],
+      "commonMistake": "Matching the possessive to yourself rather than to the family member's gender."
+    }
+  ],
+  "dialogue": {
+    "setup": "Paul shows his friend Nina a family photo on his phone.",
+    "lines": [
+      { "speaker": "Nina", "german": "Ist das deine Familie?", "english": "Is that your family?" },
+      { "speaker": "Paul", "german": "Ja. Das sind meine Eltern und meine Schwester.", "english": "Yes. Those are my parents and my sister." },
+      { "speaker": "Nina", "german": "Hast du auch einen Bruder?", "english": "Do you also have a brother?" },
+      { "speaker": "Paul", "german": "Nein, nur eine Schwester. Aber wir haben einen Hund.", "english": "No, just a sister. But we have a dog." },
+      { "speaker": "Nina", "german": "Süß! Wohnt deine Schwester noch zu Hause?", "english": "Cute! Does your sister still live at home?" },
+      { "speaker": "Paul", "german": "Nein, sie wohnt in einer Wohnung in München.", "english": "No, she lives in a flat in Munich." },
+      { "speaker": "Nina", "german": "Schön, eine eigene Wohnung!", "english": "Nice, her own flat!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'I have a brother'?",
+      "correctAnswer": "Ich habe einen Bruder",
+      "explanation": "haben takes the accusative, so masculine Bruder needs 'einen'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which means 'my sister'?",
+      "options": ["mein Schwester", "meine Schwester", "meinen Schwester", "meiner Schwester"],
+      "correctAnswer": "meine Schwester",
+      "explanation": "Schwester is feminine, so the possessive is 'meine'."
+    },
+    {
+      "type": "fill-blank",
+      "question": "Hast du _____? (Do you have siblings?)",
+      "correctAnswer": "Geschwister",
+      "explanation": "Geschwister is the word for siblings."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which is the kitchen?",
+      "options": ["das Wohnzimmer", "die Küche", "das Bad", "der Garten"],
+      "correctAnswer": "die Küche",
+      "explanation": "die Küche means the kitchen."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: meine / das / Familie / ist",
+      "correctAnswer": "Das ist meine Familie",
+      "explanation": "Das ist (this is) plus the possessive phrase."
+    }
+  ],
+  "status": "complete"
+}

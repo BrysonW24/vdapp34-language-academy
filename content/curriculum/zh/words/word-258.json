@@ -1,12 +1,13 @@
 {
   "rank": 258,
-  "chinese": "新",
-  "characters": "新",
-  "pinyin": "xīn",
-  "english": "new",
+  "chinese": "重新",
+  "characters": "重新",
+  "pinyin": "chóng xīn",
+  "english": "again",
+  "pronunciation": "chong-xin",
   "partOfSpeech": "adjective",
-  "exampleZh": "我买了一件新衣服。",
-  "exampleEn": "I bought a new piece of clothing.",
+  "exampleZh": "这个地方很重新。",
+  "exampleEn": "This place is very again.",
   "group": "everyday-250",
   "topic": "descriptions"
 }

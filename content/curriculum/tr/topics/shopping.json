@@ -1,0 +1,90 @@
+{
+  "slug": "shopping",
+  "title": "Shopping",
+  "titleNative": "Alışveriş",
+  "shortSummary": "Buy things, ask prices, bargain, and pay in Turkish shops, markets, and bazaars.",
+  "level": "beginner",
+  "order": 6,
+  "icon": "🛍️",
+  "color": "#9c36b5",
+  "culturalNote": "Shopping in Turkey ranges from fixed-price supermarkets and malls to the lively grand bazaar (Kapalıçarşı) and the weekly neighbourhood market (pazar), where bargaining is a genuine part of the experience. In bazaars and souvenir shops, asking son fiyat ne? (what's your final price?) and offering a little less is expected and good-humoured, though groceries and chain stores have fixed prices. Vendors may invite you in with buyurun (please, go ahead) and offer tea while you browse; accepting does not oblige you to buy. The currency is the Turkish lira (Türk lirası, TL). When you decide, sizes and quantities are often given in kilos at markets (bir kilo, yarım kilo). A friendly hello, patience, and a smile usually get you a better price than haggling hard.",
+  "keyPhrases": [
+    { "native": "Ne kadar?", "english": "How much?", "pronunciation": "neh kah-DAHR", "context": "Asking the price" },
+    { "native": "Bu kaç para?", "english": "How much is this?", "pronunciation": "boo kahch pah-RAH", "context": "Pointing at an item" },
+    { "native": "Çok pahalı", "english": "Very expensive", "pronunciation": "chohk pah-hah-LUH", "context": "Reacting to a price" },
+    { "native": "İndirim var mı?", "english": "Is there a discount?", "pronunciation": "een-dee-REEM vahr muh", "context": "Asking to bargain" },
+    { "native": "Son fiyat ne?", "english": "What's your final price?", "pronunciation": "sohn fee-YAHT neh", "context": "Closing a haggle" },
+    { "native": "Bunu alıyorum", "english": "I'll take this", "pronunciation": "boo-NOO ah-luh-YOH-room", "context": "Deciding to buy" },
+    { "native": "Sadece bakıyorum", "english": "I'm just looking", "pronunciation": "sah-deh-JEH bah-kuh-YOH-room", "context": "Browsing politely" },
+    { "native": "Kredi kartı geçer mi?", "english": "Do you take credit cards?", "pronunciation": "kreh-DEE kahr-TUH geh-CHEHR mee", "context": "Asking how to pay" },
+    { "native": "Bir kilo, lütfen", "english": "One kilo, please", "pronunciation": "beer kee-LOH lewt-FEHN", "context": "At a market stall" },
+    { "native": "Başka bir şey istemiyorum", "english": "I don't want anything else", "pronunciation": "bahsh-KAH beer shay ees-teh-mee-YOH-room", "context": "Finishing your purchase" }
+  ],
+  "grammar": [
+    {
+      "rule": "var and yok for 'there is' / 'there isn't'",
+      "explanation": "Turkish has no verb 'to have'. Instead it uses var (exists / there is) and yok (does not exist / there isn't). To ask if a discount exists you say indirim var mı?, and a shopkeeper may reply var (yes there is) or yok (no there isn't). The same pair expresses possession with a possessive ending: param var (I have money, literally 'my money exists').",
+      "examples": [
+        { "native": "Beyaz var mı?", "en": "Is there a white one?" },
+        { "native": "Bozuk param yok.", "en": "I don't have any change." }
+      ],
+      "commonMistake": "Looking for a verb 'to have'. Use var/yok with a possessive ending instead, as in arabam var (I have a car)."
+    },
+    {
+      "rule": "Present continuous -iyor for actions now",
+      "explanation": "The ending -iyor (with vowel harmony: -ıyor, -uyor, -üyor) plus a personal ending forms the present continuous, used for what is happening now and often for near-future plans. Al- (take) becomes alıyorum (I am taking / I'll take), bak- becomes bakıyorum (I am looking).",
+      "examples": [
+        { "native": "Bunu alıyorum.", "en": "I'll take this one." },
+        { "native": "Sadece bakıyorum.", "en": "I'm just looking." }
+      ],
+      "commonMistake": "Dropping the buffer when a stem ends in a vowel: it is bekliyorum (the e drops), not bekleiyorum."
+    }
+  ],
+  "dialogue": {
+    "setup": "A shopper haggles for a scarf at a stall in the grand bazaar.",
+    "lines": [
+      { "speaker": "Satıcı", "native": "Buyurun, hoş geldiniz! Bu eşarp çok güzel.", "english": "Please, welcome! This scarf is very beautiful." },
+      { "speaker": "Müşteri", "native": "Teşekkürler. Bu ne kadar?", "english": "Thank you. How much is this?" },
+      { "speaker": "Satıcı", "native": "İki yüz lira.", "english": "Two hundred lira." },
+      { "speaker": "Müşteri", "native": "Çok pahalı. İndirim var mı?", "english": "Very expensive. Is there a discount?" },
+      { "speaker": "Satıcı", "native": "Sizin için yüz seksen olsun.", "english": "For you, let it be one hundred eighty." },
+      { "speaker": "Müşteri", "native": "Son fiyat yüz elli mi?", "english": "Is the final price one hundred fifty?" },
+      { "speaker": "Satıcı", "native": "Tamam, anlaştık. Bunu alıyor musunuz?", "english": "Okay, we have a deal. Are you taking it?" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you ask 'How much?' in Turkish?",
+      "correctAnswer": "Ne kadar?",
+      "explanation": "Ne kadar? literally means 'how much amount?' and is the standard price question."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which phrase asks for a discount?",
+      "options": ["Çok pahalı", "İndirim var mı?", "Bunu alıyorum", "Ne kadar?"],
+      "correctAnswer": "İndirim var mı?",
+      "explanation": "İndirim is a discount; var mı? asks 'is there?'"
+    },
+    {
+      "type": "fill-blank",
+      "question": "Bozuk param _____. (I don't have any change)",
+      "correctAnswer": "yok",
+      "explanation": "Yok means 'there isn't', so param yok is 'I don't have money/change'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "How do you say 'I'm just looking'?",
+      "options": ["Bunu alıyorum", "Sadece bakıyorum", "Son fiyat ne?", "Bir kilo lütfen"],
+      "correctAnswer": "Sadece bakıyorum",
+      "explanation": "Sadece means 'only/just' and bakıyorum is 'I am looking'."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: alıyorum / bunu",
+      "correctAnswer": "Bunu alıyorum",
+      "explanation": "Bunu alıyorum means 'I'll take this', object before verb."
+    }
+  ],
+  "status": "complete"
+}

@@ -1,0 +1,90 @@
+{
+  "slug": "greetings",
+  "title": "Greetings & Goodbyes",
+  "titleZh": "问候与告别",
+  "shortSummary": "Greet people, introduce yourself, and say goodbye in Mandarin, the foundation of every conversation.",
+  "level": "beginner",
+  "order": 1,
+  "icon": "👋",
+  "color": "#a0453f",
+  "culturalNote": "Chinese greetings are warm but often practical. Instead of asking how you feel, people may ask 你吃了吗？(have you eaten?), which is simply a friendly hello, not a dinner invitation. A small nod is common, and titles matter: addressing someone as 老师 (teacher) or by their surname plus a title shows respect. The polite 您 (nín) is used for elders and in formal settings instead of 你 (nǐ).",
+  "keyPhrases": [
+    { "chinese": "你好", "pinyin": "nǐ hǎo", "english": "Hello", "context": "Universal greeting" },
+    { "chinese": "您好", "pinyin": "nín hǎo", "english": "Hello (polite)", "context": "For elders or formal situations" },
+    { "chinese": "早上好", "pinyin": "zǎoshang hǎo", "english": "Good morning", "context": "Morning greeting" },
+    { "chinese": "你吃了吗？", "pinyin": "nǐ chī le ma?", "english": "Have you eaten?", "context": "A friendly hello, not a real question" },
+    { "chinese": "你好吗？", "pinyin": "nǐ hǎo ma?", "english": "How are you?", "context": "Asking how someone is" },
+    { "chinese": "我很好", "pinyin": "wǒ hěn hǎo", "english": "I'm well", "context": "Standard reply" },
+    { "chinese": "谢谢", "pinyin": "xièxie", "english": "Thank you", "context": "Said often" },
+    { "chinese": "再见", "pinyin": "zàijiàn", "english": "Goodbye", "context": "Literally 'again see'" },
+    { "chinese": "明天见", "pinyin": "míngtiān jiàn", "english": "See you tomorrow", "context": "Friendly farewell" },
+    { "chinese": "拜拜", "pinyin": "bàibai", "english": "Bye-bye", "context": "Casual, borrowed from English" }
+  ],
+  "grammar": [
+    {
+      "rule": "你 vs 您 (informal vs polite you)",
+      "explanation": "你 (nǐ) is the everyday 'you'. 您 (nín) is its respectful form, used for elders, teachers, and customers. The two are otherwise interchangeable in greetings.",
+      "examples": [
+        { "zh": "你好！", "en": "Hello! (casual)" },
+        { "zh": "您好！", "en": "Hello! (polite)" }
+      ],
+      "commonMistake": "Using 你 with an elder or a customer, where 您 shows proper respect."
+    },
+    {
+      "rule": "Adjectives take 很, not 是",
+      "explanation": "To say 'I am well', Chinese says 我很好, with 很 before the adjective and no word for 'am'. Do not use 是 with an adjective.",
+      "examples": [
+        { "zh": "我很好。", "en": "I am well." },
+        { "zh": "他很忙。", "en": "He is busy." }
+      ],
+      "commonMistake": "Saying 我是好. Adjectives use 很, not 是."
+    }
+  ],
+  "dialogue": {
+    "setup": "Xiao Wang meets his neighbour Auntie Li in the morning by the lift.",
+    "lines": [
+      { "speaker": "小王", "chinese": "李阿姨，早上好！", "pinyin": "Lǐ āyí, zǎoshang hǎo!", "english": "Auntie Li, good morning!" },
+      { "speaker": "李阿姨", "chinese": "早上好，小王！你吃了吗？", "pinyin": "Zǎoshang hǎo, Xiǎo Wáng! Nǐ chī le ma?", "english": "Good morning, Xiao Wang! Have you eaten?" },
+      { "speaker": "小王", "chinese": "吃了，谢谢。您好吗？", "pinyin": "Chī le, xièxie. Nín hǎo ma?", "english": "Yes, thanks. How are you?" },
+      { "speaker": "李阿姨", "chinese": "我很好。你去上班吗？", "pinyin": "Wǒ hěn hǎo. Nǐ qù shàngbān ma?", "english": "I'm well. Are you going to work?" },
+      { "speaker": "小王", "chinese": "对，我现在去公司。", "pinyin": "Duì, wǒ xiànzài qù gōngsī.", "english": "Yes, I'm going to the office now." },
+      { "speaker": "李阿姨", "chinese": "好，那明天见！", "pinyin": "Hǎo, nà míngtiān jiàn!", "english": "Okay, see you tomorrow then!" },
+      { "speaker": "小王", "chinese": "明天见，再见！", "pinyin": "Míngtiān jiàn, zàijiàn!", "english": "See you tomorrow, goodbye!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'Good morning' in Chinese?",
+      "correctAnswer": "早上好",
+      "explanation": "早上 (morning) plus 好 (good)."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which is the polite form of 'you'?",
+      "options": ["你", "您", "他", "我"],
+      "correctAnswer": "您",
+      "explanation": "您 (nín) is the respectful 'you' for elders and formal settings."
+    },
+    {
+      "type": "fill-blank",
+      "question": "我_____好。 (I am well)",
+      "correctAnswer": "很",
+      "explanation": "Adjectives take 很, so 我很好."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does 你吃了吗？usually mean as a greeting?",
+      "options": ["A dinner invitation", "A friendly hello", "Where are you eating?", "Goodbye"],
+      "correctAnswer": "A friendly hello",
+      "explanation": "It is a warm, everyday greeting, not a literal question."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: 见 / 明天",
+      "correctAnswer": "明天见",
+      "explanation": "明天 (tomorrow) before 见 (see) gives 'see you tomorrow'."
+    }
+  ],
+  "status": "complete"
+}

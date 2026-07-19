@@ -1,0 +1,90 @@
+{
+  "slug": "work-and-school",
+  "title": "Work & School",
+  "titleTh": "งานและการเรียน",
+  "shortSummary": "Talk about your job, your studies, and daily working life in Thai.",
+  "level": "pre-intermediate",
+  "order": 12,
+  "icon": "💼",
+  "color": "#6d28d9",
+  "culturalNote": "Thai workplaces value respect, harmony, and seniority, and you address senior colleagues warmly with พี่ (phii) plus their nickname. Showing modesty about your achievements is good manners, and keeping a calm, friendly manner, the spirit of ใจเย็น (jai-yen, a cool heart), is appreciated even under pressure. Students respect their teachers highly, and Teachers' Day is a meaningful national occasion.",
+  "keyPhrases": [
+    { "thai": "คุณทำงานอะไร", "pronunciation": "khun tham-ngaan a-rai", "english": "What work do you do?", "context": "Asking about a job" },
+    { "thai": "ผมทำงานที่...", "pronunciation": "phom tham-ngaan thii...", "english": "I work at...", "context": "Naming your workplace" },
+    { "thai": "ผมเป็นครู", "pronunciation": "phom pen khruu", "english": "I'm a teacher", "context": "Stating your role" },
+    { "thai": "ผมเรียน...", "pronunciation": "phom rian...", "english": "I study...", "context": "For students" },
+    { "thai": "ผมเรียนที่มหาวิทยาลัย", "pronunciation": "phom rian thii ma-haa-wit-tha-yaa-lai", "english": "I study at university", "context": "Where you study" },
+    { "thai": "ผมมีประชุม", "pronunciation": "phom mii pra-chum", "english": "I have a meeting", "context": "Work schedule" },
+    { "thai": "เข้างานกี่โมง", "pronunciation": "khao ngaan kii moong", "english": "What time do you start work?", "context": "เข้างาน / เลิกงาน" },
+    { "thai": "เพื่อนร่วมงาน", "pronunciation": "phuean-ruam-ngaan", "english": "colleague", "context": "People at work" },
+    { "thai": "งานยุ่ง", "pronunciation": "ngaan yung", "english": "work is busy", "context": "Common reply" },
+    { "thai": "สู้ๆ", "pronunciation": "suu-suu", "english": "Keep it up! / You can do it!", "context": "Friendly encouragement" }
+  ],
+  "grammar": [
+    {
+      "rule": "ที่ + place for where you work",
+      "explanation": "Use ที่ (thii, at) plus the place to say where you work or study: ผมทำงานที่โรงพยาบาล (I work at a hospital), ผมเรียนที่กรุงเทพ (I study in Bangkok).",
+      "examples": [
+        { "th": "ผมทำงานที่ธนาคาร", "en": "I work at a bank." },
+        { "th": "เขาเรียนที่เชียงใหม่", "en": "She studies in Chiang Mai." }
+      ],
+      "commonMistake": "Dropping ที่ before the place. It marks the location: ทำงานที่บ้าน."
+    },
+    {
+      "rule": "เป็น for professions",
+      "explanation": "State your profession with เป็น plus the job, no classifier needed: ผมเป็นวิศวกร (I am an engineer), เขาเป็นหมอ (he is a doctor).",
+      "examples": [
+        { "th": "ผมเป็นนักเรียน", "en": "I am a student." },
+        { "th": "เธอเป็นพยาบาล", "en": "She is a nurse." }
+      ],
+      "commonMistake": "Using an adjective frame for a job. Professions are nouns and take เป็น."
+    }
+  ],
+  "dialogue": {
+    "setup": "At a gathering, Noi and Aek get to know each other and talk about work.",
+    "lines": [
+      { "speaker": "น้อย", "thai": "คุณทำงานอะไรคะ", "pronunciation": "khun tham-ngaan a-rai kha", "english": "What work do you do?" },
+      { "speaker": "เอก", "thai": "ผมเป็นวิศวกร ทำงานที่บริษัทครับ", "pronunciation": "phom pen wit-sa-wa-kon, tham-ngaan thii bo-ri-sat khrap", "english": "I'm an engineer, I work at a company." },
+      { "speaker": "น้อย", "thai": "ผมยังเรียนอยู่ค่ะ เรียนหมอ", "pronunciation": "phom yang rian yuu kha, rian mor", "english": "I'm still studying, studying medicine." },
+      { "speaker": "เอก", "thai": "เรียนหมอยากไหมครับ", "pronunciation": "rian mor yaak mai khrap", "english": "Is studying medicine hard?" },
+      { "speaker": "น้อย", "thai": "ยากค่ะ แล้วก็งานยุ่งมาก", "pronunciation": "yaak kha, laeo ko ngaan yung maak", "english": "Hard, and very busy." },
+      { "speaker": "เอก", "thai": "สู้ๆ นะครับ", "pronunciation": "suu-suu na khrap", "english": "Keep it up!" },
+      { "speaker": "น้อย", "thai": "ขอบคุณค่ะ คุณก็เหมือนกันนะคะ", "pronunciation": "khop-khun kha, khun ko meuan-kan na kha", "english": "Thanks, you too." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you ask 'What work do you do?'",
+      "correctAnswer": "คุณทำงานอะไร",
+      "explanation": "คุณ + ทำงาน (work) + อะไร (what)."
+    },
+    {
+      "type": "fill-blank",
+      "question": "ผมทำงาน_____ธนาคาร (at the bank)",
+      "correctAnswer": "ที่",
+      "explanation": "ที่ marks the workplace."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which is correct for 'I am a teacher'?",
+      "options": ["ผมครู", "ผมเป็นครู", "ผมมีครู", "ผมที่ครู"],
+      "correctAnswer": "ผมเป็นครู",
+      "explanation": "เป็น links you to the profession."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does สู้ๆ express?",
+      "options": ["I'm tired", "Keep it up / you can do it", "I'm busy", "See you later"],
+      "correctAnswer": "Keep it up / you can do it",
+      "explanation": "สู้ๆ is friendly encouragement."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: บริษัท / ที่ / ทำงาน / ผม",
+      "correctAnswer": "ผมทำงานที่บริษัท",
+      "explanation": "ผม + ทำงาน (work) + ที่บริษัท (at the company)."
+    }
+  ],
+  "status": "complete"
+}

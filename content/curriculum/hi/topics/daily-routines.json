@@ -1,0 +1,90 @@
+{
+  "slug": "daily-routines",
+  "title": "Daily Routines",
+  "titleNative": "दैनिक दिनचर्या",
+  "shortSummary": "Describe your day, from waking up to sleeping, using everyday Hindi verbs.",
+  "level": "beginner",
+  "order": 7,
+  "icon": "☀️",
+  "color": "#f08c00",
+  "culturalNote": "A typical Indian day often begins early with chai (चाय), the spiced milk tea that fuels the country, and many households take a moment for prayer or a visit to a small home shrine. Lunch (दोपहर का खाना) and the evening meal (रात का खाना) are usually warm, freshly cooked, and shared, and a mid-afternoon cup of tea is a beloved ritual. In cities, long commutes shape the routine, while in villages life follows the sun more closely. Touching the feet of elders in the morning is a respectful way to start the day in traditional families. Saying you do something roz (रोज़, daily) or hamesha (हमेशा, always) is a natural way to describe habits, and the habitual present tense (with -ta/-ti hai) is the workhorse for routines.",
+  "keyPhrases": [
+    { "native": "मैं सुबह जल्दी उठता हूँ", "transliteration": "main subah jaldi uthta hoon", "english": "I wake up early in the morning (man)", "pronunciation": "main SOO-buh JUL-dee OOTH-taa hoon", "context": "Start of day" },
+    { "native": "मैं चाय पीता हूँ", "transliteration": "main chai peeta hoon", "english": "I drink tea (man speaking)", "pronunciation": "main chai PEE-taa hoon", "context": "Morning habit" },
+    { "native": "मैं नहाता हूँ", "transliteration": "main nahaata hoon", "english": "I bathe (man speaking)", "pronunciation": "main nuh-HAA-taa hoon", "context": "Getting ready" },
+    { "native": "मैं काम पर जाता हूँ", "transliteration": "main kaam par jaata hoon", "english": "I go to work (man speaking)", "pronunciation": "main kaam par JAA-taa hoon", "context": "Daytime" },
+    { "native": "मैं दोपहर में खाना खाता हूँ", "transliteration": "main dopahar mein khaana khaata hoon", "english": "I eat lunch in the afternoon (man)", "pronunciation": "main doh-puh-HAR mein KHAA-naa KHAA-taa hoon", "context": "Midday" },
+    { "native": "मैं शाम को टहलता हूँ", "transliteration": "main shaam ko tahalta hoon", "english": "I take a walk in the evening (man)", "pronunciation": "main shaam koh TEH-hel-taa hoon", "context": "Evening" },
+    { "native": "मैं रात को सोता हूँ", "transliteration": "main raat ko sota hoon", "english": "I sleep at night (man speaking)", "pronunciation": "main raat koh SOH-taa hoon", "context": "End of day" },
+    { "native": "मैं रोज़ ऐसा करता हूँ", "transliteration": "main roz aisa karta hoon", "english": "I do this every day (man)", "pronunciation": "main rohz AI-saa KUR-taa hoon", "context": "Talking about habit" },
+    { "native": "आप कब उठते हैं?", "transliteration": "aap kab uthte hain?", "english": "When do you wake up?", "pronunciation": "aap kub OOTH-tay hain", "context": "Asking a habit" },
+    { "native": "फिर मैं आराम करता हूँ", "transliteration": "phir main aaraam karta hoon", "english": "Then I rest (man speaking)", "pronunciation": "fir main aa-RAAM KUR-taa hoon", "context": "Sequencing" }
+  ],
+  "grammar": [
+    {
+      "rule": "Habitual present (-ta/-ti hai)",
+      "explanation": "To say something you do regularly, use the verb stem plus -ta (man) or -ti (woman) plus the form of hona. Main uthta hoon means 'I get up (regularly)'. This is the tense of routines and habits.",
+      "examples": [
+        { "native": "मैं चाय पीता हूँ। (main chai peeta hoon.)", "en": "I drink tea. (man, habitually)" },
+        { "native": "वह जल्दी सोती है। (vah jaldi soti hai.)", "en": "She sleeps early." }
+      ],
+      "commonMistake": "Forgetting the gender ending; a woman says peeti hoon, not peeta hoon."
+    },
+    {
+      "rule": "Time-of-day with ko and mein",
+      "explanation": "Parts of the day take a postposition: raat ko (at night), subah (in the morning, often without a postposition), shaam ko (in the evening), dopahar mein (in the afternoon). These usually come near the start of the sentence.",
+      "examples": [
+        { "native": "रात को मैं पढ़ता हूँ। (raat ko main padhta hoon.)", "en": "At night I study. (man)" },
+        { "native": "सुबह मैं दौड़ता हूँ। (subah main daudta hoon.)", "en": "In the morning I run. (man)" }
+      ],
+      "commonMistake": "Saying raat mein for 'at night'; the idiomatic phrase is raat ko."
+    }
+  ],
+  "dialogue": {
+    "setup": "Two friends, Rahul and Neha, talk about their daily routines over chai.",
+    "lines": [
+      { "speaker": "Rahul", "native": "नेहा, तुम सुबह कब उठती हो?", "transliteration": "Neha, tum subah kab uthti ho?", "english": "Neha, when do you wake up in the morning?" },
+      { "speaker": "Neha", "native": "मैं छह बजे उठती हूँ और चाय पीती हूँ।", "transliteration": "main chhah baje uthti hoon aur chai peeti hoon.", "english": "I get up at six and drink tea." },
+      { "speaker": "Rahul", "native": "फिर तुम क्या करती हो?", "transliteration": "phir tum kya karti ho?", "english": "Then what do you do?" },
+      { "speaker": "Neha", "native": "मैं नहाती हूँ और काम पर जाती हूँ।", "transliteration": "main nahaati hoon aur kaam par jaati hoon.", "english": "I bathe and go to work." },
+      { "speaker": "Rahul", "native": "मैं भी रोज़ ऐसा करता हूँ।", "transliteration": "main bhi roz aisa karta hoon.", "english": "I do the same every day too." },
+      { "speaker": "Neha", "native": "शाम को मैं टहलती हूँ। और तुम?", "transliteration": "shaam ko main tahalti hoon. aur tum?", "english": "In the evening I take a walk. And you?" },
+      { "speaker": "Rahul", "native": "मैं शाम को आराम करता हूँ और जल्दी सोता हूँ।", "transliteration": "main shaam ko aaraam karta hoon aur jaldi sota hoon.", "english": "In the evening I rest and sleep early." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How does a man say 'I drink tea' (habitually) in Hindi?",
+      "correctAnswer": "मैं चाय पीता हूँ (main chai peeta hoon)",
+      "explanation": "Peeta hoon is the masculine habitual present of 'to drink'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which is the correct way to say 'at night'?",
+      "options": ["रात में", "रात को", "रात पर", "रात से"],
+      "correctAnswer": "रात को",
+      "explanation": "Raat ko is the idiomatic phrase for 'at night'."
+    },
+    {
+      "type": "fill-blank",
+      "question": "वह जल्दी _____ है। (She sleeps early)",
+      "correctAnswer": "सोती (soti)",
+      "explanation": "Soti is the feminine habitual form of 'to sleep'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does 'मैं रोज़ ऐसा करता हूँ' mean?",
+      "options": ["I will do this", "I did this", "I do this every day", "I cannot do this"],
+      "correctAnswer": "I do this every day",
+      "explanation": "Roz means 'daily' and karta hoon is the habitual present."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: हूँ / मैं / उठता / जल्दी (I wake up early)",
+      "correctAnswer": "मैं जल्दी उठता हूँ (main jaldi uthta hoon)",
+      "explanation": "Subject, adverb, then the verb phrase uthta hoon at the end."
+    }
+  ],
+  "status": "complete"
+}

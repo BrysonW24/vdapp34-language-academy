@@ -1,0 +1,26 @@
+{
+  "slug": "object-particle-o",
+  "name": "The Object Particle o",
+  "nameNative": "目的語の助詞「を」",
+  "summary": "The particle を (o) marks the direct object - the thing an action is done to. It sits right before the verb's noun.",
+  "level": "beginner",
+  "order": 2,
+  "explanation": "When an action affects a thing, that thing is the direct object, and Japanese marks it with the particle を. Although the kana を was historically 'wo', as a particle it is pronounced simply 'o'. The pattern is [object] を [verb]: パンを食べます (pan o tabemasu) means 'I eat bread', where パン (bread) is what is eaten.\n\nBecause Japanese is subject-object-verb, the を-marked object always comes before the verb. You can add a topic with は at the front: 私はパンを食べます (watashi wa pan o tabemasu), 'As for me, I eat bread'. The を simply tells the listener which noun the verb is acting on.\n\nを is also used with motion verbs to mark the space passed through, as in 公園を歩きます (kouen o arukimasu), 'I walk through the park'. For now, focus on the core use: marking the thing that receives the action.",
+  "pattern": "[object] を [verb]",
+  "examples": [
+    { "native": "水を飲みます。(mizu o nomimasu.)", "en": "I drink water." },
+    { "native": "本を読みます。(hon o yomimasu.)", "en": "I read a book." },
+    { "native": "映画を見ました。(eiga o mimashita.)", "en": "I watched a movie." },
+    { "native": "手紙を書きます。(tegami o kakimasu.)", "en": "I write a letter." },
+    { "native": "音楽を聞きます。(ongaku o kikimasu.)", "en": "I listen to music." },
+    { "native": "ドアを開けてください。(doa o akete kudasai.)", "en": "Please open the door." }
+  ],
+  "commonMistakes": [
+    "Pronouncing を as 'wo'. As a particle it is read 'o', the same as お.",
+    "Using が instead of を for the object. The thing acted upon takes を, not が.",
+    "Placing the verb before the object. The を-marked object must come before the verb.",
+    "Adding を to verbs that do not take a direct object, such as 行く (iku, to go), which uses に or へ.",
+    "Forgetting that some verbs of motion use を for the path travelled, not the object."
+  ],
+  "tip": "Ask 'what is being done to?' The answer takes を and sits just before the verb."
+}

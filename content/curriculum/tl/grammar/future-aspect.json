@@ -1,0 +1,34 @@
+{
+  "slug": "future-aspect",
+  "name": "The Future (Contemplated Aspect)",
+  "nameNative": "Ang panghinaharap (aspektong di-ganap)",
+  "summary": "Talk about plans and things not yet done using the contemplated aspect and time words like bukas and mamaya.",
+  "level": "pre-intermediate",
+  "order": 12,
+  "explanation": "Filipino has no future tense as such, but it does have a contemplated aspect for actions that have not yet begun. This is the form you use for plans and the future. It is built by reduplicating the first syllable of the root and keeping (or dropping) the affix without the past marker.\n\nFor mag- verbs, the pattern is mag- plus a doubled first syllable: from luto (cook), magluluto ako (I will cook); from trabaho, magtatrabaho ako (I will work). For um- verbs, you drop the infix and double the first syllable: from kain, kakain ako (I will eat); from punta, pupunta ako (I will go).\n\nTime words make the future clear: bukas (tomorrow), mamaya (later today), sa susunod na linggo (next week). You can also express intention with gusto (want) plus a verb, or balak (plan to). For example, balak kong pumunta sa Cebu means I plan to go to Cebu. The reduplicated first syllable is the heart of the future, so train your ear to catch that doubled sound.",
+  "pattern": "mag- + CV-reduplication | um-verbs: CV-reduplication (no infix) + time word",
+  "conjugation": {
+    "kain -> ": "kakain (will eat)",
+    "punta -> ": "pupunta (will go)",
+    "luto -> ": "magluluto (will cook)",
+    "trabaho -> ": "magtatrabaho (will work)",
+    "basa -> ": "magbabasa (will read)",
+    "tulog -> ": "matutulog (will sleep)"
+  },
+  "examples": [
+    { "native": "Pupunta ako sa Cebu bukas.", "en": "I will go to Cebu tomorrow." },
+    { "native": "Magluluto siya mamaya.", "en": "He/She will cook later." },
+    { "native": "Kakain kami sa labas.", "en": "We will eat out." },
+    { "native": "Balak kong mag-aral ng Filipino.", "en": "I plan to study Filipino." },
+    { "native": "Magbabakasyon kami sa susunod na buwan.", "en": "We will take a holiday next month." },
+    { "native": "Matutulog na ako.", "en": "I am going to sleep now." }
+  ],
+  "commonMistakes": [
+    "Forgetting to reduplicate the first syllable, leaving the verb in its completed form.",
+    "Keeping the um- infix in the future (kumakain for will eat instead of kakain).",
+    "Adding the past marker n- to a future mag- verb (nagluluto means is cooking, not will cook).",
+    "Relying only on a time word like bukas without changing the verb to the contemplated form.",
+    "Using gusto (want) when you mean a settled plan; balak is closer to plan to."
+  ],
+  "tip": "Listen for the doubled first syllable: ka-kain, pu-punta, mag-lu-luto. That reduplication is your future-tense signal."
+}

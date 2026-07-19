@@ -1,0 +1,90 @@
+{
+  "slug": "numbers-and-time",
+  "title": "Numbers & Time",
+  "titleZh": "数字与时间",
+  "shortSummary": "Count, tell the time, and handle dates and prices, the numbers you use every day.",
+  "level": "beginner",
+  "order": 2,
+  "icon": "🕐",
+  "color": "#2f4f79",
+  "culturalNote": "Chinese numbers are wonderfully regular: once you know 1 to 10, you can build every number up to 99 by combining them, so 25 is literally 二十五 (two-ten-five). Numbers carry cultural weight too: 8 (八, bā) sounds like 发 (prosper) and is considered lucky, while 4 (四, sì) sounds like 死 (death) and is avoided. Dates run from big to small: year, then month, then day.",
+  "keyPhrases": [
+    { "chinese": "一二三", "pinyin": "yī èr sān", "english": "one two three", "context": "The first numbers" },
+    { "chinese": "十", "pinyin": "shí", "english": "ten", "context": "Key building block" },
+    { "chinese": "二十五", "pinyin": "èrshíwǔ", "english": "twenty-five", "context": "Two-ten-five, fully regular" },
+    { "chinese": "一百", "pinyin": "yìbǎi", "english": "one hundred", "context": "For prices and counting" },
+    { "chinese": "现在几点？", "pinyin": "xiànzài jǐ diǎn?", "english": "What time is it now?", "context": "Asking the time" },
+    { "chinese": "三点", "pinyin": "sān diǎn", "english": "three o'clock", "context": "On the hour" },
+    { "chinese": "三点半", "pinyin": "sān diǎn bàn", "english": "half past three", "context": "半 means half" },
+    { "chinese": "差一刻八点", "pinyin": "chà yí kè bā diǎn", "english": "quarter to eight", "context": "刻 means a quarter hour" },
+    { "chinese": "今天几号？", "pinyin": "jīntiān jǐ hào?", "english": "What's the date today?", "context": "号 marks the day" },
+    { "chinese": "多少钱？", "pinyin": "duōshao qián?", "english": "How much money?", "context": "Asking a price" }
+  ],
+  "grammar": [
+    {
+      "rule": "Building numbers from 11 to 99",
+      "explanation": "Numbers are fully regular: 11 is 十一 (ten-one), 20 is 二十 (two-ten), 25 is 二十五 (two-ten-five). Just combine the tens digit, 十, and the units.",
+      "examples": [
+        { "zh": "十二", "en": "twelve (ten-two)" },
+        { "zh": "三十四", "en": "thirty-four (three-ten-four)" }
+      ],
+      "commonMistake": "Forgetting 十 in the middle: 25 is 二十五, not 二五."
+    },
+    {
+      "rule": "Telling the time with 点",
+      "explanation": "Use 点 (diǎn) for the hour: 三点 (three o'clock). Add 半 (bàn) for half past, or use 分 (fēn) for minutes: 三点十五分 (3:15).",
+      "examples": [
+        { "zh": "现在七点。", "en": "It is seven o'clock now." },
+        { "zh": "八点半", "en": "half past eight (8:30)" }
+      ],
+      "commonMistake": "Using 小时 (hour duration) instead of 点 for clock time. Clock time uses 点."
+    }
+  ],
+  "dialogue": {
+    "setup": "Mei calls the cinema to ask about a film and ticket prices.",
+    "lines": [
+      { "speaker": "小美", "chinese": "你好，电影几点开始？", "pinyin": "Nǐ hǎo, diànyǐng jǐ diǎn kāishǐ?", "english": "Hello, what time does the film start?" },
+      { "speaker": "售票员", "chinese": "晚上八点半。", "pinyin": "Wǎnshang bā diǎn bàn.", "english": "Half past eight in the evening." },
+      { "speaker": "小美", "chinese": "一张票多少钱？", "pinyin": "Yì zhāng piào duōshao qián?", "english": "How much is one ticket?" },
+      { "speaker": "售票员", "chinese": "五十块。", "pinyin": "Wǔshí kuài.", "english": "Fifty yuan." },
+      { "speaker": "小美", "chinese": "我要两张。", "pinyin": "Wǒ yào liǎng zhāng.", "english": "I'd like two." },
+      { "speaker": "售票员", "chinese": "一共一百块。", "pinyin": "Yígòng yìbǎi kuài.", "english": "One hundred yuan in total." },
+      { "speaker": "小美", "chinese": "好，谢谢！", "pinyin": "Hǎo, xièxie!", "english": "Okay, thank you!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'twenty-five' in Chinese?",
+      "correctAnswer": "二十五",
+      "explanation": "Two-ten-five: 二十五."
+    },
+    {
+      "type": "fill-blank",
+      "question": "三点_____ (half past three)",
+      "correctAnswer": "半",
+      "explanation": "半 (bàn) means half, so 三点半 is 3:30."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which number is considered lucky?",
+      "options": ["四", "八", "二", "十"],
+      "correctAnswer": "八",
+      "explanation": "八 (bā) sounds like 发 (prosper) and is lucky; 四 sounds like 'death' and is avoided."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which phrase asks the price?",
+      "options": ["现在几点？", "今天几号？", "多少钱？", "你好吗？"],
+      "correctAnswer": "多少钱？",
+      "explanation": "多少钱 means 'how much money'."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: 点 / 几 / 现在",
+      "correctAnswer": "现在几点",
+      "explanation": "现在 (now) + 几点 (what time) asks the current time."
+    }
+  ],
+  "status": "complete"
+}

@@ -1,13 +1,13 @@
 {
   "rank": 293,
-  "chinese": "面包",
-  "characters": "面包",
-  "pinyin": "miànbāo",
-  "english": "bread",
-  "pronunciation": "myen-baow (4th tone, 1st tone)",
-  "partOfSpeech": "noun",
-  "exampleZh": "我想买一个面包。",
-  "exampleEn": "I want to buy a loaf of bread.",
+  "chinese": "总是",
+  "characters": "总是",
+  "pinyin": "zǒng shì",
+  "english": "always",
+  "pronunciation": "zong-shi",
+  "partOfSpeech": "conjunction",
+  "exampleZh": "我想去，总是今天很忙。",
+  "exampleEn": "I want to go, but I am busy today.",
   "group": "everyday-250",
-  "topic": "food-and-drink"
+  "topic": "basics"
 }

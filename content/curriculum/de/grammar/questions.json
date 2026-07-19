@@ -1,0 +1,26 @@
+{
+  "slug": "questions",
+  "name": "Asking Questions",
+  "nameDe": "Fragen stellen",
+  "summary": "Form yes/no questions and W-questions (who, what, where) in German.",
+  "level": "beginner",
+  "order": 5,
+  "explanation": "German has two question types. For a yes/no question, simply put the verb first and the subject second: 'Du kommst' (You are coming) becomes 'Kommst du?' (Are you coming?).\n\nFor an open question, start with a question word, then the verb, then the subject. The common question words are: wer (who), was (what), wo (where), wann (when), warum (why), wie (how), wie viel (how much), and welcher (which).\n\nIn both types the conjugated verb is in second position (or first for yes/no), which is the heart of German word order.",
+  "pattern": "Verb + subject ...?  |  W-word + verb + subject ...?",
+  "examples": [
+    { "de": "Sprichst du Deutsch?", "en": "Do you speak German? (yes/no)" },
+    { "de": "Wo wohnst du?", "en": "Where do you live?" },
+    { "de": "Was machst du?", "en": "What are you doing?" },
+    { "de": "Wann beginnt der Film?", "en": "When does the film start?" },
+    { "de": "Wie heißt du?", "en": "What is your name? (literally: how are you called)" },
+    { "de": "Warum lernst du Deutsch?", "en": "Why are you learning German?" }
+  ],
+  "commonMistakes": [
+    "Adding 'do' as in English: it is 'Sprichst du Deutsch?', not 'Tust du Deutsch sprechen?'.",
+    "Putting the subject before the verb in a yes/no question. The verb must come first.",
+    "Using 'wer' (who) when you mean 'wo' (where). They look similar but mean different things.",
+    "Forgetting that 'wie' means 'how' but appears in name questions: 'Wie heißt du?'.",
+    "Placing the verb third after a question word. It must stay in second position."
+  ],
+  "tip": "Memorise the W-words as a set: wer, was, wo, wann, warum, wie. With these six plus verb-first inversion, you can ask almost anything."
+}

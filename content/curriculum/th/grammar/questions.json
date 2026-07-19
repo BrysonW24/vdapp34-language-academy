@@ -1,0 +1,26 @@
+{
+  "slug": "questions",
+  "name": "Asking Questions",
+  "nameTh": "การตั้งคำถาม",
+  "summary": "Form yes/no questions with ไหม and open questions with question words, keeping normal order.",
+  "level": "beginner",
+  "order": 3,
+  "explanation": "For a yes/no question, add ไหม (mai) to the end of a statement: คุณหิวไหม (khun hiu mai) = are you hungry? The word order does not change.\n\nFor open questions, you put a question word where the answer would go, again with no reordering. The key words are อะไร (a-rai, what), ใคร (khrai, who), ที่ไหน (thii-nai, where), เมื่อไหร่ (muea-rai, when), ทำไม (tham-mai, why), and ยังไง (yang-ngai, how). So คุณชื่ออะไร literally means 'you name what'.\n\nTo answer 'yes', Thai usually repeats the verb (ใช่ or the verb itself); to answer 'no', it uses ไม่ plus the verb.",
+  "pattern": "Statement + ไหม?  |  put a question word where the answer goes",
+  "examples": [
+    { "th": "คุณหิวไหม", "en": "Are you hungry?" },
+    { "th": "นี่คืออะไร", "en": "What is this?" },
+    { "th": "ห้องน้ำอยู่ที่ไหน", "en": "Where is the toilet?" },
+    { "th": "คุณมาเมื่อไหร่", "en": "When did you come?" },
+    { "th": "ทำไมคุณมาสาย", "en": "Why are you late?" },
+    { "th": "ไปยังไง", "en": "How do I get there?" }
+  ],
+  "commonMistakes": [
+    "Reordering the sentence like English. Thai keeps statement order and adds ไหม or a question word.",
+    "Using ไหม together with a question word. Use one or the other.",
+    "Forgetting that the question word sits where the answer would normally go.",
+    "Adding a rising tone but no ไหม. In speech the particle does the work of the question.",
+    "Confusing เมื่อไหร่ (when) with ที่ไหน (where), which sound somewhat similar to beginners."
+  ],
+  "tip": "Start with ไหม. Turning any statement into a yes/no question is just adding one word at the end."
+}

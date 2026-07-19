@@ -1,13 +1,13 @@
 {
   "rank": 291,
-  "chinese": "牛奶",
-  "characters": "牛奶",
-  "pinyin": "niúnǎi",
-  "english": "milk",
-  "pronunciation": "nyoh-nigh (2nd tone, 3rd tone)",
+  "chinese": "式",
+  "characters": "式",
+  "pinyin": "shì",
+  "english": "Mode",
+  "pronunciation": "shi",
   "partOfSpeech": "noun",
-  "exampleZh": "我每天喝牛奶。",
-  "exampleEn": "I drink milk every day.",
+  "exampleZh": "我喜欢模式。",
+  "exampleEn": "I like Mode.",
   "group": "everyday-250",
-  "topic": "food-and-drink"
+  "topic": "basics"
 }

@@ -1,13 +1,11 @@
 {
   "rank": 508,
-  "german": "Schlüssel",
-  "english": "key",
-  "pronunciation": "SHLUE-sel",
-  "partOfSpeech": "noun",
-  "gender": "masculine",
-  "article": "der",
-  "exampleDe": "Ich habe meinen Schlüssel verloren.",
-  "exampleEn": "I have lost my key.",
+  "german": "nimmt",
+  "english": "to takes",
+  "pronunciation": "n ɪ m t",
+  "partOfSpeech": "verb",
+  "exampleDe": "Er nimmt das heute.",
+  "exampleEn": "He takes that today.",
   "group": "confident-350",
-  "topic": "home"
+  "topic": "actions"
 }

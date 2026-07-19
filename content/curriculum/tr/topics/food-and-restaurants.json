@@ -1,0 +1,90 @@
+{
+  "slug": "food-and-restaurants",
+  "title": "Food & Restaurants",
+  "titleNative": "Yemek ve restoranlar",
+  "shortSummary": "Order food and drinks, ask for the bill, and navigate a Turkish restaurant or cafe.",
+  "level": "beginner",
+  "order": 4,
+  "icon": "🍽️",
+  "color": "#c2255c",
+  "culturalNote": "Food is at the heart of Turkish hospitality, and a guest is rarely allowed to leave hungry. A typical meal begins with meze, small shared plates, and tea (çay) follows almost everything; it is served black in small tulip-shaped glasses, and Turks drink it all day long. When ordering, you say what you want followed by lütfen (please), and a polite waiter is addressed with a simple bakar mısınız? (could you look here?). Turkish coffee (Türk kahvesi) is thick, served with a glass of water, and ordered by sweetness: sade (no sugar), az şekerli (little sugar), or şekerli (sweet). To say you have eaten well, the lovely phrase elinize sağlık (health to your hands) thanks whoever cooked. Tipping around five to ten percent is normal in restaurants if a service charge is not already included.",
+  "keyPhrases": [
+    { "native": "Menü, lütfen", "english": "The menu, please", "pronunciation": "meh-NEW lewt-FEHN", "context": "When you sit down" },
+    { "native": "Bir çay, lütfen", "english": "One tea, please", "pronunciation": "beer chai lewt-FEHN", "context": "Ordering a drink" },
+    { "native": "Bunu istiyorum", "english": "I want this", "pronunciation": "boo-NOO ees-tee-YOH-room", "context": "Pointing at the menu" },
+    { "native": "Et yemiyorum", "english": "I don't eat meat", "pronunciation": "eht yeh-mee-YOH-room", "context": "Dietary needs" },
+    { "native": "Çok lezzetli", "english": "Very delicious", "pronunciation": "chohk lehz-zeht-LEE", "context": "Complimenting the food" },
+    { "native": "Hesap, lütfen", "english": "The bill, please", "pronunciation": "heh-SAHP lewt-FEHN", "context": "Ready to pay" },
+    { "native": "Bakar mısınız?", "english": "Excuse me (to call the waiter)", "pronunciation": "bah-KAHR muh-suh-NUHZ", "context": "Getting attention" },
+    { "native": "Su istiyorum", "english": "I'd like water", "pronunciation": "soo ees-tee-YOH-room", "context": "Asking for water" },
+    { "native": "Afiyet olsun", "english": "Enjoy your meal / Bon appetit", "pronunciation": "ah-fee-YEHT ohl-SOON", "context": "Said before or after eating" },
+    { "native": "Elinize sağlık", "english": "Health to your hands (thanks to the cook)", "pronunciation": "eh-lee-nee-ZEH sah-LUHK", "context": "Praising whoever cooked" }
+  ],
+  "grammar": [
+    {
+      "rule": "The accusative -i for a specific object",
+      "explanation": "When you order a specific, definite thing, Turkish marks it with the accusative ending -i/-ı/-u/-ü (chosen by vowel harmony). Bunu istiyorum (I want this) uses bu plus -nu. A general, non-specific order leaves the noun bare: çay istiyorum (I want tea, tea in general).",
+      "examples": [
+        { "native": "Hesabı istiyorum.", "en": "I want the bill (this specific one)." },
+        { "native": "Bir kahve istiyorum.", "en": "I want a coffee (any coffee)." }
+      ],
+      "commonMistake": "Adding the accusative to a general order. Say su istiyorum, not suyu istiyorum, unless you mean a specific water."
+    },
+    {
+      "rule": "Asking politely with the question particle mı",
+      "explanation": "Turkish forms yes/no questions with the separate particle mı/mi/mu/mü, placed after the relevant word and following vowel harmony. To call a waiter you say bakar mısınız? (would you look?). The particle never attaches as a written suffix; it stays a separate word.",
+      "examples": [
+        { "native": "Menü var mı?", "en": "Is there a menu?" },
+        { "native": "Bu acı mı?", "en": "Is this spicy?" }
+      ],
+      "commonMistake": "Forgetting to harmonise the particle. After 'acı' it is acı mı, but after 'tuzlu' it is tuzlu mu."
+    }
+  ],
+  "dialogue": {
+    "setup": "A customer sits down at a lokanta (casual restaurant) and orders dinner from the waiter.",
+    "lines": [
+      { "speaker": "Garson", "native": "Hoş geldiniz. Buyurun.", "english": "Welcome. Go ahead (please order)." },
+      { "speaker": "Müşteri", "native": "Merhaba. Menü, lütfen.", "english": "Hello. The menu, please." },
+      { "speaker": "Garson", "native": "Buyurun. Bugün mercimek çorbası çok güzel.", "english": "Here you are. The lentil soup is very nice today." },
+      { "speaker": "Müşteri", "native": "Bir çorba ve bir köfte istiyorum. Et yemediğimi söyleyemem!", "english": "I'd like a soup and a kofte. I can't say I don't eat meat!" },
+      { "speaker": "Garson", "native": "Tabii. İçecek olarak ne alırsınız?", "english": "Of course. What would you like to drink?" },
+      { "speaker": "Müşteri", "native": "Bir ayran, lütfen.", "english": "An ayran, please." },
+      { "speaker": "Garson", "native": "Hemen geliyor. Afiyet olsun!", "english": "Coming right up. Enjoy your meal!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you ask for 'The bill, please' in Turkish?",
+      "correctAnswer": "Hesap, lütfen",
+      "explanation": "Hesap is the bill; lütfen is please."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which phrase calls the waiter politely?",
+      "options": ["Afiyet olsun", "Bakar mısınız?", "Çok lezzetli", "Hoş geldiniz"],
+      "correctAnswer": "Bakar mısınız?",
+      "explanation": "Bakar mısınız? literally means 'would you look?' and is the standard way to get attention."
+    },
+    {
+      "type": "fill-blank",
+      "question": "Bir çay, _____. (One tea, please)",
+      "correctAnswer": "lütfen",
+      "explanation": "Lütfen means 'please' and comes at the end of the request."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What do you say to thank whoever cooked?",
+      "options": ["Afiyet olsun", "Elinize sağlık", "Hoş geldiniz", "Buyurun"],
+      "correctAnswer": "Elinize sağlık",
+      "explanation": "Elinize sağlık means 'health to your hands', a warm compliment to the cook."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: istiyorum / bunu",
+      "correctAnswer": "Bunu istiyorum",
+      "explanation": "Bunu istiyorum means 'I want this', with the object before the verb."
+    }
+  ],
+  "status": "complete"
+}

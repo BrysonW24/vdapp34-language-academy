@@ -1,0 +1,90 @@
+{
+  "slug": "personal-info",
+  "title": "Personal Information",
+  "titleNative": "व्यक्तिगत जानकारी",
+  "shortSummary": "Share your name, country, age, and what you do, the basics of any introduction in Hindi.",
+  "level": "beginner",
+  "order": 2,
+  "icon": "🪪",
+  "color": "#1971c2",
+  "culturalNote": "When Indians meet, early questions about your hometown (आप कहाँ से हैं?), your work, and your family are signs of friendliness, not nosiness; they help place you in a social web. People often ask 'what do you do?' early because profession carries a lot of social weight. Many Indians are multilingual, so it is common to ask which languages you speak (आप कौन सी भाषाएँ बोलते हैं?), and switching between Hindi and English mid-sentence (Hinglish) is completely normal. Age and marital status may come up sooner than Western visitors expect, especially from older relatives, and a vague answer is perfectly acceptable. Using ji (जी) after a name or as a standalone 'yes' adds politeness, as in Sharma-ji.",
+  "keyPhrases": [
+    { "native": "मेरा नाम ... है", "transliteration": "mera naam ... hai", "english": "My name is ...", "pronunciation": "MAY-raa naam ... hai", "context": "Introducing yourself" },
+    { "native": "मैं भारत से हूँ", "transliteration": "main Bharat se hoon", "english": "I am from India", "pronunciation": "main BHAA-rut say hoon", "context": "Saying your country" },
+    { "native": "आप कहाँ से हैं?", "transliteration": "aap kahaan se hain?", "english": "Where are you from?", "pronunciation": "aap kuh-HAAN say hain", "context": "Asking origin" },
+    { "native": "मैं ऑस्ट्रेलिया में रहता हूँ", "transliteration": "main Australia mein rehta hoon", "english": "I live in Australia (man speaking)", "pronunciation": "main ... mein REH-taa hoon", "context": "Where you live" },
+    { "native": "मेरी उम्र तीस साल है", "transliteration": "meri umar tees saal hai", "english": "I am thirty years old", "pronunciation": "MAY-ree OO-mur tees saal hai", "context": "Stating your age" },
+    { "native": "मैं एक शिक्षक हूँ", "transliteration": "main ek shikshak hoon", "english": "I am a teacher", "pronunciation": "main ek SHIK-shuk hoon", "context": "Saying your job" },
+    { "native": "आप क्या काम करते हैं?", "transliteration": "aap kya kaam karte hain?", "english": "What work do you do?", "pronunciation": "aap kyaa kaam KUR-tay hain", "context": "Asking occupation" },
+    { "native": "मैं हिंदी सीख रहा हूँ", "transliteration": "main Hindi seekh raha hoon", "english": "I am learning Hindi (man speaking)", "pronunciation": "main HIN-dee seekh ruh-HAA hoon", "context": "Talking about study" },
+    { "native": "मेरा फ़ोन नंबर ... है", "transliteration": "mera phone number ... hai", "english": "My phone number is ...", "pronunciation": "MAY-raa fone NUM-bar ... hai", "context": "Sharing contact" },
+    { "native": "मुझे माफ़ कीजिए", "transliteration": "mujhe maaf kijiye", "english": "Excuse me / I'm sorry", "pronunciation": "MOO-jhay maaf KEE-ji-yay", "context": "Polite interruption" }
+  ],
+  "grammar": [
+    {
+      "rule": "The verb 'to be' (hona) in the present",
+      "explanation": "The verb hona (होना, to be) changes with the subject: main hoon (I am), tum ho (you informal are), aap/ve hain (you polite/they are), vah hai (he/she is). It always sits at the end of the sentence.",
+      "examples": [
+        { "native": "मैं छात्र हूँ। (main chhaatr hoon.)", "en": "I am a student." },
+        { "native": "वह डॉक्टर है। (vah doctor hai.)", "en": "He/She is a doctor." }
+      ],
+      "commonMistake": "Using hai (singular) with main; the correct form is main hoon."
+    },
+    {
+      "rule": "Verb agreement with the speaker's gender",
+      "explanation": "Hindi verbs in many tenses agree with the gender of the subject. A man says rehta hoon (I live) and karta hoon (I do); a woman says rehti hoon and karti hoon. The ending switches -ta to -ti for feminine subjects.",
+      "examples": [
+        { "native": "मैं दिल्ली में रहता हूँ। (main Dilli mein rehta hoon.)", "en": "I live in Delhi. (man)" },
+        { "native": "मैं दिल्ली में रहती हूँ। (main Dilli mein rehti hoon.)", "en": "I live in Delhi. (woman)" }
+      ],
+      "commonMistake": "A woman using the -ta ending; she should use -ti to match her gender."
+    }
+  ],
+  "dialogue": {
+    "setup": "Anjali, an Indian student, chats with Tom, an Australian traveller, at a language meetup.",
+    "lines": [
+      { "speaker": "Anjali", "native": "नमस्ते! मेरा नाम अंजली है। आपका नाम क्या है?", "transliteration": "namaste! mera naam Anjali hai. aapka naam kya hai?", "english": "Hello! My name is Anjali. What is your name?" },
+      { "speaker": "Tom", "native": "नमस्ते अंजली! मैं टॉम हूँ। मैं ऑस्ट्रेलिया से हूँ।", "transliteration": "namaste Anjali! main Tom hoon. main Australia se hoon.", "english": "Hello Anjali! I'm Tom. I'm from Australia." },
+      { "speaker": "Anjali", "native": "अच्छा! आप क्या काम करते हैं?", "transliteration": "achha! aap kya kaam karte hain?", "english": "Oh nice! What work do you do?" },
+      { "speaker": "Tom", "native": "मैं एक इंजीनियर हूँ। और मैं हिंदी सीख रहा हूँ।", "transliteration": "main ek engineer hoon. aur main Hindi seekh raha hoon.", "english": "I'm an engineer. And I'm learning Hindi." },
+      { "speaker": "Anjali", "native": "बहुत अच्छा! आप कहाँ रहते हैं?", "transliteration": "bahut achha! aap kahaan rehte hain?", "english": "Very good! Where do you live?" },
+      { "speaker": "Tom", "native": "मैं सिडनी में रहता हूँ। आप कहाँ से हैं?", "transliteration": "main Sydney mein rehta hoon. aap kahaan se hain?", "english": "I live in Sydney. Where are you from?" },
+      { "speaker": "Anjali", "native": "मैं जयपुर से हूँ। आपसे मिलकर खुशी हुई!", "transliteration": "main Jaipur se hoon. aapse milkar khushi hui!", "english": "I'm from Jaipur. Nice to meet you!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'Where are you from?' (polite) in Hindi?",
+      "correctAnswer": "आप कहाँ से हैं? (aap kahaan se hain?)",
+      "explanation": "Kahaan means 'where' and se means 'from'; the polite aap takes hain."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "A woman saying 'I live in Delhi' should say:",
+      "options": ["मैं दिल्ली में रहता हूँ", "मैं दिल्ली में रहती हूँ", "मैं दिल्ली में रहते हैं", "मैं दिल्ली से रहती हूँ"],
+      "correctAnswer": "मैं दिल्ली में रहती हूँ",
+      "explanation": "Rehti is the feminine form; rehta is for a man."
+    },
+    {
+      "type": "fill-blank",
+      "question": "मैं भारत _____ हूँ। (I am from India)",
+      "correctAnswer": "से (se)",
+      "explanation": "Se is the postposition meaning 'from'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which correctly completes 'मैं छात्र ___' (I am a student)?",
+      "options": ["है", "हैं", "हूँ", "हो"],
+      "correctAnswer": "हूँ",
+      "explanation": "With main (I), the verb hona becomes hoon."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: है / नाम / मेरा / टॉम (My name is Tom)",
+      "correctAnswer": "मेरा नाम टॉम है (mera naam Tom hai)",
+      "explanation": "Possessive first, then noun, then name, then the verb hai at the end."
+    }
+  ],
+  "status": "complete"
+}

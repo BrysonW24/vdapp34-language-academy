@@ -1,0 +1,90 @@
+{
+  "slug": "weather-and-seasons",
+  "title": "Weather & Seasons",
+  "titleNative": "Tempo e estações",
+  "shortSummary": "Talk about the weather, the seasons, and Brazil's mostly warm climate.",
+  "level": "beginner",
+  "order": 12,
+  "icon": "🌤️",
+  "color": "#4a90d9",
+  "culturalNote": "Brazil is a vast, mostly warm country, and the seasons are reversed from the northern hemisphere: summer (o verão) runs from December to March, winter (o inverno) from June to September. Much of the country is hot year-round, with a rainy season rather than a cold one in many regions. The grammar point to remember is that weather usually uses the verb fazer: faz calor (it's hot), faz frio (it's cold), literally 'it makes hot/cold'. For some conditions you use other verbs: está chovendo (it's raining), tem sol (it's sunny). Weather is friendly small talk everywhere.",
+  "keyPhrases": [
+    { "native": "Como está o tempo?", "english": "What's the weather like?", "pronunciation": "KOH-moo es-TAH oo TEM-poo", "context": "Asking about weather" },
+    { "native": "Faz calor", "english": "It's hot", "pronunciation": "fahs kah-LOR", "context": "Hot weather" },
+    { "native": "Faz frio", "english": "It's cold", "pronunciation": "fahs FREE-oo", "context": "Cold weather" },
+    { "native": "Está chovendo", "english": "It's raining", "pronunciation": "es-TAH shoh-VEN-doo", "context": "Rain" },
+    { "native": "Tem sol", "english": "It's sunny", "pronunciation": "tayn sol", "context": "Sunshine" },
+    { "native": "Está nublado", "english": "It's cloudy", "pronunciation": "es-TAH noo-BLAH-doo", "context": "Clouds" },
+    { "native": "Está ventando", "english": "It's windy", "pronunciation": "es-TAH ven-TAN-doo", "context": "Wind" },
+    { "native": "no verão", "english": "in summer", "pronunciation": "noo veh-ROWN", "context": "A season" },
+    { "native": "no inverno", "english": "in winter", "pronunciation": "noo een-VEHR-noo", "context": "A season" },
+    { "native": "Amanhã vai fazer sol", "english": "Tomorrow it will be sunny", "pronunciation": "ah-mah-NYAN vai fah-ZEHR sol", "context": "Forecast" }
+  ],
+  "grammar": [
+    {
+      "rule": "Fazer for weather",
+      "explanation": "Portuguese describes much weather with fazer (to make/do) in the third person: faz calor (it's hot), faz frio (it's cold), faz sol (it's sunny). It literally means 'it makes heat'.",
+      "examples": [
+        { "native": "Hoje faz muito calor.", "en": "Today it's very hot." },
+        { "native": "No inverno faz frio.", "en": "In winter it's cold." }
+      ],
+      "commonMistake": "Using ser and saying é calor for the weather; use faz calor."
+    },
+    {
+      "rule": "Está + gerund for current weather",
+      "explanation": "For weather happening right now, use estar plus the gerund: está chovendo (it's raining), está ventando (it's windy), está nevando (it's snowing).",
+      "examples": [
+        { "native": "Está chovendo muito.", "en": "It's raining a lot." },
+        { "native": "Está fazendo calor.", "en": "It's being hot (right now)." }
+      ],
+      "commonMistake": "Using the simple present chove where Brazilians prefer está chovendo for the live moment."
+    }
+  ],
+  "dialogue": {
+    "setup": "Two friends plan a beach day and check the weather.",
+    "lines": [
+      { "speaker": "Ana", "native": "Como está o tempo hoje?", "english": "What's the weather like today?" },
+      { "speaker": "Léo", "native": "Faz calor e tem sol.", "english": "It's hot and sunny." },
+      { "speaker": "Ana", "native": "Que bom! E amanhã?", "english": "Great! And tomorrow?" },
+      { "speaker": "Léo", "native": "Amanhã talvez chova.", "english": "Tomorrow it might rain." },
+      { "speaker": "Ana", "native": "Que pena. No verão chove bastante.", "english": "What a shame. In summer it rains quite a bit." },
+      { "speaker": "Léo", "native": "Verdade. Vamos hoje então.", "english": "True. Let's go today then." },
+      { "speaker": "Ana", "native": "Boa ideia!", "english": "Good idea!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you ask 'What's the weather like?' in Portuguese?",
+      "correctAnswer": "Como está o tempo?",
+      "explanation": "Como está o tempo? asks about the current weather."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which verb does Portuguese use for 'it's hot'?",
+      "options": ["ser", "fazer", "ter", "estar"],
+      "correctAnswer": "fazer",
+      "explanation": "Faz calor uses fazer, not ser."
+    },
+    {
+      "type": "fill-blank",
+      "question": "Está _____. (raining)",
+      "correctAnswer": "chovendo",
+      "explanation": "Está chovendo uses estar plus the gerund of chover."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "When is summer in Brazil?",
+      "options": ["June to September", "December to March", "March to June", "All year"],
+      "correctAnswer": "December to March",
+      "explanation": "Brazil's seasons are reversed; o verão is Dec-Mar."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: frio / faz",
+      "correctAnswer": "Faz frio",
+      "explanation": "Faz frio means 'it's cold'."
+    }
+  ],
+  "status": "complete"
+}

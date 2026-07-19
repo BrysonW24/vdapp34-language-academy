@@ -1,0 +1,26 @@
+{
+  "slug": "possession",
+  "name": "Possession with ของ",
+  "nameTh": "การแสดงความเป็นเจ้าของ",
+  "summary": "Show ownership with ของ (khong) placed between the thing owned and the owner.",
+  "level": "elementary",
+  "order": 10,
+  "explanation": "To say something belongs to someone, Thai uses ของ (khong, of) in the order Thing + ของ + Owner: หนังสือของผม (nangsuu khong phom) = my book (book of me).\n\nIn casual speech ของ is often dropped, leaving just Thing + Owner: หนังสือผม also means 'my book'. Both are correct, but ของ is a little clearer and slightly more formal.\n\nThe same pattern works with names and nouns: รถของคุณ (your car), บ้านของเรา (our house). ของ can also stand alone to mean 'thing' or 'belongings'.",
+  "pattern": "Thing + ของ + Owner  (ของ can be dropped casually)",
+  "examples": [
+    { "th": "หนังสือของผม", "en": "my book (book of me)" },
+    { "th": "รถของคุณ", "en": "your car" },
+    { "th": "บ้านของเรา", "en": "our house" },
+    { "th": "กระเป๋าของเขา", "en": "his/her bag" },
+    { "th": "นี่คือของผม", "en": "this is mine" },
+    { "th": "โทรศัพท์ผม", "en": "my phone (ของ dropped)" }
+  ],
+  "commonMistakes": [
+    "Reversing the order. Thai is Thing + ของ + Owner, not Owner + Thing.",
+    "Adding an apostrophe-style ending. Thai has no possessive ending; it uses ของ or word order.",
+    "Thinking ของ is always required. It is often dropped in casual speech.",
+    "Placing ของ before the thing. It sits between the thing and the owner.",
+    "Confusing ของ (of / belonging) with the spoken 'thing', though it can mean both."
+  ],
+  "tip": "Read it as 'the X of Y': หนังสือของผม is 'the book of me', that is, my book."
+}

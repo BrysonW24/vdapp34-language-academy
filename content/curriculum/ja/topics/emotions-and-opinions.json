@@ -1,0 +1,90 @@
+{
+  "slug": "emotions-and-opinions",
+  "title": "Emotions & Opinions",
+  "titleNative": "きもちといけん",
+  "shortSummary": "Express feelings, give opinions, and agree or disagree politely and indirectly in Japanese.",
+  "level": "pre-intermediate",
+  "order": 15,
+  "icon": "💭",
+  "color": "#7048e8",
+  "culturalNote": "Japanese communication values harmony (wa) and reading the atmosphere (kuuki o yomu), so opinions are often softened, hedged, or left slightly open rather than stated bluntly. The pattern -to omoimasu ('I think that...') cushions a view, and even strong feelings are usually expressed with care. Direct disagreement is rare; a phrase like chotto... ('that's a little...') trailing off is widely understood as a gentle 'no'. The concepts of honne (your true feelings) and tatemae (the socially appropriate face you present) explain why people may agree outwardly while privately differing. This is not dishonesty but a way of preserving relationships. Emotion words still flow freely among friends, where ureshii (happy), kanashii (sad), and tanoshii (fun) describe feelings warmly, but in formal settings the register stays modest and considerate.",
+  "keyPhrases": [
+    { "native": "嬉しいです", "transliteration": "ureshii desu", "english": "I'm happy", "pronunciation": "oo-REH-shee dess", "context": "Positive feeling" },
+    { "native": "悲しいです", "transliteration": "kanashii desu", "english": "I'm sad", "pronunciation": "ka-NA-shee dess", "context": "Negative feeling" },
+    { "native": "そう思います", "transliteration": "sou omoimasu", "english": "I think so", "pronunciation": "SOH oh-moy-mas", "context": "Agreeing with a view" },
+    { "native": "私もそう思います", "transliteration": "watashi mo sou omoimasu", "english": "I think so too", "pronunciation": "wa-TA-shee mo SOH oh-moy-mas", "context": "Strong agreement" },
+    { "native": "賛成です", "transliteration": "sansei desu", "english": "I agree", "pronunciation": "SAN-say dess", "context": "Formal agreement" },
+    { "native": "ちょっと難しいです", "transliteration": "chotto muzukashii desu", "english": "That's a bit difficult", "pronunciation": "CHOT-to moo-zoo-ka-shee dess", "context": "Soft disagreement" },
+    { "native": "本当ですか", "transliteration": "hontou desu ka", "english": "Really?", "pronunciation": "hon-TOH dess kah", "context": "Showing surprise" },
+    { "native": "心配です", "transliteration": "shinpai desu", "english": "I'm worried", "pronunciation": "shin-PAI dess", "context": "Concern" },
+    { "native": "どう思いますか", "transliteration": "dou omoimasu ka", "english": "What do you think?", "pronunciation": "DOH oh-moy-mas kah", "context": "Asking an opinion" },
+    { "native": "なるほど", "transliteration": "naruhodo", "english": "I see / That makes sense", "pronunciation": "na-roo-HO-do", "context": "Acknowledging" }
+  ],
+  "grammar": [
+    {
+      "rule": "Stating opinions with -to omoimasu",
+      "explanation": "To give an opinion politely, end the idea with the quotation particle to followed by omoimasu ('I think'). Ii to omoimasu means 'I think it's good'. The to wraps the preceding clause as the content of your thought, softening the assertion and making it sound thoughtful rather than dogmatic.",
+      "examples": [
+        { "native": "いいアイデアだと思います。(ii aidea da to omoimasu)", "en": "I think it's a good idea." },
+        { "native": "難しいと思います。(muzukashii to omoimasu)", "en": "I think it's difficult." }
+      ],
+      "commonMistake": "Dropping the particle to before omoimasu, which breaks the 'I think that...' structure."
+    },
+    {
+      "rule": "Soft refusal with chotto",
+      "explanation": "Chotto literally means 'a little', but when trailed off it functions as a polite, indirect refusal. Chotto muzukashii desu ('it's a little difficult') signals 'no' while protecting harmony. The listener understands the meaning from the hesitation without needing a blunt rejection.",
+      "examples": [
+        { "native": "今日はちょっと…。(kyou wa chotto...)", "en": "Today is a little... (meaning: I can't)." },
+        { "native": "それはちょっと難しいです。(sore wa chotto muzukashii desu)", "en": "That's a little difficult (a soft no)." }
+      ],
+      "commonMistake": "Reading chotto literally as 'a little' and missing that a trailed-off chotto is a polite refusal."
+    }
+  ],
+  "dialogue": {
+    "setup": "Two coworkers, Aiko and Mark, discuss a proposed plan.",
+    "lines": [
+      { "speaker": "アイコ", "native": "この計画についてどう思いますか。", "transliteration": "kono keikaku ni tsuite dou omoimasu ka", "english": "What do you think about this plan?" },
+      { "speaker": "マーク", "native": "いいアイデアだと思います。", "transliteration": "ii aidea da to omoimasu", "english": "I think it's a good idea." },
+      { "speaker": "アイコ", "native": "私もそう思います。でも、時間がちょっと…。", "transliteration": "watashi mo sou omoimasu. demo, jikan ga chotto...", "english": "I think so too. But the timing is a little..." },
+      { "speaker": "マーク", "native": "なるほど。難しいですか。", "transliteration": "naruhodo. muzukashii desu ka", "english": "I see. Is it difficult?" },
+      { "speaker": "アイコ", "native": "はい、少し心配です。", "transliteration": "hai, sukoshi shinpai desu", "english": "Yes, I'm a little worried." },
+      { "speaker": "マーク", "native": "では、来週はどうですか。", "transliteration": "dewa, raishuu wa dou desu ka", "english": "Then, how about next week?" },
+      { "speaker": "アイコ", "native": "それはいいですね。賛成です。", "transliteration": "sore wa ii desu ne. sansei desu", "english": "That sounds good. I agree." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'I think so' in Japanese?",
+      "correctAnswer": "そう思います (sou omoimasu)",
+      "explanation": "Sou ('so / that way') plus omoimasu ('I think') expresses agreement with a view."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which particle wraps a clause as the content of 'I think'?",
+      "options": ["を (o)", "と (to)", "が (ga)", "で (de)"],
+      "correctAnswer": "と (to)",
+      "explanation": "The quotation particle to links the idea to omoimasu: '...to omoimasu'."
+    },
+    {
+      "type": "fill-blank",
+      "question": "いいアイデアだ _____ 思います。(I think it's a good idea)",
+      "correctAnswer": "と (to)",
+      "explanation": "The quotation particle と precedes omoimasu to mean 'I think that...'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does a trailed-off 'chotto...' usually signal?",
+      "options": ["Strong agreement", "A polite, indirect refusal", "A request for more", "Genuine confusion"],
+      "correctAnswer": "A polite, indirect refusal",
+      "explanation": "A hesitant 'chotto...' is widely understood as a gentle 'no' that preserves harmony."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: 思いますか / どう (what do you think?)",
+      "correctAnswer": "どう思いますか (dou omoimasu ka)",
+      "explanation": "Dou ('how') + omoimasu ka asks 'what / how do you think?'."
+    }
+  ],
+  "status": "complete"
+}

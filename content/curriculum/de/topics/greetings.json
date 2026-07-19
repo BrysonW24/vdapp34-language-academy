@@ -1,0 +1,90 @@
+{
+  "slug": "greetings",
+  "title": "Greetings & Goodbyes",
+  "titleDe": "Begrüßungen und Abschiede",
+  "shortSummary": "Greet people, introduce yourself, and say goodbye in German, the foundation of every conversation.",
+  "level": "beginner",
+  "order": 1,
+  "icon": "👋",
+  "color": "#2f4f79",
+  "culturalNote": "Germans value a clear, firm greeting. A handshake is standard when meeting someone, even in casual settings, and good eye contact signals respect. The big social decision is Sie versus du: use the formal Sie with strangers, older people, and in professional life until you are invited to switch to the informal du. Regional greetings vary: you will hear Moin in the north, Servus in Bavaria and Austria, and Gruezi in Switzerland.",
+  "keyPhrases": [
+    { "german": "Hallo", "english": "Hello", "pronunciation": "HAH-loh", "context": "Universal, works in almost any situation" },
+    { "german": "Guten Morgen", "english": "Good morning", "pronunciation": "GOO-ten MOR-gen", "context": "Used until around 11am" },
+    { "german": "Guten Tag", "english": "Good day / Hello", "pronunciation": "GOO-ten tahk", "context": "Standard daytime greeting, slightly formal" },
+    { "german": "Guten Abend", "english": "Good evening", "pronunciation": "GOO-ten AH-bent", "context": "Used from early evening" },
+    { "german": "Wie geht es Ihnen?", "english": "How are you? (formal)", "pronunciation": "vee gayt es EE-nen", "context": "Formal, with strangers or elders" },
+    { "german": "Wie geht's?", "english": "How are you? (informal)", "pronunciation": "vee gayts", "context": "Casual, with friends" },
+    { "german": "Mir geht es gut, danke", "english": "I'm well, thank you", "pronunciation": "meer gayt es goot DAHN-kuh", "context": "Standard polite reply" },
+    { "german": "Auf Wiedersehen", "english": "Goodbye", "pronunciation": "owf VEE-der-zayn", "context": "Formal farewell" },
+    { "german": "Tschüss", "english": "Bye", "pronunciation": "chooss", "context": "Casual, very common farewell" },
+    { "german": "Bis bald", "english": "See you soon", "pronunciation": "bis bahlt", "context": "Friendly closing" }
+  ],
+  "grammar": [
+    {
+      "rule": "Formal Sie vs informal du",
+      "explanation": "German has two words for 'you': Sie (formal, always capitalised) and du (informal). Use Sie with strangers, older people, and at work; use du with friends, family, and children.",
+      "examples": [
+        { "de": "Wie geht es Ihnen?", "en": "How are you? (formal)" },
+        { "de": "Wie geht es dir?", "en": "How are you? (informal)" }
+      ],
+      "commonMistake": "Using du with a stranger or an older person, which can sound too familiar or even rude."
+    },
+    {
+      "rule": "Greetings by time of day",
+      "explanation": "German greetings change with the time: Guten Morgen in the morning, Guten Tag during the day, Guten Abend in the evening. Gute Nacht is only for going to bed.",
+      "examples": [
+        { "de": "Guten Morgen!", "en": "Good morning!" },
+        { "de": "Guten Abend!", "en": "Good evening!" }
+      ],
+      "commonMistake": "Saying Gute Nacht as an evening greeting. It only means 'good night' when leaving to sleep."
+    }
+  ],
+  "dialogue": {
+    "setup": "Frau Weber meets her new colleague Herr Klein in the office on his first morning.",
+    "lines": [
+      { "speaker": "Frau Weber", "german": "Guten Morgen!", "english": "Good morning!" },
+      { "speaker": "Herr Klein", "german": "Guten Morgen! Wie geht es Ihnen?", "english": "Good morning! How are you?" },
+      { "speaker": "Frau Weber", "german": "Sehr gut, danke. Und Ihnen?", "english": "Very well, thank you. And you?" },
+      { "speaker": "Herr Klein", "german": "Auch gut, danke. Ich bin Herr Klein, der neue Kollege.", "english": "Also well, thanks. I'm Mr Klein, the new colleague." },
+      { "speaker": "Frau Weber", "german": "Freut mich! Ich bin Frau Weber.", "english": "Nice to meet you! I'm Mrs Weber." },
+      { "speaker": "Herr Klein", "german": "Freut mich auch. Bis später!", "english": "Nice to meet you too. See you later!" },
+      { "speaker": "Frau Weber", "german": "Bis später! Schönen Tag noch!", "english": "See you later! Have a nice day!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'Good evening' in German?",
+      "correctAnswer": "Guten Abend",
+      "explanation": "Guten Abend is used from the early evening onward."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which greeting is formal?",
+      "options": ["Wie geht's?", "Wie geht es Ihnen?", "Tschüss", "Hallo"],
+      "correctAnswer": "Wie geht es Ihnen?",
+      "explanation": "Ihnen is the formal form. 'Wie geht's?' is the casual short version."
+    },
+    {
+      "type": "fill-blank",
+      "question": "Guten _____ (greeting used before 11am)",
+      "correctAnswer": "Morgen",
+      "explanation": "Guten Morgen is the morning greeting."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which word means a casual 'bye'?",
+      "options": ["Auf Wiedersehen", "Guten Tag", "Tschüss", "Danke"],
+      "correctAnswer": "Tschüss",
+      "explanation": "Tschüss is the everyday informal farewell; Auf Wiedersehen is formal."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: geht / es / mir / gut",
+      "correctAnswer": "Mir geht es gut",
+      "explanation": "The reply puts mir first, then the verb geht in second position."
+    }
+  ],
+  "status": "complete"
+}

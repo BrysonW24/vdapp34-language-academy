@@ -1,0 +1,21 @@
+{
+  "slug": "survival",
+  "title": "Survival Filipino",
+  "description": "The essential phrases to get by anywhere in the Philippines. Learn these first.",
+  "situation": "Absolute basics: greetings, please, thank you, help, and signalling when you do not understand.",
+  "order": 1,
+  "phrases": [
+    { "native": "Kumusta po", "english": "Hello / How are you", "pronunciation": "koo-moos-TA po", "formality": "formal", "tip": "Adding po makes it polite. Drop it with close friends: kumusta." },
+    { "native": "Salamat po", "english": "Thank you", "pronunciation": "sa-LA-mat po", "formality": "formal", "tip": "Reply with walang anuman (you're welcome)." },
+    { "native": "Pakiusap", "english": "Please", "pronunciation": "pa-kee-OO-sap", "formality": "neutral", "tip": "In requests, the prefix paki- on a verb already means please, like pakibukas (please open)." },
+    { "native": "Paumanhin po", "english": "Excuse me / Sorry", "pronunciation": "pa-oo-MAN-hin po", "formality": "formal", "tip": "The everyday spoken version is pasensya na po." },
+    { "native": "Oo / Hindi", "english": "Yes / No", "pronunciation": "OH-oh / hin-DEE", "formality": "neutral", "tip": "Polite yes is opo; polite no is hindi po." },
+    { "native": "Hindi ko maintindihan", "english": "I don't understand", "pronunciation": "hin-DEE ko ma-in-tin-DEE-han", "formality": "neutral", "tip": "The single most useful survival phrase." },
+    { "native": "Marunong ka ba ng Ingles?", "english": "Do you speak English?", "pronunciation": "ma-ROO-nong ka ba nang ing-LES", "formality": "informal", "tip": "Most Filipinos speak some English, so this opens many doors." },
+    { "native": "Pwede po bang ulitin?", "english": "Can you repeat that?", "pronunciation": "PWE-de po bang oo-LEE-tin", "formality": "formal" },
+    { "native": "Magkano po ito?", "english": "How much is this?", "pronunciation": "mag-KA-no po ee-TO", "formality": "formal" },
+    { "native": "Nasaan po ang banyo?", "english": "Where is the toilet?", "pronunciation": "na-sa-AN po ang BAN-yo", "formality": "formal", "tip": "Banyo or CR (comfort room) both work." },
+    { "native": "Kailangan ko ng tulong", "english": "I need help", "pronunciation": "ka-ee-LA-ngan ko nang TOO-long", "formality": "neutral" },
+    { "native": "Paalam po", "english": "Goodbye", "pronunciation": "pa-A-lam po", "formality": "formal", "tip": "Casual: sige, often paired with a wave or bye." }
+  ]
+}

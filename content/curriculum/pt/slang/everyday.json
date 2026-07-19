@@ -1,0 +1,25 @@
+{
+  "slug": "everyday",
+  "title": "Everyday Slang",
+  "description": "The casual Brazilian Portuguese a young carioca or paulista actually uses with friends every day.",
+  "situation": "Hanging out, texting, and chatting informally with friends in Brazil.",
+  "order": 1,
+  "phrases": [
+    { "native": "E aí?", "english": "Hey, what's up?", "pronunciation": "ee-ah-EE", "formality": "informal", "tip": "The default casual greeting between friends. Literally 'and there?'" },
+    { "native": "Beleza?", "english": "All good? / Cool?", "pronunciation": "beh-LEH-zah", "formality": "informal", "tip": "Works as a greeting and as 'okay, deal'. Literally 'beauty'. Often shortened to 'belê'" },
+    { "native": "Tudo bem?", "english": "Everything good?", "pronunciation": "TOO-doo BENG", "formality": "neutral", "tip": "Safe everywhere, from friends to shopkeepers. Reply with 'tudo' or 'tudo bem'" },
+    { "native": "Massa!", "english": "Awesome! / Cool!", "pronunciation": "MAH-sah", "formality": "informal", "tip": "Very common, especially in the northeast and among younger people" },
+    { "native": "Maneiro", "english": "Cool / neat", "pronunciation": "mah-NAY-roo", "formality": "informal", "tip": "Classic Rio slang for something cool or a nice person" },
+    { "native": "Valeu!", "english": "Thanks! / Cheers!", "pronunciation": "vah-LAY-oo", "formality": "informal", "tip": "Casual 'thanks', also used as 'see ya'. From 'valer', to be worth it" },
+    { "native": "Cara", "english": "Dude / man", "pronunciation": "KAH-rah", "formality": "informal", "tip": "Friendly address term for a guy, like 'mate'. Literally 'face'. 'Mano' is the same idea" },
+    { "native": "Tô liso", "english": "I'm broke", "pronunciation": "toh LEE-zoo", "formality": "informal", "tip": "Out of cash. Literally 'I'm smooth'. 'Tô' is the casual spoken form of 'estou'" },
+    { "native": "Que isso, cara!", "english": "No way! / Come on!", "pronunciation": "kee EE-soo KAH-rah", "formality": "informal", "tip": "Surprise or friendly protest. Literally 'what's this, dude'" },
+    { "native": "Nossa!", "english": "Wow! / Geez!", "pronunciation": "NOH-sah", "formality": "informal", "tip": "Everyday exclamation of surprise. Short for 'Nossa Senhora' but no longer feels religious" },
+    { "native": "Que legal!", "english": "How nice! / That's great!", "pronunciation": "kee leh-GOW", "formality": "neutral", "tip": "Friendly and widely acceptable. 'Legal' is the go-to word for 'cool' or 'nice'" },
+    { "native": "Tá ligado?", "english": "You know what I mean?", "pronunciation": "tah lee-GAH-doo", "formality": "informal", "tip": "Filler check used mid-sentence, like 'you feel me?'. Literally 'are you switched on?'" },
+    { "native": "Vamos nessa!", "english": "Let's go! / Let's get moving!", "pronunciation": "VAH-mooz NEH-sah", "formality": "informal", "tip": "Said when it's time to head out or get started. Literally 'let's go in this'" },
+    { "native": "Tô morto", "english": "I'm exhausted / wiped out", "pronunciation": "toh MOR-too", "formality": "informal", "tip": "Dead tired, not literal. Playful exaggeration after a long day" },
+    { "native": "Que mico!", "english": "How embarrassing!", "pronunciation": "kee MEE-koo", "formality": "informal", "tip": "'Pagar mico' is to embarrass yourself. Literally 'what a monkey'. Light and cheeky" },
+    { "native": "Saideira", "english": "One last drink for the road", "pronunciation": "sah-ee-DAY-rah", "formality": "informal", "tip": "The final round before leaving a bar. A real cultural ritual in Brazil" }
+  ]
+}

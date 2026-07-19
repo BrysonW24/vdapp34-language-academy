@@ -1,0 +1,90 @@
+{
+  "slug": "work-and-school",
+  "title": "Work & School",
+  "titleNative": "काम और स्कूल",
+  "shortSummary": "Talk about your job, your studies, and your workplace or classroom in Hindi.",
+  "level": "beginner",
+  "order": 9,
+  "icon": "💼",
+  "color": "#1864ab",
+  "culturalNote": "Education is held in very high regard across India, and parents often make great sacrifices for their children's schooling. Many schools and offices operate in both Hindi and English, and switching between them is routine. Teachers are deeply respected; students often greet a teacher with namaste guruji and the festival of Teachers' Day (Shikshak Divas) honours them each September. In the workplace, hierarchy matters, and a senior is often addressed as sir or madam or with ji after their name. Punctuality expectations vary by setting; formal offices value it, while social timing can be more relaxed, sometimes affectionately called 'Indian Stretchable Time'. Asking someone 'aap kya kaam karte hain?' (what work do you do?) is a normal early-conversation question.",
+  "keyPhrases": [
+    { "native": "मैं ऑफिस में काम करता हूँ", "transliteration": "main office mein kaam karta hoon", "english": "I work in an office (man)", "pronunciation": "main OFF-iss mein kaam KUR-taa hoon", "context": "Describing your job" },
+    { "native": "मैं एक छात्र हूँ", "transliteration": "main ek chhaatr hoon", "english": "I am a student (male)", "pronunciation": "main ek CHHAA-tr hoon", "context": "Saying you study" },
+    { "native": "आप क्या पढ़ते हैं?", "transliteration": "aap kya padhte hain?", "english": "What do you study?", "pronunciation": "aap kyaa PUDH-tay hain", "context": "Asking about studies" },
+    { "native": "मेरी नौकरी अच्छी है", "transliteration": "meri naukri achhi hai", "english": "My job is good", "pronunciation": "MAY-ree NOWK-ree UCH-chee hai", "context": "Talking about work" },
+    { "native": "मैं नौ बजे काम शुरू करता हूँ", "transliteration": "main nau baje kaam shuru karta hoon", "english": "I start work at nine (man)", "pronunciation": "main now BUH-jay kaam shoo-ROO KUR-taa hoon", "context": "Work hours" },
+    { "native": "मेरा बॉस अच्छा है", "transliteration": "mera boss achha hai", "english": "My boss is good", "pronunciation": "MAY-raa boss UCH-chaa hai", "context": "Talking about work" },
+    { "native": "स्कूल कितने बजे है?", "transliteration": "school kitne baje hai?", "english": "What time is school?", "pronunciation": "skool KIT-nay BUH-jay hai", "context": "Asking schedule" },
+    { "native": "मुझे गणित पसंद है", "transliteration": "mujhe ganit pasand hai", "english": "I like maths", "pronunciation": "MOO-jhay GUH-nit puh-SUND hai", "context": "Favourite subject" },
+    { "native": "मैं घर से काम करता हूँ", "transliteration": "main ghar se kaam karta hoon", "english": "I work from home (man)", "pronunciation": "main ghar say kaam KUR-taa hoon", "context": "Remote work" },
+    { "native": "आज मेरी परीक्षा है", "transliteration": "aaj meri pareeksha hai", "english": "I have an exam today", "pronunciation": "aaj MAY-ree puh-REEK-shaa hai", "context": "School life" }
+  ],
+  "grammar": [
+    {
+      "rule": "Pasand hai for 'to like'",
+      "explanation": "To say you like something, Hindi uses pasand hai (literally 'is liked') with the liker marked by ko or the pronoun mujhe. Mujhe ganit pasand hai means 'maths is pleasing to me', so the thing liked is the grammatical subject.",
+      "examples": [
+        { "native": "मुझे हिंदी पसंद है। (mujhe Hindi pasand hai.)", "en": "I like Hindi." },
+        { "native": "उसे संगीत पसंद है। (use sangeet pasand hai.)", "en": "He/She likes music." }
+      ],
+      "commonMistake": "Saying main pasand karta hoon for simple 'I like'; the natural phrase is mujhe ... pasand hai."
+    },
+    {
+      "rule": "Compound verbs with karna",
+      "explanation": "Many work and study activities are formed by a noun plus karna (to do): kaam karna (to work), shuru karna (to start), padhaai karna (to study). The karna part conjugates while the noun stays fixed.",
+      "examples": [
+        { "native": "मैं काम करता हूँ। (main kaam karta hoon.)", "en": "I work. (man)" },
+        { "native": "वह पढ़ाई करती है। (vah padhaai karti hai.)", "en": "She studies." }
+      ],
+      "commonMistake": "Conjugating the noun instead of karna; only karna changes for person and gender."
+    }
+  ],
+  "dialogue": {
+    "setup": "Lisa, learning Hindi, chats with Deepak about their work and study.",
+    "lines": [
+      { "speaker": "Lisa", "native": "दीपक, आप क्या काम करते हैं?", "transliteration": "Deepak, aap kya kaam karte hain?", "english": "Deepak, what work do you do?" },
+      { "speaker": "Deepak", "native": "मैं एक ऑफिस में काम करता हूँ। और आप?", "transliteration": "main ek office mein kaam karta hoon. aur aap?", "english": "I work in an office. And you?" },
+      { "speaker": "Lisa", "native": "मैं एक छात्रा हूँ। मैं हिंदी पढ़ती हूँ।", "transliteration": "main ek chhaatra hoon. main Hindi padhti hoon.", "english": "I'm a student. I study Hindi." },
+      { "speaker": "Deepak", "native": "बहुत अच्छा! क्या आपको हिंदी पसंद है?", "transliteration": "bahut achha! kya aapko Hindi pasand hai?", "english": "Very nice! Do you like Hindi?" },
+      { "speaker": "Lisa", "native": "जी हाँ, मुझे हिंदी बहुत पसंद है।", "transliteration": "ji haan, mujhe Hindi bahut pasand hai.", "english": "Yes, I like Hindi very much." },
+      { "speaker": "Deepak", "native": "आप कितने बजे पढ़ाई शुरू करती हैं?", "transliteration": "aap kitne baje padhaai shuru karti hain?", "english": "What time do you start studying?" },
+      { "speaker": "Lisa", "native": "मैं सुबह नौ बजे शुरू करती हूँ।", "transliteration": "main subah nau baje shuru karti hoon.", "english": "I start at nine in the morning." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'I like Hindi' in Hindi?",
+      "correctAnswer": "मुझे हिंदी पसंद है (mujhe Hindi pasand hai)",
+      "explanation": "Pasand hai means 'is liked', with the liker marked by mujhe."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which phrase means 'I work in an office' (man speaking)?",
+      "options": ["मैं एक छात्र हूँ", "मैं ऑफिस में काम करता हूँ", "मेरा बॉस अच्छा है", "आज मेरी परीक्षा है"],
+      "correctAnswer": "मैं ऑफिस में काम करता हूँ",
+      "explanation": "Office mein kaam karta hoon means 'I work in an office'."
+    },
+    {
+      "type": "fill-blank",
+      "question": "वह पढ़ाई _____ है। (She studies)",
+      "correctAnswer": "करती (karti)",
+      "explanation": "In the compound verb padhaai karna, karna conjugates to feminine karti."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does 'आज मेरी परीक्षा है' mean?",
+      "options": ["I have a job today", "I have an exam today", "I start work today", "I like maths"],
+      "correctAnswer": "I have an exam today",
+      "explanation": "Pareeksha means 'exam' and aaj means 'today'."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: करता / मैं / हूँ / काम (I work)",
+      "correctAnswer": "मैं काम करता हूँ (main kaam karta hoon)",
+      "explanation": "Subject, the noun kaam, then the verb karta hoon at the end."
+    }
+  ],
+  "status": "complete"
+}

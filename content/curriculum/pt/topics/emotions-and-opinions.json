@@ -1,0 +1,90 @@
+{
+  "slug": "emotions-and-opinions",
+  "title": "Emotions & Opinions",
+  "titleNative": "Emoções e opiniões",
+  "shortSummary": "Express how you feel, share opinions, and agree or disagree in Portuguese.",
+  "level": "pre-intermediate",
+  "order": 15,
+  "icon": "💬",
+  "color": "#d35400",
+  "culturalNote": "Brazilians are warm and openly expressive, and feelings flow easily into conversation. Most feelings use estar plus an adjective that agrees with you: estou feliz (I'm happy), estou cansado (tired, male) or cansada (female). To give an opinion, the natural openers are eu acho que (I think that) and na minha opinião (in my opinion). Eu acho que is by far the most common and friendly way to share a view. Disagreeing is fine and done gently, often softened with é, mas... (yes, but...). Animated, friendly discussion is enjoyed.",
+  "keyPhrases": [
+    { "native": "Estou feliz", "english": "I'm happy", "pronunciation": "es-TOH feh-LEES", "context": "Positive feeling" },
+    { "native": "Estou triste", "english": "I'm sad", "pronunciation": "es-TOH TREES-tee", "context": "Negative feeling" },
+    { "native": "Estou cansado", "english": "I'm tired", "pronunciation": "es-TOH kan-SAH-doo", "context": "Adjective agrees with gender" },
+    { "native": "Estou com raiva", "english": "I'm angry", "pronunciation": "es-TOH kohn HAI-vah", "context": "Strong emotion" },
+    { "native": "Eu acho que...", "english": "I think that...", "pronunciation": "EH-oo AH-shoo kee", "context": "Giving an opinion" },
+    { "native": "Na minha opinião", "english": "In my opinion", "pronunciation": "nah MEE-nyah oh-pee-nee-OWN", "context": "Stating a view" },
+    { "native": "Concordo", "english": "I agree", "pronunciation": "kon-KOR-doo", "context": "Agreeing" },
+    { "native": "Não concordo", "english": "I don't agree", "pronunciation": "nown kon-KOR-doo", "context": "Disagreeing" },
+    { "native": "Você tem razão", "english": "You're right", "pronunciation": "voh-SEH tayn hah-ZOWN", "context": "Conceding a point" },
+    { "native": "Acho uma boa ideia", "english": "I think it's a good idea", "pronunciation": "AH-shoo OO-mah BOH-ah ee-DAY-ah", "context": "Soft opinion" }
+  ],
+  "grammar": [
+    {
+      "rule": "Emotions with estar and agreement",
+      "explanation": "Feelings use estar plus an adjective that agrees with the speaker's gender and number: estou contente (m/f), estou cansado (m) or cansada (f), estamos cansados (m pl). Some use estar com: estou com medo (I'm afraid).",
+      "examples": [
+        { "native": "Estou cansada hoje.", "en": "I'm tired today. (female)" },
+        { "native": "Estamos felizes.", "en": "We're happy." }
+      ],
+      "commonMistake": "Leaving the adjective masculine when the speaker is female: say cansada."
+    },
+    {
+      "rule": "Eu acho que for opinions",
+      "explanation": "Eu acho que (I think that) is the most common way to give an opinion, followed by a normal sentence: eu acho que é caro (I think it's expensive). Na minha opinião works the same way.",
+      "examples": [
+        { "native": "Eu acho que está certo.", "en": "I think it's right." },
+        { "native": "Na minha opinião, é longe.", "en": "In my opinion, it's far." }
+      ],
+      "commonMistake": "Using penso instead of acho in casual speech, where eu acho que is far more natural in Brazil."
+    }
+  ],
+  "dialogue": {
+    "setup": "Jorge and Lúcia discuss a film they just saw.",
+    "lines": [
+      { "speaker": "Jorge", "native": "E aí, você gostou do filme?", "english": "So, did you like the film?" },
+      { "speaker": "Lúcia", "native": "Gostei, estou muito feliz. E você?", "english": "I did, I'm very happy. And you?" },
+      { "speaker": "Jorge", "native": "Eu acho que foi um pouco longo.", "english": "I think it was a bit long." },
+      { "speaker": "Lúcia", "native": "Você tem razão, mas a história era linda.", "english": "You're right, but the story was lovely." },
+      { "speaker": "Jorge", "native": "Nisso eu concordo.", "english": "On that I agree." },
+      { "speaker": "Lúcia", "native": "Acho que é um dos melhores dele.", "english": "I think it's one of his best." },
+      { "speaker": "Jorge", "native": "Talvez. Foi um bom final.", "english": "Maybe. It was a good ending." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'In my opinion' in Portuguese?",
+      "correctAnswer": "Na minha opinião",
+      "explanation": "Na minha opinião is a common way to give an opinion."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "How would a woman say 'I'm tired'?",
+      "options": ["Estou cansado", "Estou cansada", "Estou cansados", "Tenho cansada"],
+      "correctAnswer": "Estou cansada",
+      "explanation": "The adjective agrees with the speaker, so cansada for a woman."
+    },
+    {
+      "type": "fill-blank",
+      "question": "Eu _____ que é caro. (I think)",
+      "correctAnswer": "acho",
+      "explanation": "Eu acho que is the common way to give an opinion."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which phrase means 'you're right'?",
+      "options": ["Você tem razão", "Estou triste", "Não sei", "Acho bom"],
+      "correctAnswer": "Você tem razão",
+      "explanation": "Ter razão means 'to be right'."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: concordo / não",
+      "correctAnswer": "Não concordo",
+      "explanation": "Não concordo means 'I don't agree'."
+    }
+  ],
+  "status": "complete"
+}

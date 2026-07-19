@@ -1,13 +1,13 @@
 {
   "rank": 323,
-  "chinese": "办公室",
-  "characters": "办公室",
-  "pinyin": "bàngōngshì",
-  "english": "office",
-  "pronunciation": "bahn-goong-shir (4th, 1st, 4th tone)",
-  "partOfSpeech": "noun",
-  "exampleZh": "他在办公室工作。",
-  "exampleEn": "He works in the office.",
+  "chinese": "一年",
+  "characters": "一年",
+  "pinyin": "yī nián",
+  "english": "one year",
+  "pronunciation": "yi-nian",
+  "partOfSpeech": "number",
+  "exampleZh": "我有一年的书。",
+  "exampleEn": "I have one year books.",
   "group": "everyday-250",
-  "topic": "places"
+  "topic": "numbers"
 }

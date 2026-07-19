@@ -1,0 +1,21 @@
+{
+  "slug": "phone-and-digital",
+  "title": "Phone & Digital Life",
+  "description": "Stay connected in India: SIM cards, wifi, calls, messaging, and digital payments.",
+  "situation": "Modern essentials: getting a SIM, connecting online, making calls, and paying with UPI apps.",
+  "order": 8,
+  "phrases": [
+    { "native": "मुझे एक सिम कार्ड चाहिए", "transliteration": "mujhe ek SIM card chahiye", "english": "I need a SIM card", "pronunciation": "MOO-jheh ek SIM card CHAA-hee-yeh", "formality": "neutral", "tip": "You usually need a passport and photo to buy a SIM in India." },
+    { "native": "वाई-फ़ाई का पासवर्ड क्या है?", "transliteration": "wifi ka password kya hai?", "english": "What is the wifi password?", "pronunciation": "wifi kaa password kyaa hai", "formality": "neutral" },
+    { "native": "मेरा फ़ोन चार्ज नहीं हो रहा", "transliteration": "mera phone charge nahin ho raha", "english": "My phone is not charging", "pronunciation": "MEH-raa phone charge nuh-HEEN hoh RUH-haa", "formality": "neutral" },
+    { "native": "क्या यहाँ नेटवर्क है?", "transliteration": "kya yahaan network hai?", "english": "Is there a network signal here?", "pronunciation": "kyaa yuh-HAAN network hai", "formality": "neutral" },
+    { "native": "मुझे आपको फ़ोन करना है", "transliteration": "mujhe aapko phone karna hai", "english": "I need to call you", "pronunciation": "MOO-jheh AAP-koh phone KAR-naa hai", "formality": "formal" },
+    { "native": "मुझे एक मैसेज भेजिए", "transliteration": "mujhe ek message bhejiye", "english": "Please send me a message", "pronunciation": "MOO-jheh ek message BHEH-jee-yeh", "formality": "formal" },
+    { "native": "आपका नंबर क्या है?", "transliteration": "aapka number kya hai?", "english": "What is your number?", "pronunciation": "AAP-kaa number kyaa hai", "formality": "formal" },
+    { "native": "मैं आपको यूपीआई से पैसे भेजता हूँ", "transliteration": "main aapko UPI se paise bhejta hoon", "english": "I'll send you money via UPI", "pronunciation": "main AAP-koh UPI seh PAI-seh BHEJ-taa hoon", "formality": "neutral", "tip": "A woman says bhejti hoon. UPI is India's instant payment system." },
+    { "native": "क्यूआर कोड स्कैन कीजिए", "transliteration": "QR code scan kijiye", "english": "Please scan the QR code", "pronunciation": "QR code scan KEE-jee-yeh", "formality": "formal", "tip": "Most shops in India accept QR-based payments." },
+    { "native": "इंटरनेट बहुत धीमा है", "transliteration": "internet bahut dheema hai", "english": "The internet is very slow", "pronunciation": "internet buh-HUT DHEE-maa hai", "formality": "neutral" },
+    { "native": "क्या आप मेरा नंबर सेव कर लेंगे?", "transliteration": "kya aap mera number save kar lenge?", "english": "Will you save my number?", "pronunciation": "kyaa aap MEH-raa number save kar LEN-geh", "formality": "formal" },
+    { "native": "बाद में बात करते हैं", "transliteration": "baad mein baat karte hain", "english": "Let's talk later", "pronunciation": "baad mein baat KAR-teh hain", "formality": "neutral" }
+  ]
+}

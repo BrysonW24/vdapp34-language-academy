@@ -1,0 +1,34 @@
+{
+  "slug": "i-and-na-adjectives",
+  "name": "i-adjectives and na-adjectives",
+  "nameNative": "い形容詞とな形容詞",
+  "summary": "Japanese has two adjective types: i-adjectives end in い and conjugate, while na-adjectives behave like nouns and take な.",
+  "level": "elementary",
+  "order": 10,
+  "explanation": "Japanese adjectives come in two families. I-adjectives end in the kana い, like 大きい (ookii, big) and 高い (takai, expensive/tall). They conjugate by themselves: the past of 高い is 高かった (takakatta, was expensive), and the negative is 高くない (takakunai, not expensive). When they describe a noun directly, they attach with no extra word: 大きい家 (ookii ie, a big house).\n\nNa-adjectives, like 静か (shizuka, quiet) and 便利 (benri, convenient), behave more like nouns. To describe a noun, they take な: 静かな部屋 (shizukana heya, a quiet room). At the end of a sentence they use です like a noun: この部屋は静かです (kono heya wa shizuka desu). Their past and negative use でした and ではありません, just like nouns.\n\nThe key is to know which family an adjective belongs to. A reliable test: if it ends in い and that い is part of the word's natural form, it is usually an i-adjective. A few words like きれい (kirei, pretty) end in い but are actually na-adjectives, so they are worth memorising as exceptions.",
+  "pattern": "[i-adj] + noun  /  [na-adj] + な + noun",
+  "conjugation": {
+    "i-adj present": "高いです (takai desu) - is expensive",
+    "i-adj negative": "高くないです (takakunai desu) - is not expensive",
+    "i-adj past": "高かったです (takakatta desu) - was expensive",
+    "na-adj present": "静かです (shizuka desu) - is quiet",
+    "na-adj before noun": "静かな部屋 (shizukana heya) - a quiet room",
+    "na-adj negative": "静かではありません (shizuka dewa arimasen) - is not quiet"
+  },
+  "examples": [
+    { "native": "この料理は美味しいです。(kono ryouri wa oishii desu.)", "en": "This dish is delicious." },
+    { "native": "大きい犬がいます。(ookii inu ga imasu.)", "en": "There is a big dog." },
+    { "native": "昨日は寒かったです。(kinou wa samukatta desu.)", "en": "Yesterday was cold." },
+    { "native": "この町は静かです。(kono machi wa shizuka desu.)", "en": "This town is quiet." },
+    { "native": "便利な店を見つけました。(benrina mise o mitsukemashita.)", "en": "I found a convenient shop." },
+    { "native": "彼女はきれいな人です。(kanojo wa kireina hito desu.)", "en": "She is a beautiful person." }
+  ],
+  "commonMistakes": [
+    "Adding な to an i-adjective. 大きいな is wrong; i-adjectives attach directly (大きい家).",
+    "Conjugating na-adjectives like i-adjectives. The past of 静か is 静かでした, not 静かかった.",
+    "Forgetting that きれい and 有名 (yuumei) are na-adjectives despite their endings.",
+    "Forming the i-adjective negative as 高いくない. Drop the い first: 高くない.",
+    "Using です after the past い-adjective incorrectly. 高かったです is right; 高いでした is wrong."
+  ],
+  "tip": "First decide the family. I-adjectives conjugate themselves; na-adjectives lean on な and です like nouns."
+}

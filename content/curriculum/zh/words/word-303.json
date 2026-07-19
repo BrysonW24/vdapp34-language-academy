@@ -1,13 +1,13 @@
 {
   "rank": 303,
-  "chinese": "盐",
-  "characters": "盐",
-  "pinyin": "yán",
-  "english": "salt",
-  "pronunciation": "yen (2nd tone, rising)",
-  "partOfSpeech": "noun",
-  "exampleZh": "请加一点盐。",
-  "exampleEn": "Please add a little salt.",
+  "chinese": "联合",
+  "characters": "联合",
+  "pinyin": "lián hé",
+  "english": "to joint",
+  "pronunciation": "lian-he",
+  "partOfSpeech": "verb",
+  "exampleZh": "我想联合。",
+  "exampleEn": "I want to joint.",
   "group": "everyday-250",
-  "topic": "food-and-drink"
+  "topic": "actions"
 }

@@ -1,0 +1,90 @@
+{
+  "slug": "directions-and-places",
+  "title": "Directions & Places",
+  "titleNative": "Mga Direksiyon at Lugar",
+  "shortSummary": "Ask for and give directions, find places around town, and navigate Filipino streets with confidence.",
+  "level": "beginner",
+  "order": 5,
+  "icon": "🧭",
+  "color": "#0ca678",
+  "culturalNote": "Asking directions in the Philippines is a social act, and locals are famously happy to help, sometimes walking you part of the way. Landmarks beat street names: people navigate by the corner store (kanto), the church (simbahan), the plaza, or a well-known fast-food sign rather than by exact addresses. The word diretso (straight ahead) and the casual taas (up) for going further along a road are everywhere. In crowded areas, directions are often given relative to the nearest jeepney or tricycle route. A polite paraan po (excuse me, let me pass) helps you move through busy markets, and pointing with the lips, a uniquely Filipino habit, is a normal way to indicate where to go.",
+  "keyPhrases": [
+    { "native": "Saan ang banyo?", "english": "Where is the toilet?", "pronunciation": "sa-AN ang BAN-yo", "context": "Finding a place" },
+    { "native": "Paano pumunta sa palengke?", "english": "How do I get to the market?", "pronunciation": "pa-A-no pu-MUN-ta sa pa-LENG-ke", "context": "Asking the way" },
+    { "native": "Diretso lang.", "english": "Just go straight.", "pronunciation": "di-RET-so lang", "context": "Giving directions" },
+    { "native": "Kumaliwa ka.", "english": "Turn left.", "pronunciation": "ku-ma-li-WA ka", "context": "A turn instruction" },
+    { "native": "Kumanan ka.", "english": "Turn right.", "pronunciation": "ku-ma-NAN ka", "context": "A turn instruction" },
+    { "native": "Malapit lang.", "english": "It is just nearby.", "pronunciation": "ma-LA-pit lang", "context": "Describing distance" },
+    { "native": "Malayo pa ba?", "english": "Is it still far?", "pronunciation": "ma-LA-yo pa ba", "context": "Checking distance" },
+    { "native": "Nasa kanto ang tindahan.", "english": "The store is on the corner.", "pronunciation": "na-SA KAN-to ang tin-DA-han", "context": "Using a landmark" },
+    { "native": "Katabi ng simbahan.", "english": "Next to the church.", "pronunciation": "ka-ta-BI nang sim-BA-han", "context": "Landmark reference" },
+    { "native": "Nawawala ako.", "english": "I am lost.", "pronunciation": "na-wa-WA-la a-KO", "context": "Asking for help" }
+  ],
+  "grammar": [
+    {
+      "rule": "Asking 'where' with saan and the location marker sa",
+      "explanation": "Saan means 'where' and sa marks a location or destination. The pattern Saan ang + place asks where something is. To say a destination, use sa + place, as in pumunta sa Maynila (go to Manila).",
+      "examples": [
+        { "native": "Saan ang banyo?", "en": "Where is the toilet?" },
+        { "native": "Pupunta ako sa palengke.", "en": "I am going to the market." }
+      ],
+      "commonMistake": "Using ng instead of sa for a place, for example pumunta ng palengke instead of pumunta sa palengke."
+    },
+    {
+      "rule": "Location words: malapit and malayo",
+      "explanation": "Malapit means 'near' and malayo means 'far'. Add lang for 'just' to soften it (malapit lang, just nearby). Add pa ba to ask if it is still far: malayo pa ba?",
+      "examples": [
+        { "native": "Malapit lang ang istasyon.", "en": "The station is just nearby." },
+        { "native": "Malayo pa ang bahay nila.", "en": "Their house is still far." }
+      ],
+      "commonMistake": "Confusing malapit (near) with malayo (far), which are opposites."
+    }
+  ],
+  "dialogue": {
+    "setup": "A tourist, Anna, stops a local, Mang Tonyo, to find the church.",
+    "lines": [
+      { "speaker": "Anna", "native": "Excuse me po, paano pumunta sa simbahan?", "english": "Excuse me, how do I get to the church?" },
+      { "speaker": "Mang Tonyo", "native": "Ah, malapit lang po. Diretso ka lang dito.", "english": "Ah, it is just nearby. Just go straight from here." },
+      { "speaker": "Anna", "native": "Diretso po. Tapos po?", "english": "Straight. And then?" },
+      { "speaker": "Mang Tonyo", "native": "Pagdating sa kanto, kumaliwa ka.", "english": "When you reach the corner, turn left." },
+      { "speaker": "Anna", "native": "Kumaliwa po. Malayo pa ba?", "english": "Turn left. Is it still far?" },
+      { "speaker": "Mang Tonyo", "native": "Hindi na po. Nasa tabi ito ng plaza.", "english": "Not anymore. It is right beside the plaza." },
+      { "speaker": "Anna", "native": "Maraming salamat po! Malaking tulong.", "english": "Thank you very much! That helps a lot." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'Turn left' in Filipino?",
+      "correctAnswer": "Kumaliwa ka",
+      "explanation": "Kumaliwa ka tells someone to turn to the left."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which marker is used for a location or destination?",
+      "options": ["ng", "si", "sa", "ang"],
+      "correctAnswer": "sa",
+      "explanation": "Sa marks places, as in pumunta sa palengke."
+    },
+    {
+      "type": "fill-blank",
+      "question": "_____ lang. (the instruction for 'just go straight')",
+      "correctAnswer": "Diretso",
+      "explanation": "Diretso lang means 'just go straight'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does 'malapit lang' mean?",
+      "options": ["It is very far", "It is just nearby", "It is closed", "Turn right"],
+      "correctAnswer": "It is just nearby",
+      "explanation": "Malapit means near; malapit lang means 'just nearby'."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: ako / nawawala",
+      "correctAnswer": "Nawawala ako",
+      "explanation": "Nawawala ako means 'I am lost'."
+    }
+  ],
+  "status": "complete"
+}

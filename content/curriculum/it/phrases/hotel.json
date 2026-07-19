@@ -1,0 +1,21 @@
+{
+  "slug": "hotel",
+  "title": "At the Hotel",
+  "description": "Check in, ask about your room, and handle a hotel stay in Italian.",
+  "situation": "Hotels and B&Bs: checking in and out, room questions, and common requests.",
+  "order": 6,
+  "phrases": [
+    { "native": "Ho una prenotazione", "english": "I have a reservation", "pronunciation": "oh OO-nah preh-noh-tah-tsee-OH-neh", "formality": "neutral" },
+    { "native": "Avete camere libere?", "english": "Do you have rooms available?", "pronunciation": "ah-VEH-teh KAH-meh-reh LEE-beh-reh", "formality": "formal" },
+    { "native": "Una camera singola", "english": "A single room", "pronunciation": "OO-nah KAH-meh-rah SEEN-goh-lah", "formality": "neutral", "tip": "Doppia is a double room." },
+    { "native": "Per quante notti?", "english": "For how many nights?", "pronunciation": "per KWAN-teh NOT-tee", "formality": "neutral" },
+    { "native": "A che ora è il check-out?", "english": "What time is checkout?", "pronunciation": "ah keh OH-rah eh eel chek-owt", "formality": "neutral" },
+    { "native": "La colazione è inclusa?", "english": "Is breakfast included?", "pronunciation": "lah koh-lah-tsee-OH-neh eh een-KLOO-zah", "formality": "neutral" },
+    { "native": "C'è il wifi?", "english": "Is there wifi?", "pronunciation": "cheh eel WEE-fee", "formality": "neutral" },
+    { "native": "L'aria condizionata non funziona", "english": "The air conditioning isn't working", "pronunciation": "LAH-ree-ah kon-dee-tsee-oh-NAH-tah non foon-tsee-OH-nah", "formality": "neutral" },
+    { "native": "Posso lasciare le valigie?", "english": "Can I leave my luggage?", "pronunciation": "POS-soh lah-SHAH-reh leh vah-LEE-jeh", "formality": "neutral" },
+    { "native": "La chiave, per favore", "english": "The key, please", "pronunciation": "lah kee-AH-veh", "formality": "neutral" },
+    { "native": "Può chiamare un taxi?", "english": "Can you call a taxi?", "pronunciation": "pwoh kee-ah-MAH-reh oon TAK-see", "formality": "formal" },
+    { "native": "Vorrei fare il check-out", "english": "I'd like to check out", "pronunciation": "vor-RAY FAH-reh eel chek-owt", "formality": "formal" }
+  ]
+}

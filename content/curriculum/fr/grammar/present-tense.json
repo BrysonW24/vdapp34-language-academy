@@ -1,0 +1,34 @@
+{
+  "slug": "present-tense",
+  "name": "Present Tense (-er verbs)",
+  "nameNative": "Le présent (verbes en -er)",
+  "summary": "Conjugate regular -er verbs, by far the largest and most useful verb group.",
+  "level": "beginner",
+  "order": 2,
+  "explanation": "Most French verbs end in -er (parler, to speak; aimer, to like). To conjugate them, drop the -er to get the stem (parl-) and add the present-tense endings.\n\nThe endings are: -e (je), -es (tu), -e (il/elle), -ons (nous), -ez (vous), -ent (ils/elles). The je, tu, il, and ils/elles endings are all silent, so parle, parles, and parlent sound identical.\n\nFrench present tense covers both English 'I speak' and 'I am speaking', so je parle means both.",
+  "pattern": "stem + e / es / e / ons / ez / ent",
+  "conjugation": {
+    "je": "parle",
+    "tu": "parles",
+    "il/elle": "parle",
+    "nous": "parlons",
+    "vous": "parlez",
+    "ils/elles": "parlent"
+  },
+  "examples": [
+    { "native": "Je parle français.", "en": "I speak French." },
+    { "native": "Tu habites à Paris.", "en": "You live in Paris." },
+    { "native": "Elle aime le café.", "en": "She likes coffee." },
+    { "native": "Nous mangeons ensemble.", "en": "We eat together." },
+    { "native": "Vous travaillez beaucoup.", "en": "You work a lot." },
+    { "native": "Ils écoutent de la musique.", "en": "They listen to music." }
+  ],
+  "commonMistakes": [
+    "Pronouncing the silent endings. parle, parles, and parlent sound the same.",
+    "Using an English continuous form. There is no 'je suis parler'; just say je parle.",
+    "Forgetting the -ons for nous and -ez for vous, the only clearly audible endings.",
+    "Mixing up il/elle (-e) with ils/elles (-ent), which look different but sound alike.",
+    "Dropping the subject pronoun. Unlike Spanish, French keeps je, tu, il, etc."
+  ],
+  "tip": "Learn the six endings as a chant: e, es, e, ons, ez, ent. They fit thousands of -er verbs."
+}

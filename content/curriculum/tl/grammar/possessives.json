@@ -1,0 +1,34 @@
+{
+  "slug": "possessives",
+  "name": "Possessive Pronouns",
+  "nameNative": "Mga panghalip na paari",
+  "summary": "Show ownership with ko, mo, niya, and their fronted forms akin, iyo, and kaniya.",
+  "level": "elementary",
+  "order": 9,
+  "explanation": "Filipino has two related sets of possessives. The first set, the ng set, comes after the thing owned: ko (my), mo (your), niya (his/her), namin (our, not you), natin (our, and you), ninyo (your, plural/polite), and nila (their). So aklat ko means my book, and bahay niya means his/her house.\n\nThe second set is the fronted or sa set, used when the possessive comes first or stands alone for emphasis: akin (mine), iyo (yours), kaniya (his/hers), amin, atin, inyo, kanila. Akin ang aklat means the book is mine.\n\nWhen ko or mo follow a word ending in a vowel or n, they often attach with a linker (aklat ko stays separate, but gusto ko + ng becomes gusto kong). The same kami/tayo distinction from pronouns applies here: namin excludes the listener, natin includes them. Pick the set by position: after the noun use ko/mo/niya, at the front use akin/iyo/kaniya.",
+  "pattern": "after noun: ko / mo / niya | fronted: akin / iyo / kaniya",
+  "conjugation": {
+    "ko / akin": "my / mine",
+    "mo / iyo": "your / yours",
+    "niya / kaniya": "his-her / his-hers",
+    "namin / amin": "our / ours (not you)",
+    "natin / atin": "our / ours (and you)",
+    "nila / kanila": "their / theirs"
+  },
+  "examples": [
+    { "native": "Aklat ko ito.", "en": "This is my book." },
+    { "native": "Bahay niya iyon.", "en": "That is his/her house." },
+    { "native": "Akin ang sombrero.", "en": "The hat is mine." },
+    { "native": "Kotse namin iyan.", "en": "That is our car (not yours)." },
+    { "native": "Iyo ba ito?", "en": "Is this yours?" },
+    { "native": "Kanila ang lupa.", "en": "The land is theirs." }
+  ],
+  "commonMistakes": [
+    "Using akin after a noun (aklat akin) instead of the correct aklat ko.",
+    "Using ko at the front of a sentence; the fronted form is akin.",
+    "Confusing namin (excludes listener) with natin (includes listener).",
+    "Forgetting that niya covers both his and her with no gender split.",
+    "Adding ang before ko or mo; the ng-set possessives attach directly to the noun."
+  ],
+  "tip": "Position decides the set: trailing the noun, use ko/mo/niya; leading or standing alone, use akin/iyo/kaniya."
+}

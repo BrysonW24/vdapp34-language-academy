@@ -1,0 +1,90 @@
+{
+  "slug": "personal-info",
+  "title": "Personal Information",
+  "titleNative": "じこしょうかい",
+  "shortSummary": "Introduce yourself, state your name and nationality, and exchange basic personal details politely.",
+  "level": "beginner",
+  "order": 2,
+  "icon": "🪪",
+  "color": "#1971c2",
+  "culturalNote": "A Japanese self-introduction (jikoshoukai) follows a fairly fixed order: name, where you are from or your affiliation, and a closing yoroshiku onegaishimasu. The family name comes before the given name, so a person introduced as Tanaka Yuki has Tanaka as the surname. People rarely state their own name with the honorific -san; you only add -san when addressing or referring to others, never yourself. Asking someone's age or marital status directly can feel intrusive, so keep early conversations to name, nationality, and occupation. In business settings the exchange of name cards (meishi) is a small ritual: offer and receive the card with both hands, read it carefully, and never write on it in front of the giver.",
+  "keyPhrases": [
+    { "native": "お名前は何ですか", "transliteration": "onamae wa nan desu ka", "english": "What is your name?", "pronunciation": "oh-NA-mah-eh wah nan dess kah", "context": "Polite name question" },
+    { "native": "私は田中です", "transliteration": "watashi wa Tanaka desu", "english": "I am Tanaka", "pronunciation": "wa-TA-shee wah ta-na-ka dess", "context": "Stating your name" },
+    { "native": "出身はどちらですか", "transliteration": "shusshin wa dochira desu ka", "english": "Where are you from?", "pronunciation": "shoo-SHEEN wah do-chee-rah dess kah", "context": "Asking origin politely" },
+    { "native": "オーストラリア出身です", "transliteration": "ousutoraria shusshin desu", "english": "I'm from Australia", "pronunciation": "oh-soo-to-RA-ria shoo-sheen dess", "context": "Stating nationality" },
+    { "native": "仕事は何ですか", "transliteration": "shigoto wa nan desu ka", "english": "What is your job?", "pronunciation": "shee-GO-toh wah nan dess kah", "context": "Asking occupation" },
+    { "native": "学生です", "transliteration": "gakusei desu", "english": "I'm a student", "pronunciation": "ga-koo-SAY dess", "context": "Stating occupation" },
+    { "native": "日本語を勉強しています", "transliteration": "nihongo o benkyou shite imasu", "english": "I'm studying Japanese", "pronunciation": "nee-HON-go oh ben-kyoh shte ee-mas", "context": "Describing an activity" },
+    { "native": "メールアドレスは何ですか", "transliteration": "meeru adoresu wa nan desu ka", "english": "What's your email address?", "pronunciation": "MEH-roo a-do-re-soo wah nan dess kah", "context": "Exchanging contact details" },
+    { "native": "電話番号を教えてください", "transliteration": "denwa bangou o oshiete kudasai", "english": "Please tell me your phone number", "pronunciation": "DEN-wa ban-goh oh oh-shee-eh-teh koo-da-sai", "context": "Requesting a number" },
+    { "native": "どうぞよろしく", "transliteration": "douzo yoroshiku", "english": "Pleased to meet you", "pronunciation": "DOH-zo yo-rosh-koo", "context": "Friendly closing" }
+  ],
+  "grammar": [
+    {
+      "rule": "The topic particle wa",
+      "explanation": "The particle wa (written は) marks the topic of the sentence, the thing you are talking about. Watashi wa gakusei desu literally reads 'as for me, student is', meaning 'I am a student'. Although spelled with the hiragana ha, it is pronounced 'wa' when used as this particle.",
+      "examples": [
+        { "native": "私は田中です。(watashi wa Tanaka desu)", "en": "I am Tanaka." },
+        { "native": "出身はオーストラリアです。(shusshin wa ousutoraria desu)", "en": "My origin is Australia." }
+      ],
+      "commonMistake": "Pronouncing the topic particle は as 'ha' instead of 'wa'."
+    },
+    {
+      "rule": "The question word nan / nani",
+      "explanation": "Nani (何) means 'what'. It often shortens to nan before desu or counters, as in nan desu ka ('what is it?'). Place the question word where the answer would go and add ka at the end.",
+      "examples": [
+        { "native": "お名前は何ですか。(onamae wa nan desu ka)", "en": "What is your name?" },
+        { "native": "これは何ですか。(kore wa nan desu ka)", "en": "What is this?" }
+      ],
+      "commonMistake": "Saying nani desu ka before desu; the natural form is nan desu ka."
+    }
+  ],
+  "dialogue": {
+    "setup": "At a language exchange event, Emma meets Yuki for the first time.",
+    "lines": [
+      { "speaker": "ユキ", "native": "はじめまして。お名前は何ですか。", "transliteration": "hajimemashite. onamae wa nan desu ka", "english": "Nice to meet you. What is your name?" },
+      { "speaker": "エマ", "native": "エマです。出身はオーストラリアです。", "transliteration": "Ema desu. shusshin wa ousutoraria desu", "english": "I'm Emma. I'm from Australia." },
+      { "speaker": "ユキ", "native": "そうですか。お仕事は何ですか。", "transliteration": "sou desu ka. oshigoto wa nan desu ka", "english": "Is that so? What is your job?" },
+      { "speaker": "エマ", "native": "学生です。日本語を勉強しています。", "transliteration": "gakusei desu. nihongo o benkyou shite imasu", "english": "I'm a student. I'm studying Japanese." },
+      { "speaker": "ユキ", "native": "すごいですね。メールアドレスを教えてください。", "transliteration": "sugoi desu ne. meeru adoresu o oshiete kudasai", "english": "That's great. Please tell me your email address." },
+      { "speaker": "エマ", "native": "はい、どうぞ。よろしくお願いします。", "transliteration": "hai, douzo. yoroshiku onegaishimasu", "english": "Yes, here you go. Please treat me well." },
+      { "speaker": "ユキ", "native": "こちらこそ、どうぞよろしく。", "transliteration": "kochira koso, douzo yoroshiku", "english": "Likewise, pleased to meet you." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you ask 'What is your name?' politely in Japanese?",
+      "correctAnswer": "お名前は何ですか (onamae wa nan desu ka)",
+      "explanation": "Onamae adds a polite o- to namae (name), and nan desu ka asks 'what is it?'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which particle marks the topic of a sentence?",
+      "options": ["を (o)", "は (wa)", "が (ga)", "に (ni)"],
+      "correctAnswer": "は (wa)",
+      "explanation": "は (pronounced 'wa') marks the topic; it is the X in 'as for X'."
+    },
+    {
+      "type": "fill-blank",
+      "question": "私 _____ 学生です。(I am a student)",
+      "correctAnswer": "は (wa)",
+      "explanation": "The topic particle は marks 'watashi' (I) as the topic."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which sentence means 'I'm from Australia'?",
+      "options": ["学生です (gakusei desu)", "オーストラリア出身です (ousutoraria shusshin desu)", "元気です (genki desu)", "田中です (Tanaka desu)"],
+      "correctAnswer": "オーストラリア出身です (ousutoraria shusshin desu)",
+      "explanation": "Shusshin means 'origin / hometown', so this states where you are from."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: です / 私 / 学生 / は",
+      "correctAnswer": "私は学生です (watashi wa gakusei desu)",
+      "explanation": "Japanese order is topic + noun + desu: 'as for me, student is'."
+    }
+  ],
+  "status": "complete"
+}

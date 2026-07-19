@@ -1,0 +1,33 @@
+{
+  "slug": "plurals",
+  "name": "Forming Plurals",
+  "nameNative": "O plural",
+  "summary": "Portuguese usually makes plurals by adding -s, with special rules for some endings.",
+  "level": "beginner",
+  "order": 5,
+  "explanation": "Most Portuguese nouns add -s to form the plural: livro becomes livros, casa becomes casas. The article changes too: o becomes os, a becomes as.\n\nWords ending in a consonant or stressed vowel follow special patterns. Nouns ending in -r or -z add -es: flor becomes flores, luz becomes luzes. Nouns ending in -m change to -ns: homem becomes homens, jardim becomes jardins.\n\nThe trickiest group ends in -ão, which can become -ões (coração to corações), -ães (pão to pães), or -ãos (mão to mãos). These must be learned individually.",
+  "pattern": "add -s, or -es / -ns / -ões for special endings",
+  "conjugation": {
+    "vowel + s": "livro to livros",
+    "-r to -res": "flor to flores",
+    "-m to -ns": "homem to homens",
+    "-l to -is": "papel to papéis",
+    "-ão to -ões": "coração to corações"
+  },
+  "examples": [
+    { "native": "um livro, dois livros", "en": "one book, two books" },
+    { "native": "a casa, as casas", "en": "the house, the houses" },
+    { "native": "a flor, as flores", "en": "the flower, the flowers" },
+    { "native": "o homem, os homens", "en": "the man, the men" },
+    { "native": "o coração, os corações", "en": "the heart, the hearts" },
+    { "native": "a mão, as mãos", "en": "the hand, the hands" }
+  ],
+  "commonMistakes": [
+    "Just adding -s to words ending in -m. They change to -ns: jardins.",
+    "Forgetting that -l endings become -is: animal to animais.",
+    "Guessing the -ão plural; coração to corações but pão to pães.",
+    "Leaving the article singular. O livro becomes os livros.",
+    "Adding -es to words that only need -s after a vowel."
+  ],
+  "tip": "The -ão plurals are the main irregular group. When you learn such a noun, learn its plural at the same time."
+}

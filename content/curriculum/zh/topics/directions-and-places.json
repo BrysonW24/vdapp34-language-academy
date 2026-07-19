@@ -1,0 +1,90 @@
+{
+  "slug": "directions-and-places",
+  "title": "Directions & Places",
+  "titleZh": "方向与地点",
+  "shortSummary": "Ask for and understand directions, and name the places around a Chinese city.",
+  "level": "elementary",
+  "order": 6,
+  "icon": "🗺️",
+  "color": "#2f4f79",
+  "culturalNote": "Chinese cities are large and built on a grid, and people often give directions using compass points, so you may be told to go 往北 (north) rather than left or right. The metro (地铁) is the easiest way to get around big cities, with clear English signage. Apps like 高德地图 (Amap) and Baidu Maps are essential, and showing a driver your destination on the screen avoids any confusion.",
+  "keyPhrases": [
+    { "chinese": "请问，...在哪里？", "pinyin": "qǐngwèn, ...zài nǎlǐ?", "english": "Excuse me, where is...?", "context": "Polite opening" },
+    { "chinese": "怎么去...？", "pinyin": "zěnme qù...?", "english": "How do I get to...?", "context": "Asking the way" },
+    { "chinese": "一直走", "pinyin": "yìzhí zǒu", "english": "Go straight", "context": "Direction" },
+    { "chinese": "往左拐", "pinyin": "wǎng zuǒ guǎi", "english": "Turn left", "context": "往右拐 for right" },
+    { "chinese": "在那边", "pinyin": "zài nàbiān", "english": "Over there", "context": "Pointing out a place" },
+    { "chinese": "远不远？", "pinyin": "yuǎn bù yuǎn?", "english": "Is it far?", "context": "A-not-A question" },
+    { "chinese": "地铁站", "pinyin": "dìtiězhàn", "english": "Metro station", "context": "Public transport" },
+    { "chinese": "对面", "pinyin": "duìmiàn", "english": "Opposite / across", "context": "Describing a location" },
+    { "chinese": "附近", "pinyin": "fùjìn", "english": "Nearby", "context": "Close by" },
+    { "chinese": "我迷路了", "pinyin": "wǒ mílù le", "english": "I'm lost", "context": "When you need help" }
+  ],
+  "grammar": [
+    {
+      "rule": "怎么 for asking how",
+      "explanation": "怎么 (zěnme) means 'how' and comes before the verb: 怎么去 (how to go), 怎么走 (how to get there). It keeps normal word order.",
+      "examples": [
+        { "zh": "怎么去机场？", "en": "How do I get to the airport?" },
+        { "zh": "这个怎么用？", "en": "How do you use this?" }
+      ],
+      "commonMistake": "Putting 怎么 after the verb. It comes before: 怎么去, not 去怎么."
+    },
+    {
+      "rule": "在 for location",
+      "explanation": "在 (zài) means 'at / in' and marks where something is: 银行在那边 (the bank is over there). It also goes before a place when describing where an action happens.",
+      "examples": [
+        { "zh": "厕所在哪里？", "en": "Where is the toilet?" },
+        { "zh": "商店在对面。", "en": "The shop is opposite." }
+      ],
+      "commonMistake": "Dropping 在 when stating location: it is 在那边, not just 那边."
+    }
+  ],
+  "dialogue": {
+    "setup": "A tourist asks a passer-by how to reach the metro station.",
+    "lines": [
+      { "speaker": "游客", "chinese": "请问，地铁站在哪里？", "pinyin": "Qǐngwèn, dìtiězhàn zài nǎlǐ?", "english": "Excuse me, where is the metro station?" },
+      { "speaker": "路人", "chinese": "一直走，然后往左拐。", "pinyin": "Yìzhí zǒu, ránhòu wǎng zuǒ guǎi.", "english": "Go straight, then turn left." },
+      { "speaker": "游客", "chinese": "远不远？", "pinyin": "Yuǎn bù yuǎn?", "english": "Is it far?" },
+      { "speaker": "路人", "chinese": "不远，就在银行对面。", "pinyin": "Bù yuǎn, jiù zài yínháng duìmiàn.", "english": "Not far, it's right opposite the bank." },
+      { "speaker": "游客", "chinese": "走路要多久？", "pinyin": "Zǒulù yào duōjiǔ?", "english": "How long does it take on foot?" },
+      { "speaker": "路人", "chinese": "大概五分钟。", "pinyin": "Dàgài wǔ fēnzhōng.", "english": "About five minutes." },
+      { "speaker": "游客", "chinese": "太好了，谢谢您！", "pinyin": "Tài hǎo le, xièxie nín!", "english": "Great, thank you!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'Go straight'?",
+      "correctAnswer": "一直走",
+      "explanation": "一直 (straight) + 走 (walk/go)."
+    },
+    {
+      "type": "fill-blank",
+      "question": "_____去机场？ (How do I get to the airport?)",
+      "correctAnswer": "怎么",
+      "explanation": "怎么 (how) comes before the verb 去."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does 对面 mean?",
+      "options": ["nearby", "opposite", "straight ahead", "lost"],
+      "correctAnswer": "opposite",
+      "explanation": "对面 means 'opposite / across from'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which means 'turn left'?",
+      "options": ["往右拐", "往左拐", "一直走", "在那边"],
+      "correctAnswer": "往左拐",
+      "explanation": "往左拐 means 'turn left'; 往右拐 is 'turn right'."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: 在 / 哪里 / 地铁站",
+      "correctAnswer": "地铁站在哪里",
+      "explanation": "地铁站 (metro station) + 在哪里 (is where)."
+    }
+  ],
+  "status": "complete"
+}

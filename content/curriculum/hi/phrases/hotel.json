@@ -1,0 +1,21 @@
+{
+  "slug": "hotel",
+  "title": "At the Hotel",
+  "description": "Check in, ask about your room, request services, and check out in Hindi.",
+  "situation": "Accommodation: reservations, room details, amenities, problems, and checking out.",
+  "order": 6,
+  "phrases": [
+    { "native": "मेरी बुकिंग है", "transliteration": "meri booking hai", "english": "I have a booking", "pronunciation": "MEH-ree booking hai", "formality": "neutral" },
+    { "native": "क्या कमरा खाली है?", "transliteration": "kya kamra khaali hai?", "english": "Is a room available?", "pronunciation": "kyaa KUM-raa KHAA-lee hai", "formality": "neutral", "tip": "Kamra means room; khaali means free or empty." },
+    { "native": "एक रात का कितना है?", "transliteration": "ek raat ka kitna hai?", "english": "How much is it per night?", "pronunciation": "ek raat kaa KIT-naa hai", "formality": "neutral" },
+    { "native": "क्या कमरे में वाई-फ़ाई है?", "transliteration": "kya kamre mein wifi hai?", "english": "Is there wifi in the room?", "pronunciation": "kyaa KUM-reh mein wifi hai", "formality": "neutral" },
+    { "native": "मुझे एक चाबी चाहिए", "transliteration": "mujhe ek chaabi chahiye", "english": "I need a key", "pronunciation": "MOO-jheh ek CHAA-bee CHAA-hee-yeh", "formality": "neutral" },
+    { "native": "ए.सी. काम नहीं कर रहा", "transliteration": "AC kaam nahin kar raha", "english": "The air conditioner is not working", "pronunciation": "AC kaam nuh-HEEN kar RUH-haa", "formality": "neutral", "tip": "Swap AC for geyser (water heater) or TV as needed." },
+    { "native": "कमरा साफ़ कीजिए", "transliteration": "kamra saaf kijiye", "english": "Please clean the room", "pronunciation": "KUM-raa saaf KEE-jee-yeh", "formality": "formal" },
+    { "native": "नाश्ता कितने बजे है?", "transliteration": "naashta kitne baje hai?", "english": "What time is breakfast?", "pronunciation": "NAASH-taa KIT-neh BUH-jeh hai", "formality": "neutral" },
+    { "native": "क्या आप मेरा सामान रख सकते हैं?", "transliteration": "kya aap mera saamaan rakh sakte hain?", "english": "Can you keep my luggage?", "pronunciation": "kyaa aap MEH-raa SAA-maan rukh SUK-teh hain", "formality": "formal" },
+    { "native": "मुझे एक और तौलिया चाहिए", "transliteration": "mujhe ek aur tauliya chahiye", "english": "I need one more towel", "pronunciation": "MOO-jheh ek aur TOW-lee-yaa CHAA-hee-yeh", "formality": "neutral" },
+    { "native": "मैं कल चेक-आउट करूँगा", "transliteration": "main kal check-out karoonga", "english": "I will check out tomorrow", "pronunciation": "main kul check-out kuh-ROON-gaa", "formality": "neutral", "tip": "A woman says karoongi." },
+    { "native": "बहुत बढ़िया रहा, धन्यवाद", "transliteration": "bahut badhiya raha, dhanyavaad", "english": "It was very nice, thank you", "pronunciation": "buh-HUT BUH-ree-yaa RUH-haa DHUN-yuh-vaad", "formality": "neutral" }
+  ]
+}

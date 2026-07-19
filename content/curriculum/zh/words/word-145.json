@@ -1,13 +1,13 @@
 {
   "rank": 145,
-  "chinese": "白",
-  "characters": "白",
-  "pinyin": "bái",
-  "english": "white; in vain",
-  "pronunciation": "bye (2nd tone, rising)",
-  "partOfSpeech": "adjective",
-  "exampleZh": "她穿白色的衣服。",
-  "exampleEn": "She is wearing white clothes.",
+  "chinese": "曾经",
+  "characters": "曾经",
+  "pinyin": "céng jīng",
+  "english": "once",
+  "pronunciation": "ceng-jing",
+  "partOfSpeech": "adverb",
+  "exampleZh": "他曾经来了。",
+  "exampleEn": "He came once.",
   "group": "core-100",
-  "topic": "colours"
+  "topic": "descriptions"
 }

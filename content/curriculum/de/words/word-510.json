@@ -1,13 +1,11 @@
 {
   "rank": 510,
-  "german": "Nachbar",
-  "english": "neighbour",
-  "pronunciation": "NAHKH-bar",
-  "partOfSpeech": "noun",
-  "gender": "masculine",
-  "article": "der",
-  "exampleDe": "Unser Nachbar ist freundlich.",
-  "exampleEn": "Our neighbour is friendly.",
+  "german": "rolle",
+  "english": "roll",
+  "pronunciation": "ʀ ɔ l ə",
+  "partOfSpeech": "adjective",
+  "exampleDe": "Das ist sehr rolle.",
+  "exampleEn": "That is very roll.",
   "group": "confident-350",
-  "topic": "people"
+  "topic": "descriptions"
 }

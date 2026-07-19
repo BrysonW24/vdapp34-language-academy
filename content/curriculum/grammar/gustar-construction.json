@@ -1,0 +1,26 @@
+{
+  "slug": "gustar-construction",
+  "name": "The Gustar Construction",
+  "nameEs": "La Construcción con Gustar",
+  "summary": "Learn the backwards 'gustar' pattern — Spanish doesn't say 'I like', it says 'it pleases me'. This pattern applies to many common verbs.",
+  "level": "elementary",
+  "order": 7,
+  "explanation": "Gustar is one of the most important verbs in Spanish, but it works completely differently from English 'to like'. In Spanish, the thing you like is the subject, and you are the indirect object. Literally: 'Me gusta el café' = 'Coffee pleases me' (not 'I like coffee').\n\nBecause the liked thing is the subject, gustar only has two common forms: 'gusta' (singular thing or infinitive) and 'gustan' (plural things). The person who likes uses indirect object pronouns: me, te, le, nos, os, les. To clarify 'le/les', add 'a él/a ella/a usted/a ellos': 'A María le gusta bailar'.\n\nMany other common verbs follow this same pattern: encantar (to love), interesar (to interest), importar (to matter), molestar (to bother), doler (to hurt), parecer (to seem), faltar (to lack/need), quedar (to remain/suit). Once you master gustar, you've unlocked a whole family of verbs.",
+  "pattern": "(A + person) + me/te/le/nos/os/les + gusta (singular) / gustan (plural) + thing",
+  "examples": [
+    { "es": "Me gusta la música", "en": "I like music" },
+    { "es": "Me gustan los perros", "en": "I like dogs (plural → gustan)" },
+    { "es": "Me gusta bailar", "en": "I like dancing (infinitive → gusta)" },
+    { "es": "A ella le gustan las películas de terror", "en": "She likes horror films" },
+    { "es": "No nos gusta el frío", "en": "We don't like the cold" },
+    { "es": "¿Te gustan los deportes?", "en": "Do you like sports?" }
+  ],
+  "commonMistakes": [
+    "Saying 'yo gusto' instead of 'me gusta' — you are the object, not the subject",
+    "Using 'gusta' with plural nouns: 'me gusta los libros' should be 'me gustan los libros'",
+    "Forgetting the clarifying 'a': 'le gusta' is ambiguous (him/her/you formal) — add 'a él/a ella/a usted' for clarity",
+    "Using 'gustan' with infinitives: 'me gustan bailar y cantar' should be 'me gusta bailar y cantar' — infinitives take singular",
+    "Translating literally: 'I like you' is NOT 'yo te gusto' (that means 'you like me / you find me attractive')"
+  ],
+  "tip": "Think of gustar as 'to please' rather than 'to like'. Then 'me gusta el café' makes perfect sense: 'coffee pleases me'. This mental model works for all gustar-type verbs."
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "survival",
+  "title": "Survival Spanish",
+  "description": "The 12 most essential phrases to survive in any Spanish-speaking country. Memorise these before your trip.",
+  "situation": "Absolute basics for getting by — greetings, please, thank you, help, and understanding issues.",
+  "order": 1,
+  "phrases": [
+    { "spanish": "Hola", "english": "Hello", "pronunciation": "OH-lah", "formality": "neutral" },
+    { "spanish": "Por favor", "english": "Please", "pronunciation": "pohr fah-BOHR", "formality": "neutral", "tip": "Can go at the beginning or end of a request" },
+    { "spanish": "Gracias", "english": "Thank you", "pronunciation": "GRAH-thee-ahs", "formality": "neutral", "tip": "In Latin America, the 'c' sounds like 's': GRAH-see-ahs" },
+    { "spanish": "Lo siento", "english": "I'm sorry", "pronunciation": "loh see-EHN-toh", "formality": "neutral", "tip": "For apologies. Use 'perdón' for 'excuse me'" },
+    { "spanish": "Sí / No", "english": "Yes / No", "pronunciation": "see / noh", "formality": "neutral" },
+    { "spanish": "No entiendo", "english": "I don't understand", "pronunciation": "noh ehn-tee-EHN-doh", "formality": "neutral", "tip": "The single most useful survival phrase" },
+    { "spanish": "¿Habla inglés?", "english": "Do you speak English?", "pronunciation": "AH-blah een-GLEHS", "formality": "formal", "tip": "Use as a last resort — try Spanish first" },
+    { "spanish": "¿Puede repetir, por favor?", "english": "Can you repeat that, please?", "pronunciation": "PWEH-deh rreh-peh-TEER pohr fah-BOHR", "formality": "formal" },
+    { "spanish": "¿Cuánto cuesta?", "english": "How much does it cost?", "pronunciation": "KWAHN-toh KWEHS-tah", "formality": "neutral" },
+    { "spanish": "¿Dónde está el baño?", "english": "Where is the bathroom?", "pronunciation": "DOHN-deh ehs-TAH ehl BAH-nyoh", "formality": "neutral", "tip": "Also 'los servicios' (Spain) or 'los aseos'" },
+    { "spanish": "Necesito ayuda", "english": "I need help", "pronunciation": "neh-seh-SEE-toh ah-YOO-dah", "formality": "neutral" },
+    { "spanish": "Adiós", "english": "Goodbye", "pronunciation": "ah-dee-OHS", "formality": "neutral", "tip": "'Hasta luego' (see you later) is more common in daily life" }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "shopping",
+  "title": "Shopping & Bargaining",
+  "description": "Ask prices, bargain politely in markets, and complete a purchase in Hindi.",
+  "situation": "Markets and shops: prices, sizes, colours, friendly bargaining, and paying.",
+  "order": 4,
+  "phrases": [
+    { "native": "यह कितने का है?", "transliteration": "yeh kitne ka hai?", "english": "How much is this?", "pronunciation": "yeh KIT-neh kaa hai", "formality": "neutral" },
+    { "native": "बहुत महँगा है", "transliteration": "bahut mehnga hai", "english": "It is very expensive", "pronunciation": "buh-HUT MEHN-gaa hai", "formality": "neutral", "tip": "A polite opening line when you want to bargain." },
+    { "native": "कुछ कम कीजिए", "transliteration": "kuch kam kijiye", "english": "Please reduce it a little", "pronunciation": "kuch kum KEE-jee-yeh", "formality": "formal", "tip": "The standard polite way to ask for a discount." },
+    { "native": "आख़िरी दाम क्या है?", "transliteration": "aakhiri daam kya hai?", "english": "What is the final price?", "pronunciation": "AA-khi-ree daam kyaa hai", "formality": "neutral" },
+    { "native": "क्या आपके पास और रंग हैं?", "transliteration": "kya aapke paas aur rang hain?", "english": "Do you have other colours?", "pronunciation": "kyaa AAP-keh paas aur rung hain", "formality": "formal" },
+    { "native": "यह बड़े साइज़ में है?", "transliteration": "yeh bade size mein hai?", "english": "Is this in a larger size?", "pronunciation": "yeh BUH-reh size mein hai", "formality": "neutral" },
+    { "native": "मुझे यह पसंद है", "transliteration": "mujhe yeh pasand hai", "english": "I like this", "pronunciation": "MOO-jheh yeh puh-SUND hai", "formality": "neutral" },
+    { "native": "मैं बस देख रहा हूँ", "transliteration": "main bas dekh raha hoon", "english": "I am just looking", "pronunciation": "main bus dekh RUH-haa hoon", "formality": "neutral", "tip": "A woman says dekh rahi hoon. Useful to browse without pressure." },
+    { "native": "ठीक है, मैं यह ले लूँगा", "transliteration": "theek hai, main yeh le loonga", "english": "Okay, I will take this", "pronunciation": "theek hai main yeh leh LOON-gaa", "formality": "neutral", "tip": "A woman says le loongi." },
+    { "native": "क्या आप ऑनलाइन पैसे लेते हैं?", "transliteration": "kya aap online paise lete hain?", "english": "Do you accept online payment?", "pronunciation": "kyaa aap online PAI-seh LEH-teh hain", "formality": "formal", "tip": "UPI apps like PhonePe and Google Pay are everywhere in India." },
+    { "native": "रसीद दीजिए", "transliteration": "raseed dijiye", "english": "Please give a receipt", "pronunciation": "ruh-SEED DEE-jee-yeh", "formality": "formal" },
+    { "native": "धन्यवाद, फिर आऊँगा", "transliteration": "dhanyavaad, phir aaunga", "english": "Thank you, I'll come again", "pronunciation": "DHUN-yuh-vaad fir AA-oon-gaa", "formality": "neutral" }
+  ]
+}

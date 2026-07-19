@@ -1,0 +1,34 @@
+{
+  "slug": "questions",
+  "name": "Questions (क्या / कहाँ / कब)",
+  "nameNative": "प्रश्न (prashn)",
+  "summary": "Form yes/no questions with क्या and information questions with कहाँ, कब, कौन, and more.",
+  "level": "elementary",
+  "order": 10,
+  "explanation": "There are two kinds of questions in Hindi. A yes/no question is made by putting क्या (kya) at the very start of a statement: आप हिंदी बोलते हैं (aap Hindi bolte hain, you speak Hindi) becomes क्या आप हिंदी बोलते हैं? (kya aap Hindi bolte hain?, do you speak Hindi?). At the start of a sentence, this क्या simply turns a statement into a yes/no question; you can even drop it and just raise your intonation.\n\nInformation questions use a question word, most of which begin with the sound 'k': क्या (kya, what), कहाँ (kahaan, where), कब (kab, when), कौन (kaun, who), क्यों (kyon, why), कैसे (kaise, how), and कितना (kitna, how much/many). Notice that क्या means both 'what' and the yes/no marker; its position tells you which: at the start it is the yes/no marker, in the middle it means 'what', as in यह क्या है? (yeh kya hai?, what is this?).\n\nWord order is otherwise the same as a statement, with the verb at the end. The question word usually sits where the answer would go: आप कहाँ रहते हैं? (aap kahaan rahte hain?, where do you live?) puts कहाँ in the slot the place name would fill in the answer.",
+  "pattern": "yes/no: kya + statement; info: question word in the answer's slot + verb at end",
+  "conjugation": {
+    "क्या (kya)": "what / yes-no marker - यह क्या है? (yeh kya hai?)",
+    "कहाँ (kahaan)": "where - आप कहाँ हैं? (aap kahaan hain?)",
+    "कब (kab)": "when - तुम कब आओगे? (tum kab aaoge?)",
+    "कौन (kaun)": "who - वह कौन है? (voh kaun hai?)",
+    "क्यों (kyon)": "why - तुम क्यों रो रहे हो? (tum kyon ro rahe ho?)",
+    "कितना (kitna)": "how much / many - यह कितना है? (yeh kitna hai?)"
+  },
+  "examples": [
+    { "native": "क्या आप तैयार हैं? (kya aap taiyaar hain?)", "en": "Are you ready? (yes/no)" },
+    { "native": "यह क्या है? (yeh kya hai?)", "en": "What is this? (kya means 'what' in the middle)" },
+    { "native": "स्टेशन कहाँ है? (station kahaan hai?)", "en": "Where is the station?" },
+    { "native": "ट्रेन कब आएगी? (train kab aayegi?)", "en": "When will the train come?" },
+    { "native": "वह आदमी कौन है? (voh aadmi kaun hai?)", "en": "Who is that man?" },
+    { "native": "आप यह क्यों कर रहे हैं? (aap yeh kyon kar rahe hain?)", "en": "Why are you doing this?" }
+  ],
+  "commonMistakes": [
+    "Putting क्या (kya) in the middle when you mean a yes/no question; the marker goes at the very start.",
+    "Adding 'do' or 'does' as a separate word; Hindi has no auxiliary like English.",
+    "Changing the word order dramatically; questions keep the verb at the end like statements.",
+    "Confusing कौन (kaun, who) with कहाँ (kahaan, where), which sound and look similar.",
+    "Forgetting that the answer word's position is where the question word usually goes."
+  ],
+  "tip": "Most Hindi question words start with 'k'. Learn the family kya, kahaan, kab, kaun, kyon, kaise, kitna together as a set."
+}

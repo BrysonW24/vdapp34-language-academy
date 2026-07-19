@@ -1,0 +1,90 @@
+{
+  "slug": "travel-and-accommodation",
+  "title": "Travel & Accommodation",
+  "titleNative": "Paglalakbay at Tuluyan",
+  "shortSummary": "Book a room, check in, and handle travel needs across the Philippine islands in Filipino.",
+  "level": "beginner",
+  "order": 10,
+  "icon": "🧳",
+  "color": "#0c8599",
+  "culturalNote": "Travel in the Philippines means island-hopping across more than seven thousand islands, often by ferry (barko) or budget plane, then a tricycle or habal-habal (motorbike taxi) to your final stop. Accommodation ranges from beach resorts and pension houses to a humble homestay, where a local family welcomes you like a relative. Filipino hosts are famously hospitable, and you may be offered food and snacks within minutes of arriving, refusing too firmly can seem cold. Many destinations run on island time, so schedules flex with the weather and the tides. Booking ahead is wise during fiesta season and Holy Week (Semana Santa), when whole cities empty out as families travel home to the province (uwian sa probinsya).",
+  "keyPhrases": [
+    { "native": "May bakante ba kayong kwarto?", "english": "Do you have a vacant room?", "pronunciation": "may ba-KAN-te ba ka-YONG KWAR-to", "context": "Asking for a room" },
+    { "native": "Magkano ang isang gabi?", "english": "How much is one night?", "pronunciation": "mag-KA-no ang i-SANG ga-BI", "context": "Asking the rate" },
+    { "native": "Para sa dalawang tao.", "english": "For two people.", "pronunciation": "PA-ra sa da-la-WANG TA-o", "context": "Specifying guests" },
+    { "native": "May aircon ba?", "english": "Is there air-conditioning?", "pronunciation": "may EYR-kon ba", "context": "Checking amenities" },
+    { "native": "Anong oras ang check-in?", "english": "What time is check-in?", "pronunciation": "a-NONG O-ras ang chek-in", "context": "Arrival timing" },
+    { "native": "Saan ang sakayan ng barko?", "english": "Where is the ferry terminal?", "pronunciation": "sa-AN ang sa-ka-YAN nang BAR-ko", "context": "Getting around" },
+    { "native": "Nawawala ang bagahe ko.", "english": "My luggage is missing.", "pronunciation": "na-wa-WA-la ang ba-GA-he ko", "context": "A travel problem" },
+    { "native": "Pwede bang mag-extend?", "english": "Can I extend my stay?", "pronunciation": "PWE-de bang mag-eks-TEND", "context": "Staying longer" },
+    { "native": "Magkano ang pamasahe?", "english": "How much is the fare?", "pronunciation": "mag-KA-no ang pa-ma-SA-he", "context": "Asking a fare" },
+    { "native": "Salamat sa pagtanggap sa amin.", "english": "Thank you for welcoming us.", "pronunciation": "sa-LA-mat sa pag-tang-GAP sa A-min", "context": "Thanking a host" }
+  ],
+  "grammar": [
+    {
+      "rule": "Asking yes-or-no questions with ba",
+      "explanation": "Add ba to turn any statement into a yes-or-no question. It usually goes after the first word or phrase: May kwarto ba kayo? (Do you have a room?). The answer is oo (yes) or hindi (no).",
+      "examples": [
+        { "native": "May bakante ba kayong kwarto?", "en": "Do you have a vacant room?" },
+        { "native": "Malayo ba ang resort?", "en": "Is the resort far?" }
+      ],
+      "commonMistake": "Leaving out ba in a yes-or-no question, which can make it sound like a statement."
+    },
+    {
+      "rule": "Counting nights and people with the linker -ng/na",
+      "explanation": "When a number describes a noun, join them with the linker: isang gabi (one night), dalawang tao (two people). Words ending in a vowel take -ng; words ending in a consonant use na.",
+      "examples": [
+        { "native": "Magkano ang isang gabi?", "en": "How much is one night?" },
+        { "native": "Para sa tatlong gabi kami.", "en": "We are here for three nights." }
+      ],
+      "commonMistake": "Forgetting the linker and saying isa gabi instead of isang gabi."
+    }
+  ],
+  "dialogue": {
+    "setup": "Ana checks into a small pension house in Palawan.",
+    "lines": [
+      { "speaker": "Ana", "native": "Magandang hapon po! May bakante ba kayong kwarto?", "english": "Good afternoon! Do you have a vacant room?" },
+      { "speaker": "Receptionist", "native": "Opo, meron. Para sa ilang tao po?", "english": "Yes, we do. For how many people?" },
+      { "speaker": "Ana", "native": "Para sa dalawa po. May aircon ba?", "english": "For two. Is there air-conditioning?" },
+      { "speaker": "Receptionist", "native": "Opo, may aircon at sariling banyo. Isang libo isang gabi.", "english": "Yes, with air-con and a private bathroom. One thousand per night." },
+      { "speaker": "Ana", "native": "Sige po. Anong oras ang check-in?", "english": "Okay. What time is check-in?" },
+      { "speaker": "Receptionist", "native": "Pwede na po kayo ngayon. Heto po ang susi.", "english": "You can check in now. Here is the key." },
+      { "speaker": "Ana", "native": "Maraming salamat po sa pagtanggap sa amin!", "english": "Thank you very much for welcoming us!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you ask 'Do you have a vacant room?' in Filipino?",
+      "correctAnswer": "May bakante ba kayong kwarto?",
+      "explanation": "May (have) plus bakante (vacant), ba for the question, kwarto (room)."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which little word turns a statement into a yes-or-no question?",
+      "options": ["ba", "na", "po", "sa"],
+      "correctAnswer": "ba",
+      "explanation": "Ba marks a yes-or-no question, as in May aircon ba?"
+    },
+    {
+      "type": "fill-blank",
+      "question": "Magkano ang isa_____ gabi? (the linker after a vowel)",
+      "correctAnswer": "ng",
+      "explanation": "Isa takes -ng before gabi: isang gabi (one night)."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is a 'homestay' in Filipino travel culture?",
+      "options": ["A luxury hotel chain", "Staying with a welcoming local family", "An airport lounge", "A ferry ticket"],
+      "correctAnswer": "Staying with a welcoming local family",
+      "explanation": "A homestay means a local family hosts you warmly, like a relative."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: tao / dalawang / sa / para",
+      "correctAnswer": "Para sa dalawang tao",
+      "explanation": "Para sa dalawang tao means 'for two people'."
+    }
+  ],
+  "status": "complete"
+}

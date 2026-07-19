@@ -1,0 +1,103 @@
+{
+  "slug": "personal-info",
+  "title": "Personal Information",
+  "titleEs": "Información Personal",
+  "shortSummary": "Talk about yourself — your name, nationality, job, and where you live. Essential for introductions and filling out forms.",
+  "level": "beginner",
+  "order": 3,
+  "icon": "🪪",
+  "color": "#6d28d9",
+  "culturalNote": "In Spanish-speaking countries, people commonly have two surnames: the father's first surname followed by the mother's first surname. So 'María García López' uses her father's surname García and her mother's surname López. This is a legal convention, not optional. When asked for your 'nombre completo' (full name), they expect both.",
+  "keyPhrases": [
+    { "spanish": "Me llamo...", "english": "My name is...", "pronunciation": "meh YAH-moh", "context": "Literally 'I call myself' — the most common way to give your name" },
+    { "spanish": "Soy de Australia", "english": "I'm from Australia", "pronunciation": "soy deh ow-STRAH-lee-ah", "context": "Use 'soy de' + country for nationality" },
+    { "spanish": "Vivo en Madrid", "english": "I live in Madrid", "pronunciation": "BEE-boh ehn mah-DREED", "context": "Use 'vivo en' + city for where you live" },
+    { "spanish": "Soy profesor", "english": "I'm a teacher", "pronunciation": "soy proh-feh-SOHR", "context": "No article needed before professions in Spanish" },
+    { "spanish": "Hablo inglés y un poco de español", "english": "I speak English and a little Spanish", "pronunciation": "AH-bloh een-GLEHS ee oon POH-koh deh ehs-pah-NYOL", "context": "Great for setting expectations about your level" },
+    { "spanish": "Estoy casado/casada", "english": "I'm married", "pronunciation": "ehs-TOY kah-SAH-doh/kah-SAH-dah", "context": "Use casado for male, casada for female" },
+    { "spanish": "Tengo dos hijos", "english": "I have two children", "pronunciation": "TEHN-goh dohs EE-hohs", "context": "Use 'tener' (to have) for family members" },
+    { "spanish": "Mi dirección de correo es...", "english": "My email address is...", "pronunciation": "mee dee-rehk-see-OHN deh koh-RREH-oh ehs", "context": "For giving your email — 'arroba' means @" },
+    { "spanish": "¿A qué te dedicas?", "english": "What do you do for work?", "pronunciation": "ah keh teh deh-DEE-kahs", "context": "Informal way to ask someone's profession" },
+    { "spanish": "Soy australiano/australiana", "english": "I'm Australian", "pronunciation": "soy ow-strah-lee-AH-noh/ow-strah-lee-AH-nah", "context": "Nationality adjectives change based on gender" }
+  ],
+  "grammar": [
+    {
+      "rule": "Ser for identity and origin",
+      "explanation": "Use 'ser' (not 'estar') for permanent characteristics: name, nationality, profession, and origin. 'Soy' is the yo (I) form of ser.",
+      "examples": [
+        { "es": "Soy María", "en": "I'm María" },
+        { "es": "Soy australiano", "en": "I'm Australian" },
+        { "es": "Soy ingeniero", "en": "I'm an engineer" }
+      ],
+      "commonMistake": "Using 'estoy' for nationality or profession — 'estoy australiano' is incorrect. Use 'soy'."
+    },
+    {
+      "rule": "No article before professions",
+      "explanation": "Unlike English, Spanish drops the article (a/an) before professions when used with ser. You say 'soy profesor' not 'soy un profesor' (unless adding a description).",
+      "examples": [
+        { "es": "Soy médico", "en": "I'm a doctor" },
+        { "es": "Es abogada", "en": "She's a lawyer" },
+        { "es": "Soy un buen profesor", "en": "I'm a good teacher (article appears with adjective)" }
+      ],
+      "commonMistake": "Saying 'soy un profesor' instead of 'soy profesor' when simply stating your job."
+    },
+    {
+      "rule": "Gendered nationality adjectives",
+      "explanation": "Nationality adjectives ending in -o change to -a for feminine. Those ending in a consonant add -a for feminine. Some (like 'canadiense') don't change.",
+      "examples": [
+        { "es": "Él es mexicano / Ella es mexicana", "en": "He is Mexican / She is Mexican" },
+        { "es": "Él es español / Ella es española", "en": "He is Spanish / She is Spanish" },
+        { "es": "Él es canadiense / Ella es canadiense", "en": "He/She is Canadian (no change)" }
+      ],
+      "commonMistake": "Forgetting to change the ending: saying 'ella es mexicano' instead of 'ella es mexicana'."
+    }
+  ],
+  "dialogue": {
+    "setup": "At a language exchange meetup, Luis and Sarah introduce themselves.",
+    "lines": [
+      { "speaker": "Luis", "spanish": "¡Hola! Me llamo Luis. ¿Cómo te llamas?", "english": "Hello! My name is Luis. What's your name?" },
+      { "speaker": "Sarah", "spanish": "Hola, Luis. Me llamo Sarah. Mucho gusto.", "english": "Hi, Luis. My name is Sarah. Nice to meet you." },
+      { "speaker": "Luis", "spanish": "Mucho gusto. ¿De dónde eres?", "english": "Nice to meet you. Where are you from?" },
+      { "speaker": "Sarah", "spanish": "Soy de Australia. Soy australiana. ¿Y tú?", "english": "I'm from Australia. I'm Australian. And you?" },
+      { "speaker": "Luis", "spanish": "Soy de Colombia. ¿A qué te dedicas?", "english": "I'm from Colombia. What do you do for work?" },
+      { "speaker": "Sarah", "spanish": "Soy diseñadora. Trabajo en una empresa de tecnología.", "english": "I'm a designer. I work at a tech company." },
+      { "speaker": "Luis", "spanish": "¡Qué interesante! Yo soy profesor de español.", "english": "How interesting! I'm a Spanish teacher." },
+      { "speaker": "Sarah", "spanish": "¡Perfecto! Hablo un poco de español, pero quiero aprender más.", "english": "Perfect! I speak a little Spanish, but I want to learn more." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'My name is Ana' in Spanish?",
+      "correctAnswer": "Me llamo Ana",
+      "explanation": "'Me llamo' literally means 'I call myself' — it's the standard way to give your name."
+    },
+    {
+      "type": "fill-blank",
+      "question": "_____ de Argentina. (I'm from Argentina)",
+      "correctAnswer": "Soy",
+      "explanation": "Use 'soy' (from the verb 'ser') for origin and nationality."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "How do you say 'I'm a doctor' in Spanish?",
+      "options": ["Soy un médico", "Estoy médico", "Soy médico", "Tengo médico"],
+      "correctAnswer": "Soy médico",
+      "explanation": "No article needed before professions in Spanish — just 'soy' + profession."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "She is Mexican. How do you say it?",
+      "options": ["Ella es mexicano", "Ella es mexicana", "Ella está mexicana", "Ella tiene mexicana"],
+      "correctAnswer": "Ella es mexicana",
+      "explanation": "Nationality adjectives must match gender: mexicano (m) → mexicana (f)."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: en / vivo / Barcelona",
+      "correctAnswer": "Vivo en Barcelona",
+      "explanation": "'Vivo en' + place = 'I live in' + place."
+    }
+  ],
+  "status": "complete"
+}

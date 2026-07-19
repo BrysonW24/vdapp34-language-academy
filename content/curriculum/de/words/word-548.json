@@ -1,13 +1,11 @@
 {
   "rank": 548,
-  "german": "Regen",
-  "english": "rain",
-  "pronunciation": "RAY-gen",
-  "partOfSpeech": "noun",
-  "gender": "masculine",
-  "article": "der",
-  "exampleDe": "Es gibt viel Regen.",
-  "exampleEn": "There is a lot of rain.",
+  "german": "irgendwie",
+  "english": "somehow",
+  "pronunciation": "ɪ ɐ ɡ ə n t v i",
+  "partOfSpeech": "adjective",
+  "exampleDe": "Dieser Ort ist sehr irgendwie.",
+  "exampleEn": "This place is very somehow.",
   "group": "confident-350",
-  "topic": "travel"
+  "topic": "descriptions"
 }

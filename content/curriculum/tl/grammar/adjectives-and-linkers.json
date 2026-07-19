@@ -1,0 +1,34 @@
+{
+  "slug": "adjectives-and-linkers",
+  "name": "Adjectives with ma- and Linkers",
+  "nameNative": "Mga pang-uri na may ma- at pang-angkop",
+  "summary": "Form descriptive words with the prefix ma-, attach them to nouns, and intensify them naturally.",
+  "level": "elementary",
+  "order": 6,
+  "explanation": "Many Filipino adjectives are built from a root plus the prefix ma-. The root ganda (beauty) becomes maganda (beautiful); bait (kindness) becomes mabait (kind); lakas (strength) becomes malakas (strong). Not every adjective uses ma-, but it is the most common pattern, so spotting it helps you read meaning quickly.\n\nTo describe a noun, join the adjective and noun with the linker na or -ng (magandang bahay, beautiful house; mabait na tao, kind person). The adjective can go before or after the noun without changing the meaning.\n\nTo say very, you can repeat the root (maganda becomes magandang-maganda, very beautiful) or add sobrang before it (sobrang ganda, so beautiful). For comparisons, use mas (mas maganda, more beautiful) and pinaka- for the superlative (pinakamaganda, most beautiful). These small tools let you describe the world with real colour.",
+  "pattern": "ma- + root = adjective | adjective + na/-ng + noun | mas / pinaka- for degree",
+  "conjugation": {
+    "ganda": "maganda (beautiful)",
+    "bait": "mabait (kind)",
+    "lakas": "malakas (strong)",
+    "very (repeat)": "magandang-maganda (very beautiful)",
+    "more": "mas maganda (more beautiful)",
+    "most": "pinakamaganda (most beautiful)"
+  },
+  "examples": [
+    { "native": "Mabait na bata si Ana.", "en": "Ana is a kind child." },
+    { "native": "Malaki ang aming bahay.", "en": "Our house is big." },
+    { "native": "Sobrang init ngayon.", "en": "It is so hot today." },
+    { "native": "Mas masarap ito.", "en": "This one is tastier." },
+    { "native": "Siya ang pinakamabilis.", "en": "He/She is the fastest." },
+    { "native": "Maganda ang tanawin dito.", "en": "The view here is beautiful." }
+  ],
+  "commonMistakes": [
+    "Dropping the ma- prefix, using ganda alone where maganda is meant.",
+    "Forgetting the linker between adjective and noun (maganda bahay instead of magandang bahay).",
+    "Saying mas pinakamaganda. Mas and pinaka- do not combine.",
+    "Adding ma- to roots that do not take it (some adjectives stand alone).",
+    "Using sobra without the linker -ng before the adjective (sobra ganda instead of sobrang ganda)."
+  ],
+  "tip": "When you learn a new noun like a quality word, check if its ma- form exists; that is your ready-made adjective."
+}

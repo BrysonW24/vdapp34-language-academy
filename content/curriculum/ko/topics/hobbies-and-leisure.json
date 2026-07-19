@@ -1,0 +1,90 @@
+{
+  "slug": "hobbies-and-leisure",
+  "title": "Hobbies & Leisure",
+  "titleNative": "취미와 여가",
+  "shortSummary": "Talk about your hobbies, free time, and weekend plans in friendly Korean.",
+  "level": "beginner",
+  "order": 14,
+  "icon": "🎨",
+  "color": "#0ca678",
+  "culturalNote": "Free time in Korea blends modern and traditional pastimes. Hugely popular activities include 노래방 (noraebang, private karaoke rooms), watching films, hiking the country's many mountains, and gaming, with Korea being a global hub for esports and PC cafes called PC방 (PC-bang). Sharing hobbies is a common way to build friendships, and asking 취미가 뭐예요? (chwimiga mwoyeyo, what is your hobby?) is a natural conversation starter. Weekends often centre on meeting friends for food and coffee, and group activities are valued over solitary ones, reflecting Korea's strong social orientation. K-pop, dramas, and webtoons are mainstream leisure interests across generations. When invited to join an activity, an enthusiastic 좋아요 (joayo, sounds good) keeps things warm, and because leisure plans are usually made with peers, the polite -요 form fits most of these conversations naturally.",
+  "keyPhrases": [
+    { "native": "취미가 뭐예요?", "english": "What is your hobby?", "transliteration": "chwimiga mwoyeyo?", "pronunciation": "chwi-mi-ga mwo-ye-yo", "context": "Starting a conversation" },
+    { "native": "영화 보는 걸 좋아해요", "english": "I like watching movies", "transliteration": "yeonghwa boneun geol joahaeyo", "pronunciation": "yong-hwa bo-neun gol jo-a-hae-yo", "context": "Sharing a hobby" },
+    { "native": "음악을 들어요", "english": "I listen to music", "transliteration": "eumageul deureoyo", "pronunciation": "eu-ma-geul deu-ro-yo", "context": "Talking about pastimes" },
+    { "native": "운동을 해요", "english": "I exercise", "transliteration": "undongeul haeyo", "pronunciation": "un-dong-eul hae-yo", "context": "Describing activity" },
+    { "native": "주말에 뭐 해요?", "english": "What do you do on weekends?", "transliteration": "jumare mwo haeyo?", "pronunciation": "ju-ma-re mwo hae-yo", "context": "Asking about plans" },
+    { "native": "친구를 만나요", "english": "I meet friends", "transliteration": "chingureul mannayo", "pronunciation": "chin-gu-reul man-na-yo", "context": "Weekend activity" },
+    { "native": "노래방에 가요", "english": "I go to karaoke", "transliteration": "noraebange gayo", "pronunciation": "no-rae-bang-e ga-yo", "context": "Popular pastime in Korea" },
+    { "native": "등산을 좋아해요", "english": "I like hiking", "transliteration": "deungsaneul joahaeyo", "pronunciation": "deung-sa-neul jo-a-hae-yo", "context": "Outdoor hobby" },
+    { "native": "같이 갈래요?", "english": "Shall we go together?", "transliteration": "gachi gallaeyo?", "pronunciation": "ga-chi gal-lae-yo", "context": "Inviting someone" },
+    { "native": "좋아요!", "english": "Sounds good!", "transliteration": "joayo!", "pronunciation": "jo-a-yo", "context": "Accepting an invitation" }
+  ],
+  "grammar": [
+    {
+      "rule": "Turning verbs into 'doing' with -는 것",
+      "explanation": "To talk about an activity as a thing you like, add 는 것 to a verb stem, often shortened to 는 거. 보다 (boda, to watch) becomes 보는 것 (boneun geot, watching), used with 좋아해요: 영화 보는 걸 좋아해요.",
+      "examples": [
+        { "native": "책 읽는 걸 좋아해요. (chaek ingneun geol joahaeyo.)", "en": "I like reading books." },
+        { "native": "요리하는 걸 좋아해요. (yorihaneun geol joahaeyo.)", "en": "I like cooking." }
+      ],
+      "commonMistake": "Trying to put 좋아해요 directly on a verb; you need the 는 것 nominaliser first."
+    },
+    {
+      "rule": "Suggestions with -ㄹ래요 / -을래요",
+      "explanation": "To suggest doing something together or ask someone's intention, attach ㄹ래요 after a vowel or 을래요 after a consonant. 가다 (gada) becomes 갈래요? (gallaeyo, shall we go?).",
+      "examples": [
+        { "native": "같이 갈래요? (gachi gallaeyo?)", "en": "Shall we go together?" },
+        { "native": "커피 마실래요? (keopi masillaeyo?)", "en": "Would you like to drink coffee?" }
+      ],
+      "commonMistake": "Using -ㄹ래요 with someone much senior; for them a more deferential form is safer."
+    }
+  ],
+  "dialogue": {
+    "setup": "Two friends, Sangwoo and Grace, make weekend plans.",
+    "lines": [
+      { "speaker": "상우", "native": "그레이스 씨, 취미가 뭐예요?", "transliteration": "geureiseu ssi, chwimiga mwoyeyo?", "english": "Grace, what is your hobby?" },
+      { "speaker": "그레이스", "native": "저는 영화 보는 걸 좋아해요.", "transliteration": "jeoneun yeonghwa boneun geol joahaeyo.", "english": "I like watching movies." },
+      { "speaker": "상우", "native": "저도요! 주말에 뭐 해요?", "transliteration": "jeodoyo! jumare mwo haeyo?", "english": "Me too! What do you do on weekends?" },
+      { "speaker": "그레이스", "native": "보통 친구를 만나요. 상우 씨는요?", "transliteration": "botong chingureul mannayo. sangu ssineunyo?", "english": "I usually meet friends. And you, Sangwoo?" },
+      { "speaker": "상우", "native": "저는 등산을 좋아해요. 이번 주말에 같이 갈래요?", "transliteration": "jeoneun deungsaneul joahaeyo. ibeon jumare gachi gallaeyo?", "english": "I like hiking. Shall we go together this weekend?" },
+      { "speaker": "그레이스", "native": "좋아요! 몇 시에 만날까요?", "transliteration": "joayo! myeot sie mannalkkayo?", "english": "Sounds good! What time shall we meet?" },
+      { "speaker": "상우", "native": "아침 아홉 시에 만나요.", "transliteration": "achim ahop sie mannayo.", "english": "Let's meet at nine in the morning." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you ask 'What is your hobby?' in Korean?",
+      "correctAnswer": "취미가 뭐예요?",
+      "explanation": "취미가 뭐예요? (chwimiga mwoyeyo) asks about someone's hobby."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which phrase invites someone with 'Shall we go together?'",
+      "options": ["같이 갈래요?", "운동을 해요", "노래방에 가요", "음악을 들어요"],
+      "correctAnswer": "같이 갈래요?",
+      "explanation": "같이 갈래요? (gachi gallaeyo) suggests going together using the -ㄹ래요 form."
+    },
+    {
+      "type": "fill-blank",
+      "question": "영화 보는 ___ 좋아해요. (the nominaliser, object form)",
+      "correctAnswer": "걸",
+      "explanation": "보는 것 shortens to 보는 거, and with the object particle it becomes 걸: 영화 보는 걸 좋아해요."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is a 노래방?",
+      "options": ["A gym", "A private karaoke room", "A cinema", "A library"],
+      "correctAnswer": "A private karaoke room",
+      "explanation": "노래방 (noraebang) is a private karaoke room, a very popular leisure spot in Korea."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: 만나요 / 친구를 (I meet friends)",
+      "correctAnswer": "친구를 만나요",
+      "explanation": "Object then verb: 친구를 만나요."
+    }
+  ],
+  "status": "complete"
+}

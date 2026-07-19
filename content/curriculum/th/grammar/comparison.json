@@ -1,0 +1,26 @@
+{
+  "slug": "comparison",
+  "name": "Comparisons",
+  "nameTh": "การเปรียบเทียบ",
+  "summary": "Compare two things with กว่า (more than) and pick the best with ที่สุด (the most).",
+  "level": "pre-intermediate",
+  "order": 11,
+  "explanation": "To say one thing is more than another, Thai puts กว่า (kwaa) after the adjective: A + adjective + กว่า + B. So เขาสูงกว่าผม (khao suung kwaa phom) = he is taller than me (he tall more-than me).\n\nFor the superlative, the best or most, add ที่สุด (thii-sut) after the adjective: อันนี้ดีที่สุด (this is the best). No extra words like 'more' or 'most' are needed beyond กว่า and ที่สุด.\n\nFor 'as ... as', use เท่ากับ (thao kap) or เท่ากัน (thao kan, the same): สูงเท่ากัน (the same height).",
+  "pattern": "A + adjective + กว่า + B (more than)  |  adjective + ที่สุด (the most)",
+  "examples": [
+    { "th": "วันนี้ร้อนกว่าเมื่อวาน", "en": "Today is hotter than yesterday." },
+    { "th": "อันนี้แพงกว่า", "en": "This one is more expensive." },
+    { "th": "เขาสูงกว่าผม", "en": "He is taller than me." },
+    { "th": "อาหารร้านนี้อร่อยที่สุด", "en": "This restaurant's food is the most delicious." },
+    { "th": "อันนี้ดีที่สุด", "en": "This one is the best." },
+    { "th": "เราสูงเท่ากัน", "en": "We are the same height." }
+  ],
+  "commonMistakes": [
+    "Putting กว่า before the adjective. It comes after: ร้อนกว่า, not กว่าร้อน.",
+    "Adding a separate word for 'more'. กว่า already carries that meaning.",
+    "Using กว่า for the superlative. The 'most' is ที่สุด.",
+    "Placing ที่สุด before the adjective. It follows: ดีที่สุด.",
+    "Forgetting เท่ากัน for equal comparisons (the same)."
+  ],
+  "tip": "Two small words do it all: กว่า after the adjective for 'more than', and ที่สุด after it for 'the most'."
+}

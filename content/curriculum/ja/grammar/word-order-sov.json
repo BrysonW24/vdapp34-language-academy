@@ -1,0 +1,26 @@
+{
+  "slug": "word-order-sov",
+  "name": "Word Order (Subject-Object-Verb)",
+  "nameNative": "語順（主語・目的語・動詞）",
+  "summary": "Japanese puts the verb last. The basic order is subject, then object, then verb, with particles marking each role.",
+  "level": "beginner",
+  "order": 4,
+  "explanation": "Where English says 'I drink coffee', Japanese says the equivalent of 'I coffee drink': 私はコーヒーを飲みます (watashi wa koohii o nomimasu). The verb almost always comes at the very end of the sentence. This is the single most important structural fact about Japanese.\n\nBecause particles like は, が, and を tell you each word's job, the order of the middle parts is flexible - but the verb stays last. You can say 私は今日学校へ行きます (watashi wa kyou gakkou e ikimasu, 'I go to school today') or move 今日 (today) around, and the sentence still works because the particles carry the grammar, not the position.\n\nThis verb-final habit means you often hear the most important information last, including whether a sentence is negative or a question. Train your ear to wait for the verb ending. Listening to the end of the sentence is essential for understanding Japanese.",
+  "pattern": "[subject は] [time] [place へ/に] [object を] [verb]",
+  "examples": [
+    { "native": "私はりんごを食べます。(watashi wa ringo o tabemasu.)", "en": "I eat an apple." },
+    { "native": "田中さんは本を読みます。(Tanaka-san wa hon o yomimasu.)", "en": "Mr Tanaka reads a book." },
+    { "native": "私は毎朝コーヒーを飲みます。(watashi wa maiasa koohii o nomimasu.)", "en": "I drink coffee every morning." },
+    { "native": "彼女は東京に住んでいます。(kanojo wa Toukyou ni sunde imasu.)", "en": "She lives in Tokyo." },
+    { "native": "学生は教室で勉強します。(gakusei wa kyoushitsu de benkyou shimasu.)", "en": "The students study in the classroom." },
+    { "native": "私たちは公園へ行きます。(watashitachi wa kouen e ikimasu.)", "en": "We go to the park." }
+  ],
+  "commonMistakes": [
+    "Putting the verb in the middle, English-style. In Japanese the verb belongs at the end.",
+    "Thinking word order alone shows meaning. It is the particles that mark roles, not position.",
+    "Forgetting the verb entirely. A Japanese sentence usually needs that final verb or です.",
+    "Reordering parts but moving the verb too. The flexible parts are the middle, never the final verb.",
+    "Translating word-for-word from English and producing an unnatural order."
+  ],
+  "tip": "Always listen to the end. The verb - and whether it is negative or a question - arrives last."
+}

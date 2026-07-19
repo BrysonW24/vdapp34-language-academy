@@ -1,0 +1,26 @@
+{
+  "slug": "questions",
+  "name": "Asking Questions",
+  "nameNative": "Poser des questions",
+  "summary": "Three ways to ask a question in French, from casual to formal, plus the question words.",
+  "level": "beginner",
+  "order": 5,
+  "explanation": "French offers three levels of question. The most casual is just rising intonation: Tu viens ? (You're coming?). The everyday standard adds est-ce que to the front: Est-ce que tu viens ? The most formal inverts the verb and subject: Viens-tu ?\n\nFor open questions, place a question word at the start: qui (who), que / qu'est-ce que (what), où (where), quand (when), pourquoi (why), comment (how), combien (how much).\n\nBeginners can rely on intonation and est-ce que for almost everything, saving inversion for writing and formal speech.",
+  "pattern": "Statement + ?  |  Est-ce que + statement ?  |  Verb-subject ?",
+  "examples": [
+    { "native": "Tu parles anglais ?", "en": "Do you speak English? (intonation)" },
+    { "native": "Est-ce que vous avez l'heure ?", "en": "Do you have the time? (est-ce que)" },
+    { "native": "Où habites-tu ?", "en": "Where do you live?" },
+    { "native": "Qu'est-ce que c'est ?", "en": "What is it?" },
+    { "native": "Pourquoi apprends-tu le français ?", "en": "Why are you learning French?" },
+    { "native": "Combien ça coûte ?", "en": "How much does it cost?" }
+  ],
+  "commonMistakes": [
+    "Adding 'do' as in English: it is Tu parles ?, not Est-ce que tu fais parler ?",
+    "Forgetting the hyphen in inversion: it is parles-tu ?, not parles tu ?",
+    "Mixing est-ce que with inversion in the same question. Use one method.",
+    "Using que alone at the start of a spoken question. Prefer qu'est-ce que.",
+    "Dropping the question word. Open questions need qui, où, quand, and so on."
+  ],
+  "tip": "Start with est-ce que. Putting it in front of any statement turns it into a clear, polite question."
+}

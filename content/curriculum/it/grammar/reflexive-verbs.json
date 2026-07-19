@@ -1,0 +1,34 @@
+{
+  "slug": "reflexive-verbs",
+  "name": "Reflexive Verbs",
+  "nameNative": "I verbi riflessivi",
+  "summary": "Reflexive verbs describe actions you do to yourself, using the reflexive pronouns.",
+  "level": "pre-intermediate",
+  "order": 10,
+  "explanation": "Reflexive verbs describe an action the subject does to itself: chiamarsi (to call oneself / to be named), svegliarsi (to wake up), lavarsi (to wash oneself). In the dictionary they end in -si.\n\nTo use them, conjugate the verb normally and add the matching reflexive pronoun before it: mi (myself), ti (yourself), si (himself/herself), ci (ourselves), vi (yourselves), si (themselves).\n\nSo chiamarsi becomes mi chiamo (I am called), ti chiami (you are called), si chiama (he/she is called). Many daily-routine verbs are reflexive in Italian.",
+  "pattern": "mi / ti / si / ci / vi / si + verb",
+  "conjugation": {
+    "io": "mi chiamo",
+    "tu": "ti chiami",
+    "lui/lei": "si chiama",
+    "noi": "ci chiamiamo",
+    "voi": "vi chiamate",
+    "loro": "si chiamano"
+  },
+  "examples": [
+    { "native": "Mi chiamo Luca.", "en": "My name is Luca." },
+    { "native": "Mi sveglio alle sette.", "en": "I wake up at seven." },
+    { "native": "Ti lavi le mani.", "en": "You wash your hands." },
+    { "native": "Si chiama Anna.", "en": "Her name is Anna." },
+    { "native": "Ci vediamo domani.", "en": "We'll see each other tomorrow." },
+    { "native": "Si divertono molto.", "en": "They have a lot of fun." }
+  ],
+  "commonMistakes": [
+    "Forgetting the reflexive pronoun. Chiamo Luca means 'I call Luca', not 'My name is Luca'.",
+    "Putting the pronoun after the verb in normal sentences. It goes before: mi alzo, not alzo mi.",
+    "Using mio (my) for body parts. Italian says mi lavo le mani, with the reflexive plus the article.",
+    "Forgetting that si serves both lui/lei and loro.",
+    "Translating 'each other' literally; Italian reuses ci and si (ci vediamo)."
+  ],
+  "tip": "When you attach the verb to an infinitive or command, the pronoun joins the end: voglio alzarmi (I want to get up)."
+}

@@ -1,0 +1,90 @@
+{
+  "slug": "transport",
+  "title": "Transport",
+  "titleNative": "こうつう",
+  "shortSummary": "Buy tickets, ride trains and buses, and ask about platforms in Japan's famous transport network.",
+  "level": "beginner",
+  "order": 11,
+  "icon": "🚆",
+  "color": "#087f5b",
+  "culturalNote": "Japan's rail network is renowned for punctuality and cleanliness, with the shinkansen (bullet train) the most famous symbol of it. Trains run to the minute, and an apology is issued for delays of even seconds. Etiquette on board is quiet and considerate: you keep phones on silent (manner mode), do not take calls, and queue neatly on marked floor positions before boarding. IC cards such as Suica and Pasmo let you tap in and out at the gate, and they also work in convenience stores. Priority seats are reserved for the elderly, pregnant, and disabled, and people give them up readily. When the train is crowded, you move into the centre and wear a backpack on your front to make room for others. Eating is generally avoided on commuter trains but is fine on long-distance shinkansen, where ekiben (station bento) are a treat.",
+  "keyPhrases": [
+    { "native": "切符を買います", "transliteration": "kippu o kaimasu", "english": "I buy a ticket", "pronunciation": "KEEP-poo oh kai-mas", "context": "At the machine" },
+    { "native": "東京までお願いします", "transliteration": "toukyou made onegaishimasu", "english": "To Tokyo, please", "pronunciation": "TOH-kyoh ma-deh oh-neh-gai-shee-mas", "context": "Buying a fare" },
+    { "native": "何番線ですか", "transliteration": "nanbansen desu ka", "english": "Which platform?", "pronunciation": "NAN-ban-sen dess kah", "context": "Finding the platform" },
+    { "native": "次の電車は何時ですか", "transliteration": "tsugi no densha wa nanji desu ka", "english": "What time is the next train?", "pronunciation": "TSOO-gee no DEN-sha wah NAN-jee dess kah", "context": "Checking the schedule" },
+    { "native": "この電車は新宿に行きますか", "transliteration": "kono densha wa shinjuku ni ikimasu ka", "english": "Does this train go to Shinjuku?", "pronunciation": "KO-no DEN-sha wah shin-joo-koo nee ee-kee-mas kah", "context": "Confirming a route" },
+    { "native": "乗り換えはどこですか", "transliteration": "norikae wa doko desu ka", "english": "Where do I change trains?", "pronunciation": "no-ree-KA-eh wah DO-ko dess kah", "context": "Transfers" },
+    { "native": "バスに乗ります", "transliteration": "basu ni norimasu", "english": "I take the bus", "pronunciation": "BA-soo nee no-ree-mas", "context": "Bus travel" },
+    { "native": "タクシーを呼んでください", "transliteration": "takushii o yonde kudasai", "english": "Please call a taxi", "pronunciation": "ta-KOO-shee oh yon-deh koo-da-sai", "context": "Taxi" },
+    { "native": "ここで降ります", "transliteration": "koko de orimasu", "english": "I get off here", "pronunciation": "KO-ko deh oh-ree-mas", "context": "Getting off" },
+    { "native": "いくらかかりますか", "transliteration": "ikura kakarimasu ka", "english": "How much does it cost?", "pronunciation": "EE-koo-rah ka-ka-ree-mas kah", "context": "Asking the fare" }
+  ],
+  "grammar": [
+    {
+      "rule": "Transport with the particle ni and noru",
+      "explanation": "The verb noru ('to ride / board') takes the particle ni for the vehicle you get on, not o. Densha ni norimasu means 'I take the train'. The opposite verb oriru ('to get off') uses o or de for the place.",
+      "examples": [
+        { "native": "バスに乗ります。(basu ni norimasu)", "en": "I take the bus." },
+        { "native": "電車に乗りました。(densha ni norimashita)", "en": "I took the train." }
+      ],
+      "commonMistake": "Marking the vehicle with o; noru requires ni for the thing you board."
+    },
+    {
+      "rule": "Destination with ni and ikimasu",
+      "explanation": "The particle ni marks the destination of movement verbs like iku ('go'), kuru ('come'), and kaeru ('return'). Toukyou ni ikimasu means 'I go to Tokyo'. To ask whether a train goes somewhere, use [place] ni ikimasu ka.",
+      "examples": [
+        { "native": "駅に行きます。(eki ni ikimasu)", "en": "I go to the station." },
+        { "native": "この電車は大阪に行きますか。(kono densha wa oosaka ni ikimasu ka)", "en": "Does this train go to Osaka?" }
+      ],
+      "commonMistake": "Using de for a destination; de is for the place of an action, ni is for where you are heading."
+    }
+  ],
+  "dialogue": {
+    "setup": "A traveller asks a station attendant for help finding the right train.",
+    "lines": [
+      { "speaker": "旅行者", "native": "すみません、この電車は新宿に行きますか。", "transliteration": "sumimasen, kono densha wa shinjuku ni ikimasu ka", "english": "Excuse me, does this train go to Shinjuku?" },
+      { "speaker": "駅員", "native": "いいえ、新宿は三番線です。", "transliteration": "iie, shinjuku wa sanbansen desu", "english": "No, Shinjuku is platform three." },
+      { "speaker": "旅行者", "native": "次の電車は何時ですか。", "transliteration": "tsugi no densha wa nanji desu ka", "english": "What time is the next train?" },
+      { "speaker": "駅員", "native": "三時十分です。", "transliteration": "sanji juppun desu", "english": "Three ten." },
+      { "speaker": "旅行者", "native": "乗り換えはありますか。", "transliteration": "norikae wa arimasu ka", "english": "Is there a transfer?" },
+      { "speaker": "駅員", "native": "いいえ、直通です。", "transliteration": "iie, chokutsuu desu", "english": "No, it's a direct line." },
+      { "speaker": "旅行者", "native": "わかりました。ありがとうございます。", "transliteration": "wakarimashita. arigatou gozaimasu", "english": "I understand. Thank you very much." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'I take the train' in Japanese?",
+      "correctAnswer": "電車に乗ります (densha ni norimasu)",
+      "explanation": "Noru ('ride') takes the particle ni for the vehicle you board."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which particle marks the vehicle you board with the verb noru?",
+      "options": ["を (o)", "に (ni)", "で (de)", "は (wa)"],
+      "correctAnswer": "に (ni)",
+      "explanation": "Noru takes ni: densha ni noru means 'board the train'."
+    },
+    {
+      "type": "fill-blank",
+      "question": "東京 _____ 行きます。(I go to Tokyo)",
+      "correctAnswer": "に (ni)",
+      "explanation": "Ni marks the destination of movement verbs like iku."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What is the shinkansen?",
+      "options": ["A city bus", "A bullet train", "A taxi service", "An IC travel card"],
+      "correctAnswer": "A bullet train",
+      "explanation": "The shinkansen is Japan's high-speed bullet train network."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: ですか / 何番線 (which platform?)",
+      "correctAnswer": "何番線ですか (nanbansen desu ka)",
+      "explanation": "Nanbansen ('which platform number') + desu ka asks which platform it is."
+    }
+  ],
+  "status": "complete"
+}

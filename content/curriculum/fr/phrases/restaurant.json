@@ -1,0 +1,86 @@
+{
+  "slug": "restaurant",
+  "title": "At the Restaurant",
+  "description": "Order food and drinks, ask for the bill, and enjoy a meal out in French.",
+  "situation": "Cafes and restaurants: getting a table, ordering, asking questions, and paying.",
+  "order": 3,
+  "phrases": [
+    {
+      "native": "Une table pour deux, s'il vous plaît",
+      "english": "A table for two, please",
+      "pronunciation": "ewn TAH-bluh poor DUH",
+      "formality": "formal"
+    },
+    {
+      "native": "La carte, s'il vous plaît",
+      "english": "The menu, please",
+      "pronunciation": "lah KART",
+      "formality": "formal",
+      "tip": "'La carte' is the menu; 'le menu' is often a fixed-price set meal."
+    },
+    {
+      "native": "Je voudrais...",
+      "english": "I would like...",
+      "pronunciation": "zhuh voo-DREH",
+      "formality": "formal",
+      "tip": "The polite way to order."
+    },
+    {
+      "native": "Qu'est-ce que vous recommandez ?",
+      "english": "What do you recommend?",
+      "pronunciation": "kes-kuh voo ruh-koh-mon-DAY",
+      "formality": "formal"
+    },
+    {
+      "native": "Un café, s'il vous plaît",
+      "english": "A coffee, please",
+      "pronunciation": "un kah-FAY",
+      "formality": "neutral"
+    },
+    {
+      "native": "Une carafe d'eau",
+      "english": "A jug of tap water",
+      "pronunciation": "ewn kah-RAFF doh",
+      "formality": "neutral",
+      "tip": "Free tap water; bottled water costs extra."
+    },
+    {
+      "native": "Je suis végétarien",
+      "english": "I'm a vegetarian",
+      "pronunciation": "zhuh swee vay-zhay-tah-ree-AN",
+      "formality": "neutral",
+      "tip": "Women say 'végétarienne'."
+    },
+    {
+      "native": "C'est délicieux",
+      "english": "It's delicious",
+      "pronunciation": "say day-lee-see-UH",
+      "formality": "neutral"
+    },
+    {
+      "native": "L'addition, s'il vous plaît",
+      "english": "The bill, please",
+      "pronunciation": "lah-dee-see-ON",
+      "formality": "formal"
+    },
+    {
+      "native": "Service compris ?",
+      "english": "Is service included?",
+      "pronunciation": "sehr-VEES kom-PREE",
+      "formality": "neutral",
+      "tip": "Service is usually included; rounding up is a nice extra."
+    },
+    {
+      "native": "Santé !",
+      "english": "Cheers!",
+      "pronunciation": "son-TAY",
+      "formality": "neutral"
+    },
+    {
+      "native": "C'était très bon",
+      "english": "That was very good",
+      "pronunciation": "say-teh treh BON",
+      "formality": "neutral"
+    }
+  ]
+}

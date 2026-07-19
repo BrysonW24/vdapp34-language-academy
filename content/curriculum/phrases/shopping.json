@@ -1,0 +1,21 @@
+{
+  "slug": "shopping",
+  "title": "Shopping Phrases",
+  "description": "12 essential phrases for navigating shops, markets, and boutiques — from browsing to buying.",
+  "situation": "Clothing stores, markets, supermarkets, and specialty shops.",
+  "order": 4,
+  "phrases": [
+    { "spanish": "Sólo estoy mirando, gracias", "english": "I'm just looking, thanks", "pronunciation": "SOH-loh ehs-TOY mee-RAHN-doh GRAH-thee-ahs", "formality": "neutral", "tip": "The go-to response when a shop assistant approaches" },
+    { "spanish": "¿Cuánto cuesta esto?", "english": "How much does this cost?", "pronunciation": "KWAHN-toh KWEHS-tah EHS-toh", "formality": "neutral" },
+    { "spanish": "¿Tiene una talla más pequeña?", "english": "Do you have a smaller size?", "pronunciation": "tee-EH-neh OO-nah TAH-yah mahs peh-KEH-nyah", "formality": "formal" },
+    { "spanish": "¿Puedo probármelo?", "english": "Can I try it on?", "pronunciation": "PWEH-doh proh-BAHR-meh-loh", "formality": "formal" },
+    { "spanish": "¿Dónde están los probadores?", "english": "Where are the fitting rooms?", "pronunciation": "DOHN-deh ehs-TAHN lohs proh-bah-DOH-rehs", "formality": "formal" },
+    { "spanish": "Me queda bien / mal", "english": "It fits me well / badly", "pronunciation": "meh KEH-dah bee-EHN / mahl", "formality": "neutral", "tip": "'Quedar' is used for how clothes fit" },
+    { "spanish": "¿Tiene esto en otro color?", "english": "Do you have this in another colour?", "pronunciation": "tee-EH-neh EHS-toh ehn OH-troh koh-LOHR", "formality": "formal" },
+    { "spanish": "Es demasiado caro", "english": "It's too expensive", "pronunciation": "ehs deh-mah-see-AH-doh KAH-roh", "formality": "neutral" },
+    { "spanish": "¿Hay descuento?", "english": "Is there a discount?", "pronunciation": "eye dehs-KWEHN-toh", "formality": "neutral", "tip": "Acceptable in markets, less so in established shops" },
+    { "spanish": "Me lo llevo", "english": "I'll take it", "pronunciation": "meh loh YEH-boh", "formality": "neutral" },
+    { "spanish": "¿Puedo pagar en efectivo?", "english": "Can I pay in cash?", "pronunciation": "PWEH-doh pah-GAHR ehn eh-fehk-TEE-boh", "formality": "formal" },
+    { "spanish": "¿Tiene bolsa?", "english": "Do you have a bag?", "pronunciation": "tee-EH-neh BOHL-sah", "formality": "formal", "tip": "Bags often cost a small fee in Spain" }
+  ]
+}

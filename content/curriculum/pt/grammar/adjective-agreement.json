@@ -1,0 +1,33 @@
+{
+  "slug": "adjective-agreement",
+  "name": "Adjective Agreement",
+  "nameNative": "A concordância do adjetivo",
+  "summary": "Portuguese adjectives change their ending to match the gender and number of the noun.",
+  "level": "beginner",
+  "order": 4,
+  "explanation": "Portuguese adjectives agree with the noun in gender and number. Most adjectives end in -o and have four forms: -o (masc. sg.), -a (fem. sg.), -os (masc. pl.), -as (fem. pl.). So alto (tall) becomes alto, alta, altos, altas.\n\nAdjectives ending in -e or a consonant usually have one form for both genders and only change for plural: inteligente becomes inteligentes; fácil becomes fáceis.\n\nAdjectives normally come after the noun: uma casa branca (a white house), um carro vermelho (a red car).",
+  "pattern": "noun + adjective (matching gender + number)",
+  "conjugation": {
+    "masc. sg.": "o livro vermelho",
+    "fem. sg.": "a bolsa vermelha",
+    "masc. pl.": "os livros vermelhos",
+    "fem. pl.": "as bolsas vermelhas",
+    "-e type": "um filme interessante / filmes interessantes"
+  },
+  "examples": [
+    { "native": "um menino alto", "en": "a tall boy" },
+    { "native": "uma menina alta", "en": "a tall girl" },
+    { "native": "dois cafés quentes", "en": "two hot coffees" },
+    { "native": "as casas novas", "en": "the new houses" },
+    { "native": "um livro interessante", "en": "an interesting book" },
+    { "native": "pessoas inteligentes", "en": "intelligent people" }
+  ],
+  "commonMistakes": [
+    "Leaving the adjective in its -o dictionary form regardless of the noun.",
+    "Putting colour or description before the noun. Portuguese says casa branca, not branca casa.",
+    "Forgetting that -e adjectives still change in the plural (grande to grandes).",
+    "Making a feminine plural end in -os instead of -as.",
+    "Matching the adjective to the English noun rather than the Portuguese one."
+  ],
+  "tip": "Mismatched genders take the masculine plural: o João e a Maria são altos."
+}

@@ -1,0 +1,90 @@
+{
+  "slug": "greetings",
+  "title": "Greetings & Goodbyes",
+  "titleNative": "あいさつ",
+  "shortSummary": "Greet people, bow appropriately, and say goodbye in Japanese, the foundation of every polite conversation.",
+  "level": "beginner",
+  "order": 1,
+  "icon": "👋",
+  "color": "#bc002d",
+  "culturalNote": "In Japan, greetings (aisatsu) are paired with a bow (ojigi), and the depth of the bow signals respect: a light nod for friends, a deeper bend for elders, teachers, or clients. The right greeting depends on the time of day, so ohayou gozaimasu is for the morning, konnichiwa for the daytime, and konbanwa for the evening. Politeness register matters enormously: the -masu and desu forms used throughout this lesson are the safe, respectful default for anyone you do not know well. Japanese people often avoid saying a blunt 'no' or naming themselves loudly, so introductions stay humble, ending with yoroshiku onegaishimasu, a set phrase that roughly means 'please treat me favourably'. Unlike in many Western cultures, handshakes are uncommon; a bow is the standard physical greeting.",
+  "keyPhrases": [
+    { "native": "おはようございます", "transliteration": "ohayou gozaimasu", "english": "Good morning (polite)", "pronunciation": "oh-ha-YOH go-zai-mas", "context": "Morning, polite default" },
+    { "native": "こんにちは", "transliteration": "konnichiwa", "english": "Hello / Good afternoon", "pronunciation": "kon-NEE-chee-wah", "context": "Daytime greeting" },
+    { "native": "こんばんは", "transliteration": "konbanwa", "english": "Good evening", "pronunciation": "kon-BAN-wah", "context": "From early evening" },
+    { "native": "お元気ですか", "transliteration": "ogenki desu ka", "english": "How are you?", "pronunciation": "oh-GEN-kee dess kah", "context": "Polite well-being check" },
+    { "native": "元気です", "transliteration": "genki desu", "english": "I'm well", "pronunciation": "GEN-kee dess", "context": "Standard reply" },
+    { "native": "はじめまして", "transliteration": "hajimemashite", "english": "Nice to meet you (first time)", "pronunciation": "ha-jee-meh-MASH-teh", "context": "First meeting opener" },
+    { "native": "よろしくお願いします", "transliteration": "yoroshiku onegaishimasu", "english": "Please treat me well", "pronunciation": "yo-rosh-koo oh-neh-gai-shee-mas", "context": "Closes an introduction" },
+    { "native": "さようなら", "transliteration": "sayounara", "english": "Goodbye", "pronunciation": "sa-YOH-na-rah", "context": "Formal farewell" },
+    { "native": "またね", "transliteration": "mata ne", "english": "See you later (casual)", "pronunciation": "MA-ta neh", "context": "Casual closing" },
+    { "native": "お休みなさい", "transliteration": "oyasuminasai", "english": "Good night", "pronunciation": "oh-ya-soo-mee-na-sai", "context": "Before sleep" }
+  ],
+  "grammar": [
+    {
+      "rule": "Desu as the polite copula",
+      "explanation": "Desu is the polite ending that means 'is / am / are'. Attach it after a noun or adjective to make a sentence polite. To ask a question, simply add ka at the end with no change in word order.",
+      "examples": [
+        { "native": "元気です。(genki desu)", "en": "I am well." },
+        { "native": "学生ですか。(gakusei desu ka)", "en": "Are you a student?" }
+      ],
+      "commonMistake": "Dropping desu in formal situations, which makes speech sound abrupt or childish."
+    },
+    {
+      "rule": "Greetings by time of day",
+      "explanation": "Japanese greetings change with the clock: ohayou gozaimasu in the morning, konnichiwa in the daytime, and konbanwa in the evening. Oyasuminasai (good night) is only for going to bed, not a general evening hello.",
+      "examples": [
+        { "native": "おはようございます、先生。(ohayou gozaimasu, sensei)", "en": "Good morning, teacher." },
+        { "native": "こんばんは、皆さん。(konbanwa, minasan)", "en": "Good evening, everyone." }
+      ],
+      "commonMistake": "Saying oyasuminasai when arriving in the evening; it only means 'good night' before sleeping."
+    }
+  ],
+  "dialogue": {
+    "setup": "Tanaka-san meets her new colleague Sato-san at the office in the morning.",
+    "lines": [
+      { "speaker": "田中", "native": "おはようございます。", "transliteration": "ohayou gozaimasu", "english": "Good morning." },
+      { "speaker": "佐藤", "native": "おはようございます。お元気ですか。", "transliteration": "ohayou gozaimasu. ogenki desu ka", "english": "Good morning. How are you?" },
+      { "speaker": "田中", "native": "元気です。はじめまして、田中です。", "transliteration": "genki desu. hajimemashite, Tanaka desu", "english": "I'm well. Nice to meet you, I'm Tanaka." },
+      { "speaker": "佐藤", "native": "はじめまして、佐藤です。", "transliteration": "hajimemashite, Sato desu", "english": "Nice to meet you, I'm Sato." },
+      { "speaker": "田中", "native": "よろしくお願いします。", "transliteration": "yoroshiku onegaishimasu", "english": "Please treat me well." },
+      { "speaker": "佐藤", "native": "こちらこそ、よろしくお願いします。", "transliteration": "kochira koso, yoroshiku onegaishimasu", "english": "Likewise, please treat me well." },
+      { "speaker": "田中", "native": "では、またね。", "transliteration": "dewa, mata ne", "english": "Well then, see you later." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'Good evening' in Japanese?",
+      "correctAnswer": "こんばんは (konbanwa)",
+      "explanation": "Konbanwa is used from the early evening onward."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which phrase do you say when meeting someone for the first time?",
+      "options": ["さようなら (sayounara)", "はじめまして (hajimemashite)", "お休みなさい (oyasuminasai)", "またね (mata ne)"],
+      "correctAnswer": "はじめまして (hajimemashite)",
+      "explanation": "Hajimemashite literally means 'for the first time' and opens an introduction."
+    },
+    {
+      "type": "fill-blank",
+      "question": "お元気 _____ か。(polite 'how are you?')",
+      "correctAnswer": "です (desu)",
+      "explanation": "The polite copula desu plus the question marker ka asks 'are you well?'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which greeting is the polite morning greeting?",
+      "options": ["こんにちは (konnichiwa)", "こんばんは (konbanwa)", "おはようございます (ohayou gozaimasu)", "ありがとう (arigatou)"],
+      "correctAnswer": "おはようございます (ohayou gozaimasu)",
+      "explanation": "Ohayou gozaimasu is the full polite form used in the morning."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: お願いします / よろしく",
+      "correctAnswer": "よろしくお願いします (yoroshiku onegaishimasu)",
+      "explanation": "Yoroshiku onegaishimasu closes a self-introduction with 'please treat me well'."
+    }
+  ],
+  "status": "complete"
+}

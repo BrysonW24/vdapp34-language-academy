@@ -1,0 +1,90 @@
+{
+  "slug": "shopping",
+  "title": "Shopping",
+  "titleNative": "쇼핑",
+  "shortSummary": "Ask prices, sizes, and colours, and pay your way through a Korean shop or market.",
+  "level": "beginner",
+  "order": 6,
+  "icon": "🛍️",
+  "color": "#9c36b5",
+  "culturalNote": "Shopping in Korea ranges from fixed-price department stores and convenience stores to traditional markets (시장, sijang) where light bargaining is part of the experience. In markets it is fine to ask 깎아 주세요 (kkakka juseyo, please give a discount), though in modern shops prices are fixed and haggling is not expected. Cards are accepted almost everywhere, even for tiny purchases, and contactless payment is the norm. Staff are very polite and will often greet you with 어서 오세요 (eoseo oseyo, welcome) as you enter. Sizes for clothing and shoes often follow their own Korean numbering, so trying things on or asking to see another size is common. When you pay, money or a card is usually passed with both hands as a small courtesy, and a thank-you with a nod closes the exchange warmly.",
+  "keyPhrases": [
+    { "native": "어서 오세요", "english": "Welcome (said by staff)", "transliteration": "eoseo oseyo", "pronunciation": "o-so o-se-yo", "context": "Heard as you enter a shop" },
+    { "native": "이거 얼마예요?", "english": "How much is this?", "transliteration": "igeo eolmayeyo?", "pronunciation": "i-go ol-ma-ye-yo", "context": "Asking the price" },
+    { "native": "너무 비싸요", "english": "It's too expensive", "transliteration": "neomu bissayo", "pronunciation": "no-mu bi-ssa-yo", "context": "Reacting to a price" },
+    { "native": "깎아 주세요", "english": "Please give a discount", "transliteration": "kkakka juseyo", "pronunciation": "kka-kka ju-se-yo", "context": "Bargaining at a market" },
+    { "native": "다른 색 있어요?", "english": "Do you have another colour?", "transliteration": "dareun saek isseoyo?", "pronunciation": "da-reun saek i-sso-yo", "context": "Asking about colours" },
+    { "native": "더 큰 거 있어요?", "english": "Do you have a bigger one?", "transliteration": "deo keun geo isseoyo?", "pronunciation": "do keun go i-sso-yo", "context": "Asking about sizes" },
+    { "native": "입어 봐도 돼요?", "english": "May I try it on?", "transliteration": "ibeo bwado dwaeyo?", "pronunciation": "i-bo bwa-do dwae-yo", "context": "Trying on clothes" },
+    { "native": "이걸로 할게요", "english": "I'll take this one", "transliteration": "igeollo halgeyo", "pronunciation": "i-gol-lo hal-ge-yo", "context": "Deciding to buy" },
+    { "native": "카드 돼요?", "english": "Do you take cards?", "transliteration": "kadeu dwaeyo?", "pronunciation": "ka-deu dwae-yo", "context": "Asking about payment" },
+    { "native": "봉투 주세요", "english": "A bag, please", "transliteration": "bongtu juseyo", "pronunciation": "bong-tu ju-se-yo", "context": "Asking for a bag" }
+  ],
+  "grammar": [
+    {
+      "rule": "Asking 'how much' with 얼마",
+      "explanation": "얼마 (eolma) means 'how much'. The standard question is 얼마예요? (eolmayeyo), often with 이거 (igeo, this) in front: 이거 얼마예요?. The answer uses Sino-Korean numbers plus 원 (won).",
+      "examples": [
+        { "native": "이거 얼마예요? (igeo eolmayeyo?)", "en": "How much is this?" },
+        { "native": "삼만 원이에요. (samman wonieyo.)", "en": "It's thirty thousand won." }
+      ],
+      "commonMistake": "Using native numbers for the price; money always uses Sino-Korean numbers."
+    },
+    {
+      "rule": "Asking permission with -아/어도 돼요?",
+      "explanation": "To ask 'may I?', attach 아도 돼요? or 어도 돼요? to a verb stem. 입다 (ipda, to wear) becomes 입어 봐도 돼요? (ibeo bwado dwaeyo, may I try it on?). 돼요 means 'is it okay'.",
+      "examples": [
+        { "native": "써 봐도 돼요? (sseo bwado dwaeyo?)", "en": "May I try it (e.g. a hat)?" },
+        { "native": "여기 앉아도 돼요? (yeogi anjado dwaeyo?)", "en": "May I sit here?" }
+      ],
+      "commonMistake": "Forgetting 돼요 at the end, which turns the request into a plain statement."
+    }
+  ],
+  "dialogue": {
+    "setup": "Lena shops for a jacket at a clothing store and talks with the assistant.",
+    "lines": [
+      { "speaker": "점원", "native": "어서 오세요! 찾으시는 거 있으세요?", "transliteration": "eoseo oseyo! chajeusineun geo isseuseyo?", "english": "Welcome! Are you looking for anything?" },
+      { "speaker": "레나", "native": "이 재킷 얼마예요?", "transliteration": "i jaekit eolmayeyo?", "english": "How much is this jacket?" },
+      { "speaker": "점원", "native": "그건 칠만 원이에요.", "transliteration": "geugeon chilman wonieyo.", "english": "That one is seventy thousand won." },
+      { "speaker": "레나", "native": "다른 색 있어요?", "transliteration": "dareun saek isseoyo?", "english": "Do you have another colour?" },
+      { "speaker": "점원", "native": "네, 검은색도 있어요. 입어 봐도 돼요.", "transliteration": "ne, geomeunsaekdo isseoyo. ibeo bwado dwaeyo.", "english": "Yes, we have black too. You may try it on." },
+      { "speaker": "레나", "native": "좋아요. 이걸로 할게요. 카드 돼요?", "transliteration": "joayo. igeollo halgeyo. kadeu dwaeyo?", "english": "Great. I'll take this one. Do you take cards?" },
+      { "speaker": "점원", "native": "네, 됩니다. 감사합니다!", "transliteration": "ne, doemnida. gamsahamnida!", "english": "Yes, we do. Thank you!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you ask 'How much is this?' in Korean?",
+      "correctAnswer": "이거 얼마예요?",
+      "explanation": "이거 얼마예요? (igeo eolmayeyo) asks the price of an item."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which phrase asks 'May I try it on?'",
+      "options": ["이걸로 할게요", "입어 봐도 돼요?", "너무 비싸요", "봉투 주세요"],
+      "correctAnswer": "입어 봐도 돼요?",
+      "explanation": "입어 봐도 돼요? (ibeo bwado dwaeyo) asks permission to try clothing on."
+    },
+    {
+      "type": "fill-blank",
+      "question": "다른 색 _____? (do you have)",
+      "correctAnswer": "있어요",
+      "explanation": "있어요? (isseoyo) means 'do you have', so 다른 색 있어요? asks about another colour."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does 어서 오세요 mean?",
+      "options": ["Goodbye", "Welcome", "Thank you", "How much"],
+      "correctAnswer": "Welcome",
+      "explanation": "어서 오세요 (eoseo oseyo) is the welcome greeting staff use as you enter a shop."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: 할게요 / 이걸로 (I'll take this one)",
+      "correctAnswer": "이걸로 할게요",
+      "explanation": "이걸로 할게요 (igeollo halgeyo) means 'I'll go with this one'."
+    }
+  ],
+  "status": "complete"
+}

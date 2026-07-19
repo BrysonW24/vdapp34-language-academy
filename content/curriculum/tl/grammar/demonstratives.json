@@ -1,0 +1,34 @@
+{
+  "slug": "demonstratives",
+  "name": "Demonstratives (ito, iyan, iyon)",
+  "nameNative": "Mga pamatlig (ito, iyan, iyon)",
+  "summary": "Point to things by distance with ito, iyan, and iyon, and their location forms dito, diyan, and doon.",
+  "level": "elementary",
+  "order": 10,
+  "explanation": "Filipino demonstratives mark three distances, not two. Ito means this, near the speaker. Iyan means that, near the listener. Iyon (often spelled yun in speech) means that over there, far from both. This three-way system mirrors the speaker, listener, and far positions, so always picture who is closest to the object.\n\nThere is a matching set for location, built with a d-: dito (here, near me), diyan (there, near you), and doon (over there, far). Nandito ako means I am here; nandoon sila means they are over there.\n\nThere are also ng forms used as objects or possessors: nito, niyan, niyon (for example, kulay nito, the colour of this). And the linker rules still apply, so itong bahay means this house. In casual speech the shorter forms ire, yan, and yun are common. Match the demonstrative to whoever the object is nearest, and your pointing will always be clear.",
+  "pattern": "near me: ito/dito | near you: iyan/diyan | far: iyon/doon",
+  "conjugation": {
+    "ito": "this (near me)",
+    "iyan": "that (near you)",
+    "iyon": "that (far from both)",
+    "dito": "here (near me)",
+    "diyan": "there (near you)",
+    "doon": "over there (far)"
+  },
+  "examples": [
+    { "native": "Ano ito?", "en": "What is this?" },
+    { "native": "Magkano iyan?", "en": "How much is that (by you)?" },
+    { "native": "Maganda iyon.", "en": "That (far away) is beautiful." },
+    { "native": "Nandito ako.", "en": "I am here." },
+    { "native": "Pumunta tayo doon.", "en": "Let's go over there." },
+    { "native": "Itong bahay ay luma.", "en": "This house is old." }
+  ],
+  "commonMistakes": [
+    "Using ito for something near the listener; that calls for iyan.",
+    "Treating the system as two-way like English this/that and ignoring the far form iyon.",
+    "Mixing the object forms (nito, niyan) with the subject forms (ito, iyan).",
+    "Saying dito when the place is far; far locations take doon.",
+    "Forgetting the linker in itong bahay (writing ito bahay)."
+  ],
+  "tip": "Three distances, three words: ito near me, iyan near you, iyon far from us both. The d- versions point to places."
+}

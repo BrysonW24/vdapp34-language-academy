@@ -1,0 +1,90 @@
+{
+  "slug": "travel-and-accommodation",
+  "title": "Travel & Accommodation",
+  "titleTh": "การท่องเที่ยวและที่พัก",
+  "shortSummary": "Plan a trip, check into a hotel, and handle travel situations in Thai.",
+  "level": "pre-intermediate",
+  "order": 14,
+  "icon": "🧳",
+  "color": "#386a58",
+  "culturalNote": "Thailand is one of the world's great travel destinations, from temples and islands to mountains and street food. Accommodation ranges from guesthouses and hostels to resorts, and booking ahead is wise around festivals like Songkran. Hotels register guests with a passport, and many ask for a small deposit at check-in. A warm wai and a smile go a long way at any front desk.",
+  "keyPhrases": [
+    { "thai": "ผมอยากจองห้อง", "pronunciation": "phom yaak jong hong", "english": "I'd like to book a room", "context": "Booking" },
+    { "thai": "มีห้องว่างไหม", "pronunciation": "mii hong waang mai", "english": "Do you have a room available?", "context": "Walk-in" },
+    { "thai": "พักสองคืน", "pronunciation": "phak song khuun", "english": "stay two nights", "context": "Length of stay" },
+    { "thai": "รวมอาหารเช้าไหม", "pronunciation": "ruam aahaan chao mai", "english": "Is breakfast included?", "context": "Checking inclusions" },
+    { "thai": "เช็คเอาท์กี่โมง", "pronunciation": "check-out kii moong", "english": "What time is check-out?", "context": "Leaving" },
+    { "thai": "เที่ยวบินดีเลย์", "pronunciation": "thiao-bin delay", "english": "The flight is delayed", "context": "Travel problems" },
+    { "thai": "ไปสนามบินยังไง", "pronunciation": "pai sa-naam-bin yang-ngai", "english": "How do I get to the airport?", "context": "Getting around" },
+    { "thai": "สถานที่ท่องเที่ยว", "pronunciation": "sa-thaan-thii thong-thiao", "english": "tourist attraction", "context": "Sightseeing" },
+    { "thai": "ถ่ายรูปได้ไหม", "pronunciation": "thaai-ruup dai mai", "english": "Can I take photos?", "context": "At attractions" },
+    { "thai": "เดินทางปลอดภัย", "pronunciation": "doen-thaang plot-phai", "english": "Have a safe trip", "context": "A warm farewell" }
+  ],
+  "grammar": [
+    {
+      "rule": "อยาก for wishes",
+      "explanation": "อยาก (yaak) means 'would like to / want to' and comes before a verb: ผมอยากจองห้อง (I'd like to book a room), ผมอยากไปเชียงใหม่ (I'd like to go to Chiang Mai).",
+      "examples": [
+        { "th": "ผมอยากกินส้มตำ", "en": "I'd like to eat papaya salad." },
+        { "th": "ผมอยากพักผ่อน", "en": "I'd like to rest." }
+      ],
+      "commonMistake": "Putting อยาก after the verb. It comes before: อยากไป, not ไปอยาก."
+    },
+    {
+      "rule": "Counting nights with คืน",
+      "explanation": "Nights are counted with the classifier คืน (khuun): พักสองคืน (stay two nights), พักสามคืน (stay three nights). The number comes before คืน.",
+      "examples": [
+        { "th": "ผมพักหนึ่งคืน", "en": "I'm staying one night." },
+        { "th": "พักกี่คืน", "en": "How many nights?" }
+      ],
+      "commonMistake": "Using a different classifier for nights. Nights take คืน."
+    }
+  ],
+  "dialogue": {
+    "setup": "A guest checks into a hotel and speaks with the receptionist.",
+    "lines": [
+      { "speaker": "แขก", "thai": "สวัสดีครับ ผมจองห้องไว้", "pronunciation": "sa-wat-dee khrap, phom jong hong wai", "english": "Hello, I have a reservation." },
+      { "speaker": "พนักงาน", "thai": "ยินดีต้อนรับค่ะ จองชื่ออะไรคะ", "pronunciation": "yin-dee ton-rap kha, jong chuu a-rai kha", "english": "Welcome, under what name?" },
+      { "speaker": "แขก", "thai": "ชื่อสมิธ พักสองคืนครับ", "pronunciation": "chuu Smith, phak song khuun khrap", "english": "Smith, two nights." },
+      { "speaker": "พนักงาน", "thai": "ค่ะ รวมอาหารเช้า เจ็ดถึงสิบโมงค่ะ", "pronunciation": "kha, ruam aahaan chao, jet theung sip moong kha", "english": "Okay, breakfast is included, 7 to 10am." },
+      { "speaker": "แขก", "thai": "เช็คเอาท์กี่โมงครับ", "pronunciation": "check-out kii moong khrap", "english": "What time is check-out?" },
+      { "speaker": "พนักงาน", "thai": "เที่ยงค่ะ ขอพาสปอร์ตด้วยนะคะ", "pronunciation": "thiang kha, kho passport duay na kha", "english": "Noon. May I have your passport?" },
+      { "speaker": "แขก", "thai": "ได้ครับ ขอบคุณครับ", "pronunciation": "dai khrap, khop-khun khrap", "english": "Sure, thank you." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'I'd like to book a room'?",
+      "correctAnswer": "ผมอยากจองห้อง",
+      "explanation": "อยาก (would like) + จอง (book) + ห้อง (room)."
+    },
+    {
+      "type": "fill-blank",
+      "question": "ผม_____ไปเชียงใหม่ (I'd like to go)",
+      "correctAnswer": "อยาก",
+      "explanation": "อยาก expresses a wish, before the verb."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which classifier counts nights?",
+      "options": ["คน", "คืน", "อัน", "ใบ"],
+      "correctAnswer": "คืน",
+      "explanation": "Nights are counted with คืน."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does เดินทางปลอดภัย mean?",
+      "options": ["Welcome", "Have a safe trip", "Check-out time", "No photos"],
+      "correctAnswer": "Have a safe trip",
+      "explanation": "เดินทางปลอดภัย is a 'safe travels' farewell."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: ไหม / ว่าง / ห้อง / มี",
+      "correctAnswer": "มีห้องว่างไหม",
+      "explanation": "มี (have) + ห้องว่าง (vacant room) + ไหม (question)."
+    }
+  ],
+  "status": "complete"
+}

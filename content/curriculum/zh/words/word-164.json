@@ -1,12 +1,13 @@
 {
   "rank": 164,
-  "chinese": "老师",
-  "characters": "老师",
-  "pinyin": "lǎoshī",
-  "english": "teacher",
-  "partOfSpeech": "noun",
-  "exampleZh": "老师教我们中文。",
-  "exampleEn": "The teacher teaches us Chinese.",
+  "chinese": "统一",
+  "characters": "统一",
+  "pinyin": "tǒng yī",
+  "english": "to unified",
+  "pronunciation": "tong-yi",
+  "partOfSpeech": "verb",
+  "exampleZh": "统一你有时间，我们一起去。",
+  "exampleEn": "If you have time, we can go together.",
   "group": "everyday-250",
-  "topic": "people"
+  "topic": "actions"
 }

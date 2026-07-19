@@ -1,11 +1,11 @@
 {
   "rank": 677,
-  "german": "sauber",
-  "english": "clean",
-  "pronunciation": "ZOW-ber",
+  "german": "bilder",
+  "english": "pictures",
+  "pronunciation": "b ɪ l d ɐ",
   "partOfSpeech": "adjective",
-  "exampleDe": "Die Wohnung ist sauber.",
-  "exampleEn": "The flat is clean.",
+  "exampleDe": "Das ist sehr bilder.",
+  "exampleEn": "That is very pictures.",
   "group": "confident-350",
-  "topic": "home"
+  "topic": "descriptions"
 }

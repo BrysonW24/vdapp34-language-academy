@@ -1,0 +1,26 @@
+{
+  "slug": "aspect-le",
+  "name": "The Particle 了",
+  "nameZh": "助词了",
+  "summary": "了 marks a completed action or a change of situation, doing the work of tense without being one.",
+  "level": "elementary",
+  "order": 6,
+  "explanation": "了 (le) is one of the most useful and most misunderstood particles. It has two main jobs. After a verb it shows the action is complete: 我吃了饭 (wǒ chī le fàn) = I have eaten.\n\nAt the end of a sentence it signals a change of state or a new situation: 下雨了 (xià yǔ le) = it has started to rain; 我饿了 (wǒ è le) = I am hungry now (I wasn't before).\n\nCrucially, 了 is not a past tense. Past actions that are habitual or negated do not use it (我没去, I didn't go, has no 了). Think of 了 as 'completed' or 'changed', not 'past'.",
+  "pattern": "Verb + 了 (completion)  |  ... 了 (change of state, end of sentence)",
+  "examples": [
+    { "zh": "我买了一本书。", "en": "I bought a book. (completed action)" },
+    { "zh": "他走了。", "en": "He has left. (change of state)" },
+    { "zh": "天黑了。", "en": "It has got dark. (new situation)" },
+    { "zh": "我们到了。", "en": "We have arrived." },
+    { "zh": "我吃饱了。", "en": "I am full now." },
+    { "zh": "你长高了。", "en": "You have grown taller." }
+  ],
+  "commonMistakes": [
+    "Treating 了 as a past tense and adding it to every past sentence. Negated and habitual pasts have no 了.",
+    "Using 了 with 没: it is 我没吃, not 我没吃了.",
+    "Forgetting that sentence-final 了 means a change, which can be present (我饿了 = I'm hungry now).",
+    "Doubling up incorrectly. One 了 per job; do not sprinkle it freely.",
+    "Omitting 了 when reporting a completed action, which leaves the sentence sounding unfinished."
+  ],
+  "tip": "Ask two questions: did the action finish, or did something change? If yes to either, you probably need 了. If you are negating with 没, you do not."
+}

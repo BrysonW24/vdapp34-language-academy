@@ -1,0 +1,81 @@
+{
+  "slug": "shopping",
+  "title": "Shopping",
+  "description": "Ask for sizes, prices, and payment options while shopping in French.",
+  "situation": "Shops and markets: finding items, asking prices, trying things on, and paying.",
+  "order": 4,
+  "phrases": [
+    {
+      "native": "Je cherche...",
+      "english": "I'm looking for...",
+      "pronunciation": "zhuh SHERSH",
+      "formality": "neutral"
+    },
+    {
+      "native": "C'est combien ?",
+      "english": "How much is it?",
+      "pronunciation": "say kom-bee-AN",
+      "formality": "neutral"
+    },
+    {
+      "native": "Avez-vous une autre taille ?",
+      "english": "Do you have another size?",
+      "pronunciation": "ah-vay VOO ewn OH-truh TYE",
+      "formality": "formal"
+    },
+    {
+      "native": "Je peux l'essayer ?",
+      "english": "Can I try it on?",
+      "pronunciation": "zhuh puh leh-say-YAY",
+      "formality": "neutral"
+    },
+    {
+      "native": "C'est trop cher",
+      "english": "It's too expensive",
+      "pronunciation": "say troh SHEHR",
+      "formality": "neutral"
+    },
+    {
+      "native": "Avez-vous moins cher ?",
+      "english": "Do you have something cheaper?",
+      "pronunciation": "ah-vay VOO mwan SHEHR",
+      "formality": "formal"
+    },
+    {
+      "native": "Acceptez-vous la carte ?",
+      "english": "Do you take card?",
+      "pronunciation": "ahk-sep-tay VOO lah KART",
+      "formality": "formal"
+    },
+    {
+      "native": "Je paie en espèces",
+      "english": "I'll pay cash",
+      "pronunciation": "zhuh pay on ess-PESS",
+      "formality": "neutral"
+    },
+    {
+      "native": "Je regarde seulement",
+      "english": "I'm just looking",
+      "pronunciation": "zhuh ruh-GARD suhl-MON",
+      "formality": "neutral"
+    },
+    {
+      "native": "Je le prends",
+      "english": "I'll take it",
+      "pronunciation": "zhuh luh PRON",
+      "formality": "neutral"
+    },
+    {
+      "native": "Un sac, s'il vous plaît",
+      "english": "A bag, please",
+      "pronunciation": "un SAK",
+      "formality": "neutral"
+    },
+    {
+      "native": "Un reçu, s'il vous plaît",
+      "english": "A receipt, please",
+      "pronunciation": "un ruh-SEW",
+      "formality": "neutral"
+    }
+  ]
+}

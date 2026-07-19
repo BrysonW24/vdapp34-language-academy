@@ -1,0 +1,101 @@
+{
+  "slug": "food-and-restaurants",
+  "title": "Food & Restaurants",
+  "titleEs": "Comida y Restaurantes",
+  "shortSummary": "Order food, understand menus, and navigate dining out in Spanish — from tapas bars to formal restaurants.",
+  "level": "beginner",
+  "order": 4,
+  "icon": "🍽️",
+  "color": "#a16a1f",
+  "culturalNote": "Meal times in Spain are significantly later than in English-speaking countries: lunch (la comida) is typically 2-3 PM and dinner (la cena) starts around 9-10 PM. Lunch is the main meal of the day. In restaurants, the bill won't come until you ask for it — it's considered rude to rush diners. Tipping is appreciated but not expected in Spain (5-10%), while customs vary across Latin America.",
+  "keyPhrases": [
+    { "spanish": "Una mesa para dos, por favor", "english": "A table for two, please", "pronunciation": "OO-nah MEH-sah PAH-rah dohs pohr fah-BOHR", "context": "Requesting a table at a restaurant" },
+    { "spanish": "La carta, por favor", "english": "The menu, please", "pronunciation": "lah KAR-tah pohr fah-BOHR", "context": "'Carta' is the menu; 'menú' usually means a set meal" },
+    { "spanish": "Quiero pedir...", "english": "I'd like to order...", "pronunciation": "kee-EH-roh peh-DEER", "context": "Starting your order" },
+    { "spanish": "¿Qué me recomienda?", "english": "What do you recommend?", "pronunciation": "keh meh reh-koh-mee-EHN-dah", "context": "A great way to discover local dishes" },
+    { "spanish": "Soy vegetariano/vegetariana", "english": "I'm vegetarian", "pronunciation": "soy beh-heh-tah-ree-AH-noh/nah", "context": "Important dietary information" },
+    { "spanish": "La cuenta, por favor", "english": "The bill, please", "pronunciation": "lah KWEHN-tah pohr fah-BOHR", "context": "You must ask — they won't bring it automatically" },
+    { "spanish": "Está delicioso", "english": "It's delicious", "pronunciation": "ehs-TAH deh-lee-see-OH-soh", "context": "Complimenting the food — always appreciated" },
+    { "spanish": "Tengo alergia a...", "english": "I'm allergic to...", "pronunciation": "TEHN-goh ah-LEHR-hee-ah ah", "context": "Essential for food allergies" },
+    { "spanish": "¿Tienen algo sin gluten?", "english": "Do you have anything gluten-free?", "pronunciation": "tee-EH-nehn AHL-goh seen GLOO-tehn", "context": "Asking about dietary options" },
+    { "spanish": "De primero quiero la sopa", "english": "For the first course I'd like the soup", "pronunciation": "deh pree-MEH-roh kee-EH-roh lah SOH-pah", "context": "Spanish meals typically have two courses" }
+  ],
+  "grammar": [
+    {
+      "rule": "Querer (to want) — stem-changing verb",
+      "explanation": "Querer changes its stem from e→ie in most forms: quiero, quieres, quiere, queremos, queréis, quieren. Only 'nosotros' and 'vosotros' keep the regular stem. Use 'quiero' + infinitive to say what you want to do.",
+      "examples": [
+        { "es": "Quiero un café", "en": "I want a coffee" },
+        { "es": "¿Qué quieres comer?", "en": "What do you want to eat?" },
+        { "es": "Queremos la cuenta", "en": "We want the bill" }
+      ],
+      "commonMistake": "Saying 'quero' instead of 'quiero' — the stem change to 'ie' is essential."
+    },
+    {
+      "rule": "Partitive — no article needed for unspecified quantities",
+      "explanation": "Unlike French, Spanish doesn't use a partitive article. You simply say the noun without 'some': 'quiero agua' (I want water), not 'quiero algo de agua'.",
+      "examples": [
+        { "es": "Quiero pan", "en": "I want (some) bread" },
+        { "es": "¿Tienes leche?", "en": "Do you have (any) milk?" }
+      ],
+      "commonMistake": "Trying to translate 'some' literally — just drop it in Spanish."
+    },
+    {
+      "rule": "Estar for temporary states (food descriptions)",
+      "explanation": "Use 'estar' (not 'ser') to describe how food tastes right now: 'está delicioso' (it's delicious), 'está frío' (it's cold). 'Ser' would describe an inherent quality.",
+      "examples": [
+        { "es": "La sopa está caliente", "en": "The soup is hot (right now)" },
+        { "es": "El café está frío", "en": "The coffee is cold (a problem)" }
+      ],
+      "commonMistake": "Using 'ser' for food states: 'la sopa es caliente' sounds like soup is inherently always hot."
+    }
+  ],
+  "dialogue": {
+    "setup": "Tom and his partner arrive at a restaurant in Barcelona for dinner.",
+    "lines": [
+      { "speaker": "Camarero", "spanish": "Buenas noches. ¿Mesa para dos?", "english": "Good evening. Table for two?" },
+      { "speaker": "Tom", "spanish": "Sí, por favor. ¿Tienen terraza?", "english": "Yes, please. Do you have a terrace?" },
+      { "speaker": "Camarero", "spanish": "Sí, por aquí. Aquí tienen la carta.", "english": "Yes, this way. Here's the menu." },
+      { "speaker": "Tom", "spanish": "Gracias. ¿Qué nos recomienda?", "english": "Thanks. What do you recommend?" },
+      { "speaker": "Camarero", "spanish": "La paella está muy buena hoy.", "english": "The paella is very good today." },
+      { "speaker": "Tom", "spanish": "Perfecto. Quiero la paella, por favor.", "english": "Perfect. I'd like the paella, please." },
+      { "speaker": "Camarero", "spanish": "¿Y para beber?", "english": "And to drink?" },
+      { "speaker": "Tom", "spanish": "Una botella de agua, por favor. Y la cuenta cuando pueda.", "english": "A bottle of water, please. And the bill when you can." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you ask for the bill in Spanish?",
+      "correctAnswer": "La cuenta, por favor",
+      "explanation": "'Cuenta' means bill/check. Remember — in Spain, you must ask for it."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "How do you say 'I want a coffee' in Spanish?",
+      "options": ["Quero un café", "Quiero un café", "Quioro un café", "Quieres un café"],
+      "correctAnswer": "Quiero un café",
+      "explanation": "'Querer' has a stem change: e→ie. The 'yo' form is 'quiero'."
+    },
+    {
+      "type": "fill-blank",
+      "question": "La paella _____ deliciosa. (The paella is delicious)",
+      "correctAnswer": "está",
+      "explanation": "Use 'estar' for temporary states like how food tastes right now."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "What does 'la carta' mean in a restaurant?",
+      "options": ["The letter", "The menu", "The bill", "The card"],
+      "correctAnswer": "The menu",
+      "explanation": "'La carta' means the menu in a restaurant context. 'El menú' usually refers to a set/fixed-price meal."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: recomienda / qué / me",
+      "correctAnswer": "¿Qué me recomienda?",
+      "explanation": "Question word first, then indirect object pronoun, then verb."
+    }
+  ],
+  "status": "complete"
+}

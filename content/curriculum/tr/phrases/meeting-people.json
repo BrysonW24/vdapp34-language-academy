@@ -1,0 +1,21 @@
+{
+  "slug": "meeting-people",
+  "title": "Meeting People",
+  "description": "Introduce yourself, ask someone's name, and make a warm first impression in Turkish.",
+  "situation": "First introductions: names, where you are from, and friendly small talk.",
+  "order": 2,
+  "phrases": [
+    { "native": "Adınız ne?", "english": "What's your name? (formal)", "pronunciation": "ah-duh-NUHZ neh", "formality": "formal", "tip": "Informal: adın ne?" },
+    { "native": "Benim adım...", "english": "My name is...", "pronunciation": "beh-NEEM ah-DUHM", "formality": "neutral" },
+    { "native": "Memnun oldum", "english": "Nice to meet you", "pronunciation": "mem-NOON ol-doom", "formality": "neutral" },
+    { "native": "Nerelisiniz?", "english": "Where are you from? (formal)", "pronunciation": "neh-reh-lee-see-neez", "formality": "formal" },
+    { "native": "Avustralyalıyım", "english": "I'm Australian", "pronunciation": "ah-voos-tral-yah-luh-yuhm", "formality": "neutral" },
+    { "native": "Nasılsınız?", "english": "How are you? (formal)", "pronunciation": "nah-suhl-suh-nuhz", "formality": "formal", "tip": "Informal: nasılsın?" },
+    { "native": "İyiyim, teşekkürler", "english": "I'm well, thanks", "pronunciation": "ee-YEE-yeem teh-shek-kyur-LEHR", "formality": "neutral" },
+    { "native": "Ne iş yapıyorsunuz?", "english": "What do you do?", "pronunciation": "neh eesh yah-puh-yor-soo-nooz", "formality": "formal" },
+    { "native": "Biraz Türkçe konuşuyorum", "english": "I speak a little Turkish", "pronunciation": "bee-RAHZ TURK-cheh koh-noo-shoo-yor-oom", "formality": "neutral" },
+    { "native": "Türkçe öğreniyorum", "english": "I'm learning Turkish", "pronunciation": "TURK-cheh er-reh-nee-yor-oom", "formality": "neutral" },
+    { "native": "Görüşürüz", "english": "See you", "pronunciation": "ger-yoo-shyoo-RYOOZ", "formality": "neutral" },
+    { "native": "İyi günler", "english": "Have a good day", "pronunciation": "ee-YEE gyoon-LEHR", "formality": "neutral" }
+  ]
+}

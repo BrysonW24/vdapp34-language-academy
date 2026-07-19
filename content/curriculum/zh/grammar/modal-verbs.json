@@ -1,0 +1,26 @@
+{
+  "slug": "modal-verbs",
+  "name": "Modal Verbs",
+  "nameZh": "能愿动词",
+  "summary": "Express can, want, will, and should with 会, 能, 可以, 要, 想, and 应该.",
+  "level": "elementary",
+  "order": 7,
+  "explanation": "Modal verbs sit before the main verb and add meaning like ability, permission, or desire. The key ones are 会 (huì, know how to / will), 能 (néng, be able to), 可以 (kěyǐ, may / be allowed), 要 (yào, want / must), 想 (xiǎng, would like), and 应该 (yīnggāi, should).\n\nThere is a useful split for 'can': 会 is a learned skill (我会游泳, I can swim), while 能 is physical possibility or capability right now (我今天不能来, I can't come today), and 可以 is permission (你可以走了, you may go).\n\nTo negate, put 不 before the modal: 我不能去 (I can't go). Most modals are negated with 不, except 想 and 要 which can also pair with 不.",
+  "pattern": "Subject + modal + main verb (+ object)",
+  "examples": [
+    { "zh": "我会说中文。", "en": "I can speak Chinese. (learned skill: 会)" },
+    { "zh": "你能帮我吗？", "en": "Can you help me? (ability now: 能)" },
+    { "zh": "我可以坐这里吗？", "en": "May I sit here? (permission: 可以)" },
+    { "zh": "我想喝咖啡。", "en": "I would like to drink coffee. (想)" },
+    { "zh": "你应该多休息。", "en": "You should rest more. (应该)" },
+    { "zh": "我不能去。", "en": "I can't go. (negated with 不)" }
+  ],
+  "commonMistakes": [
+    "Using 会 for physical ability today: use 能 for 'able right now', 会 for a learned skill.",
+    "Conjugating or changing the modal. Like all Chinese verbs, modals never change form.",
+    "Putting the modal after the main verb. It always comes before.",
+    "Using 可以 when you mean ability rather than permission. 可以 is mainly 'allowed to'.",
+    "Forgetting that 想 (would like) is softer than 要 (want / must)."
+  ],
+  "tip": "For 'can', ask which kind: learned skill (会), able right now (能), or allowed to (可以). Picking the right one is most of the battle."
+}

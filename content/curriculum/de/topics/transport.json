@@ -1,0 +1,90 @@
+{
+  "slug": "transport",
+  "title": "Transport",
+  "titleDe": "Verkehrsmittel",
+  "shortSummary": "Buy tickets and use Germany's excellent trains, trams, and buses with confidence.",
+  "level": "elementary",
+  "order": 10,
+  "icon": "🚆",
+  "color": "#386a58",
+  "culturalNote": "Germany's public transport is dense, punctual, and widely used. Cities combine the U-Bahn (underground), S-Bahn (suburban rail), Straßenbahn (tram), and buses under one ticket system, and long distances run on the fast ICE trains of the Deutsche Bahn. Always validate (entwerten) your ticket where required, because ticket inspectors do check and fines are steep.",
+  "keyPhrases": [
+    { "german": "eine Fahrkarte, bitte", "english": "a ticket, please", "pronunciation": "EYE-nuh FAR-kar-tuh BIT-tuh", "context": "Buying a ticket" },
+    { "german": "Wann fährt der nächste Zug?", "english": "When does the next train leave?", "pronunciation": "vahn fairt dair NEKH-stuh tsook", "context": "Checking times" },
+    { "german": "Von welchem Gleis?", "english": "From which platform?", "pronunciation": "fon VEL-khem glice", "context": "Finding the platform" },
+    { "german": "Ist dieser Platz frei?", "english": "Is this seat free?", "pronunciation": "ist DEE-zer plahts fry", "context": "Finding a seat" },
+    { "german": "einmal nach Hamburg", "english": "one ticket to Hamburg", "pronunciation": "INE-mahl nahkh HAHM-boorg", "context": "A common way to ask" },
+    { "german": "hin und zurück", "english": "return (there and back)", "pronunciation": "hin oont tsoo-ROOK", "context": "Return ticket" },
+    { "german": "Muss ich umsteigen?", "english": "Do I have to change?", "pronunciation": "mooss ikh OOM-shty-gen", "context": "Asking about connections" },
+    { "german": "Der Zug hat Verspätung", "english": "The train is delayed", "pronunciation": "dair tsook haht fer-SHPAY-toong", "context": "Common announcement" },
+    { "german": "Wo ist die U-Bahn?", "english": "Where is the underground?", "pronunciation": "voh ist dee OO-bahn", "context": "Finding the metro" },
+    { "german": "Ich nehme ein Taxi", "english": "I'll take a taxi", "pronunciation": "ikh NAY-muh ine TAHK-see", "context": "Alternative transport" }
+  ],
+  "grammar": [
+    {
+      "rule": "mit + dative for transport",
+      "explanation": "To say how you travel, use 'mit' plus the dative: mit dem Bus, mit der Bahn, mit dem Auto. 'mit' always takes the dative.",
+      "examples": [
+        { "de": "Ich fahre mit dem Zug.", "en": "I travel by train. (masculine dative)" },
+        { "de": "Wir fahren mit der Straßenbahn.", "en": "We travel by tram. (feminine dative)" }
+      ],
+      "commonMistake": "Using the accusative: it is 'mit dem Bus', not 'mit den Bus'."
+    },
+    {
+      "rule": "fahren vs gehen",
+      "explanation": "Use 'fahren' when a vehicle is involved (to drive, ride, travel) and 'gehen' only for going on foot. 'Ich fahre nach Berlin' (by some vehicle), 'Ich gehe zum Park' (walking).",
+      "examples": [
+        { "de": "Ich fahre mit dem Bus zur Arbeit.", "en": "I take the bus to work." },
+        { "de": "Ich gehe zu Fuß.", "en": "I go on foot." }
+      ],
+      "commonMistake": "Using 'gehen' for travelling by vehicle. 'Ich gehe nach Berlin' wrongly suggests you walk there."
+    }
+  ],
+  "dialogue": {
+    "setup": "A traveller buys a train ticket at the counter of a German station.",
+    "lines": [
+      { "speaker": "Reisende", "german": "Guten Tag, einmal nach München, bitte.", "english": "Hello, one ticket to Munich, please." },
+      { "speaker": "Schalter", "german": "Einfach oder hin und zurück?", "english": "One way or return?" },
+      { "speaker": "Reisende", "german": "Hin und zurück, bitte. Muss ich umsteigen?", "english": "Return, please. Do I have to change?" },
+      { "speaker": "Schalter", "german": "Ja, einmal in Nürnberg. Der Zug fährt um zehn Uhr.", "english": "Yes, once in Nuremberg. The train leaves at ten o'clock." },
+      { "speaker": "Reisende", "german": "Von welchem Gleis?", "english": "From which platform?" },
+      { "speaker": "Schalter", "german": "Von Gleis vier. Das macht neunzig Euro.", "english": "From platform four. That's ninety euros." },
+      { "speaker": "Reisende", "german": "Danke schön. Gute Reise mir selbst!", "english": "Thank you. Safe travels to me!" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'I travel by train'?",
+      "correctAnswer": "Ich fahre mit dem Zug",
+      "explanation": "fahren plus mit + dative (dem Zug) for travel by vehicle."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which means 'return ticket'?",
+      "options": ["einfach", "hin und zurück", "umsteigen", "Verspätung"],
+      "correctAnswer": "hin und zurück",
+      "explanation": "hin und zurück means 'there and back', a return."
+    },
+    {
+      "type": "fill-blank",
+      "question": "Ich fahre mit _____ Bus. (masculine dative)",
+      "correctAnswer": "dem",
+      "explanation": "mit takes the dative, and der becomes dem."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which verb means to go on foot?",
+      "options": ["fahren", "gehen", "umsteigen", "nehmen"],
+      "correctAnswer": "gehen",
+      "explanation": "gehen is for walking; fahren is for vehicles."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: nächste / wann / der / fährt / Zug",
+      "correctAnswer": "Wann fährt der nächste Zug",
+      "explanation": "Question word wann, verb fährt second, then the subject phrase."
+    }
+  ],
+  "status": "complete"
+}

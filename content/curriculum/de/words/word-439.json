@@ -1,13 +1,11 @@
 {
   "rank": 439,
-  "german": "Beispiel",
-  "english": "example",
-  "pronunciation": "BY-shpeel",
-  "partOfSpeech": "noun",
-  "gender": "neuter",
-  "article": "das",
-  "exampleDe": "Können Sie ein Beispiel geben?",
-  "exampleEn": "Can you give an example?",
+  "german": "probleme",
+  "english": "problems",
+  "pronunciation": "p ʀ o b l e m ə",
+  "partOfSpeech": "adjective",
+  "exampleDe": "Das ist sehr probleme.",
+  "exampleEn": "That is very problems.",
   "group": "confident-350",
-  "topic": "education"
+  "topic": "descriptions"
 }

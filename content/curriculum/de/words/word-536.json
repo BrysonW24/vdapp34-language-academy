@@ -1,13 +1,11 @@
 {
   "rank": 536,
-  "german": "Schule",
-  "english": "school",
-  "pronunciation": "SHOO-leh",
-  "partOfSpeech": "noun",
-  "gender": "feminine",
-  "article": "die",
-  "exampleDe": "Die Kinder gehen zur Schule.",
-  "exampleEn": "The children go to school.",
+  "german": "cdu",
+  "english": "cdu",
+  "pronunciation": "t s e d e u",
+  "partOfSpeech": "adjective",
+  "exampleDe": "Dieser Ort ist sehr cdu.",
+  "exampleEn": "This place is very cdu.",
   "group": "confident-350",
-  "topic": "people"
+  "topic": "descriptions"
 }

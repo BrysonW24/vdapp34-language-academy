@@ -1,0 +1,34 @@
+{
+  "slug": "questions",
+  "name": "Asking Questions",
+  "nameNative": "As perguntas",
+  "summary": "Portuguese forms yes/no questions with intonation and uses a set of question words.",
+  "level": "beginner",
+  "order": 6,
+  "explanation": "Yes/no questions in Portuguese are easy: keep the statement word order and just raise your voice at the end. Você fala inglês can be a statement or, with rising intonation, 'Do you speak English?'. There is no helper word like the English 'do'.\n\nFor information questions, start with a question word: quem (who), o que (what), onde (where), quando (when), por que (why), como (how), quanto (how much), qual (which). Brazilians very often add é que: o que é que você quer? (what do you want?).\n\nNote por que (why) versus porque (because): the question is two words, the answer is one.",
+  "pattern": "question word + (é que) + verb + ... ?",
+  "conjugation": {
+    "quem": "who",
+    "o que": "what",
+    "onde": "where",
+    "quando": "when",
+    "por que": "why",
+    "como": "how"
+  },
+  "examples": [
+    { "native": "Você fala inglês?", "en": "Do you speak English?" },
+    { "native": "Onde você mora?", "en": "Where do you live?" },
+    { "native": "O que você quer?", "en": "What do you want?" },
+    { "native": "Quando chega o ônibus?", "en": "When does the bus arrive?" },
+    { "native": "Por que você estuda português?", "en": "Why do you study Portuguese?" },
+    { "native": "Quanto custa?", "en": "How much does it cost?" }
+  ],
+  "commonMistakes": [
+    "Inventing a 'do' helper. Portuguese just uses intonation.",
+    "Confusing por que (why, question) with porque (because, answer).",
+    "Forgetting that onde asks static location, while aonde asks direction (where to).",
+    "Using qual when you mean what; qual asks 'which one' from a set.",
+    "Dropping the rising intonation, the only signal in a yes/no question."
+  ],
+  "tip": "Adding é que after a question word is extremely common in speech and changes nothing in meaning: onde é que fica?"
+}

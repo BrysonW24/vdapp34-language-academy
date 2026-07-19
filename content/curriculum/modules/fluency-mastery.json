@@ -1,0 +1,25 @@
+{
+  "slug": "fluency-mastery",
+  "title": "Fluency & Mastery",
+  "shortSummary": "The final stretch — maintaining and deepening your Spanish to near-native level. Strategies for lifelong learning, accent refinement, thinking in Spanish, and integrating the language into every part of your life.",
+  "level": "advanced",
+  "category": "advanced",
+  "whyItMatters": "Fluency is not a destination — it is a practice. This module covers the strategies and mindset shifts needed to maintain your Spanish at a high level, continue improving, and make the language a permanent part of your identity.",
+  "coreConcepts": [
+    "Thinking in Spanish — not translating from English",
+    "Accent refinement and phonetic precision",
+    "Speed and fluidity in conversation",
+    "Maintaining Spanish without immersion",
+    "Advanced listening: podcasts, films, music, radio",
+    "Writing at an advanced level: essays, articles, creative writing",
+    "Teaching others as a learning strategy",
+    "Setting long-term fluency goals"
+  ],
+  "lessons": [],
+  "frameworks": ["immersion-framework", "daily-routine-framework", "output-hypothesis"],
+  "visualType": "mountain-peak",
+  "relatedModules": ["advanced-grammar", "idioms-slang", "spanish-literature", "regional-dialects"],
+  "status": "coming-soon",
+  "order": 20,
+  "levelNumber": 4
+}

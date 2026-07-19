@@ -1,13 +1,11 @@
 {
   "rank": 556,
-  "german": "See",
-  "english": "lake",
-  "pronunciation": "ZAY",
-  "partOfSpeech": "noun",
-  "gender": "masculine",
-  "article": "der",
-  "exampleDe": "Der See ist kalt.",
-  "exampleEn": "The lake is cold.",
+  "german": "verschiedenen",
+  "english": "to different",
+  "pronunciation": "f ɛ ɐ ʃ i d ə n ə n",
+  "partOfSpeech": "verb",
+  "exampleDe": "Verschiedenen du Zeit hast, gehen wir zusammen.",
+  "exampleEn": "If you have time, we can go together.",
   "group": "confident-350",
-  "topic": "travel"
+  "topic": "actions"
 }

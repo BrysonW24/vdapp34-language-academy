@@ -1,0 +1,99 @@
+{
+  "slug": "weather-and-seasons",
+  "title": "Weather & Seasons",
+  "titleEs": "El Clima y Las Estaciones",
+  "shortSummary": "Talk about the weather, seasons, and climate. Learn to make plans based on weather conditions and describe temperatures.",
+  "level": "beginner",
+  "order": 9,
+  "icon": "🌤️",
+  "color": "#0ea5e9",
+  "culturalNote": "Spain uses Celsius, and weather varies dramatically by region — the north (Galicia, Basque Country) is rainy and green, while southern Andalusia is hot and dry. Latin American climates range from tropical to Andean cold. In many Spanish-speaking countries, seasons are reversed compared to the Northern Hemisphere — when it's summer in Australia, it's also summer in Argentina and Chile.",
+  "keyPhrases": [
+    { "spanish": "¿Qué tiempo hace?", "english": "What's the weather like?", "pronunciation": "keh tee-EHM-poh AH-seh", "context": "The standard way to ask about weather" },
+    { "spanish": "Hace sol", "english": "It's sunny", "pronunciation": "AH-seh sohl", "context": "'Hace' + noun is the weather formula" },
+    { "spanish": "Hace frío", "english": "It's cold", "pronunciation": "AH-seh FREE-oh", "context": "Describes air temperature" },
+    { "spanish": "Hace calor", "english": "It's hot", "pronunciation": "AH-seh kah-LOHR", "context": "Describes air temperature" },
+    { "spanish": "Está lloviendo", "english": "It's raining", "pronunciation": "ehs-TAH yoh-bee-EHN-doh", "context": "Present progressive — happening right now" },
+    { "spanish": "Está nublado", "english": "It's cloudy", "pronunciation": "ehs-TAH noo-BLAH-doh", "context": "Using estar for current weather state" },
+    { "spanish": "La temperatura es de veinte grados", "english": "The temperature is 20 degrees", "pronunciation": "lah tehm-peh-rah-TOO-rah ehs deh BEYN-teh GRAH-dohs", "context": "Always Celsius in Spanish-speaking countries" },
+    { "spanish": "En verano hace mucho calor", "english": "In summer it's very hot", "pronunciation": "ehn beh-RAH-noh AH-seh MOO-choh kah-LOHR", "context": "Describing seasonal weather patterns" },
+    { "spanish": "Necesitas un paraguas", "english": "You need an umbrella", "pronunciation": "neh-seh-SEE-tahs oon pah-RAH-gwahs", "context": "Giving weather-related advice" },
+    { "spanish": "Va a nevar mañana", "english": "It's going to snow tomorrow", "pronunciation": "bah ah neh-BAHR mah-NYAH-nah", "context": "Using ir + a + infinitive for weather forecasts" }
+  ],
+  "grammar": [
+    {
+      "rule": "Weather with 'hacer': hace + noun",
+      "explanation": "Most weather expressions use 'hace' (from hacer = to make/do) + a noun: hace sol (sun), hace frío (cold), hace calor (heat), hace viento (wind). This is impersonal — there's no subject.",
+      "examples": [
+        { "es": "Hace buen tiempo", "en": "The weather is nice" },
+        { "es": "Hace mal tiempo", "en": "The weather is bad" },
+        { "es": "Hace mucho viento", "en": "It's very windy" }
+      ],
+      "commonMistake": "Saying 'es calor' or 'está calor' instead of 'hace calor' — weather uses 'hacer'."
+    },
+    {
+      "rule": "Weather with 'estar': está + adjective/gerund",
+      "explanation": "Some weather uses 'estar': está nublado (cloudy), está lloviendo (raining), está nevando (snowing). Use estar + gerund (-ando/-iendo) for weather happening right now.",
+      "examples": [
+        { "es": "Está lloviendo mucho", "en": "It's raining a lot" },
+        { "es": "Está despejado", "en": "It's clear (sky)" }
+      ],
+      "commonMistake": "Mixing up 'hace lluvia' (incorrect) with 'está lloviendo' or 'llueve' (correct)."
+    },
+    {
+      "rule": "Seasons don't need capitals",
+      "explanation": "Unlike English, seasons in Spanish are not capitalised: primavera (spring), verano (summer), otoño (autumn), invierno (winter). Use 'en' + season: 'en verano' (in summer).",
+      "examples": [
+        { "es": "En invierno hace frío", "en": "In winter it's cold" },
+        { "es": "La primavera es mi estación favorita", "en": "Spring is my favourite season" }
+      ],
+      "commonMistake": "Capitalising seasons: 'en Verano' should be 'en verano'."
+    }
+  ],
+  "dialogue": {
+    "setup": "Two colleagues, Marta and Javier, chat about the weekend weather forecast.",
+    "lines": [
+      { "speaker": "Marta", "spanish": "¿Qué tiempo hace hoy?", "english": "What's the weather like today?" },
+      { "speaker": "Javier", "spanish": "Hace sol y calor. ¡Treinta y dos grados!", "english": "It's sunny and hot. Thirty-two degrees!" },
+      { "speaker": "Marta", "spanish": "¡Qué calor! ¿Y el fin de semana?", "english": "So hot! And the weekend?" },
+      { "speaker": "Javier", "spanish": "Va a llover el sábado, pero el domingo hace buen tiempo.", "english": "It's going to rain on Saturday, but Sunday will be nice." },
+      { "speaker": "Marta", "spanish": "Entonces el domingo vamos a la playa.", "english": "Then on Sunday we'll go to the beach." },
+      { "speaker": "Javier", "spanish": "Buena idea. En verano las playas están llenas.", "english": "Good idea. In summer the beaches are full." },
+      { "speaker": "Marta", "spanish": "Sí, pero está mejor que quedarse en casa con este calor.", "english": "Yes, but it's better than staying home in this heat." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'It's cold' in Spanish?",
+      "correctAnswer": "Hace frío",
+      "explanation": "Weather uses 'hacer': hace frío, hace calor, hace sol, hace viento."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "How do you say 'It's raining'?",
+      "options": ["Hace lluvia", "Está lloviendo", "Es lloviendo", "Tiene lluvia"],
+      "correctAnswer": "Está lloviendo",
+      "explanation": "Use 'estar + gerund' for weather happening now. You can also say 'llueve'."
+    },
+    {
+      "type": "fill-blank",
+      "question": "En _____ hace mucho calor. (In summer it's very hot)",
+      "correctAnswer": "verano",
+      "explanation": "'Verano' = summer. Remember: seasons are not capitalised in Spanish."
+    },
+    {
+      "type": "translate",
+      "question": "How do you ask 'What's the weather like?' in Spanish?",
+      "correctAnswer": "¿Qué tiempo hace?",
+      "explanation": "Literally 'What weather does it make?' — the standard weather question."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: nevar / va / mañana / a",
+      "correctAnswer": "Va a nevar mañana",
+      "explanation": "'Ir + a + infinitive' for future: va a nevar = it's going to snow."
+    }
+  ],
+  "status": "complete"
+}

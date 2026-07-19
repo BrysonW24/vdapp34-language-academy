@@ -1,0 +1,91 @@
+{
+  "slug": "shopping",
+  "title": "Shopping",
+  "titleEs": "De Compras",
+  "shortSummary": "Navigate shops, markets, and stores — ask for sizes, prices, and colours. Essential for travel and daily life.",
+  "level": "beginner",
+  "order": 5,
+  "icon": "🛍️",
+  "color": "#a0453f",
+  "culturalNote": "Bargaining is common in open-air markets across Latin America but not in established shops. In Spain, the midday break (siesta) means many small shops close between 2-5 PM. Sunday trading is limited in most Spanish-speaking countries. When trying on clothes, 'probador' is the fitting room — always ask permission before using it.",
+  "keyPhrases": [
+    { "spanish": "¿Cuánto cuesta esto?", "english": "How much does this cost?", "pronunciation": "KWAHN-toh KWEHS-tah EHS-toh", "context": "Pointing at an item to ask its price" },
+    { "spanish": "¿Tiene una talla más grande?", "english": "Do you have a bigger size?", "pronunciation": "tee-EH-neh OO-nah TAH-yah mahs GRAHN-deh", "context": "Asking for a larger size in clothing" },
+    { "spanish": "Sólo estoy mirando", "english": "I'm just looking", "pronunciation": "SOH-loh ehs-TOY mee-RAHN-doh", "context": "When a shop assistant approaches you" },
+    { "spanish": "¿Puedo pagar con tarjeta?", "english": "Can I pay by card?", "pronunciation": "PWEH-doh pah-GAHR kohn tar-HEH-tah", "context": "Checking payment methods" },
+    { "spanish": "Me lo llevo", "english": "I'll take it", "pronunciation": "meh loh YEH-boh", "context": "Deciding to buy something" },
+    { "spanish": "Es demasiado caro", "english": "It's too expensive", "pronunciation": "ehs deh-mah-see-AH-doh KAH-roh", "context": "When negotiating or declining a price" },
+    { "spanish": "¿Dónde están los probadores?", "english": "Where are the fitting rooms?", "pronunciation": "DOHN-deh ehs-TAHN lohs proh-bah-DOH-rehs", "context": "Finding the changing rooms" },
+    { "spanish": "¿Tiene esto en azul?", "english": "Do you have this in blue?", "pronunciation": "tee-EH-neh EHS-toh ehn ah-SOOL", "context": "Asking for a specific colour" },
+    { "spanish": "¿Hay descuento?", "english": "Is there a discount?", "pronunciation": "eye dehs-KWEHN-toh", "context": "Asking about sales or discounts" },
+    { "spanish": "Necesito una bolsa", "english": "I need a bag", "pronunciation": "neh-seh-SEE-toh OO-nah BOHL-sah", "context": "Requesting a shopping bag at checkout" }
+  ],
+  "grammar": [
+    {
+      "rule": "Demonstratives: este/esta/esto",
+      "explanation": "Use 'este' (masculine) and 'esta' (feminine) before nouns, and 'esto' when pointing at something without naming it. There are also 'ese/esa/eso' (that) and 'aquel/aquella/aquello' (that over there).",
+      "examples": [
+        { "es": "¿Cuánto cuesta esta camisa?", "en": "How much is this shirt? (camisa = feminine)" },
+        { "es": "Quiero este libro", "en": "I want this book (libro = masculine)" },
+        { "es": "¿Qué es esto?", "en": "What is this? (unknown object)" }
+      ],
+      "commonMistake": "Using 'esto' before a noun — 'esto camisa' is wrong. Use 'esta camisa' (matching gender)."
+    },
+    {
+      "rule": "Comparatives: más/menos + adjective",
+      "explanation": "To compare, use 'más' (more) or 'menos' (less) + adjective + 'que' (than). Some adjectives have irregular comparatives: bueno→mejor, malo→peor, grande→mayor.",
+      "examples": [
+        { "es": "¿Tiene algo más barato?", "en": "Do you have something cheaper?" },
+        { "es": "Este es más grande que ese", "en": "This one is bigger than that one" }
+      ],
+      "commonMistake": "Saying 'más bueno' instead of 'mejor' (better), or 'más malo' instead of 'peor' (worse)."
+    }
+  ],
+  "dialogue": {
+    "setup": "Emma is shopping for clothes at a boutique in Mexico City.",
+    "lines": [
+      { "speaker": "Vendedora", "spanish": "Buenas tardes. ¿En qué le puedo ayudar?", "english": "Good afternoon. How can I help you?" },
+      { "speaker": "Emma", "spanish": "Busco un vestido para una fiesta.", "english": "I'm looking for a dress for a party." },
+      { "speaker": "Vendedora", "spanish": "Tenemos estos vestidos nuevos. ¿Qué talla usa?", "english": "We have these new dresses. What size do you wear?" },
+      { "speaker": "Emma", "spanish": "Talla mediana. ¿Tiene este en rojo?", "english": "Medium. Do you have this one in red?" },
+      { "speaker": "Vendedora", "spanish": "Sí, aquí tiene. El probador está al fondo.", "english": "Yes, here you go. The fitting room is at the back." },
+      { "speaker": "Emma", "spanish": "Me queda perfecto. ¿Cuánto cuesta?", "english": "It fits perfectly. How much is it?" },
+      { "speaker": "Vendedora", "spanish": "Cuesta ochocientos pesos. Hoy hay veinte por ciento de descuento.", "english": "It costs 800 pesos. Today there's 20 percent off." },
+      { "speaker": "Emma", "spanish": "¡Perfecto! Me lo llevo. ¿Puedo pagar con tarjeta?", "english": "Perfect! I'll take it. Can I pay by card?" }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'I'm just looking' in Spanish?",
+      "correctAnswer": "Sólo estoy mirando",
+      "explanation": "A useful phrase to politely decline help from shop assistants."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which is correct to say 'this shirt'?",
+      "options": ["esto camisa", "este camisa", "esta camisa", "esa camisa"],
+      "correctAnswer": "esta camisa",
+      "explanation": "'Camisa' is feminine, so use 'esta' (not 'este' or 'esto')."
+    },
+    {
+      "type": "fill-blank",
+      "question": "¿Tiene algo más _____? (Do you have something cheaper?)",
+      "correctAnswer": "barato",
+      "explanation": "'Barato' means cheap. 'Más barato' = cheaper."
+    },
+    {
+      "type": "translate",
+      "question": "How do you say 'Can I pay by card?' in Spanish?",
+      "correctAnswer": "¿Puedo pagar con tarjeta?",
+      "explanation": "'Puedo' = can I, 'pagar' = to pay, 'con tarjeta' = by card."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: cuesta / esto / cuánto",
+      "correctAnswer": "¿Cuánto cuesta esto?",
+      "explanation": "Question word 'cuánto' first, then the verb 'cuesta', then 'esto'."
+    }
+  ],
+  "status": "complete"
+}

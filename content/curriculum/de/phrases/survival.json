@@ -1,0 +1,21 @@
+{
+  "slug": "survival",
+  "title": "Survival German",
+  "description": "The essential phrases to get by in any German-speaking country. Memorise these before your trip.",
+  "situation": "Absolute basics for getting by: greetings, please, thank you, help, and signalling when you do not understand.",
+  "order": 1,
+  "phrases": [
+    { "german": "Hallo", "english": "Hello", "pronunciation": "HAH-loh", "formality": "neutral" },
+    { "german": "Bitte", "english": "Please / You're welcome", "pronunciation": "BIT-tuh", "formality": "neutral", "tip": "Bitte means both 'please' and 'you're welcome'. Context tells you which." },
+    { "german": "Danke", "english": "Thank you", "pronunciation": "DAHN-kuh", "formality": "neutral", "tip": "Add 'schön' for 'thanks a lot': Danke schön." },
+    { "german": "Entschuldigung", "english": "Excuse me / Sorry", "pronunciation": "ent-SHOOL-di-goong", "formality": "neutral", "tip": "Works both to get attention and to apologise." },
+    { "german": "Ja / Nein", "english": "Yes / No", "pronunciation": "yah / nine", "formality": "neutral" },
+    { "german": "Ich verstehe nicht", "english": "I don't understand", "pronunciation": "ikh fer-SHTAY-uh nikht", "formality": "neutral", "tip": "The single most useful survival phrase." },
+    { "german": "Sprechen Sie Englisch?", "english": "Do you speak English?", "pronunciation": "SHPREKH-en zee ENG-lish", "formality": "formal", "tip": "Use as a last resort. Try a few German words first." },
+    { "german": "Können Sie das bitte wiederholen?", "english": "Can you repeat that, please?", "pronunciation": "KUR-nen zee dahs BIT-tuh vee-der-HOH-len", "formality": "formal" },
+    { "german": "Wie viel kostet das?", "english": "How much does it cost?", "pronunciation": "vee feel KOS-tet dahs", "formality": "neutral" },
+    { "german": "Wo ist die Toilette?", "english": "Where is the toilet?", "pronunciation": "voh ist dee toy-LET-tuh", "formality": "neutral", "tip": "Germans say Toilette or WC, rarely 'bathroom'." },
+    { "german": "Ich brauche Hilfe", "english": "I need help", "pronunciation": "ikh BROW-khuh HIL-fuh", "formality": "neutral" },
+    { "german": "Auf Wiedersehen", "english": "Goodbye", "pronunciation": "owf VEE-der-zayn", "formality": "formal", "tip": "Casual alternative: Tschüss (CHOOSS)." }
+  ]
+}

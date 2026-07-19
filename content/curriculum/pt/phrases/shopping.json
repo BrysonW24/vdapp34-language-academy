@@ -1,0 +1,21 @@
+{
+  "slug": "shopping",
+  "title": "Shopping",
+  "description": "Ask for sizes, prices, and payment options while shopping in Portuguese.",
+  "situation": "Shops and markets: finding items, asking prices, trying things on, and paying.",
+  "order": 4,
+  "phrases": [
+    { "native": "Estou procurando...", "english": "I'm looking for...", "pronunciation": "es-TOH proh-koo-RAN-doo", "formality": "neutral" },
+    { "native": "Quanto custa?", "english": "How much is it?", "pronunciation": "KWAN-too KOOS-tah", "formality": "neutral" },
+    { "native": "Tem outro tamanho?", "english": "Do you have another size?", "pronunciation": "tayn OH-troo tah-MAH-nyoo", "formality": "neutral" },
+    { "native": "Posso experimentar?", "english": "Can I try it on?", "pronunciation": "POH-soo es-peh-ree-men-TAR", "formality": "neutral" },
+    { "native": "Está muito caro", "english": "It's too expensive", "pronunciation": "es-TAH MOON-too KAH-roo", "formality": "neutral" },
+    { "native": "Tem algo mais barato?", "english": "Do you have something cheaper?", "pronunciation": "tayn AHL-goo mais bah-RAH-too", "formality": "neutral" },
+    { "native": "Aceita cartão?", "english": "Do you take card?", "pronunciation": "ah-SAY-tah kar-TOWN", "formality": "neutral" },
+    { "native": "Vou pagar em dinheiro", "english": "I'll pay cash", "pronunciation": "voh pah-GAR ayn jee-NYEH-roo", "formality": "neutral" },
+    { "native": "Só estou olhando", "english": "I'm just looking", "pronunciation": "soh es-TOH oh-LYAN-doo", "formality": "neutral" },
+    { "native": "Vou levar", "english": "I'll take it", "pronunciation": "voh leh-VAR", "formality": "neutral" },
+    { "native": "Uma sacola, por favor", "english": "A bag, please", "pronunciation": "OO-mah sah-KOH-lah", "formality": "neutral" },
+    { "native": "Pode me dar a nota?", "english": "Can you give me the receipt?", "pronunciation": "POH-jee mee dar ah NOH-tah", "formality": "neutral" }
+  ]
+}

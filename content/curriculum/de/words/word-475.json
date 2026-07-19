@@ -1,13 +1,11 @@
 {
   "rank": 475,
-  "german": "Hand",
-  "english": "hand",
-  "pronunciation": "HAHNT",
-  "partOfSpeech": "noun",
-  "gender": "feminine",
-  "article": "die",
-  "exampleDe": "Gib mir deine Hand.",
-  "exampleEn": "Give me your hand.",
+  "german": "afd",
+  "english": "afd",
+  "pronunciation": "a ɛ f d e",
+  "partOfSpeech": "adjective",
+  "exampleDe": "Dieser Ort ist sehr afd.",
+  "exampleEn": "This place is very afd.",
   "group": "confident-350",
-  "topic": "health"
+  "topic": "descriptions"
 }

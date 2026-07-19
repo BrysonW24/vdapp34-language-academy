@@ -1,13 +1,11 @@
 {
   "rank": 634,
-  "german": "Meinung",
-  "english": "opinion",
-  "pronunciation": "MYE-noong",
-  "partOfSpeech": "noun",
-  "gender": "feminine",
-  "article": "die",
-  "exampleDe": "Das ist meine Meinung.",
-  "exampleEn": "That is my opinion.",
+  "german": "willst",
+  "english": "will",
+  "pronunciation": "v ɪ l s t",
+  "partOfSpeech": "adjective",
+  "exampleDe": "Das ist sehr willst.",
+  "exampleEn": "That is very will.",
   "group": "confident-350",
-  "topic": "emotions"
+  "topic": "descriptions"
 }

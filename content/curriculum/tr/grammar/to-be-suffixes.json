@@ -1,0 +1,34 @@
+{
+  "slug": "to-be-suffixes",
+  "name": "Saying 'to be' with Suffixes",
+  "nameNative": "Ek fiil",
+  "summary": "Turkish has no separate word for 'am/is/are'; it attaches personal endings instead.",
+  "level": "beginner",
+  "order": 3,
+  "explanation": "Turkish does not use a separate verb for 'to be' in the present. Instead it adds a personal ending to the word: Avustralyalıyım (I am Australian), öğretmensin (you are a teacher).\n\nThe endings, which obey vowel harmony, are: -(y)im (I am), -sin (you are), nothing or -dir (he/she/it is), -(y)iz (we are), -siniz (you all are), -ler (they are).\n\nTo say there is or have, Turkish uses var (there is/exists) and yok (there is not). Param var means 'I have money' (literally 'my-money exists'); param yok means 'I have no money'.",
+  "pattern": "noun/adjective + personal ending",
+  "conjugation": {
+    "ben (I)": "-(y)im",
+    "sen (you)": "-sin",
+    "o (he/she/it)": "(-dir)",
+    "biz (we)": "-(y)iz",
+    "siz (you all)": "-siniz",
+    "onlar (they)": "-ler"
+  },
+  "examples": [
+    { "native": "Ben mutluyum.", "en": "I am happy." },
+    { "native": "Sen yorgunsun.", "en": "You are tired." },
+    { "native": "O doktor.", "en": "He/she is a doctor." },
+    { "native": "Biz hazırız.", "en": "We are ready." },
+    { "native": "Param var.", "en": "I have money." },
+    { "native": "Vaktim yok.", "en": "I have no time." }
+  ],
+  "commonMistakes": [
+    "Looking for a separate word for 'am' or 'is'; the ending does that job.",
+    "Forgetting vowel harmony in the ending: mutluyum but öğretmenim.",
+    "Using a verb for 'have'; Turkish uses var and yok with a possessive.",
+    "Adding the buffer y in the wrong place after a vowel (mutlu-y-um).",
+    "Treating yok as a verb; it simply means 'does not exist'."
+  ],
+  "tip": "Learn var (exists / there is) and yok (does not exist) early; together they cover 'to have' and 'there is'."
+}

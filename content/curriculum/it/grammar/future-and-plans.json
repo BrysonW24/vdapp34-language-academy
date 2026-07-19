@@ -1,0 +1,34 @@
+{
+  "slug": "future-and-plans",
+  "name": "Talking About the Future",
+  "nameNative": "Il futuro e i progetti",
+  "summary": "Italian often uses the present for near plans, plus a simple future tense.",
+  "level": "pre-intermediate",
+  "order": 12,
+  "explanation": "For plans that are close or certain, Italians frequently just use the present tense with a time word: domani vado a Milano (tomorrow I'm going to Milan). This is the easiest way to talk about the future.\n\nThere is also a dedicated future tense (il futuro semplice). Take the infinitive, drop the final -e, and add the endings -ò, -ai, -à, -emo, -ete, -anno. So parlare gives parlerò (I will speak). Note that -are verbs change the a to e in the stem.\n\nUse the future tense for less certain or more distant plans, predictions, and promises.",
+  "pattern": "present + time word, OR infinitive stem + ò/ai/à/emo/ete/anno",
+  "conjugation": {
+    "io": "parlerò",
+    "tu": "parlerai",
+    "lui/lei": "parlerà",
+    "noi": "parleremo",
+    "voi": "parlerete",
+    "loro": "parleranno"
+  },
+  "examples": [
+    { "native": "Domani lavoro da casa.", "en": "Tomorrow I'm working from home." },
+    { "native": "Stasera andiamo al cinema.", "en": "Tonight we're going to the cinema." },
+    { "native": "Partirò lunedì.", "en": "I will leave on Monday." },
+    { "native": "Ti chiamerò più tardi.", "en": "I will call you later." },
+    { "native": "Un giorno visiteremo la Sicilia.", "en": "One day we will visit Sicily." },
+    { "native": "Che cosa farai dopo?", "en": "What will you do afterwards?" }
+  ],
+  "commonMistakes": [
+    "Always reaching for the future tense. For near, certain plans the present is more natural.",
+    "Forgetting that -are verbs change a to e in the future stem (parlare to parlerò).",
+    "Dropping the accent on the io and lui/lei forms (parlerò, parlerà).",
+    "Treating the future endings as different per verb group; they are the same for all.",
+    "Missing irregular future stems like essere to sarò, avere to avrò, fare to farò."
+  ],
+  "tip": "Start by mastering present + a time word. Layer the true future tense in once that feels natural."
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "greetings-introductions",
+  "title": "Greetings & Introductions",
+  "shortSummary": "Learn to greet people, introduce yourself, ask basic questions, and handle the first five minutes of any conversation in Spanish. From 'Hola' to 'Mucho gusto' — these are the phrases you will use every single day.",
+  "level": "beginner",
+  "category": "foundation",
+  "whyItMatters": "Greetings are the gateway to every conversation. If you can confidently say hello, introduce yourself, and ask someone their name, you have already broken the ice. These phrases are used hundreds of times before you ever need complex grammar.",
+  "coreConcepts": [
+    "Formal vs informal greetings",
+    "Introducing yourself: name, origin, occupation",
+    "Asking and answering basic questions",
+    "Time-of-day greetings: buenos días, buenas tardes, buenas noches",
+    "Farewells and polite closings",
+    "The verb ser (to be) for identity",
+    "Pronunciation of common greeting phrases",
+    "Cultural norms around greetings in Spanish-speaking countries"
+  ],
+  "lessons": ["greetings-and-introductions"],
+  "frameworks": ["conversation-scaffolding", "cultural-competence"],
+  "visualType": "dialogue",
+  "relatedModules": ["spanish-basics", "everyday-vocabulary", "food-restaurants"],
+  "status": "complete",
+  "order": 2,
+  "levelNumber": 1
+}

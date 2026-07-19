@@ -1,0 +1,34 @@
+{
+  "slug": "possessives",
+  "name": "Possessives (का / की / के)",
+  "nameNative": "संबंधकारक (sambandhkaarak)",
+  "summary": "Show ownership with का / की / के, which agree with the thing owned, not the owner.",
+  "level": "elementary",
+  "order": 8,
+  "explanation": "To say 'X's Y' in Hindi, you place the postposition का / की / के (ka / ki / ke) between the owner and the thing owned. राम का घर (Ram ka ghar) means 'Ram's house'. The crucial rule is that का/की/के agrees with the thing that is owned, not with the owner.\n\nUse का (ka) when the owned thing is masculine singular, की (ki) when it is feminine (singular or plural), and के (ke) when it is masculine plural or when an oblique form is required. So राम का बेटा (Ram ka beta, Ram's son - masculine), राम की बेटी (Ram ki beti, Ram's daughter - feminine), and राम के बेटे (Ram ke bete, Ram's sons - masculine plural).\n\nThe personal possessives are special, irregular forms you simply learn: मेरा (mera, my), तुम्हारा (tumhaara, your - familiar), आपका (aapka, your - polite), इसका/उसका (iska/uska, his/her/its), हमारा (hamaara, our), and उनका (unka, their). Each of these also changes its ending to match the owned noun: मेरा घर (mera ghar, my house) but मेरी किताब (meri kitaab, my book).",
+  "pattern": "owner + ka/ki/ke + owned; ka/ki/ke agrees with the owned noun's gender and number",
+  "conjugation": {
+    "का (ka)": "masculine singular owned - राम का घर (Ram ka ghar)",
+    "की (ki)": "feminine owned - राम की किताब (Ram ki kitaab)",
+    "के (ke)": "masculine plural / oblique owned - राम के दोस्त (Ram ke dost)",
+    "मेरा / मेरी / मेरे (mera/meri/mere)": "my - मेरी बहन (meri bahan, my sister)",
+    "आपका / आपकी / आपके (aapka/aapki/aapke)": "your (polite) - आपका नाम (aapka naam)",
+    "उनका / उनकी / उनके (unka/unki/unke)": "their / his-her (respectful) - उनकी गाड़ी (unki gaadi)"
+  },
+  "examples": [
+    { "native": "यह मेरा भाई है। (yeh mera bhai hai.)", "en": "This is my brother." },
+    { "native": "यह मेरी बहन है। (yeh meri bahan hai.)", "en": "This is my sister." },
+    { "native": "राम की किताब नई है। (Ram ki kitaab nai hai.)", "en": "Ram's book is new." },
+    { "native": "आपका घर बहुत सुंदर है। (aapka ghar bahut sundar hai.)", "en": "Your house is very beautiful." },
+    { "native": "बच्चों के खिलौने यहाँ हैं। (bachchon ke khilaune yahaan hain.)", "en": "The children's toys are here." },
+    { "native": "उनकी गाड़ी लाल है। (unki gaadi laal hai.)", "en": "Their car is red." }
+  ],
+  "commonMistakes": [
+    "Matching का/की/के to the owner instead of the owned thing.",
+    "Using का with a feminine owned noun: saying Ram ka kitaab instead of Ram ki kitaab.",
+    "Forgetting that मेरा changes form too: saying mera kitaab instead of meri kitaab.",
+    "Using the direct possessive before an oblique noun: saying mera ghar mein instead of mere ghar mein.",
+    "Confusing आपका (your, polite) with उनका (their / his-her respectful)."
+  ],
+  "tip": "Always look at the noun being owned, decide its gender and number, then pick का, की, or के to match it."
+}

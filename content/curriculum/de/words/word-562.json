@@ -1,13 +1,11 @@
 {
   "rank": 562,
-  "german": "Baum",
-  "english": "tree",
-  "pronunciation": "BOWM",
-  "partOfSpeech": "noun",
-  "gender": "masculine",
-  "article": "der",
-  "exampleDe": "Der Baum ist alt.",
-  "exampleEn": "The tree is old.",
+  "german": "blick",
+  "english": "sight",
+  "pronunciation": "b l ɪ k",
+  "partOfSpeech": "adjective",
+  "exampleDe": "Das ist sehr blick.",
+  "exampleEn": "That is very sight.",
   "group": "confident-350",
-  "topic": "travel"
+  "topic": "descriptions"
 }

@@ -1,0 +1,90 @@
+{
+  "slug": "food-and-restaurants",
+  "title": "Food & Restaurants",
+  "titleTh": "อาหารและร้านอาหาร",
+  "shortSummary": "Order food, manage spice levels, and enjoy a meal out in Thai.",
+  "level": "elementary",
+  "order": 4,
+  "icon": "🍜",
+  "color": "#a0453f",
+  "culturalNote": "Food is at the centre of Thai life, and meals are usually shared, with several dishes placed in the middle of the table and eaten with rice. A fork is used to push food onto a spoon, the main utensil, while chopsticks are mainly for noodles. Thai food can be very spicy, so ไม่เผ็ด (not spicy) is a phrase worth knowing. Street food is excellent, cheap, and a real part of daily eating.",
+  "keyPhrases": [
+    { "thai": "ขอเมนูหน่อย", "pronunciation": "kho menu noi", "english": "May I have the menu?", "context": "ขอ politely asks for something" },
+    { "thai": "เอาอันนี้", "pronunciation": "ao an-nii", "english": "I'll have this", "context": "Pointing at the menu" },
+    { "thai": "แนะนำอะไรดี", "pronunciation": "nae-nam a-rai dee", "english": "What do you recommend?", "context": "Asking for advice" },
+    { "thai": "ไม่เผ็ด", "pronunciation": "mai phet", "english": "Not spicy", "context": "เผ็ดนิดหน่อย = a little spicy" },
+    { "thai": "ผมกินมังสวิรัติ", "pronunciation": "phom kin mang-sa-wi-rat", "english": "I'm vegetarian", "context": "Dietary need" },
+    { "thai": "ขอน้ำเปล่า", "pronunciation": "kho nam plao", "english": "Plain water, please", "context": "Ordering a drink" },
+    { "thai": "อร่อย", "pronunciation": "a-roi", "english": "Delicious", "context": "Praising the food" },
+    { "thai": "อิ่มแล้ว", "pronunciation": "im laeo", "english": "I'm full", "context": "Politely declining more" },
+    { "thai": "เก็บเงินด้วย", "pronunciation": "kep ngern duay", "english": "The bill, please", "context": "Asking to pay" },
+    { "thai": "อร่อยมาก", "pronunciation": "a-roi maak", "english": "Very delicious", "context": "มาก adds 'very'" }
+  ],
+  "grammar": [
+    {
+      "rule": "ขอ to request politely",
+      "explanation": "ขอ (kho) before a noun or verb politely asks for something: ขอเมนู (may I have the menu), ขอน้ำ (may I have water). It is gentler than เอา (want/take).",
+      "examples": [
+        { "th": "ขอข้าวหนึ่งจาน", "en": "May I have one plate of rice?" },
+        { "th": "ขอช้อนหน่อย", "en": "May I have a spoon, please?" }
+      ],
+      "commonMistake": "Using เอา in formal requests, which sounds blunter than ขอ."
+    },
+    {
+      "rule": "มาก after an adjective for 'very'",
+      "explanation": "Put มาก (maak) after an adjective to mean 'very': อร่อยมาก (very delicious), เผ็ดมาก (very spicy). 'A little' is นิดหน่อย, also placed after.",
+      "examples": [
+        { "th": "เผ็ดมาก", "en": "very spicy" },
+        { "th": "เผ็ดนิดหน่อย", "en": "a little spicy" }
+      ],
+      "commonMistake": "Placing มาก before the adjective. 'Very' comes after: อร่อยมาก."
+    }
+  ],
+  "dialogue": {
+    "setup": "Win and a waiter at a busy Thai noodle shop.",
+    "lines": [
+      { "speaker": "พนักงาน", "thai": "สวัสดีค่ะ รับอะไรดีคะ", "pronunciation": "sa-wat-dee kha, rap a-rai dee kha", "english": "Hello, what would you like?" },
+      { "speaker": "วิน", "thai": "แนะนำอะไรดีครับ", "pronunciation": "nae-nam a-rai dee khrap", "english": "What do you recommend?" },
+      { "speaker": "พนักงาน", "thai": "ก๋วยเตี๋ยวอร่อยมากค่ะ", "pronunciation": "kuay-tiao a-roi maak kha", "english": "The noodles are very delicious." },
+      { "speaker": "วิน", "thai": "เอาหนึ่งชาม ไม่เผ็ดครับ", "pronunciation": "ao neung chaam, mai phet khrap", "english": "One bowl, not spicy please." },
+      { "speaker": "พนักงาน", "thai": "รับเครื่องดื่มไหมคะ", "pronunciation": "rap khreuang-deum mai kha", "english": "Anything to drink?" },
+      { "speaker": "วิน", "thai": "ขอน้ำเปล่าครับ", "pronunciation": "kho nam plao khrap", "english": "Plain water, please." },
+      { "speaker": "พนักงาน", "thai": "ได้ค่ะ รอสักครู่นะคะ", "pronunciation": "dai kha, ro sak-khru na kha", "english": "Okay, please wait a moment." }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "translate",
+      "question": "How do you say 'Not spicy'?",
+      "correctAnswer": "ไม่เผ็ด",
+      "explanation": "ไม่ (not) + เผ็ด (spicy)."
+    },
+    {
+      "type": "fill-blank",
+      "question": "อร่อย_____ (very delicious)",
+      "correctAnswer": "มาก",
+      "explanation": "มาก after the adjective means 'very'."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "How do you politely ask for the menu?",
+      "options": ["เอาเมนู", "ขอเมนูหน่อย", "เมนูอยู่ไหน", "ไม่เอาเมนู"],
+      "correctAnswer": "ขอเมนูหน่อย",
+      "explanation": "ขอ politely requests something."
+    },
+    {
+      "type": "multiple-choice",
+      "question": "Which means 'I'm full'?",
+      "options": ["หิว", "อิ่มแล้ว", "อร่อย", "เผ็ด"],
+      "correctAnswer": "อิ่มแล้ว",
+      "explanation": "อิ่มแล้ว means 'I'm full'."
+    },
+    {
+      "type": "reorder",
+      "question": "Arrange: ด้วย / เงิน / เก็บ",
+      "correctAnswer": "เก็บเงินด้วย",
+      "explanation": "เก็บเงินด้วย asks for the bill."
+    }
+  ],
+  "status": "complete"
+}
